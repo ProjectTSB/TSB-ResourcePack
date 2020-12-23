@@ -1,23 +1,17 @@
-## 神器
-1. `assets/minecraft/models/item/<元となるアイテム>.json`のその神器の`model`のところを`item/sacred_treasure/<神器ID>`に書き換えてね
+## 神器テクスチャ/モデル
+### 必要なもの
+* [Visual Studio Code](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
 
-   -> ない場合`assets/minecraft/models/item/template.txt`を複製して<元となるアイテム.json>に変更、中の`<元となるアイテム>`も全部書き換えればヨシ！
+* [TSB Resource Pack Generator](https://github.com/TheSkyBlock/resource-pack-generator)
 
-2. `assets/minecraft/models/item/sacred_treasure/<神器ID>.json`を置いて[下記のテンプレート](#2Dテンプレ)を記載してね
+### 最初の手順
+* [How-to-use-Git](https://github.com/TheSkyBlock/TheSkyBlock/wiki/How-to-use-Git)の手順に従い"リポジトリのクローン"の項でURLを`https://github.com/TheSkyBlock/TheSkyBlock.git`に変えクローンする
 
-3. `assets/minecraft/models/textures/item/sacred_treasure/<神器ID>.png`にテクスチャを置いてね
+* VSCodeで拡張機能の項目に行き、[TSB Resource Pack Generator](https://github.com/TheSkyBlock/resource-pack-generator)のReleasesより入手した`tsb-resource-pack-generator-<version>.vsix`を拡張機能のリストにドラック&ドロップしてインストール
 
-   複数ある場合は、`textures/item/sacred_treasure/<神器ID>/<自由な名前>.png`の形で置いてね
+### 作り方
+1. 使うテクスチャを作る/バニラテクスチャのパスを確認する
 
-   バニラアイテムを参照する場合はテクスチャを置かずに、2のjsonの`item/sacred_treasure/<ID>`を`item/<block|item>/<itemID>`に変更してね
+1. コマンドパレット(`Ctrl + Shift + P`)を開いて`ResourcePack: Resource Pack Generator`を選択
 
-> #### 2Dテンプレ
-> `assets/minecraft/models/item/sacred_treasure/<ID>.json`
-> ```json
-> {
->     "parent": "item/generated",
->     "textures": {
->         "layer0": "item/sacred_treasure/<ID>"
->     }
-> }
-> ```
+1. 質問に答える
