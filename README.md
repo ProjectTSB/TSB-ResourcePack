@@ -5,7 +5,7 @@
 * [TSB Resource Pack Generator](https://github.com/TheSkyBlock/resource-pack-generator)
 
 ### 最初の手順
-* [How-to-use-Git](https://github.com/TheSkyBlock/TheSkyBlock/wiki/How-to-use-Git)の手順に従い"リポジトリのクローン"の項でURLを`https://github.com/TheSkyBlock/TheSkyBlock.git`に変えクローンする
+* [How-to-use-Git](https://github.com/TheSkyBlock/TheSkyBlock/wiki/How-to-use-Git)の手順に従い"リポジトリのクローン"の項でURLを`https://github.com/TheSkyBlock/TSB-ResourcePack.git`に変えクローンする
 
 * VSCodeで拡張機能の項目に行き、[TSB Resource Pack Generator](https://github.com/TheSkyBlock/resource-pack-generator)のReleasesより入手した`tsb-resource-pack-generator-<version>.vsix`を拡張機能のリストにドラック&ドロップしてインストール
 
