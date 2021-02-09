@@ -1,3008 +1,3008 @@
 {
     "parent": "item/handheld_rod",
     "textures": {
-        "layer0": "item/carrot_on_a_stick"
+        "layer0": "item/stone_sword"
     },
     "overrides": [
         {
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 5
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 6
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 7
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 8
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 9
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 10
             },
-            "model": "item/sacred_treasure/10"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 11
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 12
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 13
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 14
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 15
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 16
             },
-            "model": "item/sacred_treasure/16"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 17
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 18
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 19
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 20
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 21
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 22
             },
-            "model": "item/sacred_treasure/22"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 23
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 24
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 25
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 26
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 27
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 28
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 29
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 30
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 31
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 32
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 33
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 34
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 35
             },
-            "model": "item/sacred_treasure/35"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 36
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 37
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 38
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 39
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 40
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 41
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 42
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 43
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 44
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 45
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 46
             },
-            "model": "item/sacred_treasure/46"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 47
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 48
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 49
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 50
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 51
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 52
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 53
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 54
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 55
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 56
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 57
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 58
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 59
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 60
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 61
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 62
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 63
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 64
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 65
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 66
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 67
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 68
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 69
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 70
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 71
             },
-            "model": "item/sacred_treasure/71"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 72
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 73
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 74
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 75
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 76
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 77
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 78
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 79
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 80
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 81
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 82
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 83
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 84
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 85
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 86
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 87
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 88
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 89
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 90
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 91
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 92
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 93
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 94
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 95
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 96
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 97
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 98
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 99
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 100
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 101
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 102
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 103
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 104
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 105
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 106
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 107
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 108
             },
-            "model": "item/sacred_treasure/108"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 109
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 110
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 111
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 112
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 113
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 114
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 115
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 116
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 117
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 118
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 119
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 120
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 121
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 122
             },
-            "model": "item/sacred_treasure/122"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 123
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 124
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 125
             },
-            "model": "item/sacred_treasure/125"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 126
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 127
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 128
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 129
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 130
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 131
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 132
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 133
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 134
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 135
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 136
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 137
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 138
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 139
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 140
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 141
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 142
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 143
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 144
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 145
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 146
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 147
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 148
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 149
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 150
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 151
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 152
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 153
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 154
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 155
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 156
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 157
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 158
             },
-            "model": "item/sacred_treasure/158"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 159
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 160
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 161
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 162
             },
-            "model": "item/sacred_treasure/162"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 163
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 164
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 165
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 166
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 167
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 168
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 169
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 170
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 171
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 172
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 173
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 174
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 175
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 176
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 177
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 178
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 179
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 180
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 181
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 182
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 183
             },
-            "model": "item/sacred_treasure/183"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 184
             },
-            "model": "item/sacred_treasure/184"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 185
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 186
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 187
             },
-            "model": "item/sacred_treasure/187"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 188
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 189
             },
-            "model": "item/sacred_treasure/189"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 190
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 191
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 192
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 193
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 194
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 195
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 196
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 197
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 198
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 199
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 200
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 201
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 202
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 203
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 204
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 205
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 206
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 207
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 208
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 209
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 210
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 211
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 212
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 213
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 214
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 215
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 216
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 217
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 218
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 219
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 220
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 221
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 222
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 223
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 224
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 225
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 226
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 227
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 228
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 229
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 230
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 231
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 232
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 233
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 234
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 235
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 236
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 237
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 238
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 239
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 240
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 241
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 242
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 243
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 244
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 245
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 246
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 247
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 248
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 249
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 250
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 251
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 252
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 253
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 254
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 255
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 256
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 257
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 258
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 259
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 260
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 261
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 262
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 263
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 264
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 265
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 266
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 267
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 268
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 269
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 270
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 271
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 272
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 273
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 274
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 275
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 276
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 277
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 278
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 279
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 280
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 281
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 282
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 283
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 284
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 285
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 286
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 287
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 288
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/sacred_treasure/288"
         },
         {
             "predicate": {
                 "custom_model_data": 289
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 290
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 291
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 292
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 293
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 294
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 295
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 296
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 297
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 298
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 299
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 300
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 301
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 302
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 303
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 304
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 305
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 306
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 307
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 308
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 309
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 310
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 311
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 312
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 313
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 314
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 315
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 316
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 317
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 318
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 319
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 320
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 321
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 322
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 323
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 324
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 325
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 326
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 327
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 328
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 329
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 330
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 331
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 332
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 333
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 334
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 335
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 336
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 337
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 338
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 339
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 340
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 341
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 342
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 343
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 344
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 345
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 346
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 347
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 348
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 349
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 350
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 351
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 352
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 353
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 354
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 355
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 356
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 357
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 358
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 359
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 360
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 361
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 362
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 363
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 364
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 365
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 366
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 367
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 368
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 369
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 370
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 371
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 372
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 373
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 374
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 375
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 376
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 377
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 378
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 379
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 380
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 381
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 382
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 383
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 384
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 385
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 386
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 387
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 388
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 389
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 390
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 391
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 392
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 393
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 394
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 395
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 396
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 397
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 398
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 399
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 400
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 401
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 402
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 403
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 404
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 405
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 406
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 407
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 408
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 409
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 410
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 411
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 412
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 413
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 414
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 415
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 416
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 417
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 418
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 419
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 420
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 421
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 422
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 423
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 424
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 425
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 426
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 427
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 428
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 429
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 430
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 431
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 432
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 433
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 434
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 435
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 436
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 437
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 438
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 439
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 440
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 441
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 442
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 443
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 444
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 445
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 446
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 447
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 448
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 449
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 450
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 451
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 452
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 453
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 454
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 455
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 456
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 457
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 458
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 459
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 460
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 461
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 462
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 463
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 464
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 465
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 466
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 467
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 468
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 469
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 470
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 471
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 472
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 473
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 474
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 475
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 476
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 477
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 478
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 479
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 480
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 481
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 482
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 483
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 484
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 485
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 486
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 487
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 488
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 489
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 490
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 491
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 492
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 493
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 494
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 495
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 496
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 497
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 498
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 499
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 500
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/stone_sword"
         }
     ]
 }
