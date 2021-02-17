@@ -1,27 +1,7 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "item/generated",
+	"parent": "item/handheld_tsb",
 	"textures": {
 		"layer0": "item/sacred_treasure/288"
-	},
-	"display": {
-		"thirdperson_righthand": {
-			"rotation": [0, 90, 40],
-			"translation": [0, 4, 1.25]
-		},
-		"thirdperson_lefthand": {
-			"rotation": [0, -90, -40],
-			"translation": [0, 4, 1.25]
-		},
-		"firstperson_righthand": {
-			"rotation": [0, 90, 70],
-			"translation": [0, 4, 2],
-			"scale": [0.68, 0.68, 0.68]
-		},
-		"firstperson_lefthand": {
-			"rotation": [0, -90, -70],
-			"translation": [0, 4, 2],
-			"scale": [0.68, 0.68, 0.68]
-		}
 	}
 }
