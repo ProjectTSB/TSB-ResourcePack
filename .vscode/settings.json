@@ -1,3 +1,57 @@
 {
-    "mcrg.customizeInjectFolder": "sacred_treasure"
+    "mcrg.customizeInjectFolder": "sacred_treasure",
+    "mcrg.textureFileName": "{custom_model_data}",
+    "mcrg.parentElements": [
+        {
+            "label": "item/generated",
+            "description": "通常のアイテムの持ち方",
+            "hasTextures": false
+        },
+        {
+            "label": "item/handheld",
+            "description": "剣の持ち方",
+            "hasTextures": false
+        },
+        {
+            "label": "item/handheld_rod",
+            "description": "人参棒の持ち方",
+            "detail": "剣と比べるとテクスチャの向きが違い、一人称視点でアイテムを前方に向けた持ち方をします",
+            "hasTextures": false
+        },
+        {
+            "label": "item/bow",
+            "description": "弓の持ち方",
+            "hasTextures": false
+        },
+        {
+            "label": "item/handheld_tsb",
+            "description": "特殊な持ち方",
+            "detail": "人参棒と同じテクスチャの向きで、一人称視点が剣と同じ持ち方をします。",
+            "hasTextures": false
+        },
+        {
+            "label": "item/generated_32",
+            "description": "32px用の通常のアイテムの持ち方",
+            "detail": "通常に比べてアイテムが薄く描画されるよ。それ以外は`item/generated`と同じ。",
+            "hasTextures": false
+        },
+        {
+            "label": "item/handheld_32",
+            "description": "32px用の剣の持ち方",
+            "detail": "通常に比べてアイテムが薄く描画されるよ。それ以外は`item/handheld`と同じ。",
+            "hasTextures": false
+        },
+        {
+            "label": "item/handheld_rod_32",
+            "description": "32px用の人参棒の持ち方",
+            "detail": "通常に比べてアイテムが薄く描画されるよ。それ以外は`item/handheld_rod`と同じ。",
+            "hasTextures": false
+        },
+        {
+            "label": "item/handheld_tsb_32",
+            "description": "32px用の特殊な持ち方",
+            "detail": "通常に比べてアイテムが薄く描画されるよ。それ以外は`item/handheld_tsb`と同じ。",
+            "hasTextures": false
+        }
+    ]
 }
