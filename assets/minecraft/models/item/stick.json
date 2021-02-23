@@ -1,5 +1,5 @@
 {
-    "parent": "item/stick",
+    "parent": "item/handheld",
     "textures": {
         "layer0": "item/stick"
     },
