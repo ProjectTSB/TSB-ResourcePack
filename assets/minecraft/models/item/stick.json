@@ -12,6 +12,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 273
+            },
+            "model": "item/sacred_treasure/273"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 292
             },
             "model": "item/sacred_treasure/292"
