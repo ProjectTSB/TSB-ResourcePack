@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld_32",
+    "textures": {
+        "layer0": "item/sacred_treasure/golden_axe/382"
+    }
+}
