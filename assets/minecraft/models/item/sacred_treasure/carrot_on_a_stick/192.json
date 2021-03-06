@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "item/generated",
+	"parent": "item/generated_32",
 	"textures": {
 		"layer0": "item/sacred_treasure/carrot_on_a_stick/192"
 	},
