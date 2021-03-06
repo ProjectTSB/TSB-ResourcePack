@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld_tsb",
+    "textures": {
+        "layer0": "item/sacred_treasure/carrot_on_a_stick/189"
+    }
+}

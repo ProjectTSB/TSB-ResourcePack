@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "item/sacred_treasure/217",
+		"layer0": "item/sacred_treasure/cod/217",
         "particle": "block/redstone_block"
 	},
 	"display": {
