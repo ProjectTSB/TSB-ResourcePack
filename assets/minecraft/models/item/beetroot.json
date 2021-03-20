@@ -1,0 +1,20 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/beetroot"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/sacred_treasure/beetroot/3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "item/beetroot"
+        }
+    ]
+}

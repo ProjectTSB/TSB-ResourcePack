@@ -1,0 +1,20 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/book"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "item/sacred_treasure/book/17"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "item/book"
+        }
+    ]
+}
