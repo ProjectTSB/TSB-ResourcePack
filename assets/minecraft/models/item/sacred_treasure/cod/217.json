@@ -1,28 +1,28 @@
 {
-	"credit": "Made with Blockbench",
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "item/sacred_treasure/cod/217",
+    "credit": "Made with Blockbench",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/sacred_treasure/cod/217",
         "particle": "block/redstone_block"
-	},
-	"display": {
-		"thirdperson_righthand": {
-			"rotation": [59, 90, 0],
-			"scale": [2.66, 2.66, 0.5]
-		},
-		"thirdperson_lefthand": {
-			"rotation": [59, -90, 0],
-			"scale": [2.66, 2.66, 0.5]
-		},
-		"firstperson_righthand": {
-			"rotation": [-2, 90, 4],
-			"translation": [4.25, 0, 0],
-			"scale": [2, 2, 0.5]
-		},
-		"firstperson_lefthand": {
-			"rotation": [-2, -90, 4],
-			"translation": [4.25, 0, 0],
-			"scale": [2, 2, 0.5]
-		}
-	}
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [59, 90, 0],
+            "scale": [2.66, 2.66, 0.5]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [59, -90, 0],
+            "scale": [2.66, 2.66, 0.5]
+        },
+        "firstperson_righthand": {
+            "rotation": [-2, 90, 4],
+            "translation": [4.25, 0, 0],
+            "scale": [2, 2, 0.5]
+        },
+        "firstperson_lefthand": {
+            "rotation": [-2, -90, 4],
+            "translation": [4.25, 0, 0],
+            "scale": [2, 2, 0.5]
+        }
+    }
 }
