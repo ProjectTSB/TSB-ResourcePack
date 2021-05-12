@@ -98,6 +98,30 @@
             "predicate": {
                 "custom_model_data": 316
             },
+            "model": "item/sacred_treasure/stick/316"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 317
+            },
+            "model": "item/stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 318
+            },
+            "model": "item/sacred_treasure/stick/318"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 319
+            },
+            "model": "item/sacred_treasure/stick/319"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 320
+            },
             "model": "item/stick"
         },
         {
