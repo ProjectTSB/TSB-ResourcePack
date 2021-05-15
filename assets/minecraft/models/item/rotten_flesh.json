@@ -9,6 +9,12 @@
                 "custom_model_data": 105
             },
             "model": "item/sacred_treasure/rotten_flesh/105"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106
+            },
+            "model": "item/rotten_flesh"
         }
     ]
 }
