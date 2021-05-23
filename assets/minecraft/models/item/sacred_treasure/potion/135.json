@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/sacred_treasure/potion/135_overlay",
+        "layer1": "item/sacred_treasure/potion/135"
+    }
+}

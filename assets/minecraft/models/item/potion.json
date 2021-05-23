@@ -1,0 +1,21 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/potion_overlay",
+        "layer1": "item/potion"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 135
+            },
+            "model": "item/sacred_treasure/potion/135"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 136
+            },
+            "model": "item/potion"
+        }
+    ]
+}
