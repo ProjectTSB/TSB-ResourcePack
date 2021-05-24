@@ -1,0 +1,75 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/potion_overlay",
+        "layer1": "item/potion"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 135
+            },
+            "model": "item/sacred_treasure/potion/135"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 136
+            },
+            "model": "item/potion"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 137
+            },
+            "model": "item/sacred_treasure/potion/137"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 138
+            },
+            "model": "item/sacred_treasure/potion/138"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 139
+            },
+            "model": "item/sacred_treasure/potion/139"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 140
+            },
+            "model": "item/potion"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 141
+            },
+            "model": "item/sacred_treasure/potion/141"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 142
+            },
+            "model": "item/sacred_treasure/potion/142"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 143
+            },
+            "model": "item/potion"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 456
+            },
+            "model": "item/sacred_treasure/potion/456"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 457
+            },
+            "model": "item/potion"
+        }
+    ]
+}
