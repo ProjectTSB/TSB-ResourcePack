@@ -3,5 +3,10 @@
     "textures": {
         "layer0": "item/sacred_treasure/potion/135_overlay",
         "layer1": "item/sacred_treasure/potion/135"
+    },
+    "display": {
+        "gui": {
+            "translation": [ -0.5, 0, 0]
+        }
     }
 }
