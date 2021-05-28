@@ -1,10 +1,21 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/sacred_treasure/potion/135_overlay",
-        "layer1": "item/sacred_treasure/potion/135"
-    },
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/sacred_treasure/potion/135_overlay",
+		"layer1": "item/sacred_treasure/potion/135"
+	},
     "display": {
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ -0.5, 2, 0],
+            "scale":[ 0.5, 0.5, 0.5 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0.5, 0, 0],
+            "scale": [ 1, 1, 1 ]
+        },
         "gui": {
             "translation": [ -0.5, 0, 0]
         }
