@@ -1,6 +1,6 @@
 {
     "credit": "Made with Blockbench",
-    "parent": "item/handheld",
+    "parent": "item/handheld_32",
     "textures": {
         "layer0": "item/sacred_treasure/stick/314"
     },

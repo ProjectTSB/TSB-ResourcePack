@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld_32",
     "textures": {
-        "layer0": "item/sacred_treasure/stick/317"
+        "layer0": "item/sacred_treasure/stick/320"
     },
     "display": {
         "thirdperson_righthand": {
