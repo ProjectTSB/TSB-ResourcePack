@@ -396,6 +396,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 373
+            },
+            "model": "item/sacred_treasure/carrot_on_a_stick/373"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 374
             },
             "model": "item/sacred_treasure/carrot_on_a_stick/374"
