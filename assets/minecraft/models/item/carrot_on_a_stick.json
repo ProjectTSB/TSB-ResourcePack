@@ -6,6 +6,18 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "item/sacred_treasure/carrot_on_a_stick/8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "item/carrot_on_a_stick"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 10
             },
             "model": "item/sacred_treasure/carrot_on_a_stick/10"
