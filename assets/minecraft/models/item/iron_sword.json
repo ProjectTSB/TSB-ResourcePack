@@ -1,0 +1,20 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_sword"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 20012
+            },
+            "model": "item/sacred_treasure/iron_sword/20012"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20013
+            },
+            "model": "item/iron_sword"
+        }
+    ]
+}
