@@ -2,7 +2,7 @@
     "credit": "Made with Blockbench",
     "textures": {
         "0": "entity/banner_base",
-        "2": "item/sacred_treasure/10/10",
+        "2": "item/sacred_treasure/carrot_on_a_stick/10/10",
         "particle": "entity/banner_base"
     },
     "elements": [
