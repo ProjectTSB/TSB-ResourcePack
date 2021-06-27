@@ -70,6 +70,18 @@
                 "custom_model_data": 457
             },
             "model": "item/potion"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 617
+            },
+            "model": "item/sacred_treasure/potion/617"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 618
+            },
+            "model": "item/potion"
         }
     ]
 }
