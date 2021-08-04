@@ -1,0 +1,21 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "minecraft:block/melon_top",
+        "side": "minecraft:block/melon_side"    
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 20018
+            },
+            "model": "item/sacred_treasure/melon/20018"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20019
+            },
+            "model": "item/melon"
+        }
+    ]
+}
