@@ -1,6 +1,6 @@
 {
     "credit": "Made with Blockbench",
-    "parent": "block/cube",
+    "parent": "block/cube_all",
     "textures": {
         "3": "block/jack_o_lantern",
         "7": "block/pumpkin_side",
