@@ -1,0 +1,22 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "minecraft:block/pumpkin_top",
+        "front": "minecraft:block/carved_pumpkin",
+        "side": "minecraft:block/pumpkin_side"    
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 20016
+            },
+            "model": "item/sacred_treasure/carved_pumpkin/20016"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20017
+            },
+            "model": "block/carved_pumpkin"
+        }
+    ]
+}
