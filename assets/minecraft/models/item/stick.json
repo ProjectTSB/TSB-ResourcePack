@@ -183,6 +183,30 @@
                 "custom_model_data": 616
             },
             "model": "item/stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20013
+            },
+            "model": "item/sacred_treasure/stick/20013"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20014
+            },
+            "model": "item/sacred_treasure/stick/20014"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20015
+            },
+            "model": "item/sacred_treasure/stick/20015"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20016
+            },
+            "model": "item/stick"
         }
     ]
 }
