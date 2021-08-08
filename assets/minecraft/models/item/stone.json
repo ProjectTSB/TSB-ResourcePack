@@ -1,0 +1,20 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "block/stone"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 20019
+            },
+            "model": "item/sacred_treasure/stone/20019"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20020
+            },
+            "model": "block/stone"
+        }
+    ]
+}
