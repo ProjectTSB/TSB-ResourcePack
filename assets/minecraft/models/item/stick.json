@@ -207,6 +207,18 @@
                 "custom_model_data": 20016
             },
             "model": "item/stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20020
+            },
+            "model": "item/sacred_treasure/stick/20020"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20021
+            },
+            "model": "item/stick"
         }
     ]
 }
