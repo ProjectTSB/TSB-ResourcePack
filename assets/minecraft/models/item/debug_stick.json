@@ -1,0 +1,20 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/debug_stick"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 4040
+            },
+            "model": "item/sacred_treasure/debug_stick/4040"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4041
+            },
+            "model": "item/debug_stick"
+        }
+    ]
+}
