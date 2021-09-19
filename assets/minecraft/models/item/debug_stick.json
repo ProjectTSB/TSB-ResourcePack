@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/debug_stick"
+        "layer0": "item/stick"
     },
     "overrides": [
         {
