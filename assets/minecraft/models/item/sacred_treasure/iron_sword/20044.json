@@ -1,0 +1,13 @@
+{
+	"angel": "I gave everything I had to .....",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/sacred_treasure/iron_sword/20044"
+	},
+	"display": {
+		"head": {
+			"rotation": [-90, 0, 45],
+			"scale": [1.25, 1, 1.25]
+		}
+	}
+}
