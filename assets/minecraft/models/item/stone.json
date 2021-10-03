@@ -86,6 +86,12 @@
             "predicate": {
                 "custom_model_data": 20046
             },
+            "model": "item/sacred_treasure/stone/20046"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20047
+            },
             "model": "item/stone"
         }
     ]
