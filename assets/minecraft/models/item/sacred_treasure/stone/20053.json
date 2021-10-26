@@ -280,9 +280,9 @@
 			}
 		},
 		{
-			"from": [8.7814, 19.12862, -3.41882],
-			"to": [8.7814, 31.12862, 16.58118],
-			"rotation": {"angle": -22.5, "axis": "x", "origin": [8.04829, 12.03751, 7.54368]},
+			"from": [10.7814, 19.12862, -0.41882],
+			"to": [10.7814, 31.12862, 19.58118],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [10.94906, 19.30114, 8.43448]},
 			"faces": {
 				"north": {"uv": [8, 0, 9.5, 2.5], "rotation": 270, "texture": "#main"},
 				"east": {"uv": [9.5, 0, 8, 2.5], "rotation": 90, "texture": "#main"},
@@ -293,42 +293,42 @@
 			}
 		},
 		{
-			"from": [7.12033, 19.12694, -3.41882],
-			"to": [7.12033, 31.12694, 16.58118],
-			"rotation": {"angle": -22.5, "axis": "x", "origin": [8.04829, 12.03751, 7.54368]},
+			"from": [10.75482, 19.4688, -0.52802],
+			"to": [22.75482, 19.4688, 19.47198],
+			"rotation": {"angle": 45, "axis": "z", "origin": [10.94906, 19.30114, 8.43448]},
+			"faces": {
+				"north": {"uv": [0, 0, 1.5, 2.5], "rotation": 180, "texture": "#main"},
+				"east": {"uv": [0, 0, 1.5, 2.5], "rotation": 90, "texture": "#main"},
+				"south": {"uv": [0, 0, 1.5, 2.5], "texture": "#main"},
+				"west": {"uv": [0, 0, 1.5, 2.5], "rotation": 270, "texture": "#main"},
+				"up": {"uv": [0, 0, 1.5, 2.5], "texture": "#main"},
+				"down": {"uv": [1.5, 0, 0, 2.5], "rotation": 180, "texture": "#main"}
+			}
+		},
+		{
+			"from": [5.2186, 19.12862, -0.41882],
+			"to": [5.2186, 31.12862, 19.58118],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [5.05094, 19.30114, 8.43448]},
 			"faces": {
 				"north": {"uv": [8, 2.5, 9.5, 0], "rotation": 270, "texture": "#main"},
-				"east": {"uv": [9.5, 0, 8, 2.5], "rotation": 90, "texture": "#main"},
+				"east": {"uv": [8, 2.5, 9.5, 0], "rotation": 270, "texture": "#main"},
 				"south": {"uv": [8, 2.5, 9.5, 0], "rotation": 270, "texture": "#main"},
-				"west": {"uv": [8, 0, 9.5, 2.5], "rotation": 270, "texture": "#main"},
+				"west": {"uv": [9.5, 2.5, 8, 0], "rotation": 90, "texture": "#main"},
 				"up": {"uv": [9.5, 0, 8, 2.5], "texture": "#main"},
 				"down": {"uv": [9.5, 0, 8, 2.5], "rotation": 180, "texture": "#main"}
 			}
 		},
 		{
-			"from": [5.88063, 18.84327, -3.41882],
-			"to": [5.88063, 30.84327, 16.58118],
-			"rotation": {"angle": -22.5, "axis": "x", "origin": [8.04829, 12.03751, 7.54368]},
+			"from": [-6.75482, 19.4688, -0.52802],
+			"to": [5.24518, 19.4688, 19.47198],
+			"rotation": {"angle": -45, "axis": "z", "origin": [5.05094, 19.30114, 8.43448]},
 			"faces": {
-				"north": {"uv": [0, 0, 1.5, 2.5], "rotation": 270, "texture": "#main"},
-				"east": {"uv": [1.5, 0, 0, 2.5], "rotation": 90, "texture": "#main"},
-				"south": {"uv": [0, 0, 1.5, 2.5], "rotation": 270, "texture": "#main"},
-				"west": {"uv": [0, 0, 1.5, 2.5], "rotation": 270, "texture": "#main"},
-				"up": {"uv": [0, 0, 1.5, 2.5], "texture": "#main"},
-				"down": {"uv": [0, 0, 1.5, 2.5], "rotation": 180, "texture": "#main"}
-			}
-		},
-		{
-			"from": [9.81852, 19.2407, -3.41882],
-			"to": [9.81852, 31.2407, 16.58118],
-			"rotation": {"angle": -22.5, "axis": "x", "origin": [8.04829, 12.03751, 7.54368]},
-			"faces": {
-				"north": {"uv": [0, 2.5, 1.5, 0], "rotation": 270, "texture": "#main"},
-				"east": {"uv": [1.5, 0, 0, 2.5], "rotation": 90, "texture": "#main"},
-				"south": {"uv": [0, 2.5, 1.5, 0], "rotation": 270, "texture": "#main"},
-				"west": {"uv": [0, 0, 1.5, 2.5], "rotation": 270, "texture": "#main"},
+				"north": {"uv": [1.5, 0, 0, 2.5], "rotation": 180, "texture": "#main"},
+				"east": {"uv": [0, 2.5, 1.5, 0], "rotation": 270, "texture": "#main"},
+				"south": {"uv": [1.5, 0, 0, 2.5], "texture": "#main"},
+				"west": {"uv": [0, 2.5, 1.5, 0], "rotation": 90, "texture": "#main"},
 				"up": {"uv": [1.5, 0, 0, 2.5], "texture": "#main"},
-				"down": {"uv": [1.5, 0, 0, 2.5], "rotation": 180, "texture": "#main"}
+				"down": {"uv": [0, 0, 1.5, 2.5], "rotation": 180, "texture": "#main"}
 			}
 		}
 	],
@@ -383,11 +383,13 @@
 			"children": [
 				21,
 				22,
+				23,
+				24,
 				{
 					"name": "group",
 					"origin": [8.08045, 11.67494, 7.68681],
 					"color": 0,
-					"children": [23, 24]
+					"children": []
 				}
 			]
 		}
