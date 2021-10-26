@@ -122,6 +122,24 @@
             "predicate": {
                 "custom_model_data": 20056
             },
+            "model": "item/sacred_treasure/stone/20056"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20057
+            },
+            "model": "item/sacred_treasure/stone/20057"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20058
+            },
+            "model": "item/sacred_treasure/stone/20058"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20059
+            },
             "model": "item/stone"
         }
     ]
