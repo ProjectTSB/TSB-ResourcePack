@@ -1,0 +1,44 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/painting"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 20001
+            },
+            "model": "item/sacred_treasure/painting/20001"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20002
+            },
+            "model": "item/sacred_treasure/painting/20002"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20003
+            },
+            "model": "item/sacred_treasure/painting/20003"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20004
+            },
+            "model": "item/sacred_treasure/painting/20004"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20005
+            },
+            "model": "item/sacred_treasure/painting/20005"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20006
+            },
+            "model": "item/painting"
+        }
+    ]
+}
