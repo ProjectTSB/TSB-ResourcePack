@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/invisible_background.png",
+            "ascent": -2147483648,
+            "height": -10,
+            "chars": [
+                "#"
+            ]
+        }
+    ]
+}
