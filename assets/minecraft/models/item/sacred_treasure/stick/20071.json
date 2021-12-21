@@ -1,0 +1,138 @@
+{
+    "credit": "Made with Blockbench",
+    "texture_size": [
+        128,
+        128
+    ],
+    "textures": {
+        "0": "item/sacred_treasure/stick/20071/boss",
+        "particle": "item/sacred_treasure/stick/20071/boss"
+    },
+    "elements": [
+        {
+            "from": [
+                9.75,
+                9,
+                8
+            ],
+            "to": [
+                11.15,
+                16,
+                9.4
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    14.15,
+                    -5,
+                    9
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        0.25,
+                        7.125,
+                        0.5,
+                        8.375
+                    ],
+                    "texture": "#0"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        7.125,
+                        0.25,
+                        8.375
+                    ],
+                    "texture": "#0"
+                },
+                "south": {
+                    "uv": [
+                        0.75,
+                        7.125,
+                        1,
+                        8.375
+                    ],
+                    "texture": "#0"
+                },
+                "west": {
+                    "uv": [
+                        0.5,
+                        7.125,
+                        0.75,
+                        8.375
+                    ],
+                    "texture": "#0"
+                },
+                "up": {
+                    "uv": [
+                        0.5,
+                        7.125,
+                        0.25,
+                        6.875
+                    ],
+                    "texture": "#0"
+                },
+                "down": {
+                    "uv": [
+                        0.75,
+                        6.875,
+                        0.5,
+                        7.125
+                    ],
+                    "texture": "#0"
+                }
+            }
+        }
+    ],
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [
+                90,
+                0,
+                0
+            ],
+            "translation": [
+                -4.75,
+                -0.75,
+                -3.25
+            ],
+            "scale": [
+                1.9,
+                1.9,
+                1.9
+            ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [
+                90,
+                0,
+                0
+            ],
+            "translation": [
+                4.75,
+                -0.75,
+                -3.25
+            ],
+            "scale": [
+                1.9,
+                1.9,
+                1.9
+            ]
+        },
+        "head": {
+            "translation": [
+                0,
+                -29,
+                0
+            ],
+            "scale": [
+                1.6,
+                1.6,
+                1.6
+            ]
+        }
+    }
+}

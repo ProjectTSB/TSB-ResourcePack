@@ -1,0 +1,22 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/health/number.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "1234567890-"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/health/dot.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "."
+            ]
+        }
+    ]
+}

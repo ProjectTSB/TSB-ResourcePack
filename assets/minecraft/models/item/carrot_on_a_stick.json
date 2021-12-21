@@ -6,6 +6,24 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "item/sacred_treasure/carrot_on_a_stick/1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/sacred_treasure/carrot_on_a_stick/2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/carrot_on_a_stick"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 8
             },
             "model": "item/sacred_treasure/carrot_on_a_stick/8"
@@ -93,6 +111,12 @@
                 "custom_model_data": 80
             },
             "model": "item/carrot_on_a_stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 87
+            },
+            "model": "item/sacred_treasure/carrot_on_a_stick/87"
         },
         {
             "predicate": {
@@ -786,13 +810,43 @@
         },
         {
             "predicate": {
-                "custom_model_data": 755
+                "custom_model_data": 740
             },
-            "model": "item/sacred_treasure/carrot_on_a_stick/755"
+            "model": "item/sacred_treasure/carrot_on_a_stick/740"
         },
         {
             "predicate": {
-                "custom_model_data": 756
+                "custom_model_data": 741
+            },
+            "model": "item/carrot_on_a_stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20090
+            },
+            "model": "item/sacred_treasure/carrot_on_a_stick/20090"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20091
+            },
+            "model": "item/sacred_treasure/carrot_on_a_stick/20091"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20092
+            },
+            "model": "item/sacred_treasure/carrot_on_a_stick/20092"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20093
+            },
+            "model": "item/sacred_treasure/carrot_on_a_stick/20093"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20094
             },
             "model": "item/carrot_on_a_stick"
         }

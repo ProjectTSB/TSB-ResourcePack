@@ -1,32 +1,28 @@
 {
-	"credit": "Made with Blockbench",
-	"parent": "item/handheld_rod",
-	"textures": {
-		"layer0": "item/sacred_treasure/carrot_on_a_stick/522"
-	},
-	"display": {
-		"thirdperson_righthand": {
-			"rotation": [0, 90, 35],
-			"translation": [0, 4.75, 0.5],
-			"scale": [1.05, 1.05, 0.778]
-		},
-		"thirdperson_lefthand": {
-			"rotation": [0, -90, -35],
-			"translation": [0, 4.75, 0.5],
-			"scale": [1.05, 1.05, 0.778]
-		},
-		"firstperson_righthand": {
-			"rotation": [0, 90, 70],
-			"translation": [0, 4, 2],
-			"scale": [0.68, 0.68, 0.4352]
-		},
-		"firstperson_lefthand": {
-			"rotation": [0, -90, -70],
-			"translation": [0, 4, 2],
-			"scale": [0.68, 0.68, 0.4352]
-		},
-		"ground": {
-			"scale": [1, 1, 0.64]
-		}
-	}
+    "parent": "item/handheld_32",
+    "textures": {
+        "layer0": "item/sacred_treasure/carrot_on_a_stick/522"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [0, -90, 55],
+            "translation": [0, 7.75, 0.5],
+            "scale": [1.25, 1.25, 0.62]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [0, 90, -55],
+            "translation": [0, 7.75, 0.5],
+            "scale": [1.25, 1.25, 0.62]
+        },
+        "firstperson_righthand": {
+            "rotation": [0, -90, 25],
+            "translation": [1.13, 3.2, 1.13],
+            "scale": [1.25, 1.25, 0.62]
+        },
+        "firstperson_lefthand": {
+            "rotation": [0, 90, -25],
+            "translation": [1.13, 3.2, 1.13],
+            "scale": [1.25, 1.25, 0.62]
+        }
+    }
 }
