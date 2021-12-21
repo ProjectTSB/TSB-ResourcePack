@@ -456,6 +456,36 @@
         },
         {
             "predicate": {
+                "custom_model_data": 20090
+            },
+            "model": "item/sacred_treasure/stick/20090"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20091
+            },
+            "model": "item/sacred_treasure/stick/20091"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20092
+            },
+            "model": "item/sacred_treasure/stick/20092"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20093
+            },
+            "model": "item/sacred_treasure/stick/20093"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20094
+            },
+            "model": "item/stick"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 20100
             },
             "model": "item/sacred_treasure/stick/20100"
@@ -463,6 +493,12 @@
         {
             "predicate": {
                 "custom_model_data": 20101
+            },
+            "model": "item/sacred_treasure/stick/20101"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20102
             },
             "model": "item/stick"
         }
