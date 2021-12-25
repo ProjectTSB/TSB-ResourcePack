@@ -1,11 +1,12 @@
 {
-	"credit": "by yavu",
-	"texture_size": [128, 128],
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
 	"textures": {
 		"0": "block/glass",
-		"3": "toy_machine",
-		"6": "capsule",
-		"particle": "toy_machine"
+		"3": "item/sacred_treasure/stick/20113/toy_machine",
+		"4": "block/glass_pane_top",
+		"6": "item/sacred_treasure/stick/20113/capsule",
+		"particle": "item/sacred_treasure/stick/20113/toy_machine"
 	},
 	"elements": [
 		{
