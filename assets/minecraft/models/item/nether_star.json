@@ -1,0 +1,20 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/nether_star"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 20112
+            },
+            "model": "item/sacred_treasure/nether_star/20112"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20113
+            },
+            "model": "item/nether_star"
+        }
+    ]
+}
