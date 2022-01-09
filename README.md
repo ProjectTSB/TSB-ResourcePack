@@ -1,3 +1,6 @@
+## ライセンスについて
+このリポジトリでは、以下のディレクトリを除いて[Apache-2.0 License](LICENSE)が適用されます。
+
 ## 神器テクスチャ/モデル
 ### 必要なもの
 * [Visual Studio Code](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
