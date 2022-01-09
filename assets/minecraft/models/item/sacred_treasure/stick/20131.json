@@ -2,15 +2,15 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "item/sacred_treasure/stick/20125/texture",
-		"2": "item/sacred_treasure/stick/20125/sword",
-		"particle": "item/sacred_treasure/stick/20125/texture"
+		"0": "item/sacred_treasure/stick/20131/texture",
+		"2": "item/sacred_treasure/stick/20131/sword",
+		"particle": "item/sacred_treasure/stick/20131/texture"
 	},
 	"elements": [
 		{
-			"from": [6.82267, 8.26912, 8.06196],
-			"to": [9.32267, 13.26913, 10.56196],
-			"rotation": {"angle": 22.5, "axis": "z", "origin": [9.57267, 10.26912, 9.31196]},
+			"from": [7.82267, 8.76912, 10.06196],
+			"to": [10.32267, 13.76913, 12.56196],
+			"rotation": {"angle": 45, "axis": "x", "origin": [9.57267, 10.26912, 9.31196]},
 			"faces": {
 				"north": {"uv": [4, 4, 4.625, 5.25], "texture": "#0"},
 				"east": {"uv": [0, 4.25, 0.625, 5.5], "texture": "#0"},
@@ -371,8 +371,8 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [90, 0, 0],
-			"translation": [16, 1.25, 3.25],
+			"rotation": [90, -109, -58],
+			"translation": [29, 3.5, 7.75],
 			"scale": [3, 3, 3]
 		},
 		"thirdperson_lefthand": {
