@@ -1,6 +1,9 @@
 {
-    "mcrg.customizeInjectFolder": "sacred_treasure",
-    "mcrg.textureFileName": "{custom_model_data}",
+    "mcrg.customizeInjectFolder": [
+        "sacred_treasure",
+        "mob",
+        "other"
+    ],
     "mcrg.parentElements": [
         {
             "label": "item/generated",
