@@ -6,7 +6,7 @@
     ],
     "textures": {
         "2": "entity/bee/bee_angry",
-        "main": "item/sacred_treasure/stone/20054/wing1",
+        "main": "item/mob/stone/20054/wing1",
         "particle": "entity/bee/bee_angry"
     },
     "elements": [

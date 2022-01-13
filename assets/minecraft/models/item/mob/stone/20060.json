@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/sacred_treasure/stone/20059/angel",
-		"1": "item/sacred_treasure/stone/20059/hat",
-		"particle": "item/sacred_treasure/stone/20059/angel"
+		"0": "item/mob/stone/20060/angel",
+		"1": "item/mob/stone/20060/hat",
+		"particle": "item/mob/stone/20060/angel"
 	},
 	"elements": [
 		{
@@ -95,7 +95,7 @@
 			"name": "right_leg",
 			"from": [6, 3.75, 7],
 			"to": [8, 9.75, 9],
-			"rotation": {"angle": 22.5, "axis": "x", "origin": [7, 9.75, 8]},
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [7, 9.75, 8]},
 			"faces": {
 				"north": {"uv": [5, 13, 6, 16], "texture": "#0"},
 				"east": {"uv": [4, 13, 5, 16], "texture": "#0"},
@@ -109,7 +109,7 @@
 			"name": "left_leg",
 			"from": [8, 3.75, 7],
 			"to": [10, 9.75, 9],
-			"rotation": {"angle": 22.5, "axis": "x", "origin": [9, 9.75, 8]},
+			"rotation": {"angle": -45, "axis": "x", "origin": [9, 9.75, 8]},
 			"faces": {
 				"north": {"uv": [1, 5, 2, 8], "texture": "#0"},
 				"east": {"uv": [0, 5, 1, 8], "texture": "#0"},

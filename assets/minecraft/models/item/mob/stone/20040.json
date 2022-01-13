@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/sacred_treasure/stone/20041/angel",
-		"particle": "item/sacred_treasure/stone/20041/angel"
+		"0": "item/mob/stone/20040/angel",
+		"particle": "item/mob/stone/20040/angel"
 	},
 	"elements": [
 		{
@@ -55,7 +55,7 @@
 			"name": "right_leg",
 			"from": [4, -0.5, 6],
 			"to": [8, 11.5, 10],
-			"rotation": {"angle": -22.5, "axis": "x", "origin": [6, 11.5, 8]},
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [6, 11.5, 8]},
 			"faces": {
 				"north": {"uv": [5, 13, 6, 16], "texture": "#0"},
 				"east": {"uv": [4, 13, 5, 16], "texture": "#0"},
@@ -69,7 +69,7 @@
 			"name": "left_leg",
 			"from": [8, -0.5, 6],
 			"to": [12, 11.5, 10],
-			"rotation": {"angle": -45, "axis": "x", "origin": [10, 11, 8]},
+			"rotation": {"angle": 45, "axis": "x", "origin": [10, 11, 8]},
 			"faces": {
 				"north": {"uv": [1, 5, 2, 8], "texture": "#0"},
 				"east": {"uv": [0, 5, 1, 8], "texture": "#0"},
@@ -94,8 +94,9 @@
 		},
 		{
 			"name": "body_2nd_layer",
-			"from": [4, 11.02, 5.49],
-			"to": [12, 24.03, 10.49],
+			"from": [3.92, 10.8899, 5.44],
+			"to": [12.08, 24.1601, 10.54],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.16, -0.3505, -0.1598]},
 			"faces": {
 				"north": {"uv": [5, 9, 7, 12], "texture": "#0"},
 				"east": {"uv": [4, 9, 5, 12], "texture": "#0"},

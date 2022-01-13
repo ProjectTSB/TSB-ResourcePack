@@ -5,8 +5,8 @@
         64
     ],
     "textures": {
-        "0": "item/sacred_treasure/stone/20046/texture",
-        "particle": "item/sacred_treasure/stone/20046/texture"
+        "0": "item/mob/stone/20046/texture",
+        "particle": "item/mob/stone/20046/texture"
     },
     "elements": [
         {

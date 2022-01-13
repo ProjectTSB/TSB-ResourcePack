@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/sacred_treasure/stone/20040/angel",
-		"particle": "item/sacred_treasure/stone/20040/angel"
+		"0": "item/mob/stone/20039/angel",
+		"particle": "item/mob/stone/20039/angel"
 	},
 	"elements": [
 		{
@@ -55,7 +55,6 @@
 			"name": "right_leg",
 			"from": [4, -0.5, 6],
 			"to": [8, 11.5, 10],
-			"rotation": {"angle": 22.5, "axis": "x", "origin": [6, 11.5, 8]},
 			"faces": {
 				"north": {"uv": [5, 13, 6, 16], "texture": "#0"},
 				"east": {"uv": [4, 13, 5, 16], "texture": "#0"},
@@ -69,7 +68,6 @@
 			"name": "left_leg",
 			"from": [8, -0.5, 6],
 			"to": [12, 11.5, 10],
-			"rotation": {"angle": 45, "axis": "x", "origin": [10, 11, 8]},
 			"faces": {
 				"north": {"uv": [1, 5, 2, 8], "texture": "#0"},
 				"east": {"uv": [0, 5, 1, 8], "texture": "#0"},

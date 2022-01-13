@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/sacred_treasure/stone/20037/angel",
-		"2": "item/sacred_treasure/stone/20037/rod",
-		"particle": "item/sacred_treasure/stone/20037/angel"
+		"0": "item/mob/stone/20037/angel",
+		"2": "item/mob/stone/20037/rod",
+		"particle": "item/mob/stone/20037/angel"
 	},
 	"elements": [
 		{

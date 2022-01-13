@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/sacred_treasure/stone/20053/texture",
-		"main": "item/sacred_treasure/stone/20053/wing1"
+		"0": "item/mob/stone/20053/texture",
+		"main": "item/mob/stone/20053/wing1"
 	},
 	"elements": [
 		{

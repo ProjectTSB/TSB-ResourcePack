@@ -1,14 +1,15 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/sacred_treasure/stone/20039/angel",
-		"particle": "item/sacred_treasure/stone/20039/angel"
+		"0": "item/mob/stone/20043/angel",
+		"particle": "item/mob/stone/20043/angel"
 	},
 	"elements": [
 		{
 			"name": "head",
 			"from": [4, 23.5, 4],
 			"to": [12, 31.5, 12],
+			"rotation": {"angle": -45, "axis": "x", "origin": [8, 22.5, 8]},
 			"faces": {
 				"north": {"uv": [2, 2, 4, 4], "texture": "#0"},
 				"east": {"uv": [0, 2, 2, 4], "texture": "#0"},
@@ -81,6 +82,7 @@
 			"name": "head_2nd_layer",
 			"from": [3.5, 23, 3.5],
 			"to": [12.5, 32, 12.5],
+			"rotation": {"angle": -45, "axis": "x", "origin": [8, 22.5, 8]},
 			"faces": {
 				"north": {"uv": [10, 2, 12, 4], "texture": "#0"},
 				"east": {"uv": [8, 2, 10, 4], "texture": "#0"},
