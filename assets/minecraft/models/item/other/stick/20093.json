@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/sacred_treasure/stick/20091"
+        "layer0": "item/other/stick/20093"
     }
 }

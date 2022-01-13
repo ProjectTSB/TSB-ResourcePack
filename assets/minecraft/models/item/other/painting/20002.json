@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/sacred_treasure/other/20002/2",
-		"1": "item/sacred_treasure/other/20002/texture",
-		"particle": "item/sacred_treasure/other/20002/2"
+		"0": "item/other/painting/20002/2",
+		"1": "item/other/painting/20002/texture",
+		"particle": "item/other/painting/20002/2"
 	},
 	"elements": [
 		{

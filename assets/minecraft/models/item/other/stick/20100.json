@@ -5,9 +5,9 @@
         32
     ],
     "textures": {
-        "0": "item/sacred_treasure/stick/20100/sword",
-        "3": "item/sacred_treasure/stick/20100/texture",
-        "particle": "item/sacred_treasure/stick/20100/sword"
+        "0": "item/other/stick/20100/sword",
+        "3": "item/other/stick/20100/texture",
+        "particle": "item/other/stick/20100/sword"
     },
     "elements": [
         {

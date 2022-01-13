@@ -5,7 +5,7 @@
         64
     ],
     "textures": {
-        "2": "item/sacred_treasure/stick/20101/texture",
+        "2": "item/other/stick/20101/texture",
         "particle": "sword"
     },
     "elements": [

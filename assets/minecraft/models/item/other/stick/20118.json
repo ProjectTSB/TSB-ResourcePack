@@ -3,9 +3,9 @@
 	"texture_size": [128, 128],
 	"textures": {
 		"0": "block/glass",
-		"3": "item/sacred_treasure/stick/20118/toy_machine",
-		"6": "item/sacred_treasure/stick/20118/capsule",
-		"particle": "item/sacred_treasure/stick/20118/toy_machine"
+		"3": "item/other/stick/20118/toy_machine",
+		"6": "item/other/stick/20118/capsule",
+		"particle": "item/other/stick/20118/toy_machine"
 	},
 	"elements": [
 		{
