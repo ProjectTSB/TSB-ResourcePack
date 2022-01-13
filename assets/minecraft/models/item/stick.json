@@ -260,19 +260,19 @@
             "predicate": {
                 "custom_model_data": 20013
             },
-            "model": "item/sacred_treasure/stick/20013"
+            "model": "item/mob/stick/20013"
         },
         {
             "predicate": {
                 "custom_model_data": 20014
             },
-            "model": "item/sacred_treasure/stick/20014"
+            "model": "item/mob/stick/20014"
         },
         {
             "predicate": {
                 "custom_model_data": 20015
             },
-            "model": "item/sacred_treasure/stick/20015"
+            "model": "item/mob/stick/20015"
         },
         {
             "predicate": {
@@ -284,19 +284,19 @@
             "predicate": {
                 "custom_model_data": 20020
             },
-            "model": "item/sacred_treasure/stick/20020"
+            "model": "item/mob/stick/20020"
         },
         {
             "predicate": {
                 "custom_model_data": 20021
             },
-            "model": "item/sacred_treasure/stick/20021"
+            "model": "item/mob/stick/20021"
         },
         {
             "predicate": {
                 "custom_model_data": 20022
             },
-            "model": "item/sacred_treasure/stick/20022"
+            "model": "item/mob/stick/20022"
         },
         {
             "predicate": {
@@ -308,7 +308,7 @@
             "predicate": {
                 "custom_model_data": 20027
             },
-            "model": "item/sacred_treasure/stick/20027"
+            "model": "item/mob/stick/20027"
         },
         {
             "predicate": {
@@ -320,37 +320,37 @@
             "predicate": {
                 "custom_model_data": 20029
             },
-            "model": "item/sacred_treasure/stick/20029"
+            "model": "item/mob/stick/20029"
         },
         {
             "predicate": {
                 "custom_model_data": 20030
             },
-            "model": "item/sacred_treasure/stick/20030"
+            "model": "item/mob/stick/20030"
         },
         {
             "predicate": {
                 "custom_model_data": 20031
             },
-            "model": "item/sacred_treasure/stick/20031"
+            "model": "item/mob/stick/20031"
         },
         {
             "predicate": {
                 "custom_model_data": 20032
             },
-            "model": "item/sacred_treasure/stick/20032"
+            "model": "item/mob/stick/20032"
         },
         {
             "predicate": {
                 "custom_model_data": 20033
             },
-            "model": "item/sacred_treasure/stick/20033"
+            "model": "item/mob/stick/20033"
         },
         {
             "predicate": {
                 "custom_model_data": 20034
             },
-            "model": "item/sacred_treasure/stick/20034"
+            "model": "item/mob/stick/20034"
         },
         {
             "predicate": {
@@ -362,31 +362,31 @@
             "predicate": {
                 "custom_model_data": 20047
             },
-            "model": "item/sacred_treasure/stick/20047"
+            "model": "item/mob/stick/20047"
         },
         {
             "predicate": {
                 "custom_model_data": 20048
             },
-            "model": "item/sacred_treasure/stick/20048"
+            "model": "item/mob/stick/20048"
         },
         {
             "predicate": {
                 "custom_model_data": 20049
             },
-            "model": "item/sacred_treasure/stick/20049"
+            "model": "item/mob/stick/20049"
         },
         {
             "predicate": {
                 "custom_model_data": 20050
             },
-            "model": "item/sacred_treasure/stick/20050"
+            "model": "item/mob/stick/20050"
         },
         {
             "predicate": {
                 "custom_model_data": 20051
             },
-            "model": "item/sacred_treasure/stick/20051"
+            "model": "item/mob/stick/20051"
         },
         {
             "predicate": {
@@ -398,85 +398,85 @@
             "predicate": {
                 "custom_model_data": 20062
             },
-            "model": "item/sacred_treasure/stick/20062"
+            "model": "item/mob/stick/20062"
         },
         {
             "predicate": {
                 "custom_model_data": 20063
             },
-            "model": "item/sacred_treasure/stick/20063"
+            "model": "item/mob/stick/20063"
         },
         {
             "predicate": {
                 "custom_model_data": 20064
             },
-            "model": "item/sacred_treasure/stick/20064"
+            "model": "item/mob/stick/20064"
         },
         {
             "predicate": {
                 "custom_model_data": 20065
             },
-            "model": "item/sacred_treasure/stick/20065"
+            "model": "item/mob/stick/20065"
         },
         {
             "predicate": {
                 "custom_model_data": 20066
             },
-            "model": "item/sacred_treasure/stick/20066"
+            "model": "item/mob/stick/20066"
         },
         {
             "predicate": {
                 "custom_model_data": 20067
             },
-            "model": "item/sacred_treasure/stick/20067"
+            "model": "item/mob/stick/20067"
         },
         {
             "predicate": {
                 "custom_model_data": 20068
             },
-            "model": "item/sacred_treasure/stick/20068"
+            "model": "item/mob/stick/20068"
         },
         {
             "predicate": {
                 "custom_model_data": 20069
             },
-            "model": "item/sacred_treasure/stick/20069"
+            "model": "item/mob/stick/20069"
         },
         {
             "predicate": {
                 "custom_model_data": 20070
             },
-            "model": "item/sacred_treasure/stick/20070"
+            "model": "item/mob/stick/20070"
         },
         {
             "predicate": {
                 "custom_model_data": 20071
             },
-            "model": "item/sacred_treasure/stick/20071"
+            "model": "item/mob/stick/20071"
         },
         {
             "predicate": {
                 "custom_model_data": 20072
             },
-            "model": "item/sacred_treasure/stick/20072"
+            "model": "item/mob/stick/20072"
         },
         {
             "predicate": {
                 "custom_model_data": 20073
             },
-            "model": "item/sacred_treasure/stick/20073"
+            "model": "item/mob/stick/20073"
         },
         {
             "predicate": {
                 "custom_model_data": 20074
             },
-            "model": "item/sacred_treasure/stick/20074"
+            "model": "item/mob/stick/20074"
         },
         {
             "predicate": {
                 "custom_model_data": 20075
             },
-            "model": "item/sacred_treasure/stick/20075"
+            "model": "item/mob/stick/20075"
         },
         {
             "predicate": {
@@ -596,25 +596,25 @@
             "predicate": {
                 "custom_model_data": 20123
             },
-            "model": "item/sacred_treasure/stick/20123"
+            "model": "item/mob/stick/20123"
         },
         {
             "predicate": {
                 "custom_model_data": 20124
             },
-            "model": "item/sacred_treasure/stick/20124"
+            "model": "item/mob/stick/20124"
         },
         {
             "predicate": {
                 "custom_model_data": 20125
             },
-            "model": "item/sacred_treasure/stick/20125"
+            "model": "item/mob/stick/20125"
         },
         {
             "predicate": {
                 "custom_model_data": 20126
             },
-            "model": "item/sacred_treasure/stick/20126"
+            "model": "item/mob/stick/20126"
         },
         {
             "predicate": {
@@ -626,7 +626,7 @@
             "predicate": {
                 "custom_model_data": 20128
             },
-            "model": "item/sacred_treasure/stick/20128"
+            "model": "item/mob/stick/20128"
         },
         {
             "predicate": {
@@ -638,7 +638,7 @@
             "predicate": {
                 "custom_model_data": 20130
             },
-            "model": "item/sacred_treasure/stick/20130"
+            "model": "item/mob/stick/20130"
         },
         {
             "predicate": {
@@ -650,7 +650,7 @@
             "predicate": {
                 "custom_model_data": 20132
             },
-            "model": "item/sacred_treasure/stick/20132"
+            "model": "item/mob/stick/20132"
         },
         {
             "predicate": {

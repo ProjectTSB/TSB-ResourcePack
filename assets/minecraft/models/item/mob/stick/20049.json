@@ -1,0 +1,28 @@
+{
+    "parent": "item/handheld_32",
+    "textures": {
+        "layer0": "item/mob/stick/20049"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [30, -90, 55],
+            "translation": [0, 12.5, 5.5],
+            "scale": [1.875, 1.875, 0.93]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [30, 90, -55],
+            "translation": [0, 12.5, 5.5],
+            "scale": [1.875, 1.875, 0.93]
+        },
+        "firstperson_righthand": {
+            "rotation": [0, -90, 25],
+            "translation": [1.7, 5, 1.7],
+            "scale": [1.875, 1.875, 0.93]
+        },
+        "firstperson_lefthand": {
+            "rotation": [0, 90, -25],
+            "translation": [1.7, 5, 1.7],
+            "scale": [1.875, 1.875, 0.93]
+        }
+    }
+}
