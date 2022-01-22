@@ -8,7 +8,7 @@
             "predicate": {
                 "custom_model_data": 20019
             },
-            "model": "item/sacred_treasure/stone/20019"
+            "model": "item/mob/stone/20019"
         },
         {
             "predicate": {
@@ -20,55 +20,55 @@
             "predicate": {
                 "custom_model_data": 20035
             },
-            "model": "item/sacred_treasure/stone/20035"
+            "model": "item/mob/stone/20035"
         },
         {
             "predicate": {
                 "custom_model_data": 20036
             },
-            "model": "item/sacred_treasure/stone/20036"
+            "model": "item/mob/stone/20036"
         },
         {
             "predicate": {
                 "custom_model_data": 20037
             },
-            "model": "item/sacred_treasure/stone/20037"
+            "model": "item/mob/stone/20037"
         },
         {
             "predicate": {
                 "custom_model_data": 20038
             },
-            "model": "item/sacred_treasure/stone/20038"
+            "model": "item/mob/stone/20038"
         },
         {
             "predicate": {
                 "custom_model_data": 20039
             },
-            "model": "item/sacred_treasure/stone/20039"
+            "model": "item/mob/stone/20039"
         },
         {
             "predicate": {
                 "custom_model_data": 20040
             },
-            "model": "item/sacred_treasure/stone/20040"
+            "model": "item/mob/stone/20040"
         },
         {
             "predicate": {
                 "custom_model_data": 20041
             },
-            "model": "item/sacred_treasure/stone/20041"
+            "model": "item/mob/stone/20041"
         },
         {
             "predicate": {
                 "custom_model_data": 20042
             },
-            "model": "item/sacred_treasure/stone/20042"
+            "model": "item/mob/stone/20042"
         },
         {
             "predicate": {
                 "custom_model_data": 20043
             },
-            "model": "item/sacred_treasure/stone/20043"
+            "model": "item/mob/stone/20043"
         },
         {
             "predicate": {
@@ -80,13 +80,13 @@
             "predicate": {
                 "custom_model_data": 20045
             },
-            "model": "item/sacred_treasure/stone/20045"
+            "model": "item/mob/stone/20045"
         },
         {
             "predicate": {
                 "custom_model_data": 20046
             },
-            "model": "item/sacred_treasure/stone/20046"
+            "model": "item/mob/stone/20046"
         },
         {
             "predicate": {
@@ -98,61 +98,61 @@
             "predicate": {
                 "custom_model_data": 20052
             },
-            "model": "item/sacred_treasure/stone/20052"
+            "model": "item/mob/stone/20052"
         },
         {
             "predicate": {
                 "custom_model_data": 20053
             },
-            "model": "item/sacred_treasure/stone/20053"
+            "model": "item/mob/stone/20053"
         },
         {
             "predicate": {
                 "custom_model_data": 20054
             },
-            "model": "item/sacred_treasure/stone/20054"
+            "model": "item/mob/stone/20054"
         },
         {
             "predicate": {
                 "custom_model_data": 20055
             },
-            "model": "item/sacred_treasure/stone/20055"
+            "model": "item/mob/stone/20055"
         },
         {
             "predicate": {
                 "custom_model_data": 20056
             },
-            "model": "item/sacred_treasure/stone/20056"
+            "model": "item/mob/stone/20056"
         },
         {
             "predicate": {
                 "custom_model_data": 20057
             },
-            "model": "item/sacred_treasure/stone/20057"
+            "model": "item/mob/stone/20057"
         },
         {
             "predicate": {
                 "custom_model_data": 20058
             },
-            "model": "item/sacred_treasure/stone/20058"
+            "model": "item/mob/stone/20058"
         },
         {
             "predicate": {
                 "custom_model_data": 20059
             },
-            "model": "item/sacred_treasure/stone/20059"
+            "model": "item/mob/stone/20059"
         },
         {
             "predicate": {
                 "custom_model_data": 20060
             },
-            "model": "item/sacred_treasure/stone/20060"
+            "model": "item/mob/stone/20060"
         },
         {
             "predicate": {
                 "custom_model_data": 20061
             },
-            "model": "item/sacred_treasure/stone/20061"
+            "model": "item/mob/stone/20061"
         },
         {
             "predicate": {

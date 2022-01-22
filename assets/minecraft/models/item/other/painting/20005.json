@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/sacred_treasure/other/20001/3",
-		"1": "item/sacred_treasure/other/20001/texture",
-		"particle": "item/sacred_treasure/other/20001/3"
+		"0": "item/other/painting/20005/4",
+		"1": "item/other/painting/20005/texture",
+		"particle": "item/other/painting/20005/4"
 	},
 	"elements": [
 		{
@@ -12,7 +12,7 @@
 			"to": [20.5, 26.75, 10.125],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-4.5, -10.75, 6.375]},
 			"faces": {
-				"north": {"uv": [1.25, 0, 11.25, 15], "texture": "#0"},
+				"north": {"uv": [0.375, 1, 10.375, 16], "texture": "#0"},
 				"east": {"uv": [0, 0, 0.25, 4], "texture": "#missing"},
 				"south": {"uv": [0, 0, 2.5, 4], "texture": "#missing"},
 				"west": {"uv": [0, 0, 0.25, 4], "texture": "#missing"},

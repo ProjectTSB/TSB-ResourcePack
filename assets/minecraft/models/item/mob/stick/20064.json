@@ -1,0 +1,59 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"2": "item/mob/stick/20064/texture",
+		"particle": "item/mob/stick/20064/texture"
+	},
+	"elements": [
+		{
+			"name": "Cube",
+			"from": [6, 2, 6],
+			"to": [10, 16, 10],
+			"faces": {
+				"north": {"uv": [0, 0, 1, 3.5], "texture": "#2"},
+				"east": {"uv": [1, 0, 2, 3.5], "texture": "#2"},
+				"south": {"uv": [2, 0, 3, 3.5], "texture": "#2"},
+				"west": {"uv": [3, 0, 4, 3.5], "texture": "#2"},
+				"up": {"uv": [5, 3.5, 4, 2.5], "texture": "#2"},
+				"down": {"uv": [8.5, 0, 7.5, 1], "texture": "#2"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, -180, 0],
+			"translation": [0, -2.1, 4.5],
+			"scale": [1.2, 1, 1.2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -2.1, 4.5],
+			"scale": [1.2, 1, 1.2]
+		},
+		"firstperson_righthand": {
+			"rotation": [180, -90, 20]
+		},
+		"firstperson_lefthand": {
+			"rotation": [110, 90, 50],
+			"translation": [1, 0, 0]
+		},
+		"ground": {
+			"translation": [0, 10, 0],
+			"scale": [5, 5, 5]
+		},
+		"gui": {
+			"rotation": [40, 10, -40],
+			"translation": [3, 3, 0],
+			"scale": [0.7, 0.8, 0.7]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [1.445, 3.42812, -0.00574],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}
