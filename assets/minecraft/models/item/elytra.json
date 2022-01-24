@@ -1,0 +1,20 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/elytra"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 860
+            },
+            "model": "item/sacred_treasure/elytra/860"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 861
+            },
+            "model": "item/elytra"
+        }
+    ]
+}
