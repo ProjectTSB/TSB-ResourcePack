@@ -1,0 +1,6 @@
+{
+  "entity.player.levelup": {
+    "replace":true,
+    "sounds": []
+  }
+}
