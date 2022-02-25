@@ -56,5 +56,6 @@
             "detail": "通常に比べてアイテムが薄く描画されるよ。それ以外は`item/handheld_tsb`と同じ。",
             "hasTextures": false
         }
-    ]
+    ],
+    "git.pullTags": false
 }
