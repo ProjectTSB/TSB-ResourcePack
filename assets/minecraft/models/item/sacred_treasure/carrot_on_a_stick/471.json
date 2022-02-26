@@ -178,26 +178,27 @@
 			"scale": [1.5, 1.5, 1.5]
 		},
 		"firstperson_righthand": {
-			"rotation": [0, -90, -21],
-			"translation": [0, -2.5, -5.25],
-			"scale": [1.45, 1.45, 1.45]
+			"rotation": [0, -90, -45],
+			"translation": [1.5, 0.75, -5]
 		},
 		"firstperson_lefthand": {
-			"rotation": [0, 90, 21],
-			"translation": [0, -2.5, -5.25],
-			"scale": [1.45, 1.45, 1.45]
+			"rotation": [0, 90, 45],
+			"translation": [1.5, 0.75, -5]
 		},
 		"ground": {
-			"translation": [0, 3.5, 0],
-			"scale": [1.15, 1.15, 1.15]
+			"translation": [0, -2.5, 0],
+			"scale": [0.75, 0.75, 0.75]
 		},
 		"gui": {
-			"rotation": [0, 180, -45],
-			"translation": [6.75, -1.25, 0]
+			"rotation": [0, -180, -45],
+			"translation": [5.75, -2, 0]
 		},
 		"head": {
 			"translation": [0, -13.75, 0],
 			"scale": [2.51, 2.51, 2.51]
+		},
+		"fixed": {
+			"translation": [0, 0, -1]
 		}
 	},
 	"groups": [
