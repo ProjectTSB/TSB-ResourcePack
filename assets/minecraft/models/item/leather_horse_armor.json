@@ -1,0 +1,20 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/leather_horse_armor"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 20138
+            },
+            "model": "item/mob/leather_horse_armor/20138"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20139
+            },
+            "model": "item/leather_horse_armor"
+        }
+    ]
+}
