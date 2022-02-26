@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "item/sacred_treasure/carrot_on_a_stick/210/terra_blade"
@@ -568,12 +567,12 @@
 		"ground": {
 			"rotation": [45, 0, 0],
 			"translation": [0, 3, 0],
-			"scale": [0.3, 0.5, 0.5]
+			"scale": [0.2, 0.4, 0.4]
 		},
 		"gui": {
 			"rotation": [90, 45, -90],
-			"translation": [-0.5, -0.5, 0],
-			"scale": [0.65, 0.65, 0.65]
+			"translation": [-1.4, 0, 0],
+			"scale": [0.55, 0.55, 0.55]
 		},
 		"head": {
 			"translation": [0, 29, 0],
