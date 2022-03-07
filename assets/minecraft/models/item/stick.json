@@ -800,6 +800,12 @@
             "predicate": {
                 "custom_model_data": 20155
             },
+            "model": "item/mob/stick/20155"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20156
+            },
             "model": "item/stick"
         }
     ]
