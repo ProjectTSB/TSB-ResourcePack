@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/mob/262/number.png",
+            "ascent": 5,
+            "height": 8,
+            "chars": [
+                "10"
+            ]
+        }
+    ]
+}
