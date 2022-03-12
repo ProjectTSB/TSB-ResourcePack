@@ -1,0 +1,85 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/cooldown/main_bar/bar.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "|"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/cooldown/main_bar/frame.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "]"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/cooldown/main_bar/null.png",
+            "ascent": -2147483648,
+            "height": 9,
+            "chars": [
+                "#"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/cooldown/squeeze.png",
+            "ascent": -2147483648,
+            "height": -3,
+            "chars": [
+                "."
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/cooldown/squeeze.png",
+            "ascent": -2147483648,
+            "height": -204,
+            "chars": [
+                "-"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/cooldown/squeeze.png",
+            "ascent": -2147483648,
+            "height": -29,
+            "chars": [
+                "*"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/cooldown/squeeze.png",
+            "ascent": -2147483648,
+            "height": -60,
+            "chars": [
+                "<"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/cooldown/squeeze.png",
+            "ascent": -2147483648,
+            "height": 40,
+            "chars": [
+                ">"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/cooldown/squeeze.png",
+            "ascent": -2147483648,
+            "height": -181,
+            "chars": [
+                "~"
+            ]
+        }
+    ]
+}

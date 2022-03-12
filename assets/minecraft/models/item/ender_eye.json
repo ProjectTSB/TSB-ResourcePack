@@ -1,0 +1,20 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/ender_eye"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 876
+            },
+            "model": "item/sacred_treasure/ender_eye/876"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 877
+            },
+            "model": "item/ender_eye"
+        }
+    ]
+}
