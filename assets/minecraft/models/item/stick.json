@@ -822,6 +822,54 @@
         },
         {
             "predicate": {
+                "custom_model_data": 20160
+            },
+            "model": "item/mob/stick/20160"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20161
+            },
+            "model": "item/mob/stick/20161"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20162
+            },
+            "model": "item/mob/stick/20162"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20163
+            },
+            "model": "item/stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20164
+            },
+            "model": "item/mob/stick/20164"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20165
+            },
+            "model": "item/stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20166
+            },
+            "model": "item/mob/stick/20166"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20167
+            },
+            "model": "item/stick"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 20176
             },
             "model": "item/mob/stick/20176"
@@ -847,6 +895,18 @@
         {
             "predicate": {
                 "custom_model_data": 20180
+            },
+            "model": "item/stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20180
+            },
+            "model": "item/mob/stick/20180"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20181
             },
             "model": "item/stick"
         }
