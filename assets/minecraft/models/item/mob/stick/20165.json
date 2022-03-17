@@ -1,8 +1,8 @@
 {
 	"credit": "by yavu",
 	"textures": {
-		"0": "block/destroy_stage_0",
-		"particle": "block/destroy_stage_0"
+		"0": "block/destroy_stage_9",
+		"particle": "block/destroy_stage_9"
 	},
 	"elements": [
 		{
