@@ -854,7 +854,7 @@
             "predicate": {
                 "custom_model_data": 20165
             },
-            "model": "item/stick"
+            "model": "item/mob/stick/20165"
         },
         {
             "predicate": {
@@ -866,7 +866,55 @@
             "predicate": {
                 "custom_model_data": 20167
             },
-            "model": "item/stick"
+            "model": "item/mob/stick/20167"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20168
+            },
+            "model": "item/mob/stick/20168"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20169
+            },
+            "model": "item/mob/stick/20169"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20170
+            },
+            "model": "item/mob/stick/20170"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20171
+            },
+            "model": "item/mob/stick/20171"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20172
+            },
+            "model": "item/mob/stick/20172"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20173
+            },
+            "model": "item/mob/stick/20173"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20174
+            },
+            "model": "item/mob/stick/20174"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20175
+            },
+            "model": "item/mob/stick/20175"
         },
         {
             "predicate": {
