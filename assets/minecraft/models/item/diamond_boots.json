@@ -1,0 +1,20 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/diamond_boots"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 819
+            },
+            "model": "item/sacred_treasure/diamond_boots/819"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 820
+            },
+            "model": "item/diamond_boots"
+        }
+    ]
+}

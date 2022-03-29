@@ -1,0 +1,20 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/diamond_leggings"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 818
+            },
+            "model": "item/sacred_treasure/diamond_leggings/818"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 819
+            },
+            "model": "item/diamond_leggings"
+        }
+    ]
+}
