@@ -813,6 +813,30 @@
                 "custom_model_data": 20157
             },
             "model": "item/stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20182
+            },
+            "model": "item/mob/stick/20182"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20183
+            },
+            "model": "item/mob/stick/20183"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20184
+            },
+            "model": "item/mob/stick/20184"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20185
+            },
+            "model": "item/stick"
         }
     ]
 }
