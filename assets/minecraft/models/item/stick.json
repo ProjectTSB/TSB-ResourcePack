@@ -720,35 +720,7 @@
         },
         {
             "predicate": {
-                "custom_model_data": 20142
-            },
-            "model": "item/mob/stick/20142"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 20143
-            },
-            "model": "item/mob/stick/20143"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 20144
-            },
-            "model": "item/mob/stick/20144"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 20145
-            },
-            "model": "item/mob/stick/20145"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 20146
-            },
-            "model": "item/mob/stick/20146"
-        },
-        {                "custom_model_data": 20141
+                "custom_model_data": 20141
             },
             "model": "item/mob/stick/20141"
         },
@@ -1007,7 +979,8 @@
         {
             "predicate": {
                 "custom_model_data": 20185
-            }
+            },
+            "model": "item/stick"
         }
     ]
 }
