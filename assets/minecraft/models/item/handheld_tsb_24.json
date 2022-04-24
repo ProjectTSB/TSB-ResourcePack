@@ -4,22 +4,22 @@
 		"thirdperson_righthand": {
 			"rotation": [0, 90, 35],
 			"translation": [0, 4, 0.5],
-			"scale": [1.275, 1.275, 0.849]
+			"scale": [1.275, 1.275, 0.6375 ]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [0, -90, -35],
 			"translation": [0, 4, 0.5],
-			"scale": [1.275, 1.275, 0.849]
+			"scale": [1.275, 1.275, 0.6375 ]
 		},
 		"firstperson_righthand": {
 			"rotation": [0, 90, 70],
 			"translation": [0, 4, 2],
-			"scale": [1.02, 1.02, 0.6795]
+			"scale": [1.02, 1.02, 0.51 ]
 		},
 		"firstperson_lefthand": {
 			"rotation": [0, -90, -70],
 			"translation": [0, 4, 2],
-			"scale": [1.02, 1.02, 0.6795]
+			"scale": [1.02, 1.02, 0.51 ]
 		}
     }
 }
