@@ -1,0 +1,20 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/glass_pane"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 253
+            },
+            "model": "item/sacred_treasure/glass_pane/253"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 254
+            },
+            "model": "item/glass_pane"
+        }
+    ]
+}
