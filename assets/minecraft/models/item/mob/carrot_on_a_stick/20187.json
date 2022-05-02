@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/mob/carrot_on_a_stick/20187"
+    }
+}
