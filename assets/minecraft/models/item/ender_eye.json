@@ -15,6 +15,18 @@
                 "custom_model_data": 877
             },
             "model": "item/ender_eye"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 948
+            },
+            "model": "item/sacred_treasure/ender_eye/948"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 949
+            },
+            "model": "item/ender_eye"
         }
     ]
 }
