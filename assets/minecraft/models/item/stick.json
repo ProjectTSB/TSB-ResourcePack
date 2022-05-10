@@ -1004,6 +1004,24 @@
             "predicate": {
                 "custom_model_data": 20185
             },
+            "model": "item/other/stick/20185"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20186
+            },
+            "model": "item/stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20189
+            },
+            "model": "item/mob/stick/20189"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20190
+            },
             "model": "item/stick"
         }
     ]
