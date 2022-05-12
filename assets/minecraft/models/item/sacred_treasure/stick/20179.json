@@ -2,10 +2,5 @@
     "parent": "item/handheld",
     "textures": {
         "layer0": "item/sacred_treasure/stick/20179"
-    },
-    "display": {
-        "ground": {
-            "scale": [4, 4, 0.1]
-        }
     }
 }
