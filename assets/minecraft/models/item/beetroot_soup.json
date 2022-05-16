@@ -1,0 +1,20 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/beetroot_soup"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 437
+            },
+            "model": "item/sacred_treasure/beetroot_soup/437"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 438
+            },
+            "model": "item/beetroot_soup"
+        }
+    ]
+}
