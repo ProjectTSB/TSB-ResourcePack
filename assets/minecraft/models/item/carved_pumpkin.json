@@ -3,7 +3,7 @@
     "textures": {
         "top": "minecraft:block/pumpkin_top",
         "front": "minecraft:block/carved_pumpkin",
-        "side": "minecraft:block/pumpkin_side"    
+        "side": "minecraft:block/pumpkin_side"
     },
     "overrides": [
         {
@@ -17,6 +17,48 @@
                 "custom_model_data": 20017
             },
             "model": "block/carved_pumpkin"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20201
+            },
+            "model": "item/mob/carved_pumpkin/20201"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20202
+            },
+            "model": "item/mob/carved_pumpkin/20202"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20203
+            },
+            "model": "item/mob/carved_pumpkin/20203"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20204
+            },
+            "model": "item/mob/carved_pumpkin/20204"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20205
+            },
+            "model": "item/mob/carved_pumpkin/20205"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20206
+            },
+            "model": "item/mob/carved_pumpkin/20206"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20207
+            },
+            "model": "item/carved_pumpkin"
         }
     ]
 }
