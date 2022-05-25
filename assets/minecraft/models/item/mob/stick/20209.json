@@ -2,9 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"2": "item/mob/stick/20209/stomper",
-		"particle": "item/mob/stick/20209/stomper"
-	},
+		"2": "item/mob/stick/20209/stomper"
+		},
 	"elements": [
 		{
 			"from": [4, 13, 9],
