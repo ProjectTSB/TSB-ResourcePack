@@ -1,0 +1,20 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/heart_of_the_sea"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 844
+            },
+            "model": "item/sacred_treasure/heart_of_the_sea/844"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 845
+            },
+            "model": "item/heart_of_the_sea"
+        }
+    ]
+}
