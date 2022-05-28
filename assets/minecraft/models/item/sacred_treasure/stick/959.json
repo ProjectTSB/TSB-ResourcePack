@@ -27,7 +27,7 @@
 		"ground": {
 			"rotation": [-180, 0, 21],
 			"translation": [0, 2, 0],
-            "scale": [ 1w f, 1, 0.5 ]
+            "scale": [ 1, 1, 0.5 ]
 		}
 	}
 }
