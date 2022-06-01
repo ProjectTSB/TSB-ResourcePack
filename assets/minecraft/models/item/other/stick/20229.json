@@ -145,9 +145,9 @@
 		},
 		{
 			"name": "rod2_0",
-			"from": [6.5, 16.5, -11],
-			"to": [7.5, 19.5, -2],
-			"rotation": {"angle": 45, "axis": "z", "origin": [7, 12.5, -2]},
+			"from": [6.5, 17, -10],
+			"to": [7.5, 20, -1],
+			"rotation": {"angle": 45, "axis": "z", "origin": [7, 12, 10]},
 			"faces": {
 				"north": {"uv": [15, 1, 12, 2], "rotation": 90, "texture": "#1"},
 				"east": {"uv": [12, 10, 15, 1], "rotation": 270, "texture": "#1"},
@@ -159,23 +159,23 @@
 		},
 		{
 			"name": "rod2_1",
-			"from": [6.5, 15.5, -10],
-			"to": [7.5, 16.5, -2],
-			"rotation": {"angle": 45, "axis": "z", "origin": [7, 12.5, -2]},
+			"from": [6.5, 16, -9],
+			"to": [7.5, 17, -2],
+			"rotation": {"angle": 45, "axis": "z", "origin": [7, 12, 10]},
 			"faces": {
 				"north": {"uv": [12, 2, 11, 3], "rotation": 90, "texture": "#1"},
-				"east": {"uv": [11, 10, 12, 2], "rotation": 270, "texture": "#1"},
-				"south": {"uv": [11, 9, 12, 10], "rotation": 270, "texture": "#1"},
-				"west": {"uv": [11, 2, 12, 10], "rotation": 270, "texture": "#1"},
-				"up": {"uv": [11, 2, 12, 10], "texture": "#1"},
-				"down": {"uv": [11, 2, 12, 10], "rotation": 180, "texture": "#1"}
+				"east": {"uv": [11, 9, 12, 2], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [11, 8, 12, 9], "rotation": 270, "texture": "#1"},
+				"west": {"uv": [11, 2, 12, 9], "rotation": 270, "texture": "#1"},
+				"up": {"uv": [11, 2, 12, 9], "texture": "#1"},
+				"down": {"uv": [11, 2, 12, 9], "rotation": 180, "texture": "#1"}
 			}
 		},
 		{
 			"name": "rod2_2",
-			"from": [6.5, 14.5, -9],
-			"to": [7.5, 15.5, -3],
-			"rotation": {"angle": 45, "axis": "z", "origin": [7, 12.5, -2]},
+			"from": [6.5, 15, -8],
+			"to": [7.5, 16, -2],
+			"rotation": {"angle": 45, "axis": "z", "origin": [7, 12, 10]},
 			"faces": {
 				"north": {"uv": [11, 3, 10, 4], "rotation": 90, "texture": "#1"},
 				"east": {"uv": [10, 9, 11, 3], "rotation": 270, "texture": "#1"},
@@ -187,9 +187,9 @@
 		},
 		{
 			"name": "rod2_3",
-			"from": [6.5, 13.5, -8],
-			"to": [7.5, 14.5, -1],
-			"rotation": {"angle": 45, "axis": "z", "origin": [7, 12.5, -2]},
+			"from": [6.5, 14, -7],
+			"to": [7.5, 15, 0],
+			"rotation": {"angle": 45, "axis": "z", "origin": [7, 12, 10]},
 			"faces": {
 				"north": {"uv": [10, 4, 9, 5], "rotation": 90, "texture": "#1"},
 				"east": {"uv": [9, 11, 10, 4], "rotation": 270, "texture": "#1"},
@@ -201,23 +201,9 @@
 		},
 		{
 			"name": "rod2_4",
-			"from": [6.5, 19.5, -7],
-			"to": [7.5, 20.5, -2],
-			"rotation": {"angle": 45, "axis": "z", "origin": [7, 12.5, -2]},
-			"faces": {
-				"north": {"uv": [16, 5, 15, 6], "rotation": 90, "texture": "#1"},
-				"east": {"uv": [15, 10, 16, 5], "rotation": 270, "texture": "#1"},
-				"south": {"uv": [15, 9, 16, 10], "rotation": 270, "texture": "#1"},
-				"west": {"uv": [15, 5, 16, 10], "rotation": 270, "texture": "#1"},
-				"up": {"uv": [15, 5, 16, 10], "texture": "#1"},
-				"down": {"uv": [15, 5, 16, 10], "rotation": 180, "texture": "#1"}
-			}
-		},
-		{
-			"name": "rod2_5",
-			"from": [6.5, 12.5, -6],
-			"to": [7.5, 13.5, -1],
-			"rotation": {"angle": 45, "axis": "z", "origin": [7, 12.5, -2]},
+			"from": [6.5, 13, -5],
+			"to": [7.5, 14, 0],
+			"rotation": {"angle": 45, "axis": "z", "origin": [7, 12, 10]},
 			"faces": {
 				"north": {"uv": [9, 6, 8, 7], "rotation": 90, "texture": "#1"},
 				"east": {"uv": [8, 11, 9, 6], "rotation": 270, "texture": "#1"},
@@ -228,10 +214,10 @@
 			}
 		},
 		{
-			"name": "rod2_6",
-			"from": [6.5, 11.5, -5],
-			"to": [7.5, 12.5, -2],
-			"rotation": {"angle": 45, "axis": "z", "origin": [7, 12.5, -2]},
+			"name": "rod2_5",
+			"from": [6.5, 12, -4],
+			"to": [7.5, 13, -1],
+			"rotation": {"angle": 45, "axis": "z", "origin": [7, 12, 10]},
 			"faces": {
 				"north": {"uv": [8, 7, 7, 8], "rotation": 90, "texture": "#1"},
 				"east": {"uv": [7, 10, 8, 7], "rotation": 270, "texture": "#1"},
@@ -242,10 +228,10 @@
 			}
 		},
 		{
-			"name": "rod2_7",
-			"from": [6.5, 10.5, -4],
-			"to": [7.5, 11.5, -1],
-			"rotation": {"angle": 45, "axis": "z", "origin": [7, 12.5, -2]},
+			"name": "rod2_6",
+			"from": [6.5, 11, -3],
+			"to": [7.5, 12, 0],
+			"rotation": {"angle": 45, "axis": "z", "origin": [7, 12, 10]},
 			"faces": {
 				"north": {"uv": [7, 8, 6, 9], "rotation": 90, "texture": "#1"},
 				"east": {"uv": [6, 11, 7, 8], "rotation": 270, "texture": "#1"},
@@ -256,10 +242,10 @@
 			}
 		},
 		{
-			"name": "rod2_8",
-			"from": [6.5, 9.5, -3],
-			"to": [7.5, 10.5, 0],
-			"rotation": {"angle": 45, "axis": "z", "origin": [7, 12.5, -2]},
+			"name": "rod2_7",
+			"from": [6.5, 10, -2],
+			"to": [7.5, 11, 1],
+			"rotation": {"angle": 45, "axis": "z", "origin": [7, 12, 10]},
 			"faces": {
 				"north": {"uv": [6, 9, 5, 10], "rotation": 90, "texture": "#1"},
 				"east": {"uv": [5, 12, 6, 9], "rotation": 270, "texture": "#1"},
@@ -270,10 +256,10 @@
 			}
 		},
 		{
-			"name": "rod2_9",
-			"from": [6.5, 8.5, -2],
-			"to": [7.5, 9.5, 1],
-			"rotation": {"angle": 45, "axis": "z", "origin": [7, 12.5, -2]},
+			"name": "rod2_8",
+			"from": [6.5, 9, -1],
+			"to": [7.5, 10, 2],
+			"rotation": {"angle": 45, "axis": "z", "origin": [7, 12, 10]},
 			"faces": {
 				"north": {"uv": [5, 10, 4, 11], "rotation": 90, "texture": "#1"},
 				"east": {"uv": [4, 13, 5, 10], "rotation": 270, "texture": "#1"},
@@ -284,10 +270,10 @@
 			}
 		},
 		{
-			"name": "rod2_10",
-			"from": [6.5, 7.5, -1],
-			"to": [7.5, 8.5, 3],
-			"rotation": {"angle": 45, "axis": "z", "origin": [7, 12.5, -2]},
+			"name": "rod2_9",
+			"from": [6.5, 8, 0],
+			"to": [7.5, 9, 4],
+			"rotation": {"angle": 45, "axis": "z", "origin": [7, 12, 10]},
 			"faces": {
 				"north": {"uv": [4, 11, 3, 12], "rotation": 90, "texture": "#1"},
 				"east": {"uv": [3, 15, 4, 11], "rotation": 270, "texture": "#1"},
@@ -298,10 +284,10 @@
 			}
 		},
 		{
-			"name": "rod2_11",
-			"from": [6.5, 5.5, 0],
-			"to": [7.5, 7.5, 4],
-			"rotation": {"angle": 45, "axis": "z", "origin": [7, 12.5, -2]},
+			"name": "rod2_10",
+			"from": [6.5, 6, 1],
+			"to": [7.5, 8, 5],
+			"rotation": {"angle": 45, "axis": "z", "origin": [7, 12, 10]},
 			"faces": {
 				"north": {"uv": [3, 12, 1, 13], "rotation": 90, "texture": "#1"},
 				"east": {"uv": [1, 16, 3, 12], "rotation": 270, "texture": "#1"},
@@ -312,10 +298,10 @@
 			}
 		},
 		{
-			"name": "rod2_12",
-			"from": [6.5, 4.5, 1],
-			"to": [7.5, 5.5, 4],
-			"rotation": {"angle": 45, "axis": "z", "origin": [7, 12.5, -2]},
+			"name": "rod2_11",
+			"from": [6.5, 5, 2],
+			"to": [7.5, 6, 5],
+			"rotation": {"angle": 45, "axis": "z", "origin": [7, 12, 10]},
 			"faces": {
 				"north": {"uv": [1, 13, 0, 14], "rotation": 90, "texture": "#1"},
 				"east": {"uv": [0, 16, 1, 13], "rotation": 270, "texture": "#1"},
@@ -422,23 +408,23 @@
 			"children": [9]
 		},
 		{
-			"name": "rod",
+			"name": "rod2",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"children": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]
+			"children": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
 		},
-		23,
+		22,
 		{
 			"name": "leg_right",
 			"origin": [8, 1, 8],
 			"color": 0,
-			"children": [24, 25]
+			"children": [23, 24]
 		},
 		{
 			"name": "leg_left",
 			"origin": [8, 1, 8],
 			"color": 0,
-			"children": [26, 27]
+			"children": [25, 26]
 		}
 	]
 }
