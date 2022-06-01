@@ -106,6 +106,24 @@
                 "custom_model_data": 618
             },
             "model": "item/potion"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20233
+            },
+            "model": "item/other/potion/20233"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20234
+            },
+            "model": "item/other/potion/20234"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20235
+            },
+            "model": "item/potion"
         }
     ]
 }
