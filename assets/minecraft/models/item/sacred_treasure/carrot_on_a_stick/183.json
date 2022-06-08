@@ -1,3 +1,6 @@
 {
-    "parent": "item/ender_eye"
+    "parent": "item/generated_32",
+    "textures": {
+        "layer0": "item/sacred_treasure/carrot_on_a_stick/183"
+    }
 }
