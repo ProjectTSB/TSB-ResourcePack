@@ -124,6 +124,36 @@
                 "custom_model_data": 20235
             },
             "model": "item/potion"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20237
+            },
+            "model": "item/other/potion/20237"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20238
+            },
+            "model": "item/other/potion/20238"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20239
+            },
+            "model": "item/other/potion/20239"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20240
+            },
+            "model": "item/other/potion/20240"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20241
+            },
+            "model": "item/potion"
         }
     ]
 }

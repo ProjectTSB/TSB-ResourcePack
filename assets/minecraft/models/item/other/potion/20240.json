@@ -1,0 +1,7 @@
+{
+    "parent": "item/other/potion/20237",
+    "textures": {
+        "layer0": "item/other/potion/20240_overlay",
+        "layer1": "item/other/potion/20240"
+    }
+}
