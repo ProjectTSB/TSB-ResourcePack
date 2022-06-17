@@ -153,6 +153,12 @@
             "predicate": {
                 "custom_model_data": 20241
             },
+            "model": "item/other/potion/20241"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20242
+            },
             "model": "item/potion"
         }
     ]
