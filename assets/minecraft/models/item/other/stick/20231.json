@@ -3,7 +3,7 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"1": "item/other/stick/20231/yellow_fish"
-    	},
+	},
 	"elements": [
 		{
 			"from": [5.5, 5, 4],
@@ -34,14 +34,10 @@
 		{
 			"from": [8, 5, 12],
 			"to": [8, 9, 15],
-			"rotation": {"angle": 0, "axis": "y", "origin": [4, 4.5, 4]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 12.25]},
 			"faces": {
-				"north": {"uv": [0, 0, 0, 2], "texture": "#1"},
 				"east": {"uv": [2.5, 5, 4, 7], "texture": "#1"},
-				"south": {"uv": [0, 0, 0, 2], "texture": "#1"},
-				"west": {"uv": [4, 5, 5.5, 7], "texture": "#1"},
-				"up": {"uv": [0, 1.5, 0, 0], "texture": "#1"},
-				"down": {"uv": [0, 0, 0, 1.5], "texture": "#1"}
+				"west": {"uv": [4, 5, 5.5, 7], "texture": "#1"}
 			}
 		},
 		{
