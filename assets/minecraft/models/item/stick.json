@@ -674,6 +674,12 @@
             "predicate": {
                 "custom_model_data": 20076
             },
+            "model": "item/mob/stick/20076"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20077
+            },
             "model": "item/stick"
         },
         {
