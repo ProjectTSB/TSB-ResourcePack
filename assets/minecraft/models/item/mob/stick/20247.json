@@ -1,0 +1,42 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "item/mob/stick/20246/texture"
+	},
+	"elements": [
+		{
+			"from": [-2, 1, 6],
+			"to": [2, 7, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, 1, 10]},
+			"faces": {
+				"north": {"uv": [3, 6.5, 4, 8], "texture": "#1"},
+				"east": {"uv": [2, 6.5, 3, 8], "texture": "#1"},
+				"south": {"uv": [1, 6.5, 2, 8], "texture": "#1"},
+				"west": {"uv": [0, 6.5, 1, 8], "texture": "#1"},
+				"up": {"uv": [2, 4, 3, 5], "texture": "#1"},
+				"down": {"uv": [2, 5, 3, 4], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [-6, -2, 5.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 0, 0],
+			"translation": [-11.25, -2, 5.5],
+			"scale": [1.52, 1.52, 1.52]
+		}
+	},
+	"groups": [
+		0,
+		{
+			"name": "juel",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": []
+		}
+	]
+}
