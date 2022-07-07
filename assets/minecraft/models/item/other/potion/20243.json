@@ -1,0 +1,19 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/other/potion/none",
+        "layer1": "item/other/potion/20243"
+    },
+    "display": {
+  "head": {
+      "rotation": [ 0, 0, 0 ],
+      "translation": [ -12, 10, 0],
+      "scale":[ 4, 4, 0]
+  },
+  "thirdperson_righthand": {
+    "rotation": [ 0, -90, 0 ],
+    "translation": [ 0, 0, 0],
+    "scale":[ 4, 4, 0]
+}
+}
+}

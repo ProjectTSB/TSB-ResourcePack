@@ -152,7 +152,7 @@
             "predicate": {
                 "custom_model_data": 89
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/sacred_treasure/carrot_on_a_stick/89"
         },
         {
             "predicate": {
@@ -387,6 +387,18 @@
                 "custom_model_data": 227
             },
             "model": "item/sacred_treasure/carrot_on_a_stick/227"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 233
+            },
+            "model": "item/sacred_treasure/carrot_on_a_stick/233"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 234
+            },
+            "model": "item/carrot_on_a_stick"
         },
         {
             "predicate": {
@@ -1039,6 +1051,30 @@
         {
             "predicate": {
                 "custom_model_data": 974
+            },
+            "model": "item/carrot_on_a_stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 976
+            },
+            "model": "item/sacred_treasure/carrot_on_a_stick/976"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 977
+            },
+            "model": "item/carrot_on_a_stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 981
+            },
+            "model": "item/sacred_treasure/carrot_on_a_stick/981"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 982
             },
             "model": "item/carrot_on_a_stick"
         },
