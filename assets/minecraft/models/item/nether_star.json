@@ -6,6 +6,18 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 801
+            },
+            "model": "item/sacred_treasure/nether_star/801"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 802
+            },
+            "model": "item/nether_star"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 20112
             },
             "model": "item/other/nether_star/20112"
