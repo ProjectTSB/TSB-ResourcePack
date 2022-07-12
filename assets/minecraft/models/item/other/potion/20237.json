@@ -8,12 +8,12 @@
   "head": {
       "rotation": [ 0, 0, 0 ],
       "translation": [ -12, 10, 0],
-      "scale":[ 4, 4, 0]
+      "scale":[ 4, 4, 0.2]
   },
   "thirdperson_righthand": {
     "rotation": [ 0, -90, 0 ],
     "translation": [ 0, 0, 0],
-    "scale":[ 4, 4, 0]
+    "scale":[ 4, 4, 0.2]
 }
 }
 }
