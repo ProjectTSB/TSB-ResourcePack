@@ -3,7 +3,7 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"1": "item/sacred_treasure/carrot_on_a_stick/210/terra_blade"
-				},
+	},
 	"elements": [
 		{
 			"name": "blade",
@@ -771,15 +771,15 @@
 		"ground": {
 			"rotation": [0, 0, 45],
 			"translation": [0, 5, 0],
-			"scale": [0.5, 0.5, 0.5]
+			"scale": [0.35, 0.35, 0.35]
 		},
 		"gui": {
 			"rotation": [0, -180, 45],
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"head": {
-			"scale": [1.5, 1.5, 1.5],
-			"translation": [0, -5, 0]
+			"translation": [0, -5, 0],
+			"scale": [1.5, 1.5, 1.5]
 		},
 		"fixed": {
 			"rotation": [0, 0, 45],
