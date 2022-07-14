@@ -1,0 +1,26 @@
+{
+    "parent": "item/sacred_treasure/shield/967",
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-131.57, 41.08, -172.9],
+			"translation": [2, -5.75, -6.5],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-131.57, 41.08, -172.9],
+			"translation": [2, -5.75, -6.5],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -180, -12],
+			"translation": [0, -15, -1.5],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -180, -12],
+			"translation": [0, -15, -1.5],
+			"scale": [1.25, 1.25, 1.25]
+		}
+	}
+}
