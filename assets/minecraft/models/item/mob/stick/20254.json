@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/mob/stick/20254/angel",
-		"particle": "item/mob/stick/20254/angel"
+		"0": "item/mob/stick/20252/angel",
+		"particle": "item/mob/stick/20252/angel"
 	},
 	"elements": [
 		{
