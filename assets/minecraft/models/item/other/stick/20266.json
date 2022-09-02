@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/other/stick/20266"
+    },
+    "display": {
+        "ground": {
+            "scale": [4, 4, 0.1]
+        }
+    }
+}
