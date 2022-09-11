@@ -1,5 +1,5 @@
 {
-    "parent": "item/generated_32",
+    "parent": "item/generated",
     "textures": {
         "layer0": "item/sacred_treasure/apple/43"
     }
