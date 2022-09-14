@@ -1172,7 +1172,7 @@
             "predicate": {
                 "custom_model_data": 20179
             },
-            "model": "item/sacred_treasure/stick/20179"
+            "model": "item/mob/stick/20179"
         },
         {
             "predicate": {
