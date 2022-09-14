@@ -1,5 +1,9 @@
 {
     "credit": "by yavu",
+	"textures": {
+		"missing": "item/other/missing/missing",
+		"particle": "item/sacred_treasure/other/20001/3"
+	},
     "elements": [
         {
             "from": [

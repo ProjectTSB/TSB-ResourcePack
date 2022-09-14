@@ -7,6 +7,7 @@
         "5": "item/mob/stick/20141/terrible_scout_bomber_body2",
         "8": "item/mob/stick/20141/terrible_scout_bomber_canopy",
         "9": "item/mob/stick/20141/terrible_scout_bomber_roundel",
+		"missing": "item/other/missing/missing",
         "particle": "item/mob/stick/20141/terrible_scout_bomber_camera"
     },
     "elements": [
