@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/other/potion/20268"
+    },
+    "display": {
+        "ground": {
+            "scale": [1.5, 1.5, 0.01],
+            "translation": [ 0, -1, 0]
+        }
+    }
+}
