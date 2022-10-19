@@ -4,6 +4,7 @@
 	"textures": {
 		"0": "item/other/painting/20002/2",
 		"1": "item/other/painting/20002/texture",
+		"missing": "item/other/missing/missing",
 		"particle": "item/other/painting/20002/2"
 	},
 	"elements": [

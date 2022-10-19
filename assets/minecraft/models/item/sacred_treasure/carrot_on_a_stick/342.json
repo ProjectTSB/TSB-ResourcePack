@@ -1,6 +1,7 @@
 {
 	"textures": {
-		"1": "item/sacred_treasure/carrot_on_a_stick/342/superdragon"
+		"1": "item/sacred_treasure/carrot_on_a_stick/342/superdragon",
+		"missing": "item/other/missing/missing"
 	},
 	"elements": [
 		{

@@ -4,6 +4,7 @@
 	"textures": {
 		"0": "item/sacred_treasure/other/20001/3",
 		"1": "item/sacred_treasure/other/20001/texture",
+		"missing": "item/other/missing/missing",
 		"particle": "item/sacred_treasure/other/20001/3"
 	},
 	"elements": [

@@ -2,6 +2,7 @@
     "credit": "Made with Blockbench",
     "textures": {
         "0": "item/sacred_treasure/carrot_on_a_stick/5/matchlock",
+        "missing": "item/other/missing/missing",
         "particle": "item/sacred_treasure/carrot_on_a_stick/5/matchlock"
     },
     "elements": [
