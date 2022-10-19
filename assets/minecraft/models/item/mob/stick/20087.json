@@ -1,6 +1,0 @@
-{
-    "parent": "item/mob/stick/20086",
-    "textures": {
-        "0": "item/mob/stick/20087/eye_close"
-    }
-}
