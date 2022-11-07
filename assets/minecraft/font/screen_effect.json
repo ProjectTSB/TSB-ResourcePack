@@ -8,6 +8,24 @@
             "chars": [
                 "\uE010"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/screen_effect/boss_intro/red_knight/1.png",
+            "height": 64,
+            "ascent": 38,
+            "chars": [
+                "\uE013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/screen_effect/boss_intro/red_knight/2.png",
+            "height": 64,
+            "ascent": 38,
+            "chars": [
+                "\uE014"
+            ]
         }
     ]
 }
