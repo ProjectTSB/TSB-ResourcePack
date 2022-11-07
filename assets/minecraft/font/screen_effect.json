@@ -1,0 +1,13 @@
+{
+    "providers": [
+            {
+            "type": "bitmap",
+            "file": "minecraft:font/screen_effect/fade.png",
+            "height": 3200,
+            "ascent": 128,
+            "chars": [
+                "\uE010"
+            ]
+        }
+    ]
+}
