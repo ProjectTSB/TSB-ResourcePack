@@ -1,6 +1,7 @@
 {
 	"textures": {
-		"0": "item/mob/stick/20217/2"
+		"0": "item/mob/stick/20217/2",
+		"missing": "item/other/missing/missing"
 	},
 	"elements": [
 		{
