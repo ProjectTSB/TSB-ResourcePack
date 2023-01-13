@@ -12,8 +12,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/screen_effect/boss_intro/tultaria/1.png",
-            "height": 64,
-            "ascent": 38,
+            "height": 32,
+            "ascent": 19,
             "chars": [
                 "\uE011"
             ]
@@ -21,8 +21,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/screen_effect/boss_intro/tultaria/2.png",
-            "height": 64,
-            "ascent": 38,
+            "height": 32,
+            "ascent": 19,
             "chars": [
                 "\uE012"
             ]
