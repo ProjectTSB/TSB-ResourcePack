@@ -2,12 +2,20 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:font/icon.png",
+            "file": "minecraft:font/icon/god.png",
             "ascent": 8,
             "height": 9,
             "chars": [
                 "\uE010\uE011\uE012\uE013",
-                "\uE014\uE015\uE016\uE017",
+                "\uE014\uE015\uE016\uE017"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/element.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
                 "\uE018\uE019\uE01A\uE01B",
                 "\uE01C\uE01D\uE01E\uE01F"
             ]
