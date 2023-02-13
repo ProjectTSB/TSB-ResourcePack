@@ -1,3 +1,6 @@
 {
-    "parent": "item/golden_sword"
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/sacred_treasure/stick/57"
+    }
 }
