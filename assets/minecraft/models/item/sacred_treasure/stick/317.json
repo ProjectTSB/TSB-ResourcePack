@@ -1,5 +1,5 @@
 {
-    "parent": "item/handheld_32",
+    "parent": "item/handheld/32",
     "textures": {
         "layer0": "item/sacred_treasure/stick/317"
     },
