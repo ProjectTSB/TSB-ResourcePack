@@ -1,0 +1,45 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"3": "item/other/stick/20298/brave_knight"
+	},
+	"elements": [
+		{
+			"from": [6.5, 5, 8.5],
+			"to": [9.5, 8, 13.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3, 8]},
+			"faces": {
+				"north": {"uv": [6.5, 10, 5.75, 10.75], "rotation": 180, "texture": "#3"},
+				"east": {"uv": [8.25, 9, 9, 10.25], "rotation": 270, "texture": "#3"},
+				"south": {"uv": [3, 10.75, 2.25, 10], "texture": "#3"},
+				"west": {"uv": [0, 9.25, 0.75, 10.5], "rotation": 90, "texture": "#3"},
+				"up": {"uv": [9, 5.25, 9.75, 6.5], "rotation": 180, "texture": "#3"},
+				"down": {"uv": [9, 9, 9.75, 10.25], "texture": "#3"}
+			}
+		},
+		{
+			"from": [7, 5.5, 6.5],
+			"to": [9, 7.5, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3, 8]},
+			"faces": {
+				"north": {"uv": [4, 10.25, 3.5, 10.75], "rotation": 180, "texture": "#3"},
+				"east": {"uv": [8.25, 10.25, 8.75, 10.5], "rotation": 270, "texture": "#3"},
+				"south": {"uv": [8.25, 10.5, 7.75, 10], "texture": "#3"},
+				"west": {"uv": [9.25, 10.25, 9.75, 10.5], "rotation": 90, "texture": "#3"},
+				"up": {"uv": [7.25, 10.25, 7.75, 10.5], "rotation": 180, "texture": "#3"},
+				"down": {"uv": [8.75, 10.25, 9.25, 10.5], "texture": "#3"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_lefthand": {
+			"translation": [0, 0, 1],
+			"scale": [1.28, 1.28, 1.28]
+		},
+		"head": {
+			"translation": [0, -9.1, 0],
+			"scale": [1.28, 1.28, 1.28]
+		}
+	}
+}
