@@ -12,6 +12,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 58
+            },
+            "model": "item/stick"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 77
             },
             "model": "item/sacred_treasure/stick/77"
@@ -289,6 +295,30 @@
         {
             "predicate": {
                 "custom_model_data": 736
+            },
+            "model": "item/stick"
+        },        
+        {
+            "predicate": {
+                "custom_model_data": 740
+            },
+            "model": "item/sacred_treasure/stick/740"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 741
+            },
+            "model": "item/stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 743
+            },
+            "model": "item/sacred_treasure/stick/743"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 744
             },
             "model": "item/stick"
         },
@@ -1801,6 +1831,96 @@
         {
             "predicate": {
                 "custom_model_data": 20301
+            },
+            "model": "item/stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20301
+            },
+            "model": "item/other/test/generated/16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20302
+            },
+            "model": "item/other/test/generated/24"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20303
+            },
+            "model": "item/other/test/generated/32"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20304
+            },
+            "model": "item/other/test/handheld/16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20305
+            },
+            "model": "item/other/test/handheld/24"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20306
+            },
+            "model": "item/other/test/handheld/32"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20307
+            },
+            "model": "item/other/test/handheld_rod/16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20308
+            },
+            "model": "item/other/test/handheld_rod/24"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20309
+            },
+            "model": "item/other/test/handheld_rod/32"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20310
+            },
+            "model": "item/other/test/handheld_tsb/16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20311
+            },
+            "model": "item/other/test/handheld_tsb/24"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20312
+            },
+            "model": "item/other/test/handheld_tsb/32"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20313
+            },
+            "model": "item/other/test/generated/thk_24"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20314
+            },
+            "model": "item/other/test/generated/thk_32"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20315
             },
             "model": "item/stick"
         }

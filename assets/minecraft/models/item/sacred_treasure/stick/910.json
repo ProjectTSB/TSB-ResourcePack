@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "item/generated_32",
+	"parent": "item/generated/24",
 	"textures": {
 		"layer0": "item/sacred_treasure/stick/910"
 	},

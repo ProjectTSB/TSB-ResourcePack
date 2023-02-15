@@ -11,49 +11,86 @@
             "hasTextures": false
         },
         {
-            "label": "item/handheld",
-            "description": "剣の持ち方",
-            "hasTextures": false
-        },
-        {
-            "label": "item/handheld_rod",
-            "description": "人参棒の持ち方",
-            "detail": "剣と比べるとテクスチャの向きが違い、一人称視点でアイテムを前方に向けた持ち方をします",
-            "hasTextures": false
-        },
-        {
             "label": "item/bow",
             "description": "弓の持ち方",
             "hasTextures": false
         },
         {
+            "label": "item/handheld",
+            "description": "剣の持ち方",
+            "detail": "テクスチャの左上が一人称視点で前を向く持ち方",
+            "hasTextures": false
+        },
+        {
+            "label": "item/handheld_rod",
+            "description": "釣り竿の持ち方",
+            "detail": "テクスチャの右下が一人称視点で下を向く持ち方",
+            "hasTextures": false
+        },
+        {
             "label": "item/handheld_tsb",
-            "description": "特殊な持ち方",
-            "detail": "人参棒と同じテクスチャの向きで、一人称視点が剣と同じ持ち方をします。",
+            "description": "反転した剣の持ち方",
+            "detail": "テクスチャの右下が一人称視点で前を向く持ち方",
             "hasTextures": false
         },
         {
-            "label": "item/generated_32",
-            "description": "32px用の通常のアイテムの持ち方",
-            "detail": "通常に比べてアイテムが薄く描画されるよ。それ以外は`item/generated`と同じ。",
+            "label": "item/generated/thk_24",
+            "description": "通常のアイテムの持ち方 (24x24,厚み16)",
+            "detail": "モデルの厚みのみ24x24に合わせた16x16サイズの generated",
             "hasTextures": false
         },
         {
-            "label": "item/handheld_32",
-            "description": "32px用の剣の持ち方",
-            "detail": "通常に比べてアイテムが薄く描画されるよ。それ以外は`item/handheld`と同じ。",
+            "label": "item/generated/24",
+            "description": "通常のアイテムの持ち方 (24x24)",
+            "detail": "全てのサイズを24x24に合わせた generated",
             "hasTextures": false
         },
         {
-            "label": "item/handheld_rod_32",
-            "description": "32px用の人参棒の持ち方",
-            "detail": "通常に比べてアイテムが薄く描画されるよ。それ以外は`item/handheld_rod`と同じ。",
+            "label": "item/handheld/24",
+            "description": "剣の持ち方 (24x24)",
+            "detail": "全てのサイズを24x24に合わせた handheld",
             "hasTextures": false
         },
         {
-            "label": "item/handheld_tsb_32",
-            "description": "32px用の特殊な持ち方",
-            "detail": "通常に比べてアイテムが薄く描画されるよ。それ以外は`item/handheld_tsb`と同じ。",
+            "label": "item/handheld_rod/24",
+            "description": "釣り竿の持ち方 (24x24)",
+            "detail": "全てのサイズを24x24に合わせた handheld_rod",
+            "hasTextures": false
+        },
+        {
+            "label": "item/handheld_tsb/24",
+            "description": "反転した剣の持ち方 (24x24)",
+            "detail": "全てのサイズを24x24に合わせた handheld_tsb",
+            "hasTextures": false
+        },
+        {
+            "label": "item/generated/thk_32",
+            "description": "通常のアイテムの持ち方 (32x32,厚み16)",
+            "detail": "モデルの厚みのみ32x32に合わせた16x16サイズの generated",
+            "hasTextures": false
+        },
+        {
+            "label": "item/generated/32",
+            "description": "通常のアイテムの持ち方 (32x32)",
+            "detail": "全てのサイズを32x32に合わせた generated",
+            "hasTextures": false
+        },
+        {
+            "label": "item/handheld/32",
+            "description": "剣の持ち方 (32x32)",
+            "detail": "全てのサイズを32x32に合わせた handheld",
+            "hasTextures": false
+        },
+        {
+            "label": "item/handheld_rod/32",
+            "description": "釣り竿の持ち方 (32x32)",
+            "detail": "全てのサイズを32x32に合わせた handheld_rod",
+            "hasTextures": false
+        },
+        {
+            "label": "item/handheld_tsb/32",
+            "description": "反転した剣の持ち方 (32x32)",
+            "detail": "全てのサイズを32x32に合わせた handheld_tsb",
             "hasTextures": false
         }
     ],

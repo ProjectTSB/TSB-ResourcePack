@@ -1,0 +1,20 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/dried_kelp"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "item/sacred_treasure/dried_kelp/12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "item/dried_kelp"
+        }
+    ]
+}

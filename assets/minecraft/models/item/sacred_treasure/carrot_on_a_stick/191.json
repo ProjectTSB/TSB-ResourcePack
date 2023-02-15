@@ -1,5 +1,5 @@
 {
-    "parent": "item/handheld",
+    "parent": "item/handheld/24",
     "textures": {
         "layer0": "item/sacred_treasure/carrot_on_a_stick/191"
     }
