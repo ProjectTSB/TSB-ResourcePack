@@ -34,51 +34,63 @@
             "hasTextures": false
         },
         {
+            "label": "item/generated/thk_24",
+            "description": "通常のアイテムの持ち方 (24x24,厚み16)",
+            "detail": "モデルの厚みのみ24x24に合わせた16x16サイズの generated",
+            "hasTextures": false
+        },
+        {
             "label": "item/generated/24",
-            "description": "通常のアイテムの持ち方 24x24",
-            "detail": "24x24テクスチャ用の generated",
+            "description": "通常のアイテムの持ち方 (24x24)",
+            "detail": "全てのサイズを24x24に合わせた generated",
             "hasTextures": false
         },
         {
             "label": "item/handheld/24",
-            "description": "剣の持ち方 24x24",
-            "detail": "24x24テクスチャ用の handheld",
+            "description": "剣の持ち方 (24x24)",
+            "detail": "全てのサイズを24x24に合わせた handheld",
             "hasTextures": false
         },
         {
             "label": "item/handheld_rod/24",
-            "description": "釣り竿の持ち方 24x24",
-            "detail": "24x24テクスチャ用の handheld_rod",
+            "description": "釣り竿の持ち方 (24x24)",
+            "detail": "全てのサイズを24x24に合わせた handheld_rod",
             "hasTextures": false
         },
         {
             "label": "item/handheld_tsb/24",
-            "description": "反転した剣の持ち方 24x24",
-            "detail": "24x24テクスチャ用の handheld_tsb",
+            "description": "反転した剣の持ち方 (24x24)",
+            "detail": "全てのサイズを24x24に合わせた handheld_tsb",
+            "hasTextures": false
+        },
+        {
+            "label": "item/generated/thk_32",
+            "description": "通常のアイテムの持ち方 (32x32,厚み16)",
+            "detail": "モデルの厚みのみ32x32に合わせた16x16サイズの generated",
             "hasTextures": false
         },
         {
             "label": "item/generated/32",
-            "description": "通常のアイテムの持ち方 32x32",
-            "detail": "32x32テクスチャ用の generated",
+            "description": "通常のアイテムの持ち方 (32x32)",
+            "detail": "全てのサイズを32x32に合わせた generated",
             "hasTextures": false
         },
         {
             "label": "item/handheld/32",
-            "description": "剣の持ち方 32x32",
-            "detail": "32x32テクスチャ用の handheld",
+            "description": "剣の持ち方 (32x32)",
+            "detail": "全てのサイズを32x32に合わせた handheld",
             "hasTextures": false
         },
         {
             "label": "item/handheld_rod/32",
-            "description": "釣り竿の持ち方 32x32",
-            "detail": "32x32テクスチャ用の handheld_rod",
+            "description": "釣り竿の持ち方 (32x32)",
+            "detail": "全てのサイズを32x32に合わせた handheld_rod",
             "hasTextures": false
         },
         {
             "label": "item/handheld_tsb/32",
-            "description": "反転した剣の持ち方 32x32",
-            "detail": "32x32テクスチャ用の handheld_tsb",
+            "description": "反転した剣の持ち方 (32x32)",
+            "detail": "全てのサイズを32x32に合わせた handheld_tsb",
             "hasTextures": false
         }
     ],

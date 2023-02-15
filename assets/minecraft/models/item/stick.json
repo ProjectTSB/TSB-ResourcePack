@@ -1892,6 +1892,18 @@
             "predicate": {
                 "custom_model_data": 20313
             },
+            "model": "item/other/test/generated/thk_24"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20314
+            },
+            "model": "item/other/test/generated/thk_32"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20315
+            },
             "model": "item/stick"
         }
     ]

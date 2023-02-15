@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated/thk_24",
+    "textures": {
+        "layer0": "item/other/test/24"
+    }
+}
