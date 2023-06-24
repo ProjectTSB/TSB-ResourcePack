@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "item/sacred_treasure/carrot_on_a_stick/1024/brave_grimore"
+		"2": "item/sacred_treasure/carrot_on_a_stick/1023/brave_bow"
 	},
 	"elements": [
 		{
