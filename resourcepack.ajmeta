@@ -4,13 +4,12 @@
         "4d97de26-5d50-c660-cd1a-c2fbc2b035e8": {
             "project_name": "blazing_inferno",
             "file_list": [
-                "assets\\animated_java\\models\\item\\blazing_inferno\\helm.json",
-                "assets\\animated_java\\models\\item\\blazing_inferno\\head.json",
                 "assets\\animated_java\\models\\item\\blazing_inferno\\body.json",
                 "assets\\animated_java\\models\\item\\blazing_inferno\\left_hand.json",
                 "assets\\animated_java\\models\\item\\blazing_inferno\\left_arm.json",
                 "assets\\animated_java\\models\\item\\blazing_inferno\\right_hand.json",
                 "assets\\animated_java\\models\\item\\blazing_inferno\\right_arm.json",
+                "assets\\animated_java\\models\\item\\blazing_inferno\\head.json",
                 "assets\\animated_java\\models\\item\\blazing_inferno\\bottom.json",
                 "assets\\animated_java\\textures\\item\\blazing_inferno\\blazing.png",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
