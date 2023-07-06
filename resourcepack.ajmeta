@@ -14,6 +14,44 @@
                 "assets\\animated_java\\textures\\item\\blazing_inferno\\blazing.png",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
             ]
+        },
+        "9e4375b9-78a5-4134-d201-9f09a3703a31": {
+            "project_name": "tultaria",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\tultaria\\head.json",
+                "assets\\animated_java\\models\\item\\tultaria\\bust.json",
+                "assets\\animated_java\\models\\item\\tultaria\\left_wing.json",
+                "assets\\animated_java\\models\\item\\tultaria\\right_wing.json",
+                "assets\\animated_java\\models\\item\\tultaria\\body.json",
+                "assets\\animated_java\\models\\item\\tultaria\\left_hand.json",
+                "assets\\animated_java\\models\\item\\tultaria\\left_arm.json",
+                "assets\\animated_java\\models\\item\\tultaria\\rod.json",
+                "assets\\animated_java\\models\\item\\tultaria\\right_hand.json",
+                "assets\\animated_java\\models\\item\\tultaria\\right_arm.json",
+                "assets\\animated_java\\models\\item\\tultaria\\skirt.json",
+                "assets\\animated_java\\models\\item\\tultaria\\left_foot.json",
+                "assets\\animated_java\\models\\item\\tultaria\\left_leg.json",
+                "assets\\animated_java\\models\\item\\tultaria\\right_foot.json",
+                "assets\\animated_java\\models\\item\\tultaria\\right_leg.json",
+                "assets\\animated_java\\models\\item\\tultaria\\lower.json",
+                "assets\\animated_java\\models\\item\\tultaria\\no_wing\\head.json",
+                "assets\\animated_java\\models\\item\\tultaria\\no_wing\\bust.json",
+                "assets\\animated_java\\models\\item\\tultaria\\no_wing\\left_wing.json",
+                "assets\\animated_java\\models\\item\\tultaria\\no_wing\\right_wing.json",
+                "assets\\animated_java\\models\\item\\tultaria\\no_wing\\body.json",
+                "assets\\animated_java\\models\\item\\tultaria\\no_wing\\left_hand.json",
+                "assets\\animated_java\\models\\item\\tultaria\\no_wing\\left_arm.json",
+                "assets\\animated_java\\models\\item\\tultaria\\no_wing\\rod.json",
+                "assets\\animated_java\\models\\item\\tultaria\\no_wing\\right_hand.json",
+                "assets\\animated_java\\models\\item\\tultaria\\no_wing\\right_arm.json",
+                "assets\\animated_java\\models\\item\\tultaria\\no_wing\\skirt.json",
+                "assets\\animated_java\\models\\item\\tultaria\\no_wing\\left_foot.json",
+                "assets\\animated_java\\models\\item\\tultaria\\no_wing\\left_leg.json",
+                "assets\\animated_java\\models\\item\\tultaria\\no_wing\\right_foot.json",
+                "assets\\animated_java\\models\\item\\tultaria\\no_wing\\right_leg.json",
+                "assets\\animated_java\\models\\item\\tultaria\\no_wing\\lower.json",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
         }
     }
 }
