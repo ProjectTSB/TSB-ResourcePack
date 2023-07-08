@@ -1,5 +1,5 @@
 {
-    "version": "0.4.4",
+    "version": "0.4.6",
     "projects": {
         "4d97de26-5d50-c660-cd1a-c2fbc2b035e8": {
             "project_name": "blazing_inferno",
@@ -26,6 +26,7 @@
                 "assets\\animated_java\\models\\item\\tultaria\\left_hand.json",
                 "assets\\animated_java\\models\\item\\tultaria\\left_arm.json",
                 "assets\\animated_java\\models\\item\\tultaria\\rod.json",
+                "assets\\animated_java\\models\\item\\tultaria\\sword.json",
                 "assets\\animated_java\\models\\item\\tultaria\\right_hand.json",
                 "assets\\animated_java\\models\\item\\tultaria\\right_arm.json",
                 "assets\\animated_java\\models\\item\\tultaria\\skirt.json",
@@ -42,6 +43,7 @@
                 "assets\\animated_java\\models\\item\\tultaria\\no_wing\\left_hand.json",
                 "assets\\animated_java\\models\\item\\tultaria\\no_wing\\left_arm.json",
                 "assets\\animated_java\\models\\item\\tultaria\\no_wing\\rod.json",
+                "assets\\animated_java\\models\\item\\tultaria\\no_wing\\sword.json",
                 "assets\\animated_java\\models\\item\\tultaria\\no_wing\\right_hand.json",
                 "assets\\animated_java\\models\\item\\tultaria\\no_wing\\right_arm.json",
                 "assets\\animated_java\\models\\item\\tultaria\\no_wing\\skirt.json",
