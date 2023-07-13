@@ -12,30 +12,6 @@
 		},
 		{
 			"predicate": {
-				"custom_model_data": 1
-			},
-			"model": "item/animated_java_empty"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1
-			},
-			"model": "item/animated_java_empty"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1
-			},
-			"model": "item/animated_java_empty"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1
-			},
-			"model": "item/animated_java_empty"
-		},
-		{
-			"predicate": {
 				"custom_model_data": 2
 			},
 			"model": "animated_java:item/blazing_inferno/body"
