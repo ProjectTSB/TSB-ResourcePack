@@ -1,8 +1,6 @@
 {
 	"parent": "animated_java:item/tultaria/bust",
 	"textures": {
-		"0": "animated_java:item/tultaria/texture_nowing",
-		"1": "animated_java:item/tultaria/texture_nowing",
-		"2": "animated_java:item/tultaria/rod"
+		"0": "animated_java:item/tultaria/texture_nowing"
 	}
 }
