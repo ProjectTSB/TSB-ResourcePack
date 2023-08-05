@@ -1,7 +1,4 @@
 {
 	"parent": "animated_java:item/haruclaire_illusion/hat",
-	"textures": {
-		"0": "animated_java:item/haruclaire_illusion/haruclaire_illusion_0",
-		"1": "animated_java:item/haruclaire_illusion/haruclaire_illusion_1"
-	}
+	"textures": {}
 }
