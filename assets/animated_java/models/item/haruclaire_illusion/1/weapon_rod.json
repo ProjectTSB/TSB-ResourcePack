@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:item/haruclaire_illusion/weapon_rod",
+	"textures": {
+		"0": "animated_java:item/haruclaire_illusion/haruclaire_illusion_1"
+	}
+}

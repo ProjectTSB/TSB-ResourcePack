@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:item/haruclaire_illusion/body_1",
+	"textures": {
+		"0": "animated_java:item/haruclaire_illusion/haruclaire_illusion_1"
+	}
+}

@@ -246,319 +246,613 @@
 		},
 		{
 			"predicate": {
-				"custom_model_data": 41
-			},
-			"model": "animated_java:item/tultaria/no_wing/right_leg"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 42
-			},
-			"model": "animated_java:item/tultaria/no_wing/lower"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 41
+				"custom_model_data": 43
 			},
 			"model": "animated_java:item/haruclaire/hat"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 42
+				"custom_model_data": 44
 			},
 			"model": "animated_java:item/haruclaire/head"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 43
+				"custom_model_data": 45
 			},
 			"model": "animated_java:item/haruclaire/weapon_rod"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 44
+				"custom_model_data": 46
 			},
 			"model": "animated_java:item/haruclaire/arm_right_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 45
+				"custom_model_data": 47
 			},
 			"model": "animated_java:item/haruclaire/arm_right_0"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 46
+				"custom_model_data": 48
 			},
 			"model": "animated_java:item/haruclaire/weapon_sword2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 47
+				"custom_model_data": 49
 			},
 			"model": "animated_java:item/haruclaire/arm_left_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 48
+				"custom_model_data": 50
 			},
 			"model": "animated_java:item/haruclaire/arm_left_0"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 49
+				"custom_model_data": 51
 			},
 			"model": "animated_java:item/haruclaire/wing_right"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 50
+				"custom_model_data": 52
 			},
 			"model": "animated_java:item/haruclaire/wing_left"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 51
+				"custom_model_data": 53
 			},
 			"model": "animated_java:item/haruclaire/body_0"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 52
+				"custom_model_data": 54
 			},
 			"model": "animated_java:item/haruclaire/leg_right_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 53
+				"custom_model_data": 55
 			},
 			"model": "animated_java:item/haruclaire/leg_right_0"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 54
+				"custom_model_data": 56
 			},
 			"model": "animated_java:item/haruclaire/leg_left_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 55
+				"custom_model_data": 57
 			},
 			"model": "animated_java:item/haruclaire/leg_left_0"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 56
+				"custom_model_data": 58
 			},
 			"model": "animated_java:item/haruclaire/ribbon"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 57
+				"custom_model_data": 59
 			},
 			"model": "animated_java:item/haruclaire/body_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 58
+				"custom_model_data": 60
 			},
 			"model": "animated_java:item/haruclaire/blink/hat"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 59
+				"custom_model_data": 61
 			},
 			"model": "animated_java:item/haruclaire/blink/head"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 60
+				"custom_model_data": 62
 			},
 			"model": "animated_java:item/haruclaire/blink/weapon_rod"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 61
+				"custom_model_data": 63
 			},
 			"model": "animated_java:item/haruclaire/blink/arm_right_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 62
+				"custom_model_data": 64
 			},
 			"model": "animated_java:item/haruclaire/blink/arm_right_0"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 63
+				"custom_model_data": 65
 			},
 			"model": "animated_java:item/haruclaire/blink/weapon_sword2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 64
+				"custom_model_data": 66
 			},
 			"model": "animated_java:item/haruclaire/blink/arm_left_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 65
+				"custom_model_data": 67
 			},
 			"model": "animated_java:item/haruclaire/blink/arm_left_0"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 66
+				"custom_model_data": 68
 			},
 			"model": "animated_java:item/haruclaire/blink/wing_right"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 67
+				"custom_model_data": 69
 			},
 			"model": "animated_java:item/haruclaire/blink/wing_left"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 68
+				"custom_model_data": 70
 			},
 			"model": "animated_java:item/haruclaire/blink/body_0"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 69
+				"custom_model_data": 71
 			},
 			"model": "animated_java:item/haruclaire/blink/leg_right_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 70
+				"custom_model_data": 72
 			},
 			"model": "animated_java:item/haruclaire/blink/leg_right_0"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 71
+				"custom_model_data": 73
 			},
 			"model": "animated_java:item/haruclaire/blink/leg_left_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 72
+				"custom_model_data": 74
 			},
 			"model": "animated_java:item/haruclaire/blink/leg_left_0"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 73
+				"custom_model_data": 75
 			},
 			"model": "animated_java:item/haruclaire/blink/ribbon"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 74
+				"custom_model_data": 76
 			},
 			"model": "animated_java:item/haruclaire/blink/body_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 75
+				"custom_model_data": 77
 			},
 			"model": "animated_java:item/haruclaire/wink/hat"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 76
+				"custom_model_data": 78
 			},
 			"model": "animated_java:item/haruclaire/wink/head"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 77
+				"custom_model_data": 79
 			},
 			"model": "animated_java:item/haruclaire/wink/weapon_rod"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 78
+				"custom_model_data": 80
 			},
 			"model": "animated_java:item/haruclaire/wink/arm_right_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 79
+				"custom_model_data": 81
 			},
 			"model": "animated_java:item/haruclaire/wink/arm_right_0"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 80
+				"custom_model_data": 82
 			},
 			"model": "animated_java:item/haruclaire/wink/weapon_sword2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 81
+				"custom_model_data": 83
 			},
 			"model": "animated_java:item/haruclaire/wink/arm_left_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 82
+				"custom_model_data": 84
 			},
 			"model": "animated_java:item/haruclaire/wink/arm_left_0"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 83
+				"custom_model_data": 85
 			},
 			"model": "animated_java:item/haruclaire/wink/wing_right"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 84
+				"custom_model_data": 86
 			},
 			"model": "animated_java:item/haruclaire/wink/wing_left"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 85
+				"custom_model_data": 87
 			},
 			"model": "animated_java:item/haruclaire/wink/body_0"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 86
+				"custom_model_data": 88
 			},
 			"model": "animated_java:item/haruclaire/wink/leg_right_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 87
+				"custom_model_data": 89
 			},
 			"model": "animated_java:item/haruclaire/wink/leg_right_0"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 88
+				"custom_model_data": 90
 			},
 			"model": "animated_java:item/haruclaire/wink/leg_left_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 89
+				"custom_model_data": 91
 			},
 			"model": "animated_java:item/haruclaire/wink/leg_left_0"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 90
+				"custom_model_data": 92
+			},
+			"model": "animated_java:item/haruclaire_illusion/hat"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 93
+			},
+			"model": "animated_java:item/haruclaire_illusion/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 94
+			},
+			"model": "animated_java:item/haruclaire_illusion/weapon_rod"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 95
+			},
+			"model": "animated_java:item/haruclaire_illusion/arm_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 96
+			},
+			"model": "animated_java:item/haruclaire_illusion/arm_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 97
+			},
+			"model": "animated_java:item/haruclaire_illusion/weapon_sword2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 98
+			},
+			"model": "animated_java:item/haruclaire_illusion/arm_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 99
+			},
+			"model": "animated_java:item/haruclaire_illusion/arm_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 100
+			},
+			"model": "animated_java:item/haruclaire_illusion/wing_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 101
+			},
+			"model": "animated_java:item/haruclaire_illusion/wing_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 102
+			},
+			"model": "animated_java:item/haruclaire_illusion/body_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 103
+			},
+			"model": "animated_java:item/haruclaire_illusion/leg_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 104
+			},
+			"model": "animated_java:item/haruclaire_illusion/leg_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 105
+			},
+			"model": "animated_java:item/haruclaire_illusion/leg_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 106
+			},
+			"model": "animated_java:item/haruclaire_illusion/leg_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 107
+			},
+			"model": "animated_java:item/haruclaire_illusion/ribbon"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 108
+			},
+			"model": "animated_java:item/haruclaire_illusion/body_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 109
+			},
+			"model": "animated_java:item/haruclaire_illusion/1/hat"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 110
+			},
+			"model": "animated_java:item/haruclaire_illusion/1/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 111
+			},
+			"model": "animated_java:item/haruclaire_illusion/1/weapon_rod"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 112
+			},
+			"model": "animated_java:item/haruclaire_illusion/1/arm_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 113
+			},
+			"model": "animated_java:item/haruclaire_illusion/1/arm_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 114
+			},
+			"model": "animated_java:item/haruclaire_illusion/1/weapon_sword2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 115
+			},
+			"model": "animated_java:item/haruclaire_illusion/1/arm_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 116
+			},
+			"model": "animated_java:item/haruclaire_illusion/1/arm_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 117
+			},
+			"model": "animated_java:item/haruclaire_illusion/1/wing_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 118
+			},
+			"model": "animated_java:item/haruclaire_illusion/1/wing_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 119
+			},
+			"model": "animated_java:item/haruclaire_illusion/1/body_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 120
+			},
+			"model": "animated_java:item/haruclaire_illusion/1/leg_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 121
+			},
+			"model": "animated_java:item/haruclaire_illusion/1/leg_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 122
+			},
+			"model": "animated_java:item/haruclaire_illusion/1/leg_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 123
+			},
+			"model": "animated_java:item/haruclaire_illusion/1/leg_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 124
+			},
+			"model": "animated_java:item/haruclaire_illusion/1/ribbon"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 125
+			},
+			"model": "animated_java:item/haruclaire_illusion/1/body_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 126
+			},
+			"model": "animated_java:item/haruclaire_illusion/2/hat"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 127
+			},
+			"model": "animated_java:item/haruclaire_illusion/2/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 128
+			},
+			"model": "animated_java:item/haruclaire_illusion/2/weapon_rod"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 129
+			},
+			"model": "animated_java:item/haruclaire_illusion/2/arm_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 130
+			},
+			"model": "animated_java:item/haruclaire_illusion/2/arm_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 131
+			},
+			"model": "animated_java:item/haruclaire_illusion/2/weapon_sword2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 132
+			},
+			"model": "animated_java:item/haruclaire_illusion/2/arm_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 133
+			},
+			"model": "animated_java:item/haruclaire_illusion/2/arm_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 134
+			},
+			"model": "animated_java:item/haruclaire_illusion/2/wing_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 135
+			},
+			"model": "animated_java:item/haruclaire_illusion/2/wing_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 136
+			},
+			"model": "animated_java:item/haruclaire_illusion/2/body_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 137
+			},
+			"model": "animated_java:item/haruclaire_illusion/2/leg_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 138
+			},
+			"model": "animated_java:item/haruclaire_illusion/2/leg_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 139
+			},
+			"model": "animated_java:item/haruclaire_illusion/2/leg_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 140
+			},
+			"model": "animated_java:item/haruclaire_illusion/2/leg_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 141
+			},
+			"model": "animated_java:item/haruclaire_illusion/2/ribbon"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 142
+			},
+			"model": "animated_java:item/haruclaire_illusion/2/body_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 143
 			},
 			"model": "animated_java:item/haruclaire/wink/ribbon"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 91
+				"custom_model_data": 144
 			},
 			"model": "animated_java:item/haruclaire/wink/body_1"
 		}
@@ -616,8 +910,6 @@
 			},
 			"haruclaire": {
 				"used_ids": [
-					41,
-					42,
 					43,
 					44,
 					45,
@@ -666,7 +958,64 @@
 					88,
 					89,
 					90,
-					91
+					91,
+					143,
+					144
+				]
+			},
+			"haruclaire_illusion": {
+				"used_ids": [
+					92,
+					93,
+					94,
+					95,
+					96,
+					97,
+					98,
+					99,
+					100,
+					101,
+					102,
+					103,
+					104,
+					105,
+					106,
+					107,
+					108,
+					109,
+					110,
+					111,
+					112,
+					113,
+					114,
+					115,
+					116,
+					117,
+					118,
+					119,
+					120,
+					121,
+					122,
+					123,
+					124,
+					125,
+					126,
+					127,
+					128,
+					129,
+					130,
+					131,
+					132,
+					133,
+					134,
+					135,
+					136,
+					137,
+					138,
+					139,
+					140,
+					141,
+					142
 				]
 			}
 		}
