@@ -294,9 +294,8 @@
 	],
 	"display": {
 		"head": {
-			"rotation": [90, 0, 0],
-			"translation": [0, -5, 10],
-			"scale": [2, 2, 2]
+			"rotation": [-90, 0, 0],
+			"translation": [0, -5, 9.75]
 		}
 	}
 }
