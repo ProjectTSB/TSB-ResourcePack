@@ -1,0 +1,8 @@
+{
+    "parent": "item/other/leather_boots/20335",
+    "textures": {
+        "layer0": "item/other/leather_boots/20337",
+        "layer1": "item/other/leather_boots/20337_overlay"
+
+    }
+}

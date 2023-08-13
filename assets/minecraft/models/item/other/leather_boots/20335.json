@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/other/leather_boots/20335",
+        "layer1": "item/other/leather_boots/20335_overlay"
+    },
+    "display": {
+        "head": {
+            "rotation": [ 0, -90, 0 ],
+            "translation": [ 0, 0, 0],
+            "scale":[ 1, 1, 0]
+        }
+    }
+}
