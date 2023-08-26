@@ -35,6 +35,15 @@
             "chars": [
                 "\uE015"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/screen_effect/boss_intro/hetukedah.png",
+            "height": 64,
+            "ascent": 38,
+            "chars": [
+                "\uE016"
+            ]
         }
     ]
 }
