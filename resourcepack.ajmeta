@@ -52,10 +52,6 @@
                 "assets\\animated_java\\models\\item\\tultaria\\no_wing\\right_foot.json",
                 "assets\\animated_java\\models\\item\\tultaria\\no_wing\\right_leg.json",
                 "assets\\animated_java\\models\\item\\tultaria\\no_wing\\lower.json",
-                "assets\\animated_java\\textures\\item\\tultaria\\texture.png",
-                "assets\\animated_java\\textures\\item\\tultaria\\texture_nowing.png",
-                "assets\\animated_java\\textures\\item\\tultaria\\rod.png",
-                "assets\\animated_java\\textures\\item\\tultaria\\sword.png",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
             ]
         }

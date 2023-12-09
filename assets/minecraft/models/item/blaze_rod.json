@@ -246,6 +246,18 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 41
+			},
+			"model": "animated_java:item/tultaria/no_wing/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 42
+			},
+			"model": "animated_java:item/tultaria/no_wing/lower"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 43
 			},
 			"model": "animated_java:item/haruclaire/hat"
