@@ -1,7 +1,7 @@
 {
     "credit": "Made with Blockbench",
     "textures": {
-        "1": "item/stick/20331/rod"
+        "1": "item/mob/stick/20331/rod"
     },
     "elements": [
         {
