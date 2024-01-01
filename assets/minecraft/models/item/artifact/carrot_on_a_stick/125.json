@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "item/artifact/carrot_on_a_stick/125"
+    }
+}

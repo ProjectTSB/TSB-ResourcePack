@@ -9,7 +9,7 @@
             "predicate": {
                 "custom_model_data": 135
             },
-            "model": "item/sacred_treasure/potion/135"
+            "model": "item/artifact/potion/135"
         },
         {
             "predicate": {
@@ -21,19 +21,19 @@
             "predicate": {
                 "custom_model_data": 137
             },
-            "model": "item/sacred_treasure/potion/137"
+            "model": "item/artifact/potion/137"
         },
         {
             "predicate": {
                 "custom_model_data": 138
             },
-            "model": "item/sacred_treasure/potion/138"
+            "model": "item/artifact/potion/138"
         },
         {
             "predicate": {
                 "custom_model_data": 139
             },
-            "model": "item/sacred_treasure/potion/139"
+            "model": "item/artifact/potion/139"
         },
         {
             "predicate": {
@@ -45,19 +45,19 @@
             "predicate": {
                 "custom_model_data": 141
             },
-            "model": "item/sacred_treasure/potion/141"
+            "model": "item/artifact/potion/141"
         },
         {
             "predicate": {
                 "custom_model_data": 142
             },
-            "model": "item/sacred_treasure/potion/142"
+            "model": "item/artifact/potion/142"
         },
         {
             "predicate": {
                 "custom_model_data": 143
             },
-            "model": "item/sacred_treasure/potion/143"
+            "model": "item/artifact/potion/143"
         },
         {
             "predicate": {
@@ -69,13 +69,13 @@
             "predicate": {
                 "custom_model_data": 145
             },
-            "model": "item/sacred_treasure/potion/145"
+            "model": "item/artifact/potion/145"
         },
         {
             "predicate": {
                 "custom_model_data": 146
             },
-            "model": "item/sacred_treasure/potion/146"
+            "model": "item/artifact/potion/146"
         },
         {
             "predicate": {
@@ -87,7 +87,7 @@
             "predicate": {
                 "custom_model_data": 456
             },
-            "model": "item/sacred_treasure/potion/456"
+            "model": "item/artifact/potion/456"
         },
         {
             "predicate": {
@@ -99,7 +99,7 @@
             "predicate": {
                 "custom_model_data": 617
             },
-            "model": "item/sacred_treasure/potion/617"
+            "model": "item/artifact/potion/617"
         },
         {
             "predicate": {

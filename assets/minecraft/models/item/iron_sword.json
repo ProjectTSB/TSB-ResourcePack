@@ -8,7 +8,7 @@
             "predicate": {
                 "custom_model_data": 20012
             },
-            "model": "item/sacred_treasure/iron_sword/20012"
+            "model": "item/artifact/iron_sword/20012"
         },
         {
             "predicate": {
@@ -20,7 +20,7 @@
             "predicate": {
                 "custom_model_data": 20044
             },
-            "model": "item/sacred_treasure/iron_sword/20044"
+            "model": "item/artifact/iron_sword/20044"
         },
         {
             "predicate": {
