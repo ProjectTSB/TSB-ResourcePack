@@ -131,14 +131,14 @@
 		},
 		{
 			"predicate": {
-                    "custom_model_data": 20187,
+				"custom_model_data": 20187,
 				"pulling": 1
 			},
 			"model": "item/bow_pulling_0"
 		},
 		{
 			"predicate": {
-                    "custom_model_data": 20187,
+				"custom_model_data": 20187,
 				"pulling": 1,
 				"pull": 0.58
 			},
@@ -146,7 +146,7 @@
 		},
 		{
 			"predicate": {
-                    "custom_model_data": 20187,
+				"custom_model_data": 20187,
 				"pulling": 1,
 				"pull": 1
 			},
@@ -160,14 +160,14 @@
 		},
 		{
 			"predicate": {
-                    "custom_model_data": 20188,
+				"custom_model_data": 20188,
 				"pulling": 1
 			},
 			"model": "item/mob/bow/20188/2"
 		},
 		{
 			"predicate": {
-                    "custom_model_data": 20188,
+				"custom_model_data": 20188,
 				"pulling": 1,
 				"pull": 0.58
 			},
@@ -175,40 +175,40 @@
 		},
 		{
 			"predicate": {
-                    "custom_model_data": 20188,
+				"custom_model_data": 20188,
 				"pulling": 1,
 				"pull": 1
 			},
 			"model": "item/mob/bow/20188/4"
 		},
-			{
-				"predicate": {
-					"custom_model_data": 20189
-				},
-				"model": "item/bow"
+		{
+			"predicate": {
+				"custom_model_data": 20189
 			},
-			{
-				"predicate": {
-						"custom_model_data": 20189,
-					"pulling": 1
-				},
-				"model": "item/bow_pulling_0"
+			"model": "item/bow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 20189,
+				"pulling": 1
 			},
-			{
-				"predicate": {
-						"custom_model_data": 20189,
-					"pulling": 1,
-					"pull": 0.58
-				},
-				"model": "item/bow_pulling_1"
+			"model": "item/bow_pulling_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 20189,
+				"pulling": 1,
+				"pull": 0.58
 			},
-			{
-				"predicate": {
-						"custom_model_data": 20189,
-					"pulling": 1,
-					"pull": 1
-				},
-				"model": "item/bow_pulling_2"
-			}
+			"model": "item/bow_pulling_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 20189,
+				"pulling": 1,
+				"pull": 1
+			},
+			"model": "item/bow_pulling_2"
+		}
 	]
 }

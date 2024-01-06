@@ -136,27 +136,27 @@
             "predicate": {
                 "custom_model_data": 966
             },
-            "model": "item/sacred_treasure/shield/966"
+            "model": "item/artifact/shield/966"
         },
         {
             "predicate": {
                 "custom_model_data": 966,
                 "blocking": 1
             },
-            "model": "item/sacred_treasure/shield/966_blocking"
+            "model": "item/artifact/shield/966_blocking"
         },
         {
             "predicate": {
                 "custom_model_data": 967
             },
-            "model": "item/sacred_treasure/shield/967"
+            "model": "item/artifact/shield/967"
         },
         {
             "predicate": {
                 "custom_model_data": 967,
                 "blocking": 1
             },
-            "model": "item/sacred_treasure/shield/967_blocking"
+            "model": "item/artifact/shield/967_blocking"
         },
         {
             "predicate": {
