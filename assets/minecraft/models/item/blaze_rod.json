@@ -3567,6 +3567,222 @@
 				"custom_model_data": 594
 			},
 			"model": "animated_java:item/twins_rubiel/wink/body_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 595
+			},
+			"model": "animated_java:item/louvert/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 596
+			},
+			"model": "animated_java:item/louvert/coat_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 597
+			},
+			"model": "animated_java:item/louvert/coat_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 598
+			},
+			"model": "animated_java:item/louvert/coat_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 599
+			},
+			"model": "animated_java:item/louvert/right_leg_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 600
+			},
+			"model": "animated_java:item/louvert/right_leg_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 601
+			},
+			"model": "animated_java:item/louvert/left_leg_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 602
+			},
+			"model": "animated_java:item/louvert/left_leg_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 603
+			},
+			"model": "animated_java:item/louvert/body_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 604
+			},
+			"model": "animated_java:item/louvert/sword_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 605
+			},
+			"model": "animated_java:item/louvert/right_arm_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 606
+			},
+			"model": "animated_java:item/louvert/right_arm_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 607
+			},
+			"model": "animated_java:item/louvert/sword_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 608
+			},
+			"model": "animated_java:item/louvert/left_arm_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 609
+			},
+			"model": "animated_java:item/louvert/left_arm_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 610
+			},
+			"model": "animated_java:item/louvert/wing_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 611
+			},
+			"model": "animated_java:item/louvert/wing_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 612
+			},
+			"model": "animated_java:item/louvert/body_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 613
+			},
+			"model": "animated_java:item/louvert/closed_eyes/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 614
+			},
+			"model": "animated_java:item/louvert/closed_eyes/coat_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 615
+			},
+			"model": "animated_java:item/louvert/closed_eyes/coat_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 616
+			},
+			"model": "animated_java:item/louvert/closed_eyes/coat_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 617
+			},
+			"model": "animated_java:item/louvert/closed_eyes/right_leg_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 618
+			},
+			"model": "animated_java:item/louvert/closed_eyes/right_leg_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 619
+			},
+			"model": "animated_java:item/louvert/closed_eyes/left_leg_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 620
+			},
+			"model": "animated_java:item/louvert/closed_eyes/left_leg_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 621
+			},
+			"model": "animated_java:item/louvert/closed_eyes/body_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 622
+			},
+			"model": "animated_java:item/louvert/closed_eyes/sword_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 623
+			},
+			"model": "animated_java:item/louvert/closed_eyes/right_arm_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 624
+			},
+			"model": "animated_java:item/louvert/closed_eyes/right_arm_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 625
+			},
+			"model": "animated_java:item/louvert/closed_eyes/sword_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 626
+			},
+			"model": "animated_java:item/louvert/closed_eyes/left_arm_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 627
+			},
+			"model": "animated_java:item/louvert/closed_eyes/left_arm_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 628
+			},
+			"model": "animated_java:item/louvert/closed_eyes/wing_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 629
+			},
+			"model": "animated_java:item/louvert/closed_eyes/wing_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 630
+			},
+			"model": "animated_java:item/louvert/closed_eyes/body_0"
 		}
 	],
 	"animated_java": {
@@ -4190,6 +4406,46 @@
 					592,
 					593,
 					594
+				]
+			},
+			"louvert": {
+				"used_ids": [
+					595,
+					596,
+					597,
+					598,
+					599,
+					600,
+					601,
+					602,
+					603,
+					604,
+					605,
+					606,
+					607,
+					608,
+					609,
+					610,
+					611,
+					612,
+					613,
+					614,
+					615,
+					616,
+					617,
+					618,
+					619,
+					620,
+					621,
+					622,
+					623,
+					624,
+					625,
+					626,
+					627,
+					628,
+					629,
+					630
 				]
 			}
 		}
