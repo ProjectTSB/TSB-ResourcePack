@@ -4,7 +4,11 @@
             "type": "paletted_permutations",
             "textures": [
                 "tsb_armor:trims/models/armor/534",
-                "tsb_armor:trims/models/armor/534_leggings"
+                "tsb_armor:trims/models/armor/534_leggings",
+                "tsb_armor:trims/models/armor/642",
+                "tsb_armor:trims/models/armor/642_leggings",
+                "tsb_armor:trims/models/armor/664",
+                "tsb_armor:trims/models/armor/664_leggings" 
             ],
             "palette_key": "trims/color_palettes/trim_palette",
             "permutations": {
