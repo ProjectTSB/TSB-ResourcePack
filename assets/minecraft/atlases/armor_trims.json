@@ -1,24 +1,28 @@
 {
-  "sources": [
-    {
-      "type": "paletted_permutations",
-      "textures": [
-        "tsb_armor:trims/models/armor/534",
-        "tsb_armor:trims/models/armor/534_leggings"
-      ],
-      "palette_key": "trims/color_palettes/trim_palette",
-      "permutations": {
-        "quartz": "trims/color_palettes/quartz",
-        "iron": "trims/color_palettes/iron",
-        "gold": "trims/color_palettes/gold",
-        "diamond": "trims/color_palettes/diamond",
-        "netherite": "trims/color_palettes/netherite",
-        "redstone": "trims/color_palettes/redstone",
-        "copper": "trims/color_palettes/copper",
-        "emerald": "trims/color_palettes/emerald",
-        "lapis": "trims/color_palettes/lapis",
-        "amethyst": "trims/color_palettes/amethyst"
-      }
-    }
-  ]
+    "sources": [
+        {
+            "type": "paletted_permutations",
+            "textures": [
+                "tsb_armor:trims/models/armor/534",
+                "tsb_armor:trims/models/armor/534_leggings",
+                "tsb_armor:trims/models/armor/642",
+                "tsb_armor:trims/models/armor/642_leggings",
+                "tsb_armor:trims/models/armor/664",
+                "tsb_armor:trims/models/armor/664_leggings" 
+            ],
+            "palette_key": "trims/color_palettes/trim_palette",
+            "permutations": {
+                "quartz": "trims/color_palettes/quartz",
+                "iron": "trims/color_palettes/iron",
+                "gold": "trims/color_palettes/gold",
+                "diamond": "trims/color_palettes/diamond",
+                "netherite": "trims/color_palettes/netherite",
+                "redstone": "trims/color_palettes/redstone",
+                "copper": "trims/color_palettes/copper",
+                "emerald": "trims/color_palettes/emerald",
+                "lapis": "trims/color_palettes/lapis",
+                "amethyst": "trims/color_palettes/amethyst"
+            }
+        }
+    ]
 }

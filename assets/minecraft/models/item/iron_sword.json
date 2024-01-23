@@ -8,19 +8,13 @@
             "predicate": {
                 "custom_model_data": 20012
             },
-            "model": "item/sacred_treasure/iron_sword/20012"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 20013
-            },
-            "model": "item/iron_sword"
+            "model": "item/mob/iron_sword/20044"
         },
         {
             "predicate": {
                 "custom_model_data": 20044
             },
-            "model": "item/sacred_treasure/iron_sword/20044"
+            "model": "item/mob/iron_sword/20044"
         },
         {
             "predicate": {

@@ -1,0 +1,57 @@
+{
+	"textures": {
+		"0": "animated_java:item/twins_sapphiel/sapphiel"
+	},
+	"elements": [
+		{
+			"from": [
+				7.75,
+				-11.900000000000002,
+				4
+			],
+			"to": [
+				8.25,
+				8.099999999999998,
+				13
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					8,
+					8,
+					8
+				]
+			},
+			"faces": {
+				"east": {
+					"uv": [
+						5.25,
+						9.375,
+						6.375,
+						11.875
+					],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [
+						6.375,
+						9.375,
+						5.25,
+						11.875
+					],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}

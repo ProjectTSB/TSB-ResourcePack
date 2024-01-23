@@ -1,0 +1,13 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/mob/iron_sword/20012"
+	},
+	"display": {
+		"head": {
+			"rotation": [-90, 0, 45],
+			"scale": [3, 3, 3]
+		}
+	}
+}

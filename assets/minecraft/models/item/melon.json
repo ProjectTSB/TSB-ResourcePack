@@ -9,7 +9,7 @@
             "predicate": {
                 "custom_model_data": 20018
             },
-            "model": "item/sacred_treasure/melon/20018"
+            "model": "item/mob/melon/20018"
         },
         {
             "predicate": {

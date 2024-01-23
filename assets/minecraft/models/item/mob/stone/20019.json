@@ -2,7 +2,8 @@
     "credit": "Made with Blockbench",
     "parent": "minecraft:block/cube_all",
 	"textures": {
-		"missing": "item/other/missing/missing"
+		"missing": "item/other/missing/missing",
+        "particle": "item/other/missing/missing"
 	},
     "elements": [
         {

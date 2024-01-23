@@ -1,0 +1,163 @@
+{
+    "credit": "Made with Blockbench",
+    "textures": {
+        "0": "item/other/stick/20341/soul_bomb",
+        "particle": "item/other/stick/20341/soul_bomb"
+    },
+    "elements": [
+        {
+            "from": [
+                4,
+                4,
+                4
+            ],
+            "to": [
+                12,
+                12,
+                12
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    8,
+                    8,
+                    8
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        8,
+                        8,
+                        16
+                    ],
+                    "texture": "#0"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        8,
+                        8,
+                        16
+                    ],
+                    "texture": "#0"
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        8,
+                        8,
+                        16
+                    ],
+                    "texture": "#0"
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        8,
+                        8,
+                        16
+                    ],
+                    "texture": "#0"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        8,
+                        8,
+                        16
+                    ],
+                    "texture": "#0"
+                },
+                "down": {
+                    "uv": [
+                        0,
+                        8,
+                        8,
+                        16
+                    ],
+                    "texture": "#0"
+                }
+            }
+        },
+        {
+            "from": [
+                3.5,
+                3.5,
+                3.5
+            ],
+            "to": [
+                12.5,
+                12.5,
+                12.5
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    8,
+                    8,
+                    8
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        0,
+                        8,
+                        8
+                    ],
+                    "texture": "#0"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        0,
+                        8,
+                        8
+                    ],
+                    "texture": "#0"
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        0,
+                        8,
+                        8
+                    ],
+                    "texture": "#0"
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        0,
+                        8,
+                        8
+                    ],
+                    "texture": "#0"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        0,
+                        8,
+                        8
+                    ],
+                    "texture": "#0"
+                },
+                "down": {
+                    "uv": [
+                        0,
+                        0,
+                        8,
+                        8
+                    ],
+                    "texture": "#0"
+                }
+            }
+        }
+    ]
+}

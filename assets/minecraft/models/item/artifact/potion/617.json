@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/artifact/potion/617",
+        "layer1": "item/artifact/potion/617"
+    }
+}

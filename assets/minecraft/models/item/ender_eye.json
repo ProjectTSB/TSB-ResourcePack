@@ -8,7 +8,7 @@
             "predicate": {
                 "custom_model_data": 876
             },
-            "model": "item/sacred_treasure/ender_eye/876"
+            "model": "item/artifact/ender_eye/876"
         },
         {
             "predicate": {
@@ -20,7 +20,7 @@
             "predicate": {
                 "custom_model_data": 948
             },
-            "model": "item/sacred_treasure/ender_eye/948"
+            "model": "item/artifact/ender_eye/948"
         },
         {
             "predicate": {
@@ -32,7 +32,7 @@
             "predicate": {
                 "custom_model_data": 983
             },
-            "model": "item/sacred_treasure/ender_eye/983"
+            "model": "item/artifact/ender_eye/983"
         },
         {
             "predicate": {
