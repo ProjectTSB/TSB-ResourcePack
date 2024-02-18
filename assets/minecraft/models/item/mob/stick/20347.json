@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "rubiel_knife",
-		"particle": "rubiel_knife"
+		"0": "item/mob/stick/rubiel_knife",
+		"particle": "item/mob/stick/rubiel_knife"
 	},
 	"elements": [
 		{
