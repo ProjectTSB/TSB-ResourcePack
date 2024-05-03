@@ -3783,6 +3783,492 @@
 				"custom_model_data": 630
 			},
 			"model": "animated_java:item/louvert/closed_eyes/body_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 631
+			},
+			"model": "animated_java:item/haruclaire_v3/hat"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 632
+			},
+			"model": "animated_java:item/haruclaire_v3/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 633
+			},
+			"model": "animated_java:item/haruclaire_v3/haruclaire_rod"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 634
+			},
+			"model": "animated_java:item/haruclaire_v3/haruclaire_korigori"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 635
+			},
+			"model": "animated_java:item/haruclaire_v3/arm_belt_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 636
+			},
+			"model": "animated_java:item/haruclaire_v3/arm_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 637
+			},
+			"model": "animated_java:item/haruclaire_v3/arm_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 638
+			},
+			"model": "animated_java:item/haruclaire_v3/arm_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 639
+			},
+			"model": "animated_java:item/haruclaire_v3/haruclaire_sword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 640
+			},
+			"model": "animated_java:item/haruclaire_v3/arm_belt_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 641
+			},
+			"model": "animated_java:item/haruclaire_v3/arm_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 642
+			},
+			"model": "animated_java:item/haruclaire_v3/arm_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 643
+			},
+			"model": "animated_java:item/haruclaire_v3/arm_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 644
+			},
+			"model": "animated_java:item/haruclaire_v3/wing_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 645
+			},
+			"model": "animated_java:item/haruclaire_v3/wing_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 646
+			},
+			"model": "animated_java:item/haruclaire_v3/body_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 647
+			},
+			"model": "animated_java:item/haruclaire_v3/leg_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 648
+			},
+			"model": "animated_java:item/haruclaire_v3/leg_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 649
+			},
+			"model": "animated_java:item/haruclaire_v3/leg_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 650
+			},
+			"model": "animated_java:item/haruclaire_v3/leg_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 651
+			},
+			"model": "animated_java:item/haruclaire_v3/belt_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 652
+			},
+			"model": "animated_java:item/haruclaire_v3/belt_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 653
+			},
+			"model": "animated_java:item/haruclaire_v3/belt_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 654
+			},
+			"model": "animated_java:item/haruclaire_v3/belt_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 655
+			},
+			"model": "animated_java:item/haruclaire_v3/parker_under"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 656
+			},
+			"model": "animated_java:item/haruclaire_v3/body_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 657
+			},
+			"model": "animated_java:item/haruclaire_v3/haruclaire_rod_air"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 658
+			},
+			"model": "animated_java:item/haruclaire_v3/blink/hat"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 659
+			},
+			"model": "animated_java:item/haruclaire_v3/blink/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 660
+			},
+			"model": "animated_java:item/haruclaire_v3/blink/haruclaire_rod"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 661
+			},
+			"model": "animated_java:item/haruclaire_v3/blink/haruclaire_korigori"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 662
+			},
+			"model": "animated_java:item/haruclaire_v3/blink/arm_belt_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 663
+			},
+			"model": "animated_java:item/haruclaire_v3/blink/arm_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 664
+			},
+			"model": "animated_java:item/haruclaire_v3/blink/arm_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 665
+			},
+			"model": "animated_java:item/haruclaire_v3/blink/arm_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 666
+			},
+			"model": "animated_java:item/haruclaire_v3/blink/haruclaire_sword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 667
+			},
+			"model": "animated_java:item/haruclaire_v3/blink/arm_belt_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 668
+			},
+			"model": "animated_java:item/haruclaire_v3/blink/arm_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 669
+			},
+			"model": "animated_java:item/haruclaire_v3/blink/arm_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 670
+			},
+			"model": "animated_java:item/haruclaire_v3/blink/arm_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 671
+			},
+			"model": "animated_java:item/haruclaire_v3/blink/wing_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 672
+			},
+			"model": "animated_java:item/haruclaire_v3/blink/wing_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 673
+			},
+			"model": "animated_java:item/haruclaire_v3/blink/body_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 674
+			},
+			"model": "animated_java:item/haruclaire_v3/blink/leg_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 675
+			},
+			"model": "animated_java:item/haruclaire_v3/blink/leg_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 676
+			},
+			"model": "animated_java:item/haruclaire_v3/blink/leg_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 677
+			},
+			"model": "animated_java:item/haruclaire_v3/blink/leg_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 678
+			},
+			"model": "animated_java:item/haruclaire_v3/blink/belt_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 679
+			},
+			"model": "animated_java:item/haruclaire_v3/blink/belt_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 680
+			},
+			"model": "animated_java:item/haruclaire_v3/blink/belt_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 681
+			},
+			"model": "animated_java:item/haruclaire_v3/blink/belt_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 682
+			},
+			"model": "animated_java:item/haruclaire_v3/blink/parker_under"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 683
+			},
+			"model": "animated_java:item/haruclaire_v3/blink/body_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 684
+			},
+			"model": "animated_java:item/haruclaire_v3/blink/haruclaire_rod_air"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 685
+			},
+			"model": "animated_java:item/haruclaire_v3/damage/hat"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 686
+			},
+			"model": "animated_java:item/haruclaire_v3/damage/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 687
+			},
+			"model": "animated_java:item/haruclaire_v3/damage/haruclaire_rod"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 688
+			},
+			"model": "animated_java:item/haruclaire_v3/damage/haruclaire_korigori"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 689
+			},
+			"model": "animated_java:item/haruclaire_v3/damage/arm_belt_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 690
+			},
+			"model": "animated_java:item/haruclaire_v3/damage/arm_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 691
+			},
+			"model": "animated_java:item/haruclaire_v3/damage/arm_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 692
+			},
+			"model": "animated_java:item/haruclaire_v3/damage/arm_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 693
+			},
+			"model": "animated_java:item/haruclaire_v3/damage/haruclaire_sword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 694
+			},
+			"model": "animated_java:item/haruclaire_v3/damage/arm_belt_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 695
+			},
+			"model": "animated_java:item/haruclaire_v3/damage/arm_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 696
+			},
+			"model": "animated_java:item/haruclaire_v3/damage/arm_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 697
+			},
+			"model": "animated_java:item/haruclaire_v3/damage/arm_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 698
+			},
+			"model": "animated_java:item/haruclaire_v3/damage/wing_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 699
+			},
+			"model": "animated_java:item/haruclaire_v3/damage/wing_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 700
+			},
+			"model": "animated_java:item/haruclaire_v3/damage/body_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 701
+			},
+			"model": "animated_java:item/haruclaire_v3/damage/leg_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 702
+			},
+			"model": "animated_java:item/haruclaire_v3/damage/leg_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 703
+			},
+			"model": "animated_java:item/haruclaire_v3/damage/leg_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 704
+			},
+			"model": "animated_java:item/haruclaire_v3/damage/leg_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 705
+			},
+			"model": "animated_java:item/haruclaire_v3/damage/belt_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 706
+			},
+			"model": "animated_java:item/haruclaire_v3/damage/belt_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 707
+			},
+			"model": "animated_java:item/haruclaire_v3/damage/belt_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 708
+			},
+			"model": "animated_java:item/haruclaire_v3/damage/belt_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 709
+			},
+			"model": "animated_java:item/haruclaire_v3/damage/parker_under"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 710
+			},
+			"model": "animated_java:item/haruclaire_v3/damage/body_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 711
+			},
+			"model": "animated_java:item/haruclaire_v3/damage/haruclaire_rod_air"
 		}
 	],
 	"animated_java": {
@@ -4446,6 +4932,91 @@
 					628,
 					629,
 					630
+				]
+			},
+			"haruclaire_v3": {
+				"used_ids": [
+					631,
+					632,
+					633,
+					634,
+					635,
+					636,
+					637,
+					638,
+					639,
+					640,
+					641,
+					642,
+					643,
+					644,
+					645,
+					646,
+					647,
+					648,
+					649,
+					650,
+					651,
+					652,
+					653,
+					654,
+					655,
+					656,
+					657,
+					658,
+					659,
+					660,
+					661,
+					662,
+					663,
+					664,
+					665,
+					666,
+					667,
+					668,
+					669,
+					670,
+					671,
+					672,
+					673,
+					674,
+					675,
+					676,
+					677,
+					678,
+					679,
+					680,
+					681,
+					682,
+					683,
+					684,
+					685,
+					686,
+					687,
+					688,
+					689,
+					690,
+					691,
+					692,
+					693,
+					694,
+					695,
+					696,
+					697,
+					698,
+					699,
+					700,
+					701,
+					702,
+					703,
+					704,
+					705,
+					706,
+					707,
+					708,
+					709,
+					710,
+					711
 				]
 			}
 		}

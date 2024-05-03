@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/artifact/glass_pane/253"
+        "layer0": "item/artifact/stick/1069"
     }
 }
