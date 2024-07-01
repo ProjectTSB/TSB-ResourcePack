@@ -3812,31 +3812,31 @@
 			"predicate": {
 				"custom_model_data": 635
 			},
-			"model": "animated_java:item/haruclaire_v3/arm_belt_right"
+			"model": "animated_java:item/haruclaire_v3/haruclaire_sword"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 636
 			},
-			"model": "animated_java:item/haruclaire_v3/arm_right_2"
+			"model": "animated_java:item/haruclaire_v3/arm_belt_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 637
 			},
-			"model": "animated_java:item/haruclaire_v3/arm_right_1"
+			"model": "animated_java:item/haruclaire_v3/arm_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 638
 			},
-			"model": "animated_java:item/haruclaire_v3/arm_right_0"
+			"model": "animated_java:item/haruclaire_v3/arm_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 639
 			},
-			"model": "animated_java:item/haruclaire_v3/haruclaire_sword"
+			"model": "animated_java:item/haruclaire_v3/arm_right_0"
 		},
 		{
 			"predicate": {
@@ -3974,31 +3974,31 @@
 			"predicate": {
 				"custom_model_data": 662
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/arm_belt_right"
+			"model": "animated_java:item/haruclaire_v3/blink/haruclaire_sword"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 663
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/arm_right_2"
+			"model": "animated_java:item/haruclaire_v3/blink/arm_belt_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 664
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/arm_right_1"
+			"model": "animated_java:item/haruclaire_v3/blink/arm_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 665
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/arm_right_0"
+			"model": "animated_java:item/haruclaire_v3/blink/arm_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 666
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/haruclaire_sword"
+			"model": "animated_java:item/haruclaire_v3/blink/arm_right_0"
 		},
 		{
 			"predicate": {
@@ -4136,31 +4136,31 @@
 			"predicate": {
 				"custom_model_data": 689
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/arm_belt_right"
+			"model": "animated_java:item/haruclaire_v3/damage/haruclaire_sword"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 690
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/arm_right_2"
+			"model": "animated_java:item/haruclaire_v3/damage/arm_belt_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 691
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/arm_right_1"
+			"model": "animated_java:item/haruclaire_v3/damage/arm_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 692
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/arm_right_0"
+			"model": "animated_java:item/haruclaire_v3/damage/arm_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 693
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/haruclaire_sword"
+			"model": "animated_java:item/haruclaire_v3/damage/arm_right_0"
 		},
 		{
 			"predicate": {
