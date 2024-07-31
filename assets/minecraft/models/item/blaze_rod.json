@@ -4269,6 +4269,1050 @@
 				"custom_model_data": 711
 			},
 			"model": "animated_java:item/haruclaire_v3/damage/haruclaire_rod_air"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 712
+			},
+			"model": "animated_java:item/axia/wing_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 713
+			},
+			"model": "animated_java:item/axia/wing_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 714
+			},
+			"model": "animated_java:item/axia/wing_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 715
+			},
+			"model": "animated_java:item/axia/wing_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 716
+			},
+			"model": "animated_java:item/axia/blade"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 717
+			},
+			"model": "animated_java:item/axia/arm_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 718
+			},
+			"model": "animated_java:item/axia/arm_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 719
+			},
+			"model": "animated_java:item/axia/arm_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 720
+			},
+			"model": "animated_java:item/axia/arm_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 721
+			},
+			"model": "animated_java:item/axia/ear_edge_a1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 722
+			},
+			"model": "animated_java:item/axia/ear_edge_a2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 723
+			},
+			"model": "animated_java:item/axia/ear_edge_b1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 724
+			},
+			"model": "animated_java:item/axia/ear_edge_b2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 725
+			},
+			"model": "animated_java:item/axia/ear_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 726
+			},
+			"model": "animated_java:item/axia/ear_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 727
+			},
+			"model": "animated_java:item/axia/ear_edge_a3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 728
+			},
+			"model": "animated_java:item/axia/ear_edge_a4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 729
+			},
+			"model": "animated_java:item/axia/ear_edge_b3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 730
+			},
+			"model": "animated_java:item/axia/ear_edge_b4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 731
+			},
+			"model": "animated_java:item/axia/ear_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 732
+			},
+			"model": "animated_java:item/axia/ear_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 733
+			},
+			"model": "animated_java:item/axia/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 734
+			},
+			"model": "animated_java:item/axia/body_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 735
+			},
+			"model": "animated_java:item/axia/leg_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 736
+			},
+			"model": "animated_java:item/axia/leg_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 737
+			},
+			"model": "animated_java:item/axia/leg_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 738
+			},
+			"model": "animated_java:item/axia/leg_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 739
+			},
+			"model": "animated_java:item/axia/coat_downer"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 740
+			},
+			"model": "animated_java:item/axia/body_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 741
+			},
+			"model": "animated_java:item/axia/jitome/wing_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 742
+			},
+			"model": "animated_java:item/axia/jitome/wing_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 743
+			},
+			"model": "animated_java:item/axia/jitome/wing_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 744
+			},
+			"model": "animated_java:item/axia/jitome/wing_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 745
+			},
+			"model": "animated_java:item/axia/jitome/blade"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 746
+			},
+			"model": "animated_java:item/axia/jitome/arm_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 747
+			},
+			"model": "animated_java:item/axia/jitome/arm_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 748
+			},
+			"model": "animated_java:item/axia/jitome/arm_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 749
+			},
+			"model": "animated_java:item/axia/jitome/arm_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 750
+			},
+			"model": "animated_java:item/axia/jitome/ear_edge_a1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 751
+			},
+			"model": "animated_java:item/axia/jitome/ear_edge_a2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 752
+			},
+			"model": "animated_java:item/axia/jitome/ear_edge_b1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 753
+			},
+			"model": "animated_java:item/axia/jitome/ear_edge_b2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 754
+			},
+			"model": "animated_java:item/axia/jitome/ear_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 755
+			},
+			"model": "animated_java:item/axia/jitome/ear_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 756
+			},
+			"model": "animated_java:item/axia/jitome/ear_edge_a3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 757
+			},
+			"model": "animated_java:item/axia/jitome/ear_edge_a4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 758
+			},
+			"model": "animated_java:item/axia/jitome/ear_edge_b3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 759
+			},
+			"model": "animated_java:item/axia/jitome/ear_edge_b4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 760
+			},
+			"model": "animated_java:item/axia/jitome/ear_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 761
+			},
+			"model": "animated_java:item/axia/jitome/ear_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 762
+			},
+			"model": "animated_java:item/axia/jitome/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 763
+			},
+			"model": "animated_java:item/axia/jitome/body_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 764
+			},
+			"model": "animated_java:item/axia/jitome/leg_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 765
+			},
+			"model": "animated_java:item/axia/jitome/leg_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 766
+			},
+			"model": "animated_java:item/axia/jitome/leg_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 767
+			},
+			"model": "animated_java:item/axia/jitome/leg_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 768
+			},
+			"model": "animated_java:item/axia/jitome/coat_downer"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 769
+			},
+			"model": "animated_java:item/axia/jitome/body_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 770
+			},
+			"model": "animated_java:item/axia/mabataki/wing_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 771
+			},
+			"model": "animated_java:item/axia/mabataki/wing_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 772
+			},
+			"model": "animated_java:item/axia/mabataki/wing_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 773
+			},
+			"model": "animated_java:item/axia/mabataki/wing_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 774
+			},
+			"model": "animated_java:item/axia/mabataki/blade"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 775
+			},
+			"model": "animated_java:item/axia/mabataki/arm_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 776
+			},
+			"model": "animated_java:item/axia/mabataki/arm_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 777
+			},
+			"model": "animated_java:item/axia/mabataki/arm_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 778
+			},
+			"model": "animated_java:item/axia/mabataki/arm_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 779
+			},
+			"model": "animated_java:item/axia/mabataki/ear_edge_a1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 780
+			},
+			"model": "animated_java:item/axia/mabataki/ear_edge_a2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 781
+			},
+			"model": "animated_java:item/axia/mabataki/ear_edge_b1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 782
+			},
+			"model": "animated_java:item/axia/mabataki/ear_edge_b2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 783
+			},
+			"model": "animated_java:item/axia/mabataki/ear_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 784
+			},
+			"model": "animated_java:item/axia/mabataki/ear_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 785
+			},
+			"model": "animated_java:item/axia/mabataki/ear_edge_a3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 786
+			},
+			"model": "animated_java:item/axia/mabataki/ear_edge_a4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 787
+			},
+			"model": "animated_java:item/axia/mabataki/ear_edge_b3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 788
+			},
+			"model": "animated_java:item/axia/mabataki/ear_edge_b4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 789
+			},
+			"model": "animated_java:item/axia/mabataki/ear_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 790
+			},
+			"model": "animated_java:item/axia/mabataki/ear_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 791
+			},
+			"model": "animated_java:item/axia/mabataki/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 792
+			},
+			"model": "animated_java:item/axia/mabataki/body_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 793
+			},
+			"model": "animated_java:item/axia/mabataki/leg_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 794
+			},
+			"model": "animated_java:item/axia/mabataki/leg_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 795
+			},
+			"model": "animated_java:item/axia/mabataki/leg_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 796
+			},
+			"model": "animated_java:item/axia/mabataki/leg_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 797
+			},
+			"model": "animated_java:item/axia/mabataki/coat_downer"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 798
+			},
+			"model": "animated_java:item/axia/mabataki/body_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 799
+			},
+			"model": "animated_java:item/axia/mazime/wing_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 800
+			},
+			"model": "animated_java:item/axia/mazime/wing_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 801
+			},
+			"model": "animated_java:item/axia/mazime/wing_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 802
+			},
+			"model": "animated_java:item/axia/mazime/wing_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 803
+			},
+			"model": "animated_java:item/axia/mazime/blade"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 804
+			},
+			"model": "animated_java:item/axia/mazime/arm_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 805
+			},
+			"model": "animated_java:item/axia/mazime/arm_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 806
+			},
+			"model": "animated_java:item/axia/mazime/arm_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 807
+			},
+			"model": "animated_java:item/axia/mazime/arm_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 808
+			},
+			"model": "animated_java:item/axia/mazime/ear_edge_a1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 809
+			},
+			"model": "animated_java:item/axia/mazime/ear_edge_a2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 810
+			},
+			"model": "animated_java:item/axia/mazime/ear_edge_b1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 811
+			},
+			"model": "animated_java:item/axia/mazime/ear_edge_b2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 812
+			},
+			"model": "animated_java:item/axia/mazime/ear_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 813
+			},
+			"model": "animated_java:item/axia/mazime/ear_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 814
+			},
+			"model": "animated_java:item/axia/mazime/ear_edge_a3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 815
+			},
+			"model": "animated_java:item/axia/mazime/ear_edge_a4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 816
+			},
+			"model": "animated_java:item/axia/mazime/ear_edge_b3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 817
+			},
+			"model": "animated_java:item/axia/mazime/ear_edge_b4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 818
+			},
+			"model": "animated_java:item/axia/mazime/ear_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 819
+			},
+			"model": "animated_java:item/axia/mazime/ear_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 820
+			},
+			"model": "animated_java:item/axia/mazime/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 821
+			},
+			"model": "animated_java:item/axia/mazime/body_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 822
+			},
+			"model": "animated_java:item/axia/mazime/leg_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 823
+			},
+			"model": "animated_java:item/axia/mazime/leg_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 824
+			},
+			"model": "animated_java:item/axia/mazime/leg_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 825
+			},
+			"model": "animated_java:item/axia/mazime/leg_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 826
+			},
+			"model": "animated_java:item/axia/mazime/coat_downer"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 827
+			},
+			"model": "animated_java:item/axia/mazime/body_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 828
+			},
+			"model": "animated_java:item/axia/wink/wing_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 829
+			},
+			"model": "animated_java:item/axia/wink/wing_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 830
+			},
+			"model": "animated_java:item/axia/wink/wing_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 831
+			},
+			"model": "animated_java:item/axia/wink/wing_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 832
+			},
+			"model": "animated_java:item/axia/wink/blade"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 833
+			},
+			"model": "animated_java:item/axia/wink/arm_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 834
+			},
+			"model": "animated_java:item/axia/wink/arm_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 835
+			},
+			"model": "animated_java:item/axia/wink/arm_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 836
+			},
+			"model": "animated_java:item/axia/wink/arm_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 837
+			},
+			"model": "animated_java:item/axia/wink/ear_edge_a1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 838
+			},
+			"model": "animated_java:item/axia/wink/ear_edge_a2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 839
+			},
+			"model": "animated_java:item/axia/wink/ear_edge_b1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 840
+			},
+			"model": "animated_java:item/axia/wink/ear_edge_b2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 841
+			},
+			"model": "animated_java:item/axia/wink/ear_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 842
+			},
+			"model": "animated_java:item/axia/wink/ear_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 843
+			},
+			"model": "animated_java:item/axia/wink/ear_edge_a3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 844
+			},
+			"model": "animated_java:item/axia/wink/ear_edge_a4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 845
+			},
+			"model": "animated_java:item/axia/wink/ear_edge_b3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 846
+			},
+			"model": "animated_java:item/axia/wink/ear_edge_b4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 847
+			},
+			"model": "animated_java:item/axia/wink/ear_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 848
+			},
+			"model": "animated_java:item/axia/wink/ear_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 849
+			},
+			"model": "animated_java:item/axia/wink/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 850
+			},
+			"model": "animated_java:item/axia/wink/body_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 851
+			},
+			"model": "animated_java:item/axia/wink/leg_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 852
+			},
+			"model": "animated_java:item/axia/wink/leg_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 853
+			},
+			"model": "animated_java:item/axia/wink/leg_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 854
+			},
+			"model": "animated_java:item/axia/wink/leg_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 855
+			},
+			"model": "animated_java:item/axia/wink/coat_downer"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 856
+			},
+			"model": "animated_java:item/axia/wink/body_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 857
+			},
+			"model": "animated_java:item/axia/yarare/wing_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 858
+			},
+			"model": "animated_java:item/axia/yarare/wing_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 859
+			},
+			"model": "animated_java:item/axia/yarare/wing_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 860
+			},
+			"model": "animated_java:item/axia/yarare/wing_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 861
+			},
+			"model": "animated_java:item/axia/yarare/blade"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 862
+			},
+			"model": "animated_java:item/axia/yarare/arm_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 863
+			},
+			"model": "animated_java:item/axia/yarare/arm_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 864
+			},
+			"model": "animated_java:item/axia/yarare/arm_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 865
+			},
+			"model": "animated_java:item/axia/yarare/arm_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 866
+			},
+			"model": "animated_java:item/axia/yarare/ear_edge_a1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 867
+			},
+			"model": "animated_java:item/axia/yarare/ear_edge_a2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 868
+			},
+			"model": "animated_java:item/axia/yarare/ear_edge_b1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 869
+			},
+			"model": "animated_java:item/axia/yarare/ear_edge_b2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 870
+			},
+			"model": "animated_java:item/axia/yarare/ear_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 871
+			},
+			"model": "animated_java:item/axia/yarare/ear_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 872
+			},
+			"model": "animated_java:item/axia/yarare/ear_edge_a3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 873
+			},
+			"model": "animated_java:item/axia/yarare/ear_edge_a4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 874
+			},
+			"model": "animated_java:item/axia/yarare/ear_edge_b3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 875
+			},
+			"model": "animated_java:item/axia/yarare/ear_edge_b4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 876
+			},
+			"model": "animated_java:item/axia/yarare/ear_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 877
+			},
+			"model": "animated_java:item/axia/yarare/ear_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 878
+			},
+			"model": "animated_java:item/axia/yarare/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 879
+			},
+			"model": "animated_java:item/axia/yarare/body_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 880
+			},
+			"model": "animated_java:item/axia/yarare/leg_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 881
+			},
+			"model": "animated_java:item/axia/yarare/leg_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 882
+			},
+			"model": "animated_java:item/axia/yarare/leg_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 883
+			},
+			"model": "animated_java:item/axia/yarare/leg_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 884
+			},
+			"model": "animated_java:item/axia/yarare/coat_downer"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 885
+			},
+			"model": "animated_java:item/axia/yarare/body_2"
 		}
 	],
 	"animated_java": {
@@ -5017,6 +6061,184 @@
 					709,
 					710,
 					711
+				]
+			},
+			"axia": {
+				"used_ids": [
+					712,
+					713,
+					714,
+					715,
+					716,
+					717,
+					718,
+					719,
+					720,
+					721,
+					722,
+					723,
+					724,
+					725,
+					726,
+					727,
+					728,
+					729,
+					730,
+					731,
+					732,
+					733,
+					734,
+					735,
+					736,
+					737,
+					738,
+					739,
+					740,
+					741,
+					742,
+					743,
+					744,
+					745,
+					746,
+					747,
+					748,
+					749,
+					750,
+					751,
+					752,
+					753,
+					754,
+					755,
+					756,
+					757,
+					758,
+					759,
+					760,
+					761,
+					762,
+					763,
+					764,
+					765,
+					766,
+					767,
+					768,
+					769,
+					770,
+					771,
+					772,
+					773,
+					774,
+					775,
+					776,
+					777,
+					778,
+					779,
+					780,
+					781,
+					782,
+					783,
+					784,
+					785,
+					786,
+					787,
+					788,
+					789,
+					790,
+					791,
+					792,
+					793,
+					794,
+					795,
+					796,
+					797,
+					798,
+					799,
+					800,
+					801,
+					802,
+					803,
+					804,
+					805,
+					806,
+					807,
+					808,
+					809,
+					810,
+					811,
+					812,
+					813,
+					814,
+					815,
+					816,
+					817,
+					818,
+					819,
+					820,
+					821,
+					822,
+					823,
+					824,
+					825,
+					826,
+					827,
+					828,
+					829,
+					830,
+					831,
+					832,
+					833,
+					834,
+					835,
+					836,
+					837,
+					838,
+					839,
+					840,
+					841,
+					842,
+					843,
+					844,
+					845,
+					846,
+					847,
+					848,
+					849,
+					850,
+					851,
+					852,
+					853,
+					854,
+					855,
+					856,
+					857,
+					858,
+					859,
+					860,
+					861,
+					862,
+					863,
+					864,
+					865,
+					866,
+					867,
+					868,
+					869,
+					870,
+					871,
+					872,
+					873,
+					874,
+					875,
+					876,
+					877,
+					878,
+					879,
+					880,
+					881,
+					882,
+					883,
+					884,
+					885
 				]
 			}
 		}

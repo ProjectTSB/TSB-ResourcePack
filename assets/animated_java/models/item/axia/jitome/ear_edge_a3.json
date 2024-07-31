@@ -1,0 +1,7 @@
+{
+	"parent": "animated_java:item/axia/ear_edge_a3",
+	"textures": {
+		"1": "animated_java:item/axia/axia_face_2",
+		"5": "animated_java:item/axia/axia_mayu_3"
+	}
+}
