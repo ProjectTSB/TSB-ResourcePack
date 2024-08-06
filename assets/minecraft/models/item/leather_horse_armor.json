@@ -56,6 +56,48 @@
             "predicate": {
                 "custom_model_data": 20356
             },
+            "model": "item/other/leather_horse_armor/20356"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20357
+            },
+            "model": "item/other/leather_horse_armor/20357"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20358
+            },
+            "model": "item/other/leather_horse_armor/20358"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20359
+            },
+            "model": "item/other/leather_horse_armor/20359"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20360
+            },
+            "model": "item/other/leather_horse_armor/20360"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20361
+            },
+            "model": "item/other/leather_horse_armor/20361"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20362
+            },
+            "model": "item/other/leather_horse_armor/20362"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20363
+            },
             "model": "item/leather_horse_armor"
         }
     ]
