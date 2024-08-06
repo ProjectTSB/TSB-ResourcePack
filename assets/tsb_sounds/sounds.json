@@ -2,5 +2,6 @@
   "masket_shot":        {"sounds": ["tsb_sounds:gun/masket"]},
   "phalanx_shot":        {"sounds": ["tsb_sounds:gun/phalanx_shot"]},
   "blaster1":        {"sounds": ["tsb_sounds:laser/blaster1"]},
-  "blaster2":        {"sounds": ["tsb_sounds:laser/blaster2"]}
+  "blaster2":        {"sounds": ["tsb_sounds:laser/blaster2"]},
+  "rifle_shot":        {"sounds": ["tsb_sounds:gun/rifle_shot"]}
 }
