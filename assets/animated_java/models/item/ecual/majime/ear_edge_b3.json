@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:item/ecual/ear_edge_b3",
+	"textures": {
+		"5": "animated_java:item/ecual/ecual_mayu_2"
+	}
+}

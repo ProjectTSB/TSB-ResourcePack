@@ -1,0 +1,7 @@
+{
+	"parent": "animated_java:item/ecual/book_loot_2",
+	"textures": {
+		"1": "animated_java:item/ecual/ecual_face_3",
+		"5": "animated_java:item/ecual/ecual_mayu_3"
+	}
+}
