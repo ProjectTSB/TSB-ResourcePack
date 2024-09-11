@@ -3,7 +3,7 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/cooldown/mini_bar/head.png",
-            "ascent": -40,
+            "ascent": -43,
             "height": 6,
             "chars": [
                 "a",

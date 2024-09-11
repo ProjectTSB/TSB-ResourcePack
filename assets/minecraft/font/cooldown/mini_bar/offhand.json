@@ -3,7 +3,7 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/cooldown/mini_bar/offhand.png",
-            "ascent": -40,
+            "ascent": -38,
             "height": 6,
             "chars": [
                 "a",
