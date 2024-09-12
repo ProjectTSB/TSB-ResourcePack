@@ -3,7 +3,7 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/absorption/heart.png",
-            "ascent": 9,
+            "ascent": -16,
             "height": 9,
             "chars": [
                 "LRlr"

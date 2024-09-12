@@ -4,7 +4,7 @@
             "type": "bitmap",
             "file": "minecraft:font/cooldown/mini_bar/bar.png",
             "ascent": -42,
-            "height": 4,
+            "height": 3,
             "chars": [
                 "a",
                 "b",
