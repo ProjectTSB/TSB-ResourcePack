@@ -2,9 +2,9 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:font/cooldown/mini_bar/feet.png",
-            "ascent": -58,
-            "height": 5,
+            "file": "minecraft:font/cooldown/mini_bar/common.png",
+            "ascent": -42,
+            "height": 3,
             "chars": [
                 "\u1000",
                 "\u1001",

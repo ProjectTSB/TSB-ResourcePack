@@ -1,0 +1,31 @@
+{
+    "providers": [
+        { "type": "bitmap", "file": "minecraft:font/absorption/sink_0.png", "chars": [ "\u0010\u0011" ], "height": 200, "ascent": 10 },
+        { "type": "bitmap", "file": "minecraft:font/absorption/sink_0.png", "chars": [ "\u0020\u0021" ], "height": 200, "ascent": 20 },
+        { "type": "bitmap", "file": "minecraft:font/absorption/sink_0.png", "chars": [ "\u0030\u0031" ], "height": 200, "ascent": 30 },
+        { "type": "bitmap", "file": "minecraft:font/absorption/sink_0.png", "chars": [ "\u0040\u0041" ], "height": 200, "ascent": 40 },
+        { "type": "bitmap", "file": "minecraft:font/absorption/sink_0.png", "chars": [ "\u0050\u0051" ], "height": 200, "ascent": 50 },
+        { "type": "bitmap", "file": "minecraft:font/absorption/sink_0.png", "chars": [ "\u0060\u0061" ], "height": 200, "ascent": 60 },
+        { "type": "bitmap", "file": "minecraft:font/absorption/sink_0.png", "chars": [ "\u0070\u0071" ], "height": 200, "ascent": 70 },
+        { "type": "bitmap", "file": "minecraft:font/absorption/sink_0.png", "chars": [ "\u0080\u0081" ], "height": 200, "ascent": 80 },
+        { "type": "bitmap", "file": "minecraft:font/absorption/sink_0.png", "chars": [ "\u0090\u0091" ], "height": 200, "ascent": 90 },
+        { "type": "bitmap", "file": "minecraft:font/absorption/sink_0.png", "chars": [ "\u0100\u0101" ], "height": 200, "ascent": 100 },
+        { "type": "bitmap", "file": "minecraft:font/absorption/sink_0.png", "chars": [ "\u0110\u0111" ], "height": 200, "ascent": 110 },
+        { "type": "bitmap", "file": "minecraft:font/absorption/sink_0.png", "chars": [ "\u0120\u0121" ], "height": 200, "ascent": 120 },
+        { "type": "bitmap", "file": "minecraft:font/absorption/sink_0.png", "chars": [ "\u0130\u0131" ], "height": 200, "ascent": 130 },
+        { "type": "bitmap", "file": "minecraft:font/absorption/sink_0.png", "chars": [ "\u0140\u0141" ], "height": 200, "ascent": 140 },
+        { "type": "bitmap", "file": "minecraft:font/absorption/sink_0.png", "chars": [ "\u0150\u0151" ], "height": 200, "ascent": 150 },
+        { "type": "bitmap", "file": "minecraft:font/absorption/sink_0.png", "chars": [ "\u0160\u0161" ], "height": 200, "ascent": 160 },
+        { "type": "bitmap", "file": "minecraft:font/absorption/sink_0.png", "chars": [ "\u0170\u0171" ], "height": 200, "ascent": 170 },
+        { "type": "bitmap", "file": "minecraft:font/absorption/sink_0.png", "chars": [ "\u0180\u0181" ], "height": 200, "ascent": 180 },
+        { "type": "bitmap", "file": "minecraft:font/absorption/sink_0.png", "chars": [ "\u0190\u0191" ], "height": 200, "ascent": 190 },
+        { "type": "bitmap", "file": "minecraft:font/absorption/sink_0.png", "chars": [ "\u0200\u0201" ], "height": 200, "ascent": 200 },
+        {
+            "type": "space",
+            "advances": {
+                ".": -1,
+                "<": -81
+            }
+        }
+    ]
+}
