@@ -1,0 +1,7 @@
+{
+	"parent": "animated_java:item/labyria/coat_downer",
+	"textures": {
+		"2": "animated_java:item/labyria/labyria_face_3",
+		"5": "animated_java:item/labyria/labyria_mayu_3"
+	}
+}

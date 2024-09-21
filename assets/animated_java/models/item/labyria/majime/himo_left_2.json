@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:item/labyria/himo_left_2",
+	"textures": {
+		"5": "animated_java:item/labyria/labyria_mayu_2"
+	}
+}

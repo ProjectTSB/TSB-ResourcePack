@@ -1,0 +1,7 @@
+{
+	"parent": "animated_java:item/labyria/ear_left_2",
+	"textures": {
+		"2": "animated_java:item/labyria/labyria_face_2",
+		"5": "animated_java:item/labyria/labyria_mayu_3"
+	}
+}
