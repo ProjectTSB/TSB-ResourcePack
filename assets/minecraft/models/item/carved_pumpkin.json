@@ -59,6 +59,18 @@
                 "custom_model_data": 20207
             },
             "model": "item/carved_pumpkin"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20282
+            },
+            "model": "item/mob/carved_pumpkin/20282"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20283
+            },
+            "model": "item/carved_pumpkin"
         }
     ]
 }
