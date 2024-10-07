@@ -76,6 +76,12 @@
             "predicate": {
                 "custom_model_data": 20284
             },
+            "model": "item/mob/carved_pumpkin/20284"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20285
+            },
             "model": "item/carved_pumpkin"
         }
     ]
