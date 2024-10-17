@@ -1,0 +1,81 @@
+{
+	"textures": {
+		"3": "animated_java:item/tultaria/texture_body"
+	},
+	"elements": [
+		{
+			"from": [
+				4,
+				-4,
+				8
+			],
+			"to": [
+				10,
+				8,
+				8
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					4,
+					8.881784197001252e-16,
+					10
+				]
+			},
+			"faces": {
+				"south": {
+					"uv": [
+						6,
+						0,
+						7.5,
+						3
+					],
+					"texture": "#3"
+				}
+			}
+		},
+		{
+			"from": [
+				10,
+				8,
+				8
+			],
+			"to": [
+				4,
+				-4,
+				8
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					4,
+					8.881784197001252e-16,
+					10
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						7.5,
+						0,
+						6,
+						3
+					],
+					"rotation": 180,
+					"texture": "#3"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}

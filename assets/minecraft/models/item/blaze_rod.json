@@ -86,175 +86,175 @@
 			"predicate": {
 				"custom_model_data": 14
 			},
-			"model": "animated_java:item/tultaria/left_hand"
+			"model": "animated_java:item/tultaria/right_ring"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 15
 			},
-			"model": "animated_java:item/tultaria/left_arm"
+			"model": "animated_java:item/tultaria/sword"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 16
 			},
-			"model": "animated_java:item/tultaria/rod"
+			"model": "animated_java:item/tultaria/right_hand"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 17
 			},
-			"model": "animated_java:item/tultaria/sword"
+			"model": "animated_java:item/tultaria/right_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 18
 			},
-			"model": "animated_java:item/tultaria/right_hand"
+			"model": "animated_java:item/tultaria/left_ring"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 19
 			},
-			"model": "animated_java:item/tultaria/right_arm"
+			"model": "animated_java:item/tultaria/left_hand"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 20
 			},
-			"model": "animated_java:item/tultaria/skirt"
+			"model": "animated_java:item/tultaria/left_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 21
 			},
-			"model": "animated_java:item/tultaria/left_foot"
+			"model": "animated_java:item/tultaria/leftfoot"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 22
 			},
-			"model": "animated_java:item/tultaria/left_leg"
+			"model": "animated_java:item/tultaria/leftleg"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 23
 			},
-			"model": "animated_java:item/tultaria/right_foot"
+			"model": "animated_java:item/tultaria/rightfoot"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 24
 			},
-			"model": "animated_java:item/tultaria/right_leg"
+			"model": "animated_java:item/tultaria/rightleg"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 25
 			},
-			"model": "animated_java:item/tultaria/lower"
+			"model": "animated_java:item/tultaria/skirt_right_back"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 26
 			},
-			"model": "animated_java:item/tultaria/no_wing/head"
+			"model": "animated_java:item/tultaria/skirt_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 27
 			},
-			"model": "animated_java:item/tultaria/no_wing/bust"
+			"model": "animated_java:item/tultaria/skirt_left_back"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 28
 			},
-			"model": "animated_java:item/tultaria/no_wing/left_wing"
+			"model": "animated_java:item/tultaria/skirt_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 29
 			},
-			"model": "animated_java:item/tultaria/no_wing/right_wing"
+			"model": "animated_java:item/tultaria/skirt_back_middle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 30
 			},
-			"model": "animated_java:item/tultaria/no_wing/body"
+			"model": "animated_java:item/tultaria/skirt_front_middle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 31
 			},
-			"model": "animated_java:item/tultaria/no_wing/left_hand"
+			"model": "animated_java:item/tultaria/lower"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 32
 			},
-			"model": "animated_java:item/tultaria/no_wing/left_arm"
+			"model": "animated_java:item/tultaria/winged/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 33
 			},
-			"model": "animated_java:item/tultaria/no_wing/rod"
+			"model": "animated_java:item/tultaria/winged/bust"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 34
 			},
-			"model": "animated_java:item/tultaria/no_wing/sword"
+			"model": "animated_java:item/tultaria/winged/left_wing"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 35
 			},
-			"model": "animated_java:item/tultaria/no_wing/right_hand"
+			"model": "animated_java:item/tultaria/winged/right_wing"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 36
 			},
-			"model": "animated_java:item/tultaria/no_wing/right_arm"
+			"model": "animated_java:item/tultaria/winged/body"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 37
 			},
-			"model": "animated_java:item/tultaria/no_wing/skirt"
+			"model": "animated_java:item/tultaria/winged/right_ring"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 38
 			},
-			"model": "animated_java:item/tultaria/no_wing/left_foot"
+			"model": "animated_java:item/tultaria/winged/sword"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 39
 			},
-			"model": "animated_java:item/tultaria/no_wing/left_leg"
+			"model": "animated_java:item/tultaria/winged/right_hand"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 40
 			},
-			"model": "animated_java:item/tultaria/no_wing/right_foot"
+			"model": "animated_java:item/tultaria/winged/right_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 41
 			},
-			"model": "animated_java:item/tultaria/no_wing/right_leg"
+			"model": "animated_java:item/tultaria/winged/left_ring"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 42
 			},
-			"model": "animated_java:item/tultaria/no_wing/lower"
+			"model": "animated_java:item/tultaria/winged/left_hand"
 		},
 		{
 			"predicate": {
@@ -4269,6 +4269,78 @@
 				"custom_model_data": 711
 			},
 			"model": "animated_java:item/haruclaire_v3/damage/haruclaire_rod_air"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 712
+			},
+			"model": "animated_java:item/tultaria/winged/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 713
+			},
+			"model": "animated_java:item/tultaria/winged/leftfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 714
+			},
+			"model": "animated_java:item/tultaria/winged/leftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 715
+			},
+			"model": "animated_java:item/tultaria/winged/rightfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 716
+			},
+			"model": "animated_java:item/tultaria/winged/rightleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 717
+			},
+			"model": "animated_java:item/tultaria/winged/skirt_right_back"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 718
+			},
+			"model": "animated_java:item/tultaria/winged/skirt_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 719
+			},
+			"model": "animated_java:item/tultaria/winged/skirt_left_back"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 720
+			},
+			"model": "animated_java:item/tultaria/winged/skirt_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 721
+			},
+			"model": "animated_java:item/tultaria/winged/skirt_back_middle"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 722
+			},
+			"model": "animated_java:item/tultaria/winged/skirt_front_middle"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 723
+			},
+			"model": "animated_java:item/tultaria/winged/lower"
 		}
 	],
 	"animated_java": {
@@ -4319,7 +4391,19 @@
 					39,
 					40,
 					41,
-					42
+					42,
+					712,
+					713,
+					714,
+					715,
+					716,
+					717,
+					718,
+					719,
+					720,
+					721,
+					722,
+					723
 				]
 			},
 			"haruclaire": {
