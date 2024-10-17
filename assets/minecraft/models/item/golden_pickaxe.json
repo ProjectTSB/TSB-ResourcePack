@@ -1,0 +1,20 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/golden_pickaxe"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1084
+            },
+            "model": "item/artifact/golden_pickaxe/1084"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1085
+            },
+            "model": "item/golden_pickaxe"
+        }
+    ]
+}
