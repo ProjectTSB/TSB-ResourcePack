@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "animated_java:item/tultaria/texture"
+		"0": "animated_java:item/tultaria/texture_wing_0"
 	},
 	"elements": [
 		{
@@ -26,10 +26,10 @@
 			"faces": {
 				"north": {
 					"uv": [
+						4.5,
 						0,
 						0,
-						2.25,
-						2.75
+						5.5
 					],
 					"texture": "#0"
 				},
@@ -38,16 +38,16 @@
 						0,
 						0,
 						0,
-						2.75
+						5.5
 					],
 					"texture": "#0"
 				},
 				"south": {
 					"uv": [
-						2.25,
+						9,
 						0,
 						4.5,
-						2.75
+						5.5
 					],
 					"texture": "#0"
 				},
@@ -56,24 +56,24 @@
 						0,
 						0,
 						0,
-						2.75
+						5.5
 					],
 					"texture": "#0"
 				},
 				"up": {
 					"uv": [
-						2.25,
 						0,
 						0,
+						4.5,
 						0
 					],
 					"texture": "#0"
 				},
 				"down": {
 					"uv": [
-						2.25,
 						0,
 						0,
+						4.5,
 						0
 					],
 					"texture": "#0"
