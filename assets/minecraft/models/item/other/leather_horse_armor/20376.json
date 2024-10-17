@@ -1,0 +1,230 @@
+{
+    "credit": "Made with Blockbench",
+    "textures": {
+        "2": "item/other/leather_horse_armor/20376/beam_texture"
+    },
+    "elements": [
+        {
+            "from": [
+                6,
+                6,
+                8
+            ],
+            "to": [
+                10,
+                10,
+                16
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    8,
+                    6,
+                    8
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        9,
+                        12,
+                        13,
+                        16
+                    ],
+                    "texture": "#2",
+                    "tintindex": 0
+                },
+                "east": {
+                    "uv": [
+                        4,
+                        8,
+                        0,
+                        16
+                    ],
+                    "rotation": 90,
+                    "texture": "#2",
+                    "tintindex": 0
+                },
+                "south": {
+                    "uv": [
+                        9,
+                        8,
+                        13,
+                        12
+                    ],
+                    "texture": "#2",
+                    "tintindex": 0
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        8,
+                        4,
+                        16
+                    ],
+                    "rotation": 90,
+                    "texture": "#2",
+                    "tintindex": 0
+                },
+                "up": {
+                    "uv": [
+                        4,
+                        8,
+                        0,
+                        16
+                    ],
+                    "rotation": 180,
+                    "texture": "#2",
+                    "tintindex": 0
+                },
+                "down": {
+                    "uv": [
+                        4,
+                        8,
+                        0,
+                        16
+                    ],
+                    "texture": "#2",
+                    "tintindex": 0
+                }
+            }
+        },
+        {
+            "name": "overay",
+            "from": [
+                5.5,
+                5.5,
+                8
+            ],
+            "to": [
+                10.5,
+                10.5,
+                16
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "x",
+                "origin": [
+                    8,
+                    8,
+                    12
+                ]
+            },
+            "faces": {
+                "east": {
+                    "uv": [
+                        4,
+                        8,
+                        9,
+                        16
+                    ],
+                    "rotation": 90,
+                    "texture": "#2",
+                    "tintindex": 0
+                },
+                "west": {
+                    "uv": [
+                        4,
+                        8,
+                        9,
+                        16
+                    ],
+                    "rotation": 90,
+                    "texture": "#2",
+                    "tintindex": 0
+                },
+                "up": {
+                    "uv": [
+                        4,
+                        8,
+                        9,
+                        16
+                    ],
+                    "rotation": 180,
+                    "texture": "#2",
+                    "tintindex": 0
+                },
+                "down": {
+                    "uv": [
+                        4,
+                        8,
+                        9,
+                        16
+                    ],
+                    "rotation": 180,
+                    "texture": "#2",
+                    "tintindex": 0
+                }
+            }
+        },
+        {
+            "name": "overay_outline",
+            "from": [
+                10.5,
+                10.5,
+                16
+            ],
+            "to": [
+                5.5,
+                5.5,
+                8
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    8,
+                    8,
+                    12
+                ]
+            },
+            "faces": {
+                "east": {
+                    "uv": [
+                        4,
+                        8,
+                        9,
+                        16
+                    ],
+                    "rotation": 180,
+                    "texture": "#2",
+                    "tintindex": 0
+                },
+                "west": {
+                    "uv": [
+                        4,
+                        8,
+                        9,
+                        16
+                    ],
+                    "rotation": 180,
+                    "texture": "#2",
+                    "tintindex": 0
+                },
+                "up": {
+                    "uv": [
+                        4,
+                        8,
+                        9,
+                        16
+                    ],
+                    "rotation": 180,
+                    "texture": "#2",
+                    "tintindex": 0
+                },
+                "down": {
+                    "uv": [
+                        4,
+                        8,
+                        9,
+                        16
+                    ],
+                    "rotation": 180,
+                    "texture": "#2",
+                    "tintindex": 0
+                }
+            }
+        }
+    ]
+}

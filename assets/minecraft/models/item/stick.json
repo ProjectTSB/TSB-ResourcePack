@@ -420,6 +420,18 @@
         },
         {
             "predicate": {
+                "custom_model_data": 772
+            },
+            "model": "item/artifact/stick/772"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 773
+            },
+            "model": "item/stick"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 815
             },
             "model": "item/artifact/stick/815"
@@ -451,6 +463,30 @@
         {
             "predicate": {
                 "custom_model_data": 900
+            },
+            "model": "item/stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 902
+            },
+            "model": "item/artifact/stick/902"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 903
+            },
+            "model": "item/artifact/stick/903"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 904
+            },
+            "model": "item/artifact/stick/904"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 905
             },
             "model": "item/stick"
         },
@@ -672,6 +708,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 1032
+            },
+            "model": "item/artifact/stick/1032"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 1033
             },
             "model": "item/artifact/stick/1033"
@@ -817,6 +859,18 @@
         {
             "predicate": {
                 "custom_model_data": 1084
+            },
+            "model": "item/stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1085
+            },
+            "model": "item/artifact/stick/1085"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1086
             },
             "model": "item/stick"
         },
