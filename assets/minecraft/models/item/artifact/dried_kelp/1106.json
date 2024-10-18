@@ -1,6 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/artifact/dried_kelp/1106"
+        "layer0": "item/artifact/dried_kelp/1106",
+        "particle": "item/other/missing/missing"
     }
 }
