@@ -182,6 +182,12 @@
             "predicate": {
                 "custom_model_data": 20381
             },
+            "model": "item/other/leather_horse_armor/20381"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20382
+            },
             "model": "item/leather_horse_armor"
         }
     ]
