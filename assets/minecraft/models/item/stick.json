@@ -1802,11 +1802,17 @@
             "predicate": {
                 "custom_model_data": 20225
             },
-            "model": "item/mob/stick/20224"
+            "model": "item/mob/stick/20225"
         },
         {
             "predicate": {
                 "custom_model_data": 20226
+            },
+            "model": "item/mob/stick/20226"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20227
             },
             "model": "item/stick"
         },
