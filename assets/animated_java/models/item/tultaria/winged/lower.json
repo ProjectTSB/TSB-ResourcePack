@@ -1,6 +1,0 @@
-{
-	"parent": "animated_java:item/tultaria/lower",
-	"textures": {
-		"0": "animated_java:item/tultaria/texture_wing_1"
-	}
-}
