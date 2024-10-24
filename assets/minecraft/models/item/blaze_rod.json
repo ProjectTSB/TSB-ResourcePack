@@ -192,72 +192,6 @@
 		},
 		{
 			"predicate": {
-				"custom_model_data": 32
-			},
-			"model": "animated_java:item/tultaria/winged/head"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 33
-			},
-			"model": "animated_java:item/tultaria/winged/bust"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 34
-			},
-			"model": "animated_java:item/tultaria/winged/left_wing"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 35
-			},
-			"model": "animated_java:item/tultaria/winged/right_wing"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 36
-			},
-			"model": "animated_java:item/tultaria/winged/body"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 37
-			},
-			"model": "animated_java:item/tultaria/winged/right_ring"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 38
-			},
-			"model": "animated_java:item/tultaria/winged/sword"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 39
-			},
-			"model": "animated_java:item/tultaria/winged/right_hand"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 40
-			},
-			"model": "animated_java:item/tultaria/winged/right_arm"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 41
-			},
-			"model": "animated_java:item/tultaria/winged/left_ring"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 42
-			},
-			"model": "animated_java:item/tultaria/winged/left_hand"
-		},
-		{
-			"predicate": {
 				"custom_model_data": 43
 			},
 			"model": "animated_java:item/haruclaire/hat"
@@ -4269,78 +4203,6 @@
 				"custom_model_data": 711
 			},
 			"model": "animated_java:item/haruclaire_v3/damage/haruclaire_rod_air"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 712
-			},
-			"model": "animated_java:item/tultaria/winged/left_arm"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 713
-			},
-			"model": "animated_java:item/tultaria/winged/leftfoot"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 714
-			},
-			"model": "animated_java:item/tultaria/winged/leftleg"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 715
-			},
-			"model": "animated_java:item/tultaria/winged/rightfoot"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 716
-			},
-			"model": "animated_java:item/tultaria/winged/rightleg"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 717
-			},
-			"model": "animated_java:item/tultaria/winged/skirt_right_back"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 718
-			},
-			"model": "animated_java:item/tultaria/winged/skirt_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 719
-			},
-			"model": "animated_java:item/tultaria/winged/skirt_left_back"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 720
-			},
-			"model": "animated_java:item/tultaria/winged/skirt_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 721
-			},
-			"model": "animated_java:item/tultaria/winged/skirt_back_middle"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 722
-			},
-			"model": "animated_java:item/tultaria/winged/skirt_front_middle"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 723
-			},
-			"model": "animated_java:item/tultaria/winged/lower"
 		}
 	],
 	"animated_java": {
@@ -4380,30 +4242,7 @@
 					28,
 					29,
 					30,
-					31,
-					32,
-					33,
-					34,
-					35,
-					36,
-					37,
-					38,
-					39,
-					40,
-					41,
-					42,
-					712,
-					713,
-					714,
-					715,
-					716,
-					717,
-					718,
-					719,
-					720,
-					721,
-					722,
-					723
+					31
 				]
 			},
 			"haruclaire": {

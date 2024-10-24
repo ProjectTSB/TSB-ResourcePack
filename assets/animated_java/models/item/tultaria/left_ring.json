@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"5": "animated_java:item/tultaria/texture_ring"
+		"5": "animated_java:item/tultaria/variant/ring/none"
 	},
 	"elements": [
 		{
@@ -35,9 +35,9 @@
 				},
 				"east": {
 					"uv": [
-						12,
-						0,
 						6,
+						0,
+						0,
 						3
 					],
 					"texture": "#5"
@@ -45,18 +45,18 @@
 				"south": {
 					"uv": [
 						6,
-						6,
 						0,
-						9
+						0,
+						3
 					],
 					"texture": "#5"
 				},
 				"west": {
 					"uv": [
 						6,
-						3,
 						0,
-						6
+						0,
+						3
 					],
 					"texture": "#5"
 				}
@@ -86,9 +86,9 @@
 				"north": {
 					"uv": [
 						6,
-						6,
 						0,
-						9
+						0,
+						3
 					],
 					"rotation": 180,
 					"texture": "#5"
@@ -96,9 +96,9 @@
 				"east": {
 					"uv": [
 						6,
-						3,
 						0,
-						6
+						0,
+						3
 					],
 					"rotation": 180,
 					"texture": "#5"
@@ -115,9 +115,9 @@
 				},
 				"west": {
 					"uv": [
-						12,
-						0,
 						6,
+						0,
+						0,
 						3
 					],
 					"rotation": 180,
