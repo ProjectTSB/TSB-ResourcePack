@@ -2,7 +2,8 @@
     "mcrg.customizeInjectFolder": [
         "artifact",
         "mob",
-        "other"
+        "other",
+        "guide"
     ],
     "mcrg.parentElements": [
         {
