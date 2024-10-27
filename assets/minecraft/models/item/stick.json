@@ -2444,6 +2444,12 @@
             "predicate": {
                 "custom_model_data": 20407
             },
+            "model": "item/other/stick/20407"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20408
+            },
             "model": "item/stick"
         },
         {
