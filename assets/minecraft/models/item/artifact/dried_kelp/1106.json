@@ -1,0 +1,20 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/artifact/dried_kelp/1106",
+		"particle": "item/other/missing/missing"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [50.75, 90, 0],
+			"translation": [0, 4.5, 2],
+			"scale": [0.59, 0.59, 0.59]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [50.75, -90, 0],
+			"translation": [0, 4.5, 2],
+			"scale": [0.59, 0.59, 0.59]
+		}
+	}
+}

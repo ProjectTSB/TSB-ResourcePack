@@ -14,6 +14,24 @@
             "predicate": {
                 "custom_model_data": 20084
             },
+            "model": "item/other/leather_horse_armor/20084"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20085
+            },
+            "model": "item/other/leather_horse_armor/20085"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20086
+            },
+            "model": "item/other/leather_horse_armor/20086"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20087
+            },
             "model": "item/leather_horse_armor"
         },
         {
@@ -139,6 +157,66 @@
         {
             "predicate": {
                 "custom_model_data": 20371
+            },
+            "model": "item/leather_horse_armor"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20375
+            },
+            "model": "item/other/leather_horse_armor/20375"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20376
+            },
+            "model": "item/other/leather_horse_armor/20376"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20377
+            },
+            "model": "item/other/leather_horse_armor/20377"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20378
+            },
+            "model": "item/leather_horse_armor"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20379
+            },
+            "model": "item/other/leather_horse_armor/20379"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20380
+            },
+            "model": "item/other/leather_horse_armor/20380"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20381
+            },
+            "model": "item/other/leather_horse_armor/20381"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20396
+            },
+            "model": "item/other/leather_horse_armor/20396"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20397
+            },
+            "model": "item/mob/leather_horse_armor/20397"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20398
             },
             "model": "item/leather_horse_armor"
         }
