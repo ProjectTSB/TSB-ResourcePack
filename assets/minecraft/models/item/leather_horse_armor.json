@@ -186,6 +186,24 @@
         },
         {
             "predicate": {
+                "custom_model_data": 20382
+            },
+            "model": "item/other/leather_horse_armor/20382"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20383
+            },
+            "model": "item/other/leather_horse_armor/20383"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20384
+            },
+            "model": "item/leather_horse_armor"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 20396
             },
             "model": "item/other/leather_horse_armor/20396"
