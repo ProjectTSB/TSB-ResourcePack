@@ -1,0 +1,47 @@
+{
+    "credit": "Made with Blockbench",
+    "textures": {
+        "particle": "item/guide/stick/20410/guide1",
+        "texture": "item/guide/stick/20410/guide1"
+    },
+    "elements": [
+        {
+            "from": [
+                -16,
+                -16,
+                4
+            ],
+            "to": [
+                32,
+                32,
+                4.0625
+            ],
+            "faces": {
+                "south": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "texture": "#texture"
+                }
+            }
+        }
+    ],
+    "gui_light": "front",
+    "display": {
+        "gui": {
+            "translation": [
+                48,
+                -81,
+                0
+            ],
+            "scale": [
+                4,
+                4,
+                4
+            ]
+        }
+    }
+}

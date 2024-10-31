@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/artifact/carrot_on_a_stick/258"
+        "layer0": "item/other/leather_horse_armor/20382"
     }
 }
