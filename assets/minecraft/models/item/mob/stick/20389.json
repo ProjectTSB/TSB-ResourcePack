@@ -1,0 +1,52 @@
+{
+	"credit": "Made with Blockbench",
+	"elements": [
+		{
+			"from": [6, 0, 14.47],
+			"to": [10, 2, 15.47],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 0, -1.23]},
+			"color": 5,
+			"faces": {
+				"north": {"uv": [0, 0, 4, 2], "texture": "#missing"},
+				"east": {"uv": [0, 0, 1, 2], "texture": "#missing"},
+				"south": {"uv": [0, 0, 4, 2], "texture": "#missing"},
+				"west": {"uv": [0, 0, 1, 2], "texture": "#missing"},
+				"up": {"uv": [0, 0, 4, 1], "texture": "#missing"},
+				"down": {"uv": [0, 0, 4, 1], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [6, 0, 0.53],
+			"to": [10, 2, 1.53],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 0, 17.23]},
+			"color": 5,
+			"faces": {
+				"north": {"uv": [4, 0, 0, 2], "texture": "#missing"},
+				"east": {"uv": [1, 0, 0, 2], "texture": "#missing"},
+				"south": {"uv": [4, 0, 0, 2], "texture": "#missing"},
+				"west": {"uv": [1, 0, 0, 2], "texture": "#missing"},
+				"up": {"uv": [0, 1, 4, 0], "texture": "#missing"},
+				"down": {"uv": [0, 1, 4, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {},
+	"groups": [
+		{
+			"name": "hexadecagon",
+			"origin": [9, 8, 8],
+			"color": 0,
+			"nbt": "{}",
+			"children": []
+		},
+		{
+			"name": "hexadecagon",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"nbt": "{}",
+			"children": []
+		},
+		0,
+		1
+	]
+}
