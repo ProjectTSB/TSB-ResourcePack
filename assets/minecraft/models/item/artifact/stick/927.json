@@ -1,5 +1,6 @@
 {
 	"credit": "Made with Blockbench",
+	"gui_light": "front",   
 	"texture_size": [64, 64],
 	"textures": {
 		"1": "item/artifact/carrot_on_a_stick/927/texture"
