@@ -134,7 +134,7 @@
 			"predicate": {
 				"custom_model_data": 22
 			},
-			"model": "animated_java:item/tultaria/default/leftleg"
+			"model": "animated_java:item/tultaria/default/leftupper"
 		},
 		{
 			"predicate": {
@@ -146,7 +146,7 @@
 			"predicate": {
 				"custom_model_data": 24
 			},
-			"model": "animated_java:item/tultaria/default/rightleg"
+			"model": "animated_java:item/tultaria/default/rightupper"
 		},
 		{
 			"predicate": {
