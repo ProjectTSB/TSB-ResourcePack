@@ -8,7 +8,7 @@
 			"predicate": {
 				"custom_model_data": 1
 			},
-			"model": "animated_java:empty"
+			"model": "item/animated_java_empty"
 		},
 		{
 			"predicate": {
@@ -18,9 +18,21 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "animated_java:item/convict/left_leg_2"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 3
 			},
 			"model": "animated_java:item/blazing_inferno/left_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "animated_java:item/convict/left_leg"
 		},
 		{
 			"predicate": {
@@ -30,9 +42,21 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "animated_java:item/convict/right_leg_2"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 5
 			},
 			"model": "animated_java:item/blazing_inferno/right_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "animated_java:item/convict/right_leg"
 		},
 		{
 			"predicate": {
@@ -42,9 +66,21 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "animated_java:item/convict/head"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 7
 			},
 			"model": "animated_java:item/blazing_inferno/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "animated_java:item/convict/left_axe"
 		},
 		{
 			"predicate": {
@@ -54,9 +90,21 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "animated_java:item/convict/left_arm_2"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 9
 			},
 			"model": "animated_java:item/tultaria/default/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "animated_java:item/convict/left_arm"
 		},
 		{
 			"predicate": {
@@ -66,9 +114,21 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "animated_java:item/convict/right_axe"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 11
 			},
 			"model": "animated_java:item/tultaria/default/bust"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "animated_java:item/convict/right_arm_2"
 		},
 		{
 			"predicate": {
@@ -78,9 +138,21 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "animated_java:item/convict/right_arm"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 13
 			},
 			"model": "animated_java:item/tultaria/default/right_wing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "animated_java:item/convict/body"
 		},
 		{
 			"predicate": {
@@ -294,7 +366,75 @@
 		}
 	],
 	"animated_java": {
-		"lexiel": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25],
-		"tultaria": [1, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48]
+		"lexiel": [
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			11,
+			12,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25
+		],
+		"tultaria": [
+			1,
+			26,
+			27,
+			28,
+			29,
+			30,
+			31,
+			32,
+			33,
+			34,
+			35,
+			36,
+			37,
+			38,
+			39,
+			40,
+			41,
+			42,
+			43,
+			44,
+			45,
+			46,
+			47,
+			48
+		],
+		"rigs": {
+			"convict": {
+				"used_ids": [
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12,
+					13
+				]
+			}
+		}
 	}
 }

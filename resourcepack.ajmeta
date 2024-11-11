@@ -78,6 +78,25 @@
                 "assets\\animated_java\\textures\\item\\lexiel\\texture_body.png",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
             ]
+        },
+        "066420f7-070f-c766-0a1d-76fc622cda14": {
+            "project_name": "convict",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\convict\\left_leg_2.json",
+                "assets\\animated_java\\models\\item\\convict\\left_leg.json",
+                "assets\\animated_java\\models\\item\\convict\\right_leg_2.json",
+                "assets\\animated_java\\models\\item\\convict\\right_leg.json",
+                "assets\\animated_java\\models\\item\\convict\\head.json",
+                "assets\\animated_java\\models\\item\\convict\\left_axe.json",
+                "assets\\animated_java\\models\\item\\convict\\left_arm_2.json",
+                "assets\\animated_java\\models\\item\\convict\\left_arm.json",
+                "assets\\animated_java\\models\\item\\convict\\right_axe.json",
+                "assets\\animated_java\\models\\item\\convict\\right_arm_2.json",
+                "assets\\animated_java\\models\\item\\convict\\right_arm.json",
+                "assets\\animated_java\\models\\item\\convict\\body.json",
+                "assets\\animated_java\\textures\\item\\convict\\texture.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
         }
     }
 }
