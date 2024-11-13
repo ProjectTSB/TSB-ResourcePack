@@ -45,6 +45,58 @@
                 "assets\\animated_java\\textures\\item\\tultaria\\texture_sword.png",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
             ]
+        },
+        "f1e1ac96-0397-81c3-c71d-9f731bc1ccf6": {
+            "project_name": "lexiel",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\lexiel\\backhair.json",
+                "assets\\animated_java\\models\\item\\lexiel\\head.json",
+                "assets\\animated_java\\models\\item\\lexiel\\ring.json",
+                "assets\\animated_java\\models\\item\\lexiel\\bust.json",
+                "assets\\animated_java\\models\\item\\lexiel\\left_wing.json",
+                "assets\\animated_java\\models\\item\\lexiel\\right_wing.json",
+                "assets\\animated_java\\models\\item\\lexiel\\body.json",
+                "assets\\animated_java\\models\\item\\lexiel\\sword.json",
+                "assets\\animated_java\\models\\item\\lexiel\\rod.json",
+                "assets\\animated_java\\models\\item\\lexiel\\right_hand.json",
+                "assets\\animated_java\\models\\item\\lexiel\\right_arm.json",
+                "assets\\animated_java\\models\\item\\lexiel\\left_hand.json",
+                "assets\\animated_java\\models\\item\\lexiel\\left_arm.json",
+                "assets\\animated_java\\models\\item\\lexiel\\skirt_right.json",
+                "assets\\animated_java\\models\\item\\lexiel\\skirt_left.json",
+                "assets\\animated_java\\models\\item\\lexiel\\skirt_back_middle.json",
+                "assets\\animated_java\\models\\item\\lexiel\\skirt_front_middle.json",
+                "assets\\animated_java\\models\\item\\lexiel\\skirt.json",
+                "assets\\animated_java\\models\\item\\lexiel\\rightupper.json",
+                "assets\\animated_java\\models\\item\\lexiel\\rightfoot.json",
+                "assets\\animated_java\\models\\item\\lexiel\\leftupper.json",
+                "assets\\animated_java\\models\\item\\lexiel\\leftfoot.json",
+                "assets\\animated_java\\models\\item\\lexiel\\lower.json",
+                "assets\\animated_java\\models\\item\\lexiel\\sucidesword.json",
+                "assets\\animated_java\\textures\\item\\lexiel\\texture_face.png",
+                "assets\\animated_java\\textures\\item\\lexiel\\texture.png",
+                "assets\\animated_java\\textures\\item\\lexiel\\texture_body.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "066420f7-070f-c766-0a1d-76fc622cda14": {
+            "project_name": "convict",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\convict\\left_leg_2.json",
+                "assets\\animated_java\\models\\item\\convict\\left_leg.json",
+                "assets\\animated_java\\models\\item\\convict\\right_leg_2.json",
+                "assets\\animated_java\\models\\item\\convict\\right_leg.json",
+                "assets\\animated_java\\models\\item\\convict\\head.json",
+                "assets\\animated_java\\models\\item\\convict\\left_axe.json",
+                "assets\\animated_java\\models\\item\\convict\\left_arm_2.json",
+                "assets\\animated_java\\models\\item\\convict\\left_arm.json",
+                "assets\\animated_java\\models\\item\\convict\\right_axe.json",
+                "assets\\animated_java\\models\\item\\convict\\right_arm_2.json",
+                "assets\\animated_java\\models\\item\\convict\\right_arm.json",
+                "assets\\animated_java\\models\\item\\convict\\body.json",
+                "assets\\animated_java\\textures\\item\\convict\\texture.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
         }
     }
 }
