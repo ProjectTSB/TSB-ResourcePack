@@ -15,6 +15,18 @@
                 "custom_model_data": 44
             },
             "model": "item/apple"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1104
+            },
+            "model": "item/artifact/apple/1104"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1105
+            },
+            "model": "item/apple"
         }
     ]
 }
