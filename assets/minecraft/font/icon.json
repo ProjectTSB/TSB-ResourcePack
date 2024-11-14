@@ -1,0 +1,58 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                "<": -10
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/bg.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uB000\uB001\uB002\uB003",
+                "\uB004\uB005\uB006\uB007",
+                "\uB008\uB009\uB010\uB011",
+                "\uB012\uB013\uB014\uB015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/god.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uE000\uE001\uE002\uE003",
+                "\uE004\uE005\uE006\uE007",
+                "\uE008\uE009\uE010\uE011",
+                "\uE012\uE013\uE014\uE015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/element.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uE100\uE101\uE102\uE103",
+                "\uE104\uE105\uE106\uE107",
+                "\uE108\uE109\uE110\uE111",
+                "\uE112\uE113\uE114\uE115"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/cooldown.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uE200\uE201\uE202\uE203",
+                "\uE204\uE205\uE206\uE207",
+                "\uE208\uE209\uE210\uE211",
+                "\uE212\uE213\uE214\uE215"
+            ]
+        }
+    ]
+}
