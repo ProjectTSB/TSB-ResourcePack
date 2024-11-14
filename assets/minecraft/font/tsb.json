@@ -22,7 +22,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/status/resist_info.png",
+            "file": "minecraft:font/artifact/1/resist_info.png",
             "ascent": 8,
             "height": 9,
             "chars": [
