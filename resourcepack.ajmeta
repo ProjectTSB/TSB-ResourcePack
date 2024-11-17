@@ -97,6 +97,28 @@
                 "assets\\animated_java\\textures\\item\\convict\\texture.png",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
             ]
+        },
+        "29a0f48d-a390-0ca7-61e5-224100c04bea": {
+            "project_name": "tutankhamen",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\tutankhamen\\head.json",
+                "assets\\animated_java\\models\\item\\tutankhamen\\back_cape.json",
+                "assets\\animated_java\\models\\item\\tutankhamen\\left_hand.json",
+                "assets\\animated_java\\models\\item\\tutankhamen\\cape_left_back.json",
+                "assets\\animated_java\\models\\item\\tutankhamen\\cape_left_side.json",
+                "assets\\animated_java\\models\\item\\tutankhamen\\left_arm.json",
+                "assets\\animated_java\\models\\item\\tutankhamen\\cape_right_back.json",
+                "assets\\animated_java\\models\\item\\tutankhamen\\cape_right.json",
+                "assets\\animated_java\\models\\item\\tutankhamen\\weapon.json",
+                "assets\\animated_java\\models\\item\\tutankhamen\\right_hand.json",
+                "assets\\animated_java\\models\\item\\tutankhamen\\right_arm.json",
+                "assets\\animated_java\\models\\item\\tutankhamen\\body.json",
+                "assets\\animated_java\\models\\item\\tutankhamen\\left_foot.json",
+                "assets\\animated_java\\models\\item\\tutankhamen\\left_leg.json",
+                "assets\\animated_java\\models\\item\\tutankhamen\\right_foot.json",
+                "assets\\animated_java\\models\\item\\tutankhamen\\right_leg.json",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
         }
     }
 }
