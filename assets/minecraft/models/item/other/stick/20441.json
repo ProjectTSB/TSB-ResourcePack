@@ -1,0 +1,131 @@
+{
+    "credit": "Made with Blockbench",
+    "texture_size": [
+        64,
+        64
+    ],
+    "textures": {
+        "4": "item/other/stick/20440/texture"
+    },
+    "elements": [
+        {
+            "name": "right_arm",
+            "from": [
+                12,
+                8.5,
+                6
+            ],
+            "to": [
+                15,
+                20.5,
+                10
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    0,
+                    -3,
+                    0
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        7,
+                        7.75,
+                        7.75,
+                        10.75
+                    ],
+                    "texture": "#4"
+                },
+                "east": {
+                    "uv": [
+                        1,
+                        5.75,
+                        2,
+                        8.75
+                    ],
+                    "texture": "#4"
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        8.75,
+                        0.75,
+                        11.75
+                    ],
+                    "texture": "#4"
+                },
+                "west": {
+                    "uv": [
+                        5.75,
+                        4.75,
+                        6.75,
+                        7.75
+                    ],
+                    "texture": "#4"
+                },
+                "up": {
+                    "uv": [
+                        4.75,
+                        7.5,
+                        4,
+                        6.5
+                    ],
+                    "texture": "#4"
+                },
+                "down": {
+                    "uv": [
+                        4,
+                        9.5,
+                        3.25,
+                        10.5
+                    ],
+                    "texture": "#4"
+                }
+            }
+        }
+    ],
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [
+                90,
+                0,
+                0
+            ],
+            "translation": [
+                -5.25,
+                -2,
+                -0.5
+            ]
+        },
+        "head": {
+            "translation": [
+                0,
+                -25,
+                0
+            ],
+            "scale": [
+                1.63,
+                1.63,
+                1.63
+            ]
+        }
+    },
+    "groups": [
+        {
+            "name": "alex",
+            "origin": [
+                8,
+                8,
+                8
+            ],
+            "color": 0,
+            "nbt": "{}",
+            "children": [
+                0
+            ]
+        }
+    ]
+}
