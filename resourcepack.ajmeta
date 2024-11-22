@@ -117,6 +117,7 @@
                 "assets\\animated_java\\models\\item\\tutankhamen\\left_leg.json",
                 "assets\\animated_java\\models\\item\\tutankhamen\\right_foot.json",
                 "assets\\animated_java\\models\\item\\tutankhamen\\right_leg.json",
+                "assets\\animated_java\\textures\\item\\tutankhamen\\texture.png",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
             ]
         }
