@@ -248,6 +248,12 @@
             "predicate": {
                 "custom_model_data": 20444
             },
+            "model": "item/mob/leather_horse_armor/20444"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20445
+            },
             "model": "item/leather_horse_armor"
         }
     ]
