@@ -258,9 +258,21 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 30
+			},
+			"model": "animated_java:item/grey_guardian/head"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 31
 			},
 			"model": "animated_java:item/tultaria/default/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 31
+			},
+			"model": "animated_java:item/grey_guardian/sword"
 		},
 		{
 			"predicate": {
@@ -270,9 +282,21 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 32
+			},
+			"model": "animated_java:item/grey_guardian/axe"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 33
 			},
 			"model": "animated_java:item/tultaria/default/right_ring"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 33
+			},
+			"model": "animated_java:item/grey_guardian/left_arm_2"
 		},
 		{
 			"predicate": {
@@ -282,9 +306,21 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 34
+			},
+			"model": "animated_java:item/grey_guardian/left_arm"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 35
 			},
 			"model": "animated_java:item/tultaria/default/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 35
+			},
+			"model": "animated_java:item/grey_guardian/left_shoulder"
 		},
 		{
 			"predicate": {
@@ -294,9 +330,21 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 36
+			},
+			"model": "animated_java:item/grey_guardian/right_arm_2"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 37
 			},
 			"model": "animated_java:item/tultaria/default/left_ring"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 37
+			},
+			"model": "animated_java:item/grey_guardian/right_arm"
 		},
 		{
 			"predicate": {
@@ -306,15 +354,33 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 38
+			},
+			"model": "animated_java:item/grey_guardian/right_shoulder"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 39
 			},
 			"model": "animated_java:item/tultaria/default/leftleg"
 		},
 		{
 			"predicate": {
+				"custom_model_data": 39
+			},
+			"model": "animated_java:item/grey_guardian/upper_body"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 40
 			},
 			"model": "animated_java:item/tultaria/default/leftfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 40
+			},
+			"model": "animated_java:item/grey_guardian/body"
 		},
 		{
 			"predicate": {
@@ -453,6 +519,21 @@
 					27,
 					28,
 					29
+				]
+			},
+			"grey_guardian": {
+				"used_ids": [
+					30,
+					31,
+					32,
+					33,
+					34,
+					35,
+					36,
+					37,
+					38,
+					39,
+					40
 				]
 			}
 		}
