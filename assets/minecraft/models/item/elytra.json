@@ -15,6 +15,12 @@
                 "custom_model_data": 861
             },
             "model": "item/elytra"
+        },
+        {
+            "predicate": {
+                "broken": 1
+            },
+            "model": "item/broken_elytra"
         }
     ]
 }
