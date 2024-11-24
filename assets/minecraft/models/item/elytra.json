@@ -6,6 +6,12 @@
     "overrides": [
         {
             "predicate": {
+                "broken": 1
+            },
+            "model": "item/broken_elytra"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 860,
                 "broken": 1
             },
@@ -16,12 +22,6 @@
                 "custom_model_data": 861
             },
             "model": "item/elytra"
-        },
-        {
-            "predicate": {
-                "broken": 1
-            },
-            "model": "item/broken_elytra"
         }
     ]
 }
