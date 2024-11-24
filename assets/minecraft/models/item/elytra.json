@@ -6,7 +6,8 @@
     "overrides": [
         {
             "predicate": {
-                "custom_model_data": 860
+                "custom_model_data": 860,
+                "broken": 1
             },
             "model": "item/artifact/elytra/860"
         },
