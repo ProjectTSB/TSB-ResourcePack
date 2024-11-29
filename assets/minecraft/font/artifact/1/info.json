@@ -2,24 +2,11 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:font/icon/god.png",
+            "file": "minecraft:font/artifact/1/health.png",
             "ascent": 8,
             "height": 9,
             "chars": [
-                "\uE010\uE011\uE012\uE013",
-                "\uE014\uE015\uE016\uE017",
-                "\uE018\uE019\uE020\uE021",
-                "\uE022\uE023\uE024\uE025"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/artifact/1/element.png",
-            "ascent": 8,
-            "height": 9,
-            "chars": [
-                "\uE018\uE019\uE01A\uE01B",
-                "\uE01C\uE01D\uE01E\uE01F"
+                "♡"
             ]
         },
         {
