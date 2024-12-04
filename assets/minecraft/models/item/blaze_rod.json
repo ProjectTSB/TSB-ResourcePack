@@ -513,6 +513,84 @@
 				"custom_model_data": 73
 			},
 			"model": "animated_java:item/heiloang/body_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 74
+			},
+			"model": "animated_java:item/red_knight/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 75
+			},
+			"model": "animated_java:item/red_knight/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 76
+			},
+			"model": "animated_java:item/red_knight/left_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 77
+			},
+			"model": "animated_java:item/red_knight/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 78
+			},
+			"model": "animated_java:item/red_knight/weapon"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 79
+			},
+			"model": "animated_java:item/red_knight/right_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 80
+			},
+			"model": "animated_java:item/red_knight/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 81
+			},
+			"model": "animated_java:item/red_knight/waist"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 82
+			},
+			"model": "animated_java:item/red_knight/left_foot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 83
+			},
+			"model": "animated_java:item/red_knight/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 84
+			},
+			"model": "animated_java:item/red_knight/right_foot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 85
+			},
+			"model": "animated_java:item/red_knight/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 86
+			},
+			"model": "animated_java:item/red_knight/weapon_ground"
 		}
 	],
 	"animated_java": {
@@ -655,6 +733,23 @@
 					71,
 					72,
 					73
+				]
+			},
+			"red_knight": {
+				"used_ids": [
+					74,
+					75,
+					76,
+					77,
+					78,
+					79,
+					80,
+					81,
+					82,
+					83,
+					84,
+					85,
+					86
 				]
 			}
 		}

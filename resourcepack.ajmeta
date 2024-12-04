@@ -140,6 +140,27 @@
                 "assets\\animated_java\\textures\\item\\grey_guardian\\sword.png",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
             ]
+        },
+        "8cb69b84-f65c-b926-db89-18ee26b4e563": {
+            "project_name": "red_knight",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\red_knight\\head.json",
+                "assets\\animated_java\\models\\item\\red_knight\\body.json",
+                "assets\\animated_java\\models\\item\\red_knight\\left_hand.json",
+                "assets\\animated_java\\models\\item\\red_knight\\left_arm.json",
+                "assets\\animated_java\\models\\item\\red_knight\\weapon.json",
+                "assets\\animated_java\\models\\item\\red_knight\\right_hand.json",
+                "assets\\animated_java\\models\\item\\red_knight\\right_arm.json",
+                "assets\\animated_java\\models\\item\\red_knight\\waist.json",
+                "assets\\animated_java\\models\\item\\red_knight\\left_foot.json",
+                "assets\\animated_java\\models\\item\\red_knight\\left_leg.json",
+                "assets\\animated_java\\models\\item\\red_knight\\right_foot.json",
+                "assets\\animated_java\\models\\item\\red_knight\\right_leg.json",
+                "assets\\animated_java\\models\\item\\red_knight\\weapon_ground.json",
+                "assets\\animated_java\\textures\\item\\red_knight\\red_sword.png",
+                "assets\\animated_java\\textures\\item\\red_knight\\red_knight.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
         }
     }
 }
