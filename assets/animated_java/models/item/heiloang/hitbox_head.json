@@ -1,0 +1,13 @@
+{
+	"textures": {},
+	"elements": [],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}
