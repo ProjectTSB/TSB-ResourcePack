@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/effect/common/bullet.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                "+-"
+            ]
+        }
+    ]
+}

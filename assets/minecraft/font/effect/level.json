@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/effect/common/level.png",
+            "ascent": 11,
+            "height": 11,
+            "chars": [
+                "1234"
+            ]
+        }
+    ]
+}
