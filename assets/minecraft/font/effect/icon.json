@@ -1,5 +1,9 @@
 {
     "providers": [
-        { "chars": [ "\u0001" ], "file": "minecraft:font/effect/1.png", "type": "bitmap", "ascent": 9, "height": 9 }
+        { "chars": [ "\u0001" ], "file": "minecraft:font/effect/1.png", "type": "bitmap", "ascent": 9, "height": 9 },
+
+        { "chars": [ "\u0051" ], "file": "minecraft:font/effect/1.png", "type": "bitmap", "ascent": 9, "height": 9 },
+
+        { "chars": [ "\u0101" ], "file": "minecraft:font/effect/1.png", "type": "bitmap", "ascent": 9, "height": 9 }
     ]
 }
