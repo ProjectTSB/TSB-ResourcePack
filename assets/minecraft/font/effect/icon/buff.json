@@ -1,0 +1,5 @@
+{
+    "providers": [
+        { "chars": [ "\u0201" ], "file": "minecraft:font/effect/201.png", "type": "bitmap", "ascent": -17, "height": 9 }
+    ]
+}
