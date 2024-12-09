@@ -1,0 +1,7 @@
+{
+	"parent": "animated_java:item/frestchika_v2/left_wing_0",
+	"textures": {
+		"0": "animated_java:item/frestchika_v2/frestchika_overheat",
+		"1": "animated_java:item/frestchika_v2/frestchika_face_2"
+	}
+}
