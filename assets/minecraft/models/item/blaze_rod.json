@@ -14,19 +14,7 @@
 			"predicate": {
 				"custom_model_data": 2
 			},
-			"model": "animated_java:item/blazing_inferno/body"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 2
-			},
 			"model": "animated_java:item/convict/left_leg_2"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 3
-			},
-			"model": "animated_java:item/blazing_inferno/left_hand"
 		},
 		{
 			"predicate": {
@@ -38,19 +26,7 @@
 			"predicate": {
 				"custom_model_data": 4
 			},
-			"model": "animated_java:item/blazing_inferno/left_arm"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 4
-			},
 			"model": "animated_java:item/convict/right_leg_2"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 5
-			},
-			"model": "animated_java:item/blazing_inferno/right_hand"
 		},
 		{
 			"predicate": {
@@ -62,19 +38,7 @@
 			"predicate": {
 				"custom_model_data": 6
 			},
-			"model": "animated_java:item/blazing_inferno/right_arm"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 6
-			},
 			"model": "animated_java:item/convict/head"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 7
-			},
-			"model": "animated_java:item/blazing_inferno/head"
 		},
 		{
 			"predicate": {
@@ -86,19 +50,7 @@
 			"predicate": {
 				"custom_model_data": 8
 			},
-			"model": "animated_java:item/blazing_inferno/bottom"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 8
-			},
 			"model": "animated_java:item/convict/left_arm_2"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 9
-			},
-			"model": "animated_java:item/tultaria/default/head"
 		},
 		{
 			"predicate": {
@@ -110,19 +62,7 @@
 			"predicate": {
 				"custom_model_data": 10
 			},
-			"model": "animated_java:item/tultaria/default/body"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 10
-			},
 			"model": "animated_java:item/convict/right_axe"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 11
-			},
-			"model": "animated_java:item/tultaria/default/bust"
 		},
 		{
 			"predicate": {
@@ -134,19 +74,7 @@
 			"predicate": {
 				"custom_model_data": 12
 			},
-			"model": "animated_java:item/tultaria/default/left_wing"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 12
-			},
 			"model": "animated_java:item/convict/right_arm"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 13
-			},
-			"model": "animated_java:item/tultaria/default/right_wing"
 		},
 		{
 			"predicate": {
