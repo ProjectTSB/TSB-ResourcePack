@@ -8,7 +8,7 @@
 			"predicate": {
 				"custom_model_data": 1
 			},
-			"model": "item/animated_java_empty"
+			"model": "animated_java:empty"
 		},
 		{
 			"predicate": {
@@ -248,199 +248,199 @@
 			"predicate": {
 				"custom_model_data": 41
 			},
-			"model": "animated_java:item/heiloang/hitbox_head"
+			"model": "animated_java:item/heiloang/default/body_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 42
 			},
-			"model": "animated_java:item/heiloang/head_lower"
+			"model": "animated_java:item/heiloang/default/body_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 43
 			},
-			"model": "animated_java:item/heiloang/horne_right"
+			"model": "animated_java:item/heiloang/default/neck_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 44
 			},
-			"model": "animated_java:item/heiloang/horne_left"
+			"model": "animated_java:item/heiloang/default/neck_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 45
 			},
-			"model": "animated_java:item/heiloang/head_upper"
+			"model": "animated_java:item/heiloang/default/neck_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 46
 			},
-			"model": "animated_java:item/heiloang/neck_0"
+			"model": "animated_java:item/heiloang/default/neck_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 47
 			},
-			"model": "animated_java:item/heiloang/neck_1"
+			"model": "animated_java:item/heiloang/default/head_upper"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 48
 			},
-			"model": "animated_java:item/heiloang/neck_2"
+			"model": "animated_java:item/heiloang/default/head_lower"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 49
 			},
-			"model": "animated_java:item/heiloang/neck_3"
+			"model": "animated_java:item/heiloang/default/horne_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 50
 			},
-			"model": "animated_java:item/heiloang/wing_right_2"
+			"model": "animated_java:item/heiloang/default/horne_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 51
 			},
-			"model": "animated_java:item/heiloang/wing_right_1"
+			"model": "animated_java:item/heiloang/default/wing_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 52
 			},
-			"model": "animated_java:item/heiloang/wing_right_0"
+			"model": "animated_java:item/heiloang/default/wing_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 53
 			},
-			"model": "animated_java:item/heiloang/wing_left_2"
+			"model": "animated_java:item/heiloang/default/wing_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 54
 			},
-			"model": "animated_java:item/heiloang/wing_left_1"
+			"model": "animated_java:item/heiloang/default/wing_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 55
 			},
-			"model": "animated_java:item/heiloang/wing_left_0"
+			"model": "animated_java:item/heiloang/default/wing_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 56
 			},
-			"model": "animated_java:item/heiloang/kazari_right"
+			"model": "animated_java:item/heiloang/default/wing_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 57
 			},
-			"model": "animated_java:item/heiloang/kazari_left"
+			"model": "animated_java:item/heiloang/default/ring"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 58
 			},
-			"model": "animated_java:item/heiloang/ring"
+			"model": "animated_java:item/heiloang/default/kazari_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 59
 			},
-			"model": "animated_java:item/heiloang/body_0"
+			"model": "animated_java:item/heiloang/default/kazari_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 60
 			},
-			"model": "animated_java:item/heiloang/leg_right_3"
+			"model": "animated_java:item/heiloang/default/leg_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 61
 			},
-			"model": "animated_java:item/heiloang/leg_right_2"
+			"model": "animated_java:item/heiloang/default/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 62
 			},
-			"model": "animated_java:item/heiloang/leg_right_1"
+			"model": "animated_java:item/heiloang/default/leg_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 63
 			},
-			"model": "animated_java:item/heiloang/leg_right_0"
+			"model": "animated_java:item/heiloang/default/leg_right_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 64
 			},
-			"model": "animated_java:item/heiloang/leg_left_3"
+			"model": "animated_java:item/heiloang/default/leg_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 65
 			},
-			"model": "animated_java:item/heiloang/leg_left_2"
+			"model": "animated_java:item/heiloang/default/leg_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 66
 			},
-			"model": "animated_java:item/heiloang/leg_left_1"
+			"model": "animated_java:item/heiloang/default/leg_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 67
 			},
-			"model": "animated_java:item/heiloang/leg_left_0"
+			"model": "animated_java:item/heiloang/default/leg_left_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 68
 			},
-			"model": "animated_java:item/heiloang/tail_4"
+			"model": "animated_java:item/heiloang/default/tail_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 69
 			},
-			"model": "animated_java:item/heiloang/tail_3"
+			"model": "animated_java:item/heiloang/default/tail_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 70
 			},
-			"model": "animated_java:item/heiloang/tail_2"
+			"model": "animated_java:item/heiloang/default/tail_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 71
 			},
-			"model": "animated_java:item/heiloang/tail_1"
+			"model": "animated_java:item/heiloang/default/tail_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 72
 			},
-			"model": "animated_java:item/heiloang/tail_ring"
+			"model": "animated_java:item/heiloang/default/tail_4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 73
 			},
-			"model": "animated_java:item/heiloang/tail_0"
+			"model": "animated_java:item/heiloang/default/tail_ring"
 		},
 		{
 			"predicate": {
@@ -519,12 +519,6 @@
 				"custom_model_data": 86
 			},
 			"model": "animated_java:item/red_knight/weapon_ground"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 87
-			},
-			"model": "animated_java:item/heiloang/body_1"
 		},
 		{
 			"predicate": {
@@ -1428,319 +1422,162 @@
 		}
 	],
 	"animated_java": {
-		"lexiel": [
-			2,
-			3,
-			4,
-			5,
-			6,
-			7,
-			8,
-			9,
-			10,
-			11,
-			12,
-			13,
-			14,
-			15,
-			16,
-			17,
-			18,
-			19,
-			20,
-			21,
-			22,
-			23,
-			24,
-			25
+		"convict": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+		"frestchika_v2": [
+			88,
+			89,
+			90,
+			91,
+			92,
+			93,
+			94,
+			95,
+			96,
+			97,
+			98,
+			99,
+			100,
+			101,
+			102,
+			103,
+			104,
+			105,
+			106,
+			107,
+			108,
+			109,
+			110,
+			111,
+			112,
+			113,
+			114,
+			115,
+			116,
+			117,
+			118,
+			119,
+			120,
+			121,
+			122,
+			123,
+			124,
+			125,
+			126,
+			127,
+			128,
+			129,
+			130,
+			131,
+			132,
+			133,
+			134,
+			135,
+			136,
+			137,
+			138,
+			139,
+			140,
+			141,
+			142,
+			143,
+			144,
+			145,
+			146,
+			147,
+			148,
+			149,
+			150,
+			151,
+			152,
+			153,
+			154,
+			155,
+			156,
+			157,
+			158,
+			159,
+			160,
+			161,
+			162,
+			163,
+			164,
+			165,
+			166,
+			167,
+			168,
+			169,
+			170,
+			171,
+			172,
+			173,
+			174,
+			175,
+			176,
+			177,
+			178,
+			179,
+			180,
+			181,
+			182,
+			183,
+			184,
+			185,
+			186,
+			187,
+			188,
+			189,
+			190,
+			191,
+			192,
+			193,
+			194,
+			195,
+			196,
+			197,
+			198,
+			199,
+			200,
+			201,
+			202,
+			203,
+			204,
+			205,
+			206,
+			207,
+			208,
+			209,
+			210,
+			211,
+			212,
+			213,
+			214,
+			215,
+			216,
+			217,
+			218,
+			219,
+			220,
+			221,
+			222,
+			223,
+			224,
+			225,
+			226,
+			227,
+			228,
+			229,
+			230,
+			231,
+			232,
+			233,
+			234,
+			235,
+			236,
+			237
 		],
-		"tultaria": [
-			1,
-			26,
-			27,
-			28,
-			29,
-			30,
-			31,
-			32,
-			33,
-			34,
-			35,
-			36,
-			37,
-			38,
-			39,
-			40,
-			41,
-			42,
-			43,
-			44,
-			45,
-			46,
-			47,
-			48
-		],
-		"rigs": {
-			"convict": {
-				"used_ids": [
-					2,
-					3,
-					4,
-					5,
-					6,
-					7,
-					8,
-					9,
-					10,
-					11,
-					12,
-					13
-				]
-			},
-			"tutankhamen": {
-				"used_ids": [
-					14,
-					15,
-					16,
-					17,
-					18,
-					19,
-					20,
-					21,
-					22,
-					23,
-					24,
-					25,
-					26,
-					27,
-					28,
-					29
-				]
-			},
-			"grey_guardian": {
-				"used_ids": [
-					30,
-					31,
-					32,
-					33,
-					34,
-					35,
-					36,
-					37,
-					38,
-					39,
-					40
-				]
-			},
-			"heiloang_aj": {
-				"used_ids": [
-					41,
-					42,
-					43,
-					44,
-					45,
-					46,
-					47,
-					48,
-					49,
-					50,
-					51,
-					52,
-					53,
-					54,
-					55,
-					56,
-					57,
-					58,
-					59,
-					60,
-					61,
-					62,
-					63,
-					64,
-					65,
-					66,
-					67,
-					68,
-					69,
-					70,
-					71,
-					72,
-					73,
-					87
-				]
-			},
-			"red_knight": {
-				"used_ids": [
-					74,
-					75,
-					76,
-					77,
-					78,
-					79,
-					80,
-					81,
-					82,
-					83,
-					84,
-					85,
-					86
-				]
-			},
-			"frestchika_v2": {
-				"used_ids": [
-					88,
-					89,
-					90,
-					91,
-					92,
-					93,
-					94,
-					95,
-					96,
-					97,
-					98,
-					99,
-					100,
-					101,
-					102,
-					103,
-					104,
-					105,
-					106,
-					107,
-					108,
-					109,
-					110,
-					111,
-					112,
-					113,
-					114,
-					115,
-					116,
-					117,
-					118,
-					119,
-					120,
-					121,
-					122,
-					123,
-					124,
-					125,
-					126,
-					127,
-					128,
-					129,
-					130,
-					131,
-					132,
-					133,
-					134,
-					135,
-					136,
-					137,
-					138,
-					139,
-					140,
-					141,
-					142,
-					143,
-					144,
-					145,
-					146,
-					147,
-					148,
-					149,
-					150,
-					151,
-					152,
-					153,
-					154,
-					155,
-					156,
-					157,
-					158,
-					159,
-					160,
-					161,
-					162,
-					163,
-					164,
-					165,
-					166,
-					167,
-					168,
-					169,
-					170,
-					171,
-					172,
-					173,
-					174,
-					175,
-					176,
-					177,
-					178,
-					179,
-					180,
-					181,
-					182,
-					183,
-					184,
-					185,
-					186,
-					187,
-					188,
-					189,
-					190,
-					191,
-					192,
-					193,
-					194,
-					195,
-					196,
-					197,
-					198,
-					199,
-					200,
-					201,
-					202,
-					203,
-					204,
-					205,
-					206,
-					207,
-					208,
-					209,
-					210,
-					211,
-					212,
-					213,
-					214,
-					215,
-					216,
-					217,
-					218,
-					219,
-					220,
-					221,
-					222,
-					223,
-					224,
-					225,
-					226,
-					227,
-					228,
-					229,
-					230,
-					231,
-					232,
-					233,
-					234,
-					235,
-					236,
-					237
-				]
-			}
-		}
+		"grey_guardian": [30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40],
+		"heiloang_aj": [1, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73],
+		"red_knight": [74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86],
+		"tutankhamen": [14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29]
 	}
 }
