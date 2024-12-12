@@ -1,6 +1,34 @@
 {
     "providers": [
         { "chars": [ "\u0201" ], "file": "minecraft:font/effect/201.png", "type": "bitmap", "ascent": -17, "height": 9 },
-        { "chars": [ "\u0215" ], "file": "minecraft:font/effect/215.png", "type": "bitmap", "ascent": -17, "height": 9 }
+        { "chars": [ "\u0202" ], "file": "minecraft:font/effect/202.png", "type": "bitmap", "ascent": -17, "height": 9 },
+        { "chars": [ "\u0203" ], "file": "minecraft:font/effect/203.png", "type": "bitmap", "ascent": -17, "height": 9 },
+        { "chars": [ "\u0204" ], "file": "minecraft:font/effect/204.png", "type": "bitmap", "ascent": -17, "height": 9 },
+        { "chars": [ "\u0206" ], "file": "minecraft:font/effect/206.png", "type": "bitmap", "ascent": -17, "height": 9 },
+        { "chars": [ "\u0207" ], "file": "minecraft:font/effect/207.png", "type": "bitmap", "ascent": -17, "height": 9 },        
+        { "chars": [ "\u0208" ], "file": "minecraft:font/effect/208.png", "type": "bitmap", "ascent": -17, "height": 9 },
+        { "chars": [ "\u0209" ], "file": "minecraft:font/effect/209.png", "type": "bitmap", "ascent": -17, "height": 9 },        
+        { "chars": [ "\u0210" ], "file": "minecraft:font/effect/210.png", "type": "bitmap", "ascent": -17, "height": 9 },
+        { "chars": [ "\u0214" ], "file": "minecraft:font/effect/214.png", "type": "bitmap", "ascent": -17, "height": 9 },
+        { "chars": [ "\u0215" ], "file": "minecraft:font/effect/215.png", "type": "bitmap", "ascent": -17, "height": 9 },
+        { "chars": [ "\u0217" ], "file": "minecraft:font/effect/217.png", "type": "bitmap", "ascent": -17, "height": 9 },
+        { "chars": [ "\u0219" ], "file": "minecraft:font/effect/219.png", "type": "bitmap", "ascent": -17, "height": 9 },
+        { "chars": [ "\u0220" ], "file": "minecraft:font/effect/220.png", "type": "bitmap", "ascent": -17, "height": 9 },
+        { "chars": [ "\u0228" ], "file": "minecraft:font/effect/228.png", "type": "bitmap", "ascent": -17, "height": 9 },
+        { "chars": [ "\u0229" ], "file": "minecraft:font/effect/229.png", "type": "bitmap", "ascent": -17, "height": 9 },
+        { "chars": [ "\u0231" ], "file": "minecraft:font/effect/231.png", "type": "bitmap", "ascent": -17, "height": 9 },
+        { "chars": [ "\u0252" ], "file": "minecraft:font/effect/252.png", "type": "bitmap", "ascent": -17, "height": 9 },
+        { "chars": [ "\u0253" ], "file": "minecraft:font/effect/253.png", "type": "bitmap", "ascent": -17, "height": 9 },
+        { "chars": [ "\u0257" ], "file": "minecraft:font/effect/257.png", "type": "bitmap", "ascent": -17, "height": 9 },
+        { "chars": [ "\u0259" ], "file": "minecraft:font/effect/259.png", "type": "bitmap", "ascent": -17, "height": 9 },
+        { "chars": [ "\u0260" ], "file": "minecraft:font/effect/260.png", "type": "bitmap", "ascent": -17, "height": 9 },
+        { "chars": [ "\u0261" ], "file": "minecraft:font/effect/261.png", "type": "bitmap", "ascent": -17, "height": 9 },
+        { "chars": [ "\u0263" ], "file": "minecraft:font/effect/263.png", "type": "bitmap", "ascent": -17, "height": 9 },
+        { "chars": [ "\u0265" ], "file": "minecraft:font/effect/265.png", "type": "bitmap", "ascent": -17, "height": 9 },
+        { "chars": [ "\u0267" ], "file": "minecraft:font/effect/267.png", "type": "bitmap", "ascent": -17, "height": 9 },
+        { "chars": [ "\u0268" ], "file": "minecraft:font/effect/268.png", "type": "bitmap", "ascent": -17, "height": 9 },
+        { "chars": [ "\u0269" ], "file": "minecraft:font/effect/269.png", "type": "bitmap", "ascent": -17, "height": 9 },
+        { "chars": [ "\u0270" ], "file": "minecraft:font/effect/270.png", "type": "bitmap", "ascent": -17, "height": 9 },
+        { "chars": [ "\u0272" ], "file": "minecraft:font/effect/272.png", "type": "bitmap", "ascent": -17, "height": 9 }           
     ]
 }
