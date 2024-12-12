@@ -58,7 +58,9 @@
 			"assets/animated_java/models/item/tultaria/default/skirt_left.json",
 			"assets/animated_java/models/item/tultaria/default/skirt_left_back.json",
 			"assets/animated_java/models/item/tultaria/default/skirt_back_middle.json",
-			"assets/animated_java/models/item/tultaria/default/skirt_front_middle.json"
+			"assets/animated_java/models/item/tultaria/default/skirt_front_middle.json",
+			"assets/animated_java/models/item/tultaria/winged/left_wing.json",
+			"assets/animated_java/models/item/tultaria/winged/right_wing.json"
 		]
 	}
 }
