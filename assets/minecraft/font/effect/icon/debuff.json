@@ -3,6 +3,7 @@
         { "chars": [ "\u0001" ], "file": "minecraft:font/effect/1.png", "type": "bitmap", "ascent": -31, "height": 9 },
         { "chars": [ "\u0051" ], "file": "minecraft:font/effect/1.png", "type": "bitmap", "ascent": -31, "height": 9 },
         { "chars": [ "\u0101" ], "file": "minecraft:font/effect/1.png", "type": "bitmap", "ascent": -31, "height": 9 },
+        { "chars": [ "\u0024" ], "file": "minecraft:font/effect/124.png", "type": "bitmap", "ascent": -31, "height": 9 },
         { "chars": [ "\u0124" ], "file": "minecraft:font/effect/124.png", "type": "bitmap", "ascent": -31, "height": 9 },
         { "chars": [ "\u0164" ], "file": "minecraft:font/effect/124.png", "type": "bitmap", "ascent": -31, "height": 9 },        
         { "chars": [ "\u0216" ], "file": "minecraft:font/effect/215.png", "type": "bitmap", "ascent": -31, "height": 9 }
