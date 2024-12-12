@@ -522,6 +522,12 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 87
+			},
+			"model": "animated_java:item/tultaria/default/head"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 88
 			},
 			"model": "animated_java:item/frestchika_v2/hair"
@@ -1419,6 +1425,270 @@
 				"custom_model_data": 237
 			},
 			"model": "animated_java:item/frestchika_v2/wink/body_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 238
+			},
+			"model": "animated_java:item/tultaria/default/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 239
+			},
+			"model": "animated_java:item/tultaria/default/bust"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 240
+			},
+			"model": "animated_java:item/tultaria/default/left_wing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 241
+			},
+			"model": "animated_java:item/tultaria/default/right_wing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 242
+			},
+			"model": "animated_java:item/tultaria/default/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 243
+			},
+			"model": "animated_java:item/tultaria/default/right_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 244
+			},
+			"model": "animated_java:item/tultaria/default/right_ring"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 245
+			},
+			"model": "animated_java:item/tultaria/default/sword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 246
+			},
+			"model": "animated_java:item/tultaria/default/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 247
+			},
+			"model": "animated_java:item/tultaria/default/left_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 248
+			},
+			"model": "animated_java:item/tultaria/default/left_ring"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 249
+			},
+			"model": "animated_java:item/tultaria/default/lower"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 250
+			},
+			"model": "animated_java:item/tultaria/default/leftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 251
+			},
+			"model": "animated_java:item/tultaria/default/leftfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 252
+			},
+			"model": "animated_java:item/tultaria/default/rightleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 253
+			},
+			"model": "animated_java:item/tultaria/default/rightfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 254
+			},
+			"model": "animated_java:item/tultaria/default/skirt_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 255
+			},
+			"model": "animated_java:item/tultaria/default/skirt_right_back"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 256
+			},
+			"model": "animated_java:item/tultaria/default/skirt_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 257
+			},
+			"model": "animated_java:item/tultaria/default/skirt_left_back"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 258
+			},
+			"model": "animated_java:item/tultaria/default/skirt_back_middle"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 259
+			},
+			"model": "animated_java:item/tultaria/default/skirt_front_middle"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 260
+			},
+			"model": "animated_java:item/illusion_of_loyalty/default/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 261
+			},
+			"model": "animated_java:item/illusion_of_loyalty/default/backhair"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 262
+			},
+			"model": "animated_java:item/illusion_of_loyalty/default/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 263
+			},
+			"model": "animated_java:item/illusion_of_loyalty/default/ring"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 264
+			},
+			"model": "animated_java:item/illusion_of_loyalty/default/bust"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 265
+			},
+			"model": "animated_java:item/illusion_of_loyalty/default/left_wing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 266
+			},
+			"model": "animated_java:item/illusion_of_loyalty/default/right_wing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 267
+			},
+			"model": "animated_java:item/illusion_of_loyalty/default/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 268
+			},
+			"model": "animated_java:item/illusion_of_loyalty/default/right_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 269
+			},
+			"model": "animated_java:item/illusion_of_loyalty/default/sword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 270
+			},
+			"model": "animated_java:item/illusion_of_loyalty/default/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 271
+			},
+			"model": "animated_java:item/illusion_of_loyalty/default/left_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 272
+			},
+			"model": "animated_java:item/illusion_of_loyalty/default/lower"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 273
+			},
+			"model": "animated_java:item/illusion_of_loyalty/default/skirt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 274
+			},
+			"model": "animated_java:item/illusion_of_loyalty/default/skirt_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 275
+			},
+			"model": "animated_java:item/illusion_of_loyalty/default/skirt_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 276
+			},
+			"model": "animated_java:item/illusion_of_loyalty/default/skirt_back_middle"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 277
+			},
+			"model": "animated_java:item/illusion_of_loyalty/default/skirt_front_middle"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 278
+			},
+			"model": "animated_java:item/illusion_of_loyalty/default/rightleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 279
+			},
+			"model": "animated_java:item/illusion_of_loyalty/default/rightfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 280
+			},
+			"model": "animated_java:item/illusion_of_loyalty/default/leftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 281
+			},
+			"model": "animated_java:item/illusion_of_loyalty/default/leftfoot"
 		}
 	],
 	"animated_java": {
@@ -1577,7 +1847,9 @@
 		],
 		"grey_guardian": [30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40],
 		"heiloang_aj": [1, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73],
+		"illusion_of_loyalty": [260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281],
 		"red_knight": [74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86],
+		"tultaria": [87, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259],
 		"tutankhamen": [14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29]
 	}
 }
