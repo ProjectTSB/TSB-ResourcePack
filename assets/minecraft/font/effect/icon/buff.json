@@ -10,7 +10,6 @@
         { "chars": [ "\u0209" ], "file": "minecraft:font/effect/209.png", "type": "bitmap", "ascent": -17, "height": 9 },        
         { "chars": [ "\u0210" ], "file": "minecraft:font/effect/210.png", "type": "bitmap", "ascent": -17, "height": 9 },
         { "chars": [ "\u0214" ], "file": "minecraft:font/effect/214.png", "type": "bitmap", "ascent": -17, "height": 9 },
-        { "chars": [ "\u0215" ], "file": "minecraft:font/effect/215.png", "type": "bitmap", "ascent": -17, "height": 9 },
         { "chars": [ "\u0217" ], "file": "minecraft:font/effect/217.png", "type": "bitmap", "ascent": -17, "height": 9 },
         { "chars": [ "\u0219" ], "file": "minecraft:font/effect/219.png", "type": "bitmap", "ascent": -17, "height": 9 },
         { "chars": [ "\u0220" ], "file": "minecraft:font/effect/220.png", "type": "bitmap", "ascent": -17, "height": 9 },
@@ -29,6 +28,12 @@
         { "chars": [ "\u0268" ], "file": "minecraft:font/effect/268.png", "type": "bitmap", "ascent": -17, "height": 9 },
         { "chars": [ "\u0269" ], "file": "minecraft:font/effect/269.png", "type": "bitmap", "ascent": -17, "height": 9 },
         { "chars": [ "\u0270" ], "file": "minecraft:font/effect/270.png", "type": "bitmap", "ascent": -17, "height": 9 },
-        { "chars": [ "\u0272" ], "file": "minecraft:font/effect/272.png", "type": "bitmap", "ascent": -17, "height": 9 }           
+        { "chars": [ "\u0272" ], "file": "minecraft:font/effect/272.png", "type": "bitmap", "ascent": -17, "height": 9 },    
+        { "chars": [ "\u0215" ], "file": "minecraft:font/effect/215.png", "type": "bitmap", "ascent": -17, "height": 9 },
+        { "chars": [ "\u0248" ], "file": "minecraft:font/effect/248.png", "type": "bitmap", "ascent": -17, "height": 9 },
+        { "chars": [ "\u0249" ], "file": "minecraft:font/effect/248.png", "type": "bitmap", "ascent": -17, "height": 9 },
+        { "chars": [ "\u0250" ], "file": "minecraft:font/effect/248.png", "type": "bitmap", "ascent": -17, "height": 9 },
+        { "chars": [ "\u0251" ], "file": "minecraft:font/effect/248.png", "type": "bitmap", "ascent": -17, "height": 9 }
+
     ]
 }
