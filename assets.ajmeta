@@ -69,6 +69,40 @@
 			"assets/animated_java/models/item/illusion_of_loyalty/default/leftfoot.json"
 		]
 	},
+	"lexiel": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/textures/item/lexiel/texture_face.png",
+			"assets/animated_java/textures/item/lexiel/texture.png",
+			"assets/animated_java/textures/item/lexiel/texture_body.png",
+			"assets/animated_java/textures/item/lexiel/rod.png",
+			"assets/animated_java/textures/item/transparent.png",
+			"assets/animated_java/models/item/lexiel/default/head.json",
+			"assets/animated_java/models/item/lexiel/default/backhair.json",
+			"assets/animated_java/models/item/lexiel/default/body.json",
+			"assets/animated_java/models/item/lexiel/default/ring.json",
+			"assets/animated_java/models/item/lexiel/default/bust.json",
+			"assets/animated_java/models/item/lexiel/default/left_wing.json",
+			"assets/animated_java/models/item/lexiel/default/right_wing.json",
+			"assets/animated_java/models/item/lexiel/default/right_arm.json",
+			"assets/animated_java/models/item/lexiel/default/right_hand.json",
+			"assets/animated_java/models/item/lexiel/default/sword.json",
+			"assets/animated_java/models/item/lexiel/default/rod.json",
+			"assets/animated_java/models/item/lexiel/default/left_arm.json",
+			"assets/animated_java/models/item/lexiel/default/left_hand.json",
+			"assets/animated_java/models/item/lexiel/default/lower.json",
+			"assets/animated_java/models/item/lexiel/default/skirt.json",
+			"assets/animated_java/models/item/lexiel/default/skirt_right.json",
+			"assets/animated_java/models/item/lexiel/default/skirt_left.json",
+			"assets/animated_java/models/item/lexiel/default/skirt_back_middle.json",
+			"assets/animated_java/models/item/lexiel/default/skirt_front_middle.json",
+			"assets/animated_java/models/item/lexiel/default/rightupper.json",
+			"assets/animated_java/models/item/lexiel/default/rightfoot.json",
+			"assets/animated_java/models/item/lexiel/default/leftupper.json",
+			"assets/animated_java/models/item/lexiel/default/leftfoot.json",
+			"assets/animated_java/models/item/lexiel/default/sucidesword.json"
+		]
+	},
 	"red_knight": {
 		"files": [
 			"assets/animated_java/models/item/empty.json",
