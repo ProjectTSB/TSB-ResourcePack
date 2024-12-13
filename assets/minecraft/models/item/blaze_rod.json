@@ -446,79 +446,79 @@
 			"predicate": {
 				"custom_model_data": 74
 			},
-			"model": "animated_java:item/red_knight/head"
+			"model": "animated_java:item/red_knight/default/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 75
 			},
-			"model": "animated_java:item/red_knight/body"
+			"model": "animated_java:item/red_knight/default/body"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 76
 			},
-			"model": "animated_java:item/red_knight/left_hand"
+			"model": "animated_java:item/red_knight/default/left_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 77
 			},
-			"model": "animated_java:item/red_knight/left_arm"
+			"model": "animated_java:item/red_knight/default/left_hand"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 78
 			},
-			"model": "animated_java:item/red_knight/weapon"
+			"model": "animated_java:item/red_knight/default/right_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 79
 			},
-			"model": "animated_java:item/red_knight/right_hand"
+			"model": "animated_java:item/red_knight/default/right_hand"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 80
 			},
-			"model": "animated_java:item/red_knight/right_arm"
+			"model": "animated_java:item/red_knight/default/weapon"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 81
 			},
-			"model": "animated_java:item/red_knight/waist"
+			"model": "animated_java:item/red_knight/default/waist"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 82
 			},
-			"model": "animated_java:item/red_knight/left_foot"
+			"model": "animated_java:item/red_knight/default/left_leg"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 83
 			},
-			"model": "animated_java:item/red_knight/left_leg"
+			"model": "animated_java:item/red_knight/default/left_foot"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 84
 			},
-			"model": "animated_java:item/red_knight/right_foot"
+			"model": "animated_java:item/red_knight/default/right_leg"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 85
 			},
-			"model": "animated_java:item/red_knight/right_leg"
+			"model": "animated_java:item/red_knight/default/right_foot"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 86
 			},
-			"model": "animated_java:item/red_knight/weapon_ground"
+			"model": "animated_java:item/red_knight/default/weapon_ground"
 		},
 		{
 			"predicate": {
