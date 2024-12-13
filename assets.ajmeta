@@ -105,7 +105,7 @@
 	},
 	"red_knight": {
 		"files": [
-			"assets/animated_java/models/item/empty.json",
+			"assets/animated_java/models/empty.json",
 			"assets/animated_java/textures/item/red_knight/red_sword.png",
 			"assets/animated_java/textures/item/red_knight/red_knight.png",
 			"assets/animated_java/textures/item/transparent.png",
