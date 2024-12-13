@@ -86,97 +86,97 @@
 			"predicate": {
 				"custom_model_data": 14
 			},
-			"model": "animated_java:item/tutankhamen/head"
+			"model": "animated_java:item/tutankhamen/default/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 15
 			},
-			"model": "animated_java:item/tutankhamen/back_cape"
+			"model": "animated_java:item/tutankhamen/default/body"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 16
 			},
-			"model": "animated_java:item/tutankhamen/left_hand"
+			"model": "animated_java:item/tutankhamen/default/back_cape"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 17
 			},
-			"model": "animated_java:item/tutankhamen/cape_left_back"
+			"model": "animated_java:item/tutankhamen/default/left_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 18
 			},
-			"model": "animated_java:item/tutankhamen/cape_left_side"
+			"model": "animated_java:item/tutankhamen/default/left_hand"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 19
 			},
-			"model": "animated_java:item/tutankhamen/left_arm"
+			"model": "animated_java:item/tutankhamen/default/cape_left_side"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 20
 			},
-			"model": "animated_java:item/tutankhamen/cape_right_back"
+			"model": "animated_java:item/tutankhamen/default/cape_left_back"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 21
 			},
-			"model": "animated_java:item/tutankhamen/cape_right"
+			"model": "animated_java:item/tutankhamen/default/right_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 22
 			},
-			"model": "animated_java:item/tutankhamen/weapon"
+			"model": "animated_java:item/tutankhamen/default/cape_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 23
 			},
-			"model": "animated_java:item/tutankhamen/right_hand"
+			"model": "animated_java:item/tutankhamen/default/cape_right_back"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 24
 			},
-			"model": "animated_java:item/tutankhamen/right_arm"
+			"model": "animated_java:item/tutankhamen/default/right_hand"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 25
 			},
-			"model": "animated_java:item/tutankhamen/body"
+			"model": "animated_java:item/tutankhamen/default/weapon"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 26
 			},
-			"model": "animated_java:item/tutankhamen/left_foot"
+			"model": "animated_java:item/tutankhamen/default/left_leg"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 27
 			},
-			"model": "animated_java:item/tutankhamen/left_leg"
+			"model": "animated_java:item/tutankhamen/default/left_foot"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 28
 			},
-			"model": "animated_java:item/tutankhamen/right_foot"
+			"model": "animated_java:item/tutankhamen/default/right_leg"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 29
 			},
-			"model": "animated_java:item/tutankhamen/right_leg"
+			"model": "animated_java:item/tutankhamen/default/right_foot"
 		},
 		{
 			"predicate": {
