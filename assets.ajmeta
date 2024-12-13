@@ -1,4 +1,23 @@
 {
+	"convict": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/textures/item/convict/texture.png",
+			"assets/animated_java/textures/item/transparent.png",
+			"assets/animated_java/models/item/convict/default/left_leg.json",
+			"assets/animated_java/models/item/convict/default/left_leg_2.json",
+			"assets/animated_java/models/item/convict/default/right_leg.json",
+			"assets/animated_java/models/item/convict/default/right_leg_2.json",
+			"assets/animated_java/models/item/convict/default/body.json",
+			"assets/animated_java/models/item/convict/default/head.json",
+			"assets/animated_java/models/item/convict/default/left_arm.json",
+			"assets/animated_java/models/item/convict/default/left_arm_2.json",
+			"assets/animated_java/models/item/convict/default/left_axe.json",
+			"assets/animated_java/models/item/convict/default/right_arm.json",
+			"assets/animated_java/models/item/convict/default/right_arm_2.json",
+			"assets/animated_java/models/item/convict/default/right_axe.json"
+		]
+	},
 	"grey_guardian": {
 		"files": [
 			"assets/animated_java/models/empty.json",
@@ -48,6 +67,27 @@
 			"assets/animated_java/models/item/illusion_of_loyalty/default/rightfoot.json",
 			"assets/animated_java/models/item/illusion_of_loyalty/default/leftleg.json",
 			"assets/animated_java/models/item/illusion_of_loyalty/default/leftfoot.json"
+		]
+	},
+	"red_knight": {
+		"files": [
+			"assets/animated_java/models/item/empty.json",
+			"assets/animated_java/textures/item/red_knight/red_sword.png",
+			"assets/animated_java/textures/item/red_knight/red_knight.png",
+			"assets/animated_java/textures/item/transparent.png",
+			"assets/animated_java/models/item/red_knight/default/head.json",
+			"assets/animated_java/models/item/red_knight/default/body.json",
+			"assets/animated_java/models/item/red_knight/default/left_arm.json",
+			"assets/animated_java/models/item/red_knight/default/left_hand.json",
+			"assets/animated_java/models/item/red_knight/default/right_arm.json",
+			"assets/animated_java/models/item/red_knight/default/right_hand.json",
+			"assets/animated_java/models/item/red_knight/default/weapon.json",
+			"assets/animated_java/models/item/red_knight/default/waist.json",
+			"assets/animated_java/models/item/red_knight/default/left_leg.json",
+			"assets/animated_java/models/item/red_knight/default/left_foot.json",
+			"assets/animated_java/models/item/red_knight/default/right_leg.json",
+			"assets/animated_java/models/item/red_knight/default/right_foot.json",
+			"assets/animated_java/models/item/red_knight/default/weapon_ground.json"
 		]
 	},
 	"tultaria": {

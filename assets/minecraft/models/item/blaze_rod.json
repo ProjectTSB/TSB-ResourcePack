@@ -14,73 +14,73 @@
 			"predicate": {
 				"custom_model_data": 2
 			},
-			"model": "animated_java:item/convict/left_leg_2"
+			"model": "animated_java:item/convict/default/left_leg"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 3
 			},
-			"model": "animated_java:item/convict/left_leg"
+			"model": "animated_java:item/convict/default/left_leg_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 4
 			},
-			"model": "animated_java:item/convict/right_leg_2"
+			"model": "animated_java:item/convict/default/right_leg"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 5
 			},
-			"model": "animated_java:item/convict/right_leg"
+			"model": "animated_java:item/convict/default/right_leg_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 6
 			},
-			"model": "animated_java:item/convict/head"
+			"model": "animated_java:item/convict/default/body"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 7
 			},
-			"model": "animated_java:item/convict/left_axe"
+			"model": "animated_java:item/convict/default/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 8
 			},
-			"model": "animated_java:item/convict/left_arm_2"
+			"model": "animated_java:item/convict/default/left_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 9
 			},
-			"model": "animated_java:item/convict/left_arm"
+			"model": "animated_java:item/convict/default/left_arm_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 10
 			},
-			"model": "animated_java:item/convict/right_axe"
+			"model": "animated_java:item/convict/default/left_axe"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 11
 			},
-			"model": "animated_java:item/convict/right_arm_2"
+			"model": "animated_java:item/convict/default/right_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 12
 			},
-			"model": "animated_java:item/convict/right_arm"
+			"model": "animated_java:item/convict/default/right_arm_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 13
 			},
-			"model": "animated_java:item/convict/body"
+			"model": "animated_java:item/convict/default/right_axe"
 		},
 		{
 			"predicate": {
