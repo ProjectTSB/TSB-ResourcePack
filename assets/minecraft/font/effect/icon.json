@@ -147,7 +147,7 @@
         { "name": "断罪", "level": 2,
             "chars": [ "\u0601" ], "file": "minecraft:font/effect/601.png", "type": "bitmap", "ascent": -31, "height": 9 },
         { "name": "支配", "level": 2,
-            "advances": { "\u0603": 10 }, "type": "space" },
+            "chars": [ "\u0603" ], "file": "minecraft:font/effect/603.png", "type": "bitmap", "ascent": -31, "height": 9 },
         { "name": "魂の伐採", "level": 2,
             "advances": { "\u0604": 10 }, "type": "space" },
         { "name": "極光侵蝕", "level": 2,
