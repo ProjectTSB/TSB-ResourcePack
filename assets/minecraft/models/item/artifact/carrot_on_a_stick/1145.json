@@ -1,0 +1,275 @@
+{
+    "credit": "Made with Blockbench",
+    "texture_size": [
+        32,
+        32
+    ],
+    "textures": {
+        "2": "item/artifact/carrot_on_a_stick/1145/medikit"
+    },
+    "elements": [
+        {
+            "from": [
+                2.5,
+                8.5,
+                4.5
+            ],
+            "to": [
+                13.5,
+                12.5,
+                11.5
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    5.5,
+                    8.5,
+                    3.5
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        7,
+                        5.5,
+                        9
+                    ],
+                    "texture": "#2"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        9,
+                        3.5,
+                        11
+                    ],
+                    "texture": "#2"
+                },
+                "south": {
+                    "uv": [
+                        5.5,
+                        7,
+                        11,
+                        9
+                    ],
+                    "texture": "#2"
+                },
+                "west": {
+                    "uv": [
+                        3.5,
+                        9,
+                        7,
+                        11
+                    ],
+                    "texture": "#2"
+                },
+                "up": {
+                    "uv": [
+                        5.5,
+                        3.5,
+                        0,
+                        0
+                    ],
+                    "texture": "#2"
+                },
+                "down": {
+                    "uv": [
+                        5.5,
+                        3.5,
+                        0,
+                        7
+                    ],
+                    "texture": "#2"
+                }
+            }
+        },
+        {
+            "from": [
+                2.5,
+                12.5,
+                4.5
+            ],
+            "to": [
+                13.5,
+                14.5,
+                11.5
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "x",
+                "origin": [
+                    8,
+                    12.52724,
+                    11.49037
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        7,
+                        9,
+                        12.5,
+                        10
+                    ],
+                    "texture": "#2"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        11,
+                        3.5,
+                        12
+                    ],
+                    "texture": "#2"
+                },
+                "south": {
+                    "uv": [
+                        7,
+                        10,
+                        12.5,
+                        11
+                    ],
+                    "texture": "#2"
+                },
+                "west": {
+                    "uv": [
+                        11,
+                        0,
+                        14.5,
+                        1
+                    ],
+                    "texture": "#2"
+                },
+                "up": {
+                    "uv": [
+                        11,
+                        3.5,
+                        5.5,
+                        0
+                    ],
+                    "texture": "#2"
+                },
+                "down": {
+                    "uv": [
+                        11,
+                        3.5,
+                        5.5,
+                        7
+                    ],
+                    "texture": "#2"
+                }
+            }
+        }
+    ],
+    "gui_light": "front",
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [
+                73.46,
+                13.86,
+                -1.86
+            ],
+            "translation": [
+                0,
+                -0.75,
+                -2.25
+            ],
+            "scale": [
+                0.54,
+                0.54,
+                0.54
+            ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [
+                73.46,
+                13.86,
+                -1.86
+            ],
+            "translation": [
+                0,
+                -0.75,
+                -2.25
+            ],
+            "scale": [
+                0.54,
+                0.54,
+                0.54
+            ]
+        },
+        "firstperson_righthand": {
+            "rotation": [
+                -180,
+                57.75,
+                -180
+            ],
+            "scale": [
+                0.61,
+                0.61,
+                0.61
+            ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [
+                -180,
+                57.75,
+                -180
+            ],
+            "scale": [
+                0.61,
+                0.61,
+                0.61
+            ]
+        },
+        "ground": {
+            "translation": [
+                0,
+                2,
+                0
+            ],
+            "scale": [
+                0.44,
+                0.44,
+                0.44
+            ]
+        },
+        "gui": {
+            "rotation": [
+                -180,
+                18.25,
+                -180
+            ],
+            "translation": [
+                0,
+                -4.25,
+                0
+            ],
+            "scale": [
+                1.23,
+                1.23,
+                1.23
+            ]
+        },
+        "head": {
+            "translation": [
+                0,
+                -25,
+                0
+            ],
+            "scale": [
+                1.63,
+                1.63,
+                1.63
+            ]
+        },
+        "fixed": {
+            "translation": [
+                0,
+                -4,
+                0
+            ]
+        }
+    }
+}
