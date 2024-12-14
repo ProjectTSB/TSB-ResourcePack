@@ -153,7 +153,7 @@
         { "name": "極光侵蝕", "level": 2,
             "advances": { "\u0605": 10 }, "type": "space" },
         { "name": "石化", "level": 2,
-            "advances": { "\u0606": 10 }, "type": "space" },
+            "chars": [ "\u0606" ], "file": "minecraft:font/effect/606.png", "type": "bitmap", "ascent": -31, "height": 9 },
         { "name": "沈潜", "level": 2,
             "advances": { "\u0608": 10 }, "type": "space" },
         { "name": "侵害", "level": 2,
