@@ -142,6 +142,8 @@
             "type": "space", "advances": { "\u0274": 10 } },
         { "name": "鳴り止まぬ雷鳴", "level": 3,
             "type": "space", "advances": { "\u0276": 10 } },
+        { "name": "時間の束縛", "level": 4,
+            "chars": [ "\u0278" ], "file": "minecraft:font/effect/278.png", "type": "bitmap", "ascent": -17, "height": 9 },
         { "name": "断罪", "level": 2,
             "type": "space", "advances": { "\u0601": 10 } },
         { "name": "組換", "level": 2,
