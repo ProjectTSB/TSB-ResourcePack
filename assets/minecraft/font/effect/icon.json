@@ -71,7 +71,7 @@
         { "name": "薄れゆく速さ", "level": 4,
             "type": "space", "advances": { "\u0211": 10 } },
         { "name": "狂月", "level": 3,
-            "type": "space", "advances": { "\u0212": 10 } },
+            "chars": [ "\u0212" ], "file": "minecraft:font/effect/212.png", "type": "bitmap", "ascent": -17, "height": 9 },
         { "name": "映天", "level": 3,
             "type": "space", "advances": { "\u0213": 10 } },
         { "name": "急速充電", "level": 3,
