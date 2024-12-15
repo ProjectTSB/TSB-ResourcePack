@@ -1,5 +1,5 @@
 {
-	"parent": "animated_java:item/twins_rubiel/root_taiken",
+	"parent": "animated_java:item/twins_rubiel/default/root_taiken",
 	"textures": {
 		"4": "animated_java:item/twins_rubiel/rubiel_face_stun"
 	}

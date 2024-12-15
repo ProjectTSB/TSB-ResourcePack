@@ -1,5 +1,5 @@
 {
-	"parent": "animated_java:item/twins_rubiel/root_scythe",
+	"parent": "animated_java:item/twins_rubiel/default/root_scythe",
 	"textures": {
 		"4": "animated_java:item/twins_rubiel/rubiel_face_wink"
 	}
