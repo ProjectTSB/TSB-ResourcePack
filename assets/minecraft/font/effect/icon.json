@@ -49,7 +49,7 @@
         { "name": "暗闇", "level": 3,
             "chars": [ "\u0164" ], "file": "minecraft:font/effect/124.png", "type": "bitmap", "ascent": -31, "height": 9 },
         { "name": "浮遊", "level": 3,
-            "advances": { "\u0165": 10 }, "type": "space" },
+            "chars": [ "\u0165" ], "file": "minecraft:font/effect/165.png", "type": "bitmap", "ascent": -31, "height": 9 },
         { "name": "マジックシールド", "level": 3,
             "chars": [ "\u0201" ], "file": "minecraft:font/effect/201.png", "type": "bitmap", "ascent": -17, "height": 9 },
         { "name": "羊の加護", "level": 3,
