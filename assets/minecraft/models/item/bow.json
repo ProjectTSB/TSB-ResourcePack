@@ -96,6 +96,91 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 1163
+			},
+			"model": "item/artifact/bow/1163/wait"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1163,
+				"pulling": 1
+			},
+			"model": "item/artifact/bow/1163/1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1163,
+				"pulling": 1,
+				"pull": 0.2
+			},
+			"model": "item/artifact/bow/1163/2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1163,
+				"pulling": 1,
+				"pull": 0.3
+			},
+			"model": "item/artifact/bow/1163/3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1163,
+				"pulling": 1,
+				"pull": 0.4
+			},
+			"model": "item/artifact/bow/1163/4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1163,
+				"pulling": 1,
+				"pull": 0.5
+			},
+			"model": "item/artifact/bow/1163/5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1163,
+				"pulling": 1,
+				"pull": 0.6
+			},
+			"model": "item/artifact/bow/1163/6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1163,
+				"pulling": 1,
+				"pull": 0.7
+			},
+			"model": "item/artifact/bow/1163/7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1163,
+				"pulling": 1,
+				"pull": 0.8
+			},
+			"model": "item/artifact/bow/1163/8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1163,
+				"pulling": 1,
+				"pull": 0.9
+			},
+			"model": "item/artifact/bow/1163/9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1163,
+				"pulling": 1,
+				"pull": 1
+			},
+			"model": "item/artifact/bow/1163/10"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 20186
 			},
 			"model": "item/mob/bow/20186/1"
