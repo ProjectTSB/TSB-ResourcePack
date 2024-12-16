@@ -1851,6 +1851,1740 @@
 				"custom_model_data": 308
 			},
 			"model": "animated_java:item/heiloang/default/tail_ring"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 309
+			},
+			"model": "animated_java:item/twins_sapphiel/default/body_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 310
+			},
+			"model": "animated_java:item/twins_sapphiel/default/body_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 311
+			},
+			"model": "animated_java:item/twins_sapphiel/default/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 312
+			},
+			"model": "animated_java:item/twins_sapphiel/default/halo"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 313
+			},
+			"model": "animated_java:item/twins_sapphiel/default/arm_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 314
+			},
+			"model": "animated_java:item/twins_sapphiel/default/arm_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 315
+			},
+			"model": "animated_java:item/twins_sapphiel/default/ruby_gun"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 316
+			},
+			"model": "animated_java:item/twins_sapphiel/default/slide2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 317
+			},
+			"model": "animated_java:item/twins_sapphiel/default/arm_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 318
+			},
+			"model": "animated_java:item/twins_sapphiel/default/arm_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 319
+			},
+			"model": "animated_java:item/twins_sapphiel/default/sapphire_gun"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 320
+			},
+			"model": "animated_java:item/twins_sapphiel/default/slide"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 321
+			},
+			"model": "animated_java:item/twins_sapphiel/default/shotgun"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 322
+			},
+			"model": "animated_java:item/twins_sapphiel/default/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 323
+			},
+			"model": "animated_java:item/twins_sapphiel/default/launcher"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 324
+			},
+			"model": "animated_java:item/twins_sapphiel/default/rocket"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 325
+			},
+			"model": "animated_java:item/twins_sapphiel/default/wing_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 326
+			},
+			"model": "animated_java:item/twins_sapphiel/default/wing_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 327
+			},
+			"model": "animated_java:item/twins_sapphiel/default/wing_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 328
+			},
+			"model": "animated_java:item/twins_sapphiel/default/wing_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 329
+			},
+			"model": "animated_java:item/twins_sapphiel/default/leg_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 330
+			},
+			"model": "animated_java:item/twins_sapphiel/default/leg_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 331
+			},
+			"model": "animated_java:item/twins_sapphiel/default/leg_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 332
+			},
+			"model": "animated_java:item/twins_sapphiel/default/leg_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 333
+			},
+			"model": "animated_java:item/twins_sapphiel/default/skirt_forward"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 334
+			},
+			"model": "animated_java:item/twins_sapphiel/default/skirt_forward_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 335
+			},
+			"model": "animated_java:item/twins_sapphiel/default/skirt_forward_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 336
+			},
+			"model": "animated_java:item/twins_sapphiel/default/skirt_back"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 337
+			},
+			"model": "animated_java:item/twins_sapphiel/default/skirt_back_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 338
+			},
+			"model": "animated_java:item/twins_sapphiel/default/skirt_back_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 339
+			},
+			"model": "animated_java:item/twins_sapphiel/default/skirt_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 340
+			},
+			"model": "animated_java:item/twins_sapphiel/default/skirt_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 341
+			},
+			"model": "animated_java:item/twins_sapphiel/default/belt_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 342
+			},
+			"model": "animated_java:item/twins_sapphiel/default/belt_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 343
+			},
+			"model": "animated_java:item/twins_sapphiel/default/belt_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 344
+			},
+			"model": "animated_java:item/twins_sapphiel/default/belt_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 345
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/halo"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 346
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 347
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/slide2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 348
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/ruby_gun"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 349
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/arm_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 350
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/arm_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 351
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/slide"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 352
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/sapphire_gun"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 353
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 354
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/shotgun"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 355
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/rocket"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 356
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/launcher"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 357
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/arm_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 358
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/arm_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 359
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/wing_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 360
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/wing_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 361
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/wing_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 362
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/wing_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 363
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/body_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 364
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/leg_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 365
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/leg_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 366
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/leg_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 367
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/leg_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 368
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/skirt_forward_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 369
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/skirt_forward_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 370
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/skirt_forward"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 371
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/skirt_back_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 372
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/skirt_back_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 373
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/skirt_back"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 374
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/skirt_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 375
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/skirt_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 376
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/belt_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 377
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/belt_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 378
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/belt_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 379
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/belt_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 380
+			},
+			"model": "animated_java:item/twins_sapphiel/blink/body_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 381
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/halo"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 382
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 383
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/slide2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 384
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/ruby_gun"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 385
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/arm_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 386
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/arm_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 387
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/slide"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 388
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/sapphire_gun"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 389
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 390
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/shotgun"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 391
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/rocket"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 392
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/launcher"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 393
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/arm_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 394
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/arm_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 395
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/wing_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 396
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/wing_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 397
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/wing_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 398
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/wing_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 399
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/body_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 400
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/leg_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 401
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/leg_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 402
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/leg_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 403
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/leg_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 404
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/skirt_forward_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 405
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/skirt_forward_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 406
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/skirt_forward"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 407
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/skirt_back_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 408
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/skirt_back_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 409
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/skirt_back"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 410
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/skirt_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 411
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/skirt_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 412
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/belt_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 413
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/belt_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 414
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/belt_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 415
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/belt_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 416
+			},
+			"model": "animated_java:item/twins_sapphiel/stun/body_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 417
+			},
+			"model": "animated_java:item/twins_rubiel/default/body_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 418
+			},
+			"model": "animated_java:item/twins_rubiel/default/body_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 419
+			},
+			"model": "animated_java:item/twins_rubiel/default/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 420
+			},
+			"model": "animated_java:item/twins_rubiel/default/halo"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 421
+			},
+			"model": "animated_java:item/twins_rubiel/default/arm_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 422
+			},
+			"model": "animated_java:item/twins_rubiel/default/arm_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 423
+			},
+			"model": "animated_java:item/twins_rubiel/default/ruby_katana"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 424
+			},
+			"model": "animated_java:item/twins_rubiel/default/root_taiken"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 425
+			},
+			"model": "animated_java:item/twins_rubiel/default/root_scythe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 426
+			},
+			"model": "animated_java:item/twins_rubiel/default/arm_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 427
+			},
+			"model": "animated_java:item/twins_rubiel/default/arm_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 428
+			},
+			"model": "animated_java:item/twins_rubiel/default/sapphie_katana"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 429
+			},
+			"model": "animated_java:item/twins_rubiel/default/ruby_saya"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 430
+			},
+			"model": "animated_java:item/twins_rubiel/default/ruby_sheathe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 431
+			},
+			"model": "animated_java:item/twins_rubiel/default/wing_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 432
+			},
+			"model": "animated_java:item/twins_rubiel/default/wing_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 433
+			},
+			"model": "animated_java:item/twins_rubiel/default/wing_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 434
+			},
+			"model": "animated_java:item/twins_rubiel/default/wing_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 435
+			},
+			"model": "animated_java:item/twins_rubiel/default/uwagi"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 436
+			},
+			"model": "animated_java:item/twins_rubiel/default/uwagi_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 437
+			},
+			"model": "animated_java:item/twins_rubiel/default/tail_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 438
+			},
+			"model": "animated_java:item/twins_rubiel/default/tail_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 439
+			},
+			"model": "animated_java:item/twins_rubiel/default/tail_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 440
+			},
+			"model": "animated_java:item/twins_rubiel/default/uwagi_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 441
+			},
+			"model": "animated_java:item/twins_rubiel/default/leg_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 442
+			},
+			"model": "animated_java:item/twins_rubiel/default/leg_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 443
+			},
+			"model": "animated_java:item/twins_rubiel/default/leg_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 444
+			},
+			"model": "animated_java:item/twins_rubiel/default/leg_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 445
+			},
+			"model": "animated_java:item/twins_rubiel/default/saya"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 446
+			},
+			"model": "animated_java:item/twins_rubiel/default/saya_belt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 447
+			},
+			"model": "animated_java:item/twins_rubiel/blink/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 448
+			},
+			"model": "animated_java:item/twins_rubiel/damage/halo"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 449
+			},
+			"model": "animated_java:item/twins_rubiel/damage/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 450
+			},
+			"model": "animated_java:item/twins_rubiel/damage/ruby_katana"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 451
+			},
+			"model": "animated_java:item/twins_rubiel/damage/root_taiken"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 452
+			},
+			"model": "animated_java:item/twins_rubiel/damage/root_scythe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 453
+			},
+			"model": "animated_java:item/twins_rubiel/damage/arm_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 454
+			},
+			"model": "animated_java:item/twins_rubiel/damage/arm_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 455
+			},
+			"model": "animated_java:item/twins_rubiel/damage/sapphie_katana"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 456
+			},
+			"model": "animated_java:item/twins_rubiel/damage/ruby_saya"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 457
+			},
+			"model": "animated_java:item/twins_rubiel/damage/ruby_sheathe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 458
+			},
+			"model": "animated_java:item/twins_rubiel/damage/arm_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 459
+			},
+			"model": "animated_java:item/twins_rubiel/damage/arm_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 460
+			},
+			"model": "animated_java:item/twins_rubiel/damage/wing_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 461
+			},
+			"model": "animated_java:item/twins_rubiel/damage/wing_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 462
+			},
+			"model": "animated_java:item/twins_rubiel/damage/wing_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 463
+			},
+			"model": "animated_java:item/twins_rubiel/damage/wing_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 464
+			},
+			"model": "animated_java:item/twins_rubiel/damage/tail_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 465
+			},
+			"model": "animated_java:item/twins_rubiel/damage/tail_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 466
+			},
+			"model": "animated_java:item/twins_rubiel/damage/tail_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 467
+			},
+			"model": "animated_java:item/twins_rubiel/damage/uwagi_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 468
+			},
+			"model": "animated_java:item/twins_rubiel/damage/uwagi_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 469
+			},
+			"model": "animated_java:item/twins_rubiel/damage/uwagi"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 470
+			},
+			"model": "animated_java:item/twins_rubiel/damage/body_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 471
+			},
+			"model": "animated_java:item/twins_rubiel/damage/leg_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 472
+			},
+			"model": "animated_java:item/twins_rubiel/damage/leg_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 473
+			},
+			"model": "animated_java:item/twins_rubiel/damage/leg_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 474
+			},
+			"model": "animated_java:item/twins_rubiel/damage/leg_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 475
+			},
+			"model": "animated_java:item/twins_rubiel/damage/saya_belt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 476
+			},
+			"model": "animated_java:item/twins_rubiel/damage/saya"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 477
+			},
+			"model": "animated_java:item/twins_rubiel/damage/body_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 478
+			},
+			"model": "animated_java:item/twins_rubiel/jito/halo"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 479
+			},
+			"model": "animated_java:item/twins_rubiel/jito/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 480
+			},
+			"model": "animated_java:item/twins_rubiel/jito/ruby_katana"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 481
+			},
+			"model": "animated_java:item/twins_rubiel/jito/root_taiken"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 482
+			},
+			"model": "animated_java:item/twins_rubiel/jito/root_scythe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 483
+			},
+			"model": "animated_java:item/twins_rubiel/jito/arm_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 484
+			},
+			"model": "animated_java:item/twins_rubiel/jito/arm_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 485
+			},
+			"model": "animated_java:item/twins_rubiel/jito/sapphie_katana"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 486
+			},
+			"model": "animated_java:item/twins_rubiel/jito/ruby_saya"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 487
+			},
+			"model": "animated_java:item/twins_rubiel/jito/ruby_sheathe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 488
+			},
+			"model": "animated_java:item/twins_rubiel/jito/arm_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 489
+			},
+			"model": "animated_java:item/twins_rubiel/jito/arm_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 490
+			},
+			"model": "animated_java:item/twins_rubiel/jito/wing_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 491
+			},
+			"model": "animated_java:item/twins_rubiel/jito/wing_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 492
+			},
+			"model": "animated_java:item/twins_rubiel/jito/wing_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 493
+			},
+			"model": "animated_java:item/twins_rubiel/jito/wing_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 494
+			},
+			"model": "animated_java:item/twins_rubiel/jito/tail_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 495
+			},
+			"model": "animated_java:item/twins_rubiel/jito/tail_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 496
+			},
+			"model": "animated_java:item/twins_rubiel/jito/tail_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 497
+			},
+			"model": "animated_java:item/twins_rubiel/jito/uwagi_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 498
+			},
+			"model": "animated_java:item/twins_rubiel/jito/uwagi_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 499
+			},
+			"model": "animated_java:item/twins_rubiel/jito/uwagi"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 500
+			},
+			"model": "animated_java:item/twins_rubiel/jito/body_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 501
+			},
+			"model": "animated_java:item/twins_rubiel/jito/leg_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 502
+			},
+			"model": "animated_java:item/twins_rubiel/jito/leg_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 503
+			},
+			"model": "animated_java:item/twins_rubiel/jito/leg_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 504
+			},
+			"model": "animated_java:item/twins_rubiel/jito/leg_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 505
+			},
+			"model": "animated_java:item/twins_rubiel/jito/saya_belt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 506
+			},
+			"model": "animated_java:item/twins_rubiel/jito/saya"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 507
+			},
+			"model": "animated_java:item/twins_rubiel/jito/body_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 508
+			},
+			"model": "animated_java:item/twins_rubiel/stun/halo"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 509
+			},
+			"model": "animated_java:item/twins_rubiel/stun/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 510
+			},
+			"model": "animated_java:item/twins_rubiel/stun/ruby_katana"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 511
+			},
+			"model": "animated_java:item/twins_rubiel/stun/root_taiken"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 512
+			},
+			"model": "animated_java:item/twins_rubiel/stun/root_scythe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 513
+			},
+			"model": "animated_java:item/twins_rubiel/stun/arm_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 514
+			},
+			"model": "animated_java:item/twins_rubiel/stun/arm_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 515
+			},
+			"model": "animated_java:item/twins_rubiel/stun/sapphie_katana"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 516
+			},
+			"model": "animated_java:item/twins_rubiel/stun/ruby_saya"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 517
+			},
+			"model": "animated_java:item/twins_rubiel/stun/ruby_sheathe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 518
+			},
+			"model": "animated_java:item/twins_rubiel/stun/arm_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 519
+			},
+			"model": "animated_java:item/twins_rubiel/stun/arm_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 520
+			},
+			"model": "animated_java:item/twins_rubiel/stun/wing_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 521
+			},
+			"model": "animated_java:item/twins_rubiel/stun/wing_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 522
+			},
+			"model": "animated_java:item/twins_rubiel/stun/wing_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 523
+			},
+			"model": "animated_java:item/twins_rubiel/stun/wing_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 524
+			},
+			"model": "animated_java:item/twins_rubiel/stun/tail_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 525
+			},
+			"model": "animated_java:item/twins_rubiel/stun/tail_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 526
+			},
+			"model": "animated_java:item/twins_rubiel/stun/tail_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 527
+			},
+			"model": "animated_java:item/twins_rubiel/stun/uwagi_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 528
+			},
+			"model": "animated_java:item/twins_rubiel/stun/uwagi_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 529
+			},
+			"model": "animated_java:item/twins_rubiel/stun/uwagi"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 530
+			},
+			"model": "animated_java:item/twins_rubiel/stun/body_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 531
+			},
+			"model": "animated_java:item/twins_rubiel/stun/leg_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 532
+			},
+			"model": "animated_java:item/twins_rubiel/stun/leg_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 533
+			},
+			"model": "animated_java:item/twins_rubiel/stun/leg_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 534
+			},
+			"model": "animated_java:item/twins_rubiel/stun/leg_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 535
+			},
+			"model": "animated_java:item/twins_rubiel/stun/saya_belt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 536
+			},
+			"model": "animated_java:item/twins_rubiel/stun/saya"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 537
+			},
+			"model": "animated_java:item/twins_rubiel/stun/body_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 538
+			},
+			"model": "animated_java:item/twins_rubiel/surprise/halo"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 539
+			},
+			"model": "animated_java:item/twins_rubiel/surprise/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 540
+			},
+			"model": "animated_java:item/twins_rubiel/surprise/ruby_katana"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 541
+			},
+			"model": "animated_java:item/twins_rubiel/surprise/root_taiken"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 542
+			},
+			"model": "animated_java:item/twins_rubiel/surprise/root_scythe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 543
+			},
+			"model": "animated_java:item/twins_rubiel/surprise/arm_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 544
+			},
+			"model": "animated_java:item/twins_rubiel/surprise/arm_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 545
+			},
+			"model": "animated_java:item/twins_rubiel/surprise/sapphie_katana"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 546
+			},
+			"model": "animated_java:item/twins_rubiel/surprise/ruby_saya"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 547
+			},
+			"model": "animated_java:item/twins_rubiel/surprise/ruby_sheathe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 548
+			},
+			"model": "animated_java:item/twins_rubiel/surprise/arm_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 549
+			},
+			"model": "animated_java:item/twins_rubiel/surprise/arm_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 550
+			},
+			"model": "animated_java:item/twins_rubiel/surprise/wing_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 551
+			},
+			"model": "animated_java:item/twins_rubiel/surprise/wing_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 552
+			},
+			"model": "animated_java:item/twins_rubiel/surprise/wing_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 553
+			},
+			"model": "animated_java:item/twins_rubiel/surprise/wing_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 554
+			},
+			"model": "animated_java:item/twins_rubiel/surprise/tail_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 555
+			},
+			"model": "animated_java:item/twins_rubiel/surprise/tail_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 556
+			},
+			"model": "animated_java:item/twins_rubiel/surprise/tail_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 557
+			},
+			"model": "animated_java:item/twins_rubiel/surprise/uwagi_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 558
+			},
+			"model": "animated_java:item/twins_rubiel/surprise/uwagi_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 559
+			},
+			"model": "animated_java:item/twins_rubiel/surprise/uwagi"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 560
+			},
+			"model": "animated_java:item/twins_rubiel/surprise/body_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 561
+			},
+			"model": "animated_java:item/twins_rubiel/surprise/leg_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 562
+			},
+			"model": "animated_java:item/twins_rubiel/surprise/leg_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 563
+			},
+			"model": "animated_java:item/twins_rubiel/surprise/leg_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 564
+			},
+			"model": "animated_java:item/twins_rubiel/surprise/leg_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 565
+			},
+			"model": "animated_java:item/twins_rubiel/surprise/saya_belt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 566
+			},
+			"model": "animated_java:item/twins_rubiel/surprise/saya"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 567
+			},
+			"model": "animated_java:item/twins_rubiel/surprise/body_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 568
+			},
+			"model": "animated_java:item/twins_rubiel/wink/halo"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 569
+			},
+			"model": "animated_java:item/twins_rubiel/wink/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 570
+			},
+			"model": "animated_java:item/twins_rubiel/wink/ruby_katana"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 571
+			},
+			"model": "animated_java:item/twins_rubiel/wink/root_taiken"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 572
+			},
+			"model": "animated_java:item/twins_rubiel/wink/root_scythe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 573
+			},
+			"model": "animated_java:item/twins_rubiel/wink/arm_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 574
+			},
+			"model": "animated_java:item/twins_rubiel/wink/arm_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 575
+			},
+			"model": "animated_java:item/twins_rubiel/wink/sapphie_katana"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 576
+			},
+			"model": "animated_java:item/twins_rubiel/wink/ruby_saya"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 577
+			},
+			"model": "animated_java:item/twins_rubiel/wink/ruby_sheathe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 578
+			},
+			"model": "animated_java:item/twins_rubiel/wink/arm_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 579
+			},
+			"model": "animated_java:item/twins_rubiel/wink/arm_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 580
+			},
+			"model": "animated_java:item/twins_rubiel/wink/wing_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 581
+			},
+			"model": "animated_java:item/twins_rubiel/wink/wing_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 582
+			},
+			"model": "animated_java:item/twins_rubiel/wink/wing_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 583
+			},
+			"model": "animated_java:item/twins_rubiel/wink/wing_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 584
+			},
+			"model": "animated_java:item/twins_rubiel/wink/tail_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 585
+			},
+			"model": "animated_java:item/twins_rubiel/wink/tail_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 586
+			},
+			"model": "animated_java:item/twins_rubiel/wink/tail_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 587
+			},
+			"model": "animated_java:item/twins_rubiel/wink/uwagi_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 588
+			},
+			"model": "animated_java:item/twins_rubiel/wink/uwagi_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 589
+			},
+			"model": "animated_java:item/twins_rubiel/wink/uwagi"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 590
+			},
+			"model": "animated_java:item/twins_rubiel/wink/body_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 591
+			},
+			"model": "animated_java:item/twins_rubiel/wink/leg_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 592
+			},
+			"model": "animated_java:item/twins_rubiel/wink/leg_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 593
+			},
+			"model": "animated_java:item/twins_rubiel/wink/leg_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 594
+			},
+			"model": "animated_java:item/twins_rubiel/wink/leg_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 595
+			},
+			"model": "animated_java:item/twins_rubiel/wink/saya_belt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 596
+			},
+			"model": "animated_java:item/twins_rubiel/wink/saya"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 597
+			},
+			"model": "animated_java:item/twins_rubiel/wink/body_1"
 		}
 	],
 	"animated_java": {
@@ -2013,6 +3747,299 @@
 		"lexiel": [284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307],
 		"red_knight": [74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86],
 		"tultaria": [87, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 282, 283],
-		"tutankhamen": [14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29]
+		"tutankhamen": [14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29],
+		"twins_rubiel": [
+			417,
+			418,
+			419,
+			420,
+			421,
+			422,
+			423,
+			424,
+			425,
+			426,
+			427,
+			428,
+			429,
+			430,
+			431,
+			432,
+			433,
+			434,
+			435,
+			436,
+			437,
+			438,
+			439,
+			440,
+			441,
+			442,
+			443,
+			444,
+			445,
+			446,
+			447,
+			448,
+			449,
+			450,
+			451,
+			452,
+			453,
+			454,
+			455,
+			456,
+			457,
+			458,
+			459,
+			460,
+			461,
+			462,
+			463,
+			464,
+			465,
+			466,
+			467,
+			468,
+			469,
+			470,
+			471,
+			472,
+			473,
+			474,
+			475,
+			476,
+			477,
+			478,
+			479,
+			480,
+			481,
+			482,
+			483,
+			484,
+			485,
+			486,
+			487,
+			488,
+			489,
+			490,
+			491,
+			492,
+			493,
+			494,
+			495,
+			496,
+			497,
+			498,
+			499,
+			500,
+			501,
+			502,
+			503,
+			504,
+			505,
+			506,
+			507,
+			508,
+			509,
+			510,
+			511,
+			512,
+			513,
+			514,
+			515,
+			516,
+			517,
+			518,
+			519,
+			520,
+			521,
+			522,
+			523,
+			524,
+			525,
+			526,
+			527,
+			528,
+			529,
+			530,
+			531,
+			532,
+			533,
+			534,
+			535,
+			536,
+			537,
+			538,
+			539,
+			540,
+			541,
+			542,
+			543,
+			544,
+			545,
+			546,
+			547,
+			548,
+			549,
+			550,
+			551,
+			552,
+			553,
+			554,
+			555,
+			556,
+			557,
+			558,
+			559,
+			560,
+			561,
+			562,
+			563,
+			564,
+			565,
+			566,
+			567,
+			568,
+			569,
+			570,
+			571,
+			572,
+			573,
+			574,
+			575,
+			576,
+			577,
+			578,
+			579,
+			580,
+			581,
+			582,
+			583,
+			584,
+			585,
+			586,
+			587,
+			588,
+			589,
+			590,
+			591,
+			592,
+			593,
+			594,
+			595,
+			596,
+			597
+		],
+		"twins_sapphiel": [
+			309,
+			310,
+			311,
+			312,
+			313,
+			314,
+			315,
+			316,
+			317,
+			318,
+			319,
+			320,
+			321,
+			322,
+			323,
+			324,
+			325,
+			326,
+			327,
+			328,
+			329,
+			330,
+			331,
+			332,
+			333,
+			334,
+			335,
+			336,
+			337,
+			338,
+			339,
+			340,
+			341,
+			342,
+			343,
+			344,
+			345,
+			346,
+			347,
+			348,
+			349,
+			350,
+			351,
+			352,
+			353,
+			354,
+			355,
+			356,
+			357,
+			358,
+			359,
+			360,
+			361,
+			362,
+			363,
+			364,
+			365,
+			366,
+			367,
+			368,
+			369,
+			370,
+			371,
+			372,
+			373,
+			374,
+			375,
+			376,
+			377,
+			378,
+			379,
+			380,
+			381,
+			382,
+			383,
+			384,
+			385,
+			386,
+			387,
+			388,
+			389,
+			390,
+			391,
+			392,
+			393,
+			394,
+			395,
+			396,
+			397,
+			398,
+			399,
+			400,
+			401,
+			402,
+			403,
+			404,
+			405,
+			406,
+			407,
+			408,
+			409,
+			410,
+			411,
+			412,
+			413,
+			414,
+			415,
+			416
+		]
 	}
 }

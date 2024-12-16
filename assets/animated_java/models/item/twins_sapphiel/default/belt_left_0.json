@@ -1,0 +1,31 @@
+{
+	"textures": {
+		"0": "animated_java:item/twins_sapphiel/sapphiel"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [7.25, 3.5, 8],
+			"to": [8.75, 8.5, 8],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 7.5, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [9.75, 0, 10, 1],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [9.75, 0, 10, 1],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

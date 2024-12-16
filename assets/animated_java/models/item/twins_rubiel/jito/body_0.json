@@ -1,5 +1,5 @@
 {
-	"parent": "animated_java:item/twins_rubiel/body_0",
+	"parent": "animated_java:item/twins_rubiel/default/body_0",
 	"textures": {
 		"4": "animated_java:item/twins_rubiel/rubiel_face_jito"
 	}
