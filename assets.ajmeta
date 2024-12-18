@@ -1,4 +1,18 @@
 {
+	"blazing_inferno": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/textures/item/blazing_inferno/blazing.png",
+			"assets/animated_java/textures/item/transparent.png",
+			"assets/animated_java/models/item/blazing_inferno/default/body.json",
+			"assets/animated_java/models/item/blazing_inferno/default/left_arm.json",
+			"assets/animated_java/models/item/blazing_inferno/default/left_hand.json",
+			"assets/animated_java/models/item/blazing_inferno/default/right_arm.json",
+			"assets/animated_java/models/item/blazing_inferno/default/right_hand.json",
+			"assets/animated_java/models/item/blazing_inferno/default/head.json",
+			"assets/animated_java/models/item/blazing_inferno/default/bottom.json"
+		]
+	},
 	"convict": {
 		"files": [
 			"assets/animated_java/models/empty.json",
