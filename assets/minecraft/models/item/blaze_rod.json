@@ -8,7 +8,7 @@
 			"predicate": {
 				"custom_model_data": 1
 			},
-			"model": "item/animated_java_empty"
+			"model": "animated_java:empty"
 		},
 		{
 			"predicate": {
@@ -1428,2167 +1428,974 @@
 		},
 		{
 			"predicate": {
-				"custom_model_data": 238
+				"custom_model_data": 391001
 			},
-			"model": "animated_java:item/tultaria/default/body"
+			"model": "animated_java:item/axia/default/body_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 239
+				"custom_model_data": 391002
 			},
-			"model": "animated_java:item/tultaria/default/bust"
+			"model": "animated_java:item/axia/default/body_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 240
+				"custom_model_data": 391003
 			},
-			"model": "animated_java:item/tultaria/default/left_wing"
+			"model": "animated_java:item/axia/default/wing_right_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 241
+				"custom_model_data": 391004
 			},
-			"model": "animated_java:item/tultaria/default/right_wing"
+			"model": "animated_java:item/axia/default/wing_right_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 242
+				"custom_model_data": 391005
 			},
-			"model": "animated_java:item/tultaria/default/right_arm"
+			"model": "animated_java:item/axia/default/wing_left_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 243
+				"custom_model_data": 391006
 			},
-			"model": "animated_java:item/tultaria/default/right_hand"
+			"model": "animated_java:item/axia/default/wing_left_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 244
+				"custom_model_data": 391007
 			},
-			"model": "animated_java:item/tultaria/default/right_ring"
+			"model": "animated_java:item/axia/default/arm_right_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 245
+				"custom_model_data": 391008
 			},
-			"model": "animated_java:item/tultaria/default/sword"
+			"model": "animated_java:item/axia/default/arm_right_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 246
+				"custom_model_data": 391009
 			},
-			"model": "animated_java:item/tultaria/default/left_arm"
+			"model": "animated_java:item/axia/default/blade"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 247
+				"custom_model_data": 391010
 			},
-			"model": "animated_java:item/tultaria/default/left_hand"
+			"model": "animated_java:item/axia/default/arm_left_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 248
+				"custom_model_data": 391011
 			},
-			"model": "animated_java:item/tultaria/default/left_ring"
+			"model": "animated_java:item/axia/default/arm_left_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 249
+				"custom_model_data": 391012
 			},
-			"model": "animated_java:item/tultaria/default/lower"
+			"model": "animated_java:item/axia/default/head"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 250
+				"custom_model_data": 391013
 			},
-			"model": "animated_java:item/tultaria/default/leftleg"
+			"model": "animated_java:item/axia/default/ear_right_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 251
+				"custom_model_data": 391014
 			},
-			"model": "animated_java:item/tultaria/default/leftfoot"
+			"model": "animated_java:item/axia/default/ear_edge_a1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 252
+				"custom_model_data": 391015
 			},
-			"model": "animated_java:item/tultaria/default/rightleg"
+			"model": "animated_java:item/axia/default/ear_edge_a2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 253
+				"custom_model_data": 391016
 			},
-			"model": "animated_java:item/tultaria/default/rightfoot"
+			"model": "animated_java:item/axia/default/ear_right_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 254
+				"custom_model_data": 391017
 			},
-			"model": "animated_java:item/tultaria/default/skirt_right"
+			"model": "animated_java:item/axia/default/ear_edge_b1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 255
+				"custom_model_data": 391018
 			},
-			"model": "animated_java:item/tultaria/default/skirt_right_back"
+			"model": "animated_java:item/axia/default/ear_edge_b2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 256
+				"custom_model_data": 391019
 			},
-			"model": "animated_java:item/tultaria/default/skirt_left"
+			"model": "animated_java:item/axia/default/ear_left_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 257
+				"custom_model_data": 391020
 			},
-			"model": "animated_java:item/tultaria/default/skirt_left_back"
+			"model": "animated_java:item/axia/default/ear_edge_a3"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 258
+				"custom_model_data": 391021
 			},
-			"model": "animated_java:item/tultaria/default/skirt_back_middle"
+			"model": "animated_java:item/axia/default/ear_edge_a4"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 259
+				"custom_model_data": 391022
 			},
-			"model": "animated_java:item/tultaria/default/skirt_front_middle"
+			"model": "animated_java:item/axia/default/ear_left_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 260
+				"custom_model_data": 391023
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/head"
+			"model": "animated_java:item/axia/default/ear_edge_b3"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 261
+				"custom_model_data": 391024
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/backhair"
+			"model": "animated_java:item/axia/default/ear_edge_b4"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 262
+				"custom_model_data": 391025
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/body"
+			"model": "animated_java:item/axia/default/leg_left_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 263
+				"custom_model_data": 391026
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/ring"
+			"model": "animated_java:item/axia/default/leg_left_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 264
+				"custom_model_data": 391027
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/bust"
+			"model": "animated_java:item/axia/default/leg_right_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 265
+				"custom_model_data": 391028
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/left_wing"
+			"model": "animated_java:item/axia/default/leg_right_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 266
+				"custom_model_data": 391029
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/right_wing"
+			"model": "animated_java:item/axia/default/coat_downer"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 267
+				"custom_model_data": 391030
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/right_arm"
+			"model": "animated_java:item/axia/jitome/head"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 268
+				"custom_model_data": 391031
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/right_hand"
+			"model": "animated_java:item/axia/mabataki/head"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 269
+				"custom_model_data": 391032
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/sword"
+			"model": "animated_java:item/axia/mazime/head"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 270
+				"custom_model_data": 391033
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/left_arm"
+			"model": "animated_java:item/axia/wink/head"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 271
+				"custom_model_data": 391034
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/left_hand"
+			"model": "animated_java:item/axia/yarare/head"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 272
+				"custom_model_data": 391035
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/lower"
+			"model": "animated_java:item/axia/normal/head"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 273
+				"custom_model_data": 392001
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/skirt"
+			"model": "animated_java:item/ecual/default/body_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 274
+				"custom_model_data": 392002
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/skirt_right"
+			"model": "animated_java:item/ecual/default/body_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 275
+				"custom_model_data": 392003
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/skirt_left"
+			"model": "animated_java:item/ecual/default/wing_right_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 276
+				"custom_model_data": 392004
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/skirt_back_middle"
+			"model": "animated_java:item/ecual/default/wing_right_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 277
+				"custom_model_data": 392005
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/skirt_front_middle"
+			"model": "animated_java:item/ecual/default/wing_left_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 278
+				"custom_model_data": 392006
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/rightleg"
+			"model": "animated_java:item/ecual/default/wing_left_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 279
+				"custom_model_data": 392007
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/rightfoot"
+			"model": "animated_java:item/ecual/default/arm_right_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 280
+				"custom_model_data": 392008
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/leftleg"
+			"model": "animated_java:item/ecual/default/arm_right_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 281
+				"custom_model_data": 392009
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/leftfoot"
+			"model": "animated_java:item/ecual/default/staff"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 282
+				"custom_model_data": 392010
 			},
-			"model": "animated_java:item/tultaria/winged/left_wing"
+			"model": "animated_java:item/ecual/default/arm_left_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 283
+				"custom_model_data": 392011
 			},
-			"model": "animated_java:item/tultaria/winged/right_wing"
+			"model": "animated_java:item/ecual/default/arm_left_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 284
+				"custom_model_data": 392012
 			},
-			"model": "animated_java:item/lexiel/default/head"
+			"model": "animated_java:item/ecual/default/himo_right_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 285
+				"custom_model_data": 392013
 			},
-			"model": "animated_java:item/lexiel/default/backhair"
+			"model": "animated_java:item/ecual/default/himo_right_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 286
+				"custom_model_data": 392014
 			},
-			"model": "animated_java:item/lexiel/default/body"
+			"model": "animated_java:item/ecual/default/himo_left_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 287
+				"custom_model_data": 392015
 			},
-			"model": "animated_java:item/lexiel/default/ring"
+			"model": "animated_java:item/ecual/default/himo_left_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 288
+				"custom_model_data": 392016
 			},
-			"model": "animated_java:item/lexiel/default/bust"
+			"model": "animated_java:item/ecual/default/head"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 289
+				"custom_model_data": 392017
 			},
-			"model": "animated_java:item/lexiel/default/left_wing"
+			"model": "animated_java:item/ecual/default/ponpon1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 290
+				"custom_model_data": 392018
 			},
-			"model": "animated_java:item/lexiel/default/right_wing"
+			"model": "animated_java:item/ecual/default/ponpon2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 291
+				"custom_model_data": 392019
 			},
-			"model": "animated_java:item/lexiel/default/right_arm"
+			"model": "animated_java:item/ecual/default/ponpon3"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 292
+				"custom_model_data": 392020
 			},
-			"model": "animated_java:item/lexiel/default/right_hand"
+			"model": "animated_java:item/ecual/default/ponpon4"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 293
+				"custom_model_data": 392021
 			},
-			"model": "animated_java:item/lexiel/default/sword"
+			"model": "animated_java:item/ecual/default/ear_right_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 294
+				"custom_model_data": 392022
 			},
-			"model": "animated_java:item/lexiel/default/rod"
+			"model": "animated_java:item/ecual/default/ear_edge_a1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 295
+				"custom_model_data": 392023
 			},
-			"model": "animated_java:item/lexiel/default/left_arm"
+			"model": "animated_java:item/ecual/default/ear_edge_a2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 296
+				"custom_model_data": 392024
 			},
-			"model": "animated_java:item/lexiel/default/left_hand"
+			"model": "animated_java:item/ecual/default/ear_right_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 297
+				"custom_model_data": 392025
 			},
-			"model": "animated_java:item/lexiel/default/lower"
+			"model": "animated_java:item/ecual/default/ear_edge_b1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 298
+				"custom_model_data": 392026
 			},
-			"model": "animated_java:item/lexiel/default/skirt"
+			"model": "animated_java:item/ecual/default/ear_edge_b2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 299
+				"custom_model_data": 392027
 			},
-			"model": "animated_java:item/lexiel/default/skirt_right"
+			"model": "animated_java:item/ecual/default/ear_left_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 300
+				"custom_model_data": 392028
 			},
-			"model": "animated_java:item/lexiel/default/skirt_left"
+			"model": "animated_java:item/ecual/default/ear_edge_a3"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 301
+				"custom_model_data": 392029
 			},
-			"model": "animated_java:item/lexiel/default/skirt_back_middle"
+			"model": "animated_java:item/ecual/default/ear_edge_a4"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 302
+				"custom_model_data": 392030
 			},
-			"model": "animated_java:item/lexiel/default/skirt_front_middle"
+			"model": "animated_java:item/ecual/default/ear_left_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 303
+				"custom_model_data": 392031
 			},
-			"model": "animated_java:item/lexiel/default/rightupper"
+			"model": "animated_java:item/ecual/default/ear_edge_b3"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 304
+				"custom_model_data": 392032
 			},
-			"model": "animated_java:item/lexiel/default/rightfoot"
+			"model": "animated_java:item/ecual/default/ear_edge_b4"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 305
+				"custom_model_data": 392033
 			},
-			"model": "animated_java:item/lexiel/default/leftupper"
+			"model": "animated_java:item/ecual/default/leg_left_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 306
+				"custom_model_data": 392034
 			},
-			"model": "animated_java:item/lexiel/default/leftfoot"
+			"model": "animated_java:item/ecual/default/leg_left_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 307
+				"custom_model_data": 392035
 			},
-			"model": "animated_java:item/lexiel/default/sucidesword"
+			"model": "animated_java:item/ecual/default/leg_right_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 308
+				"custom_model_data": 392036
 			},
-			"model": "animated_java:item/heiloang/default/tail_ring"
+			"model": "animated_java:item/ecual/default/leg_right_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 309
+				"custom_model_data": 392037
 			},
-			"model": "animated_java:item/twins_sapphiel/default/body_1"
+			"model": "animated_java:item/ecual/default/skirt_forward"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 310
+				"custom_model_data": 392038
 			},
-			"model": "animated_java:item/twins_sapphiel/default/body_0"
+			"model": "animated_java:item/ecual/default/skirt_forward_right"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 311
+				"custom_model_data": 392039
 			},
-			"model": "animated_java:item/twins_sapphiel/default/head"
+			"model": "animated_java:item/ecual/default/skirt_forward_left"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 312
+				"custom_model_data": 392040
 			},
-			"model": "animated_java:item/twins_sapphiel/default/halo"
+			"model": "animated_java:item/ecual/default/skirt_back"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 313
+				"custom_model_data": 392041
 			},
-			"model": "animated_java:item/twins_sapphiel/default/arm_right_0"
+			"model": "animated_java:item/ecual/default/skirt_back_right"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 314
+				"custom_model_data": 392042
 			},
-			"model": "animated_java:item/twins_sapphiel/default/arm_right_1"
+			"model": "animated_java:item/ecual/default/skirt_back_left"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 315
+				"custom_model_data": 392043
 			},
-			"model": "animated_java:item/twins_sapphiel/default/ruby_gun"
+			"model": "animated_java:item/ecual/default/skirt_right"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 316
+				"custom_model_data": 392044
 			},
-			"model": "animated_java:item/twins_sapphiel/default/slide2"
+			"model": "animated_java:item/ecual/default/skirt_left"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 317
+				"custom_model_data": 392045
 			},
-			"model": "animated_java:item/twins_sapphiel/default/arm_left_0"
+			"model": "animated_java:item/ecual/default/coat_downer"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 318
+				"custom_model_data": 392046
 			},
-			"model": "animated_java:item/twins_sapphiel/default/arm_left_1"
+			"model": "animated_java:item/ecual/default/book_loot_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 319
+				"custom_model_data": 392047
 			},
-			"model": "animated_java:item/twins_sapphiel/default/sapphire_gun"
+			"model": "animated_java:item/ecual/default/book_left"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 320
+				"custom_model_data": 392048
 			},
-			"model": "animated_java:item/twins_sapphiel/default/slide"
+			"model": "animated_java:item/ecual/default/book_right"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 321
+				"custom_model_data": 392049
 			},
-			"model": "animated_java:item/twins_sapphiel/default/shotgun"
+			"model": "animated_java:item/ecual/default/book_loot_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 322
+				"custom_model_data": 392050
 			},
-			"model": "animated_java:item/twins_sapphiel/default/body"
+			"model": "animated_java:item/ecual/default/book_left2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 323
+				"custom_model_data": 392051
 			},
-			"model": "animated_java:item/twins_sapphiel/default/launcher"
+			"model": "animated_java:item/ecual/default/book_right2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 324
+				"custom_model_data": 392052
 			},
-			"model": "animated_java:item/twins_sapphiel/default/rocket"
+			"model": "animated_java:item/ecual/default/air_staff_povit_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 325
+				"custom_model_data": 392053
 			},
-			"model": "animated_java:item/twins_sapphiel/default/wing_0"
+			"model": "animated_java:item/ecual/jitome/head"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 326
+				"custom_model_data": 392054
 			},
-			"model": "animated_java:item/twins_sapphiel/default/wing_1"
+			"model": "animated_java:item/ecual/mabaraki/head"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 327
+				"custom_model_data": 392055
 			},
-			"model": "animated_java:item/twins_sapphiel/default/wing_2"
+			"model": "animated_java:item/ecual/majime/head"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 328
+				"custom_model_data": 392056
 			},
-			"model": "animated_java:item/twins_sapphiel/default/wing_3"
+			"model": "animated_java:item/ecual/wink/head"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 329
+				"custom_model_data": 392057
 			},
-			"model": "animated_java:item/twins_sapphiel/default/leg_right_0"
+			"model": "animated_java:item/ecual/yarare/head"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 330
+				"custom_model_data": 392058
 			},
-			"model": "animated_java:item/twins_sapphiel/default/leg_right_1"
+			"model": "animated_java:item/ecual/normal/head"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 331
+				"custom_model_data": 393001
 			},
-			"model": "animated_java:item/twins_sapphiel/default/leg_left_0"
+			"model": "animated_java:item/labyria/default/body_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 332
+				"custom_model_data": 393002
 			},
-			"model": "animated_java:item/twins_sapphiel/default/leg_left_1"
+			"model": "animated_java:item/labyria/default/body_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 333
+				"custom_model_data": 393003
 			},
-			"model": "animated_java:item/twins_sapphiel/default/skirt_forward"
+			"model": "animated_java:item/labyria/default/wing_right_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 334
+				"custom_model_data": 393004
 			},
-			"model": "animated_java:item/twins_sapphiel/default/skirt_forward_right"
+			"model": "animated_java:item/labyria/default/wing_right_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 335
+				"custom_model_data": 393005
 			},
-			"model": "animated_java:item/twins_sapphiel/default/skirt_forward_left"
+			"model": "animated_java:item/labyria/default/wing_left_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 336
+				"custom_model_data": 393006
 			},
-			"model": "animated_java:item/twins_sapphiel/default/skirt_back"
+			"model": "animated_java:item/labyria/default/wing_left_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 337
+				"custom_model_data": 393007
 			},
-			"model": "animated_java:item/twins_sapphiel/default/skirt_back_right"
+			"model": "animated_java:item/labyria/default/arm_right_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 338
+				"custom_model_data": 393008
 			},
-			"model": "animated_java:item/twins_sapphiel/default/skirt_back_left"
+			"model": "animated_java:item/labyria/default/arm_right_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 339
+				"custom_model_data": 393009
 			},
-			"model": "animated_java:item/twins_sapphiel/default/skirt_right"
+			"model": "animated_java:item/labyria/default/musket"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 340
+				"custom_model_data": 393010
 			},
-			"model": "animated_java:item/twins_sapphiel/default/skirt_left"
+			"model": "animated_java:item/labyria/default/omega_blade"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 341
+				"custom_model_data": 393011
 			},
-			"model": "animated_java:item/twins_sapphiel/default/belt_right_0"
+			"model": "animated_java:item/labyria/default/arm_left_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 342
+				"custom_model_data": 393012
 			},
-			"model": "animated_java:item/twins_sapphiel/default/belt_right_1"
+			"model": "animated_java:item/labyria/default/arm_left_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 343
+				"custom_model_data": 393013
 			},
-			"model": "animated_java:item/twins_sapphiel/default/belt_left_0"
+			"model": "animated_java:item/labyria/default/himo_right_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 344
+				"custom_model_data": 393014
 			},
-			"model": "animated_java:item/twins_sapphiel/default/belt_left_1"
+			"model": "animated_java:item/labyria/default/himo_right_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 345
+				"custom_model_data": 393015
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/halo"
+			"model": "animated_java:item/labyria/default/himo_left_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 346
+				"custom_model_data": 393016
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/head"
+			"model": "animated_java:item/labyria/default/himo_left_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 347
+				"custom_model_data": 393017
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/slide2"
+			"model": "animated_java:item/labyria/default/head"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 348
+				"custom_model_data": 393018
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/ruby_gun"
+			"model": "animated_java:item/labyria/default/ribbon_left"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 349
+				"custom_model_data": 393019
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/arm_right_1"
+			"model": "animated_java:item/labyria/default/ribbon_left_himo_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 350
+				"custom_model_data": 393020
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/arm_right_0"
+			"model": "animated_java:item/labyria/default/ribbon_left_himo_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 351
+				"custom_model_data": 393021
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/slide"
+			"model": "animated_java:item/labyria/default/ribbon_right"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 352
+				"custom_model_data": 393022
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/sapphire_gun"
+			"model": "animated_java:item/labyria/default/ribbon_right_himo_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 353
+				"custom_model_data": 393023
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/body"
+			"model": "animated_java:item/labyria/default/ribbon_right_himo_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 354
+				"custom_model_data": 393024
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/shotgun"
+			"model": "animated_java:item/labyria/default/crown"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 355
+				"custom_model_data": 393025
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/rocket"
+			"model": "animated_java:item/labyria/default/ear_right_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 356
+				"custom_model_data": 393026
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/launcher"
+			"model": "animated_java:item/labyria/default/ear_edge_a1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 357
+				"custom_model_data": 393027
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/arm_left_1"
+			"model": "animated_java:item/labyria/default/ear_edge_a2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 358
+				"custom_model_data": 393028
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/arm_left_0"
+			"model": "animated_java:item/labyria/default/ear_right_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 359
+				"custom_model_data": 393029
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/wing_3"
+			"model": "animated_java:item/labyria/default/ear_edge_b1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 360
+				"custom_model_data": 393030
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/wing_2"
+			"model": "animated_java:item/labyria/default/ear_edge_b2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 361
+				"custom_model_data": 393031
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/wing_1"
+			"model": "animated_java:item/labyria/default/ear_left_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 362
+				"custom_model_data": 393032
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/wing_0"
+			"model": "animated_java:item/labyria/default/ear_edge_a3"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 363
+				"custom_model_data": 393033
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/body_0"
+			"model": "animated_java:item/labyria/default/ear_edge_a4"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 364
+				"custom_model_data": 393034
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/leg_right_1"
+			"model": "animated_java:item/labyria/default/ear_left_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 365
+				"custom_model_data": 393035
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/leg_right_0"
+			"model": "animated_java:item/labyria/default/ear_edge_b3"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 366
+				"custom_model_data": 393036
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/leg_left_1"
+			"model": "animated_java:item/labyria/default/ear_edge_b4"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 367
+				"custom_model_data": 393037
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/leg_left_0"
+			"model": "animated_java:item/labyria/default/back_musket"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 368
+				"custom_model_data": 393038
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/skirt_forward_right"
+			"model": "animated_java:item/labyria/default/leg_left_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 369
+				"custom_model_data": 393039
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/skirt_forward_left"
+			"model": "animated_java:item/labyria/default/leg_left_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 370
+				"custom_model_data": 393040
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/skirt_forward"
+			"model": "animated_java:item/labyria/default/belt2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 371
+				"custom_model_data": 393041
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/skirt_back_right"
+			"model": "animated_java:item/labyria/default/leg_right_1"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 372
+				"custom_model_data": 393042
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/skirt_back_left"
+			"model": "animated_java:item/labyria/default/belt"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 373
+				"custom_model_data": 393043
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/skirt_back"
+			"model": "animated_java:item/labyria/default/leg_right_2"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 374
+				"custom_model_data": 393044
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/skirt_right"
+			"model": "animated_java:item/labyria/default/skirt_forward"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 375
+				"custom_model_data": 393045
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/skirt_left"
+			"model": "animated_java:item/labyria/default/skirt_forward_right"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 376
+				"custom_model_data": 393046
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/belt_right_1"
+			"model": "animated_java:item/labyria/default/skirt_forward_left"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 377
+				"custom_model_data": 393047
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/belt_right_0"
+			"model": "animated_java:item/labyria/default/skirt_back"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 378
+				"custom_model_data": 393048
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/belt_left_1"
+			"model": "animated_java:item/labyria/default/skirt_back_right"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 379
+				"custom_model_data": 393049
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/belt_left_0"
+			"model": "animated_java:item/labyria/default/skirt_back_left"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 380
+				"custom_model_data": 393050
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/body_1"
+			"model": "animated_java:item/labyria/default/skirt_right"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 381
+				"custom_model_data": 393051
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/halo"
+			"model": "animated_java:item/labyria/default/skirt_left"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 382
+				"custom_model_data": 393052
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/head"
+			"model": "animated_java:item/labyria/default/coat_downer"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 383
+				"custom_model_data": 393053
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/slide2"
+			"model": "animated_java:item/labyria/default/sphere"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 384
+				"custom_model_data": 393054
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/ruby_gun"
+			"model": "animated_java:item/labyria/jitome/head"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 385
+				"custom_model_data": 393055
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/arm_right_1"
+			"model": "animated_java:item/labyria/mabataki/head"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 386
+				"custom_model_data": 393056
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/arm_right_0"
+			"model": "animated_java:item/labyria/majime/head"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 387
+				"custom_model_data": 393057
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/slide"
+			"model": "animated_java:item/labyria/yarare/head"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 388
+				"custom_model_data": 393058
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/sapphire_gun"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 389
-			},
-			"model": "animated_java:item/twins_sapphiel/stun/body"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 390
-			},
-			"model": "animated_java:item/twins_sapphiel/stun/shotgun"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 391
-			},
-			"model": "animated_java:item/twins_sapphiel/stun/rocket"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 392
-			},
-			"model": "animated_java:item/twins_sapphiel/stun/launcher"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 393
-			},
-			"model": "animated_java:item/twins_sapphiel/stun/arm_left_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 394
-			},
-			"model": "animated_java:item/twins_sapphiel/stun/arm_left_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 395
-			},
-			"model": "animated_java:item/twins_sapphiel/stun/wing_3"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 396
-			},
-			"model": "animated_java:item/twins_sapphiel/stun/wing_2"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 397
-			},
-			"model": "animated_java:item/twins_sapphiel/stun/wing_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 398
-			},
-			"model": "animated_java:item/twins_sapphiel/stun/wing_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 399
-			},
-			"model": "animated_java:item/twins_sapphiel/stun/body_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 400
-			},
-			"model": "animated_java:item/twins_sapphiel/stun/leg_right_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 401
-			},
-			"model": "animated_java:item/twins_sapphiel/stun/leg_right_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 402
-			},
-			"model": "animated_java:item/twins_sapphiel/stun/leg_left_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 403
-			},
-			"model": "animated_java:item/twins_sapphiel/stun/leg_left_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 404
-			},
-			"model": "animated_java:item/twins_sapphiel/stun/skirt_forward_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 405
-			},
-			"model": "animated_java:item/twins_sapphiel/stun/skirt_forward_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 406
-			},
-			"model": "animated_java:item/twins_sapphiel/stun/skirt_forward"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 407
-			},
-			"model": "animated_java:item/twins_sapphiel/stun/skirt_back_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 408
-			},
-			"model": "animated_java:item/twins_sapphiel/stun/skirt_back_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 409
-			},
-			"model": "animated_java:item/twins_sapphiel/stun/skirt_back"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 410
-			},
-			"model": "animated_java:item/twins_sapphiel/stun/skirt_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 411
-			},
-			"model": "animated_java:item/twins_sapphiel/stun/skirt_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 412
-			},
-			"model": "animated_java:item/twins_sapphiel/stun/belt_right_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 413
-			},
-			"model": "animated_java:item/twins_sapphiel/stun/belt_right_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 414
-			},
-			"model": "animated_java:item/twins_sapphiel/stun/belt_left_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 415
-			},
-			"model": "animated_java:item/twins_sapphiel/stun/belt_left_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 416
-			},
-			"model": "animated_java:item/twins_sapphiel/stun/body_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 417
-			},
-			"model": "animated_java:item/twins_rubiel/default/body_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 418
-			},
-			"model": "animated_java:item/twins_rubiel/default/body_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 419
-			},
-			"model": "animated_java:item/twins_rubiel/default/head"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 420
-			},
-			"model": "animated_java:item/twins_rubiel/default/halo"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 421
-			},
-			"model": "animated_java:item/twins_rubiel/default/arm_right_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 422
-			},
-			"model": "animated_java:item/twins_rubiel/default/arm_right_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 423
-			},
-			"model": "animated_java:item/twins_rubiel/default/ruby_katana"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 424
-			},
-			"model": "animated_java:item/twins_rubiel/default/root_taiken"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 425
-			},
-			"model": "animated_java:item/twins_rubiel/default/root_scythe"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 426
-			},
-			"model": "animated_java:item/twins_rubiel/default/arm_left_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 427
-			},
-			"model": "animated_java:item/twins_rubiel/default/arm_left_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 428
-			},
-			"model": "animated_java:item/twins_rubiel/default/sapphie_katana"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 429
-			},
-			"model": "animated_java:item/twins_rubiel/default/ruby_saya"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 430
-			},
-			"model": "animated_java:item/twins_rubiel/default/ruby_sheathe"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 431
-			},
-			"model": "animated_java:item/twins_rubiel/default/wing_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 432
-			},
-			"model": "animated_java:item/twins_rubiel/default/wing_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 433
-			},
-			"model": "animated_java:item/twins_rubiel/default/wing_2"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 434
-			},
-			"model": "animated_java:item/twins_rubiel/default/wing_3"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 435
-			},
-			"model": "animated_java:item/twins_rubiel/default/uwagi"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 436
-			},
-			"model": "animated_java:item/twins_rubiel/default/uwagi_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 437
-			},
-			"model": "animated_java:item/twins_rubiel/default/tail_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 438
-			},
-			"model": "animated_java:item/twins_rubiel/default/tail_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 439
-			},
-			"model": "animated_java:item/twins_rubiel/default/tail_2"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 440
-			},
-			"model": "animated_java:item/twins_rubiel/default/uwagi_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 441
-			},
-			"model": "animated_java:item/twins_rubiel/default/leg_right_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 442
-			},
-			"model": "animated_java:item/twins_rubiel/default/leg_right_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 443
-			},
-			"model": "animated_java:item/twins_rubiel/default/leg_left_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 444
-			},
-			"model": "animated_java:item/twins_rubiel/default/leg_left_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 445
-			},
-			"model": "animated_java:item/twins_rubiel/default/saya"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 446
-			},
-			"model": "animated_java:item/twins_rubiel/default/saya_belt"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 447
-			},
-			"model": "animated_java:item/twins_rubiel/blink/head"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 448
-			},
-			"model": "animated_java:item/twins_rubiel/damage/halo"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 449
-			},
-			"model": "animated_java:item/twins_rubiel/damage/head"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 450
-			},
-			"model": "animated_java:item/twins_rubiel/damage/ruby_katana"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 451
-			},
-			"model": "animated_java:item/twins_rubiel/damage/root_taiken"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 452
-			},
-			"model": "animated_java:item/twins_rubiel/damage/root_scythe"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 453
-			},
-			"model": "animated_java:item/twins_rubiel/damage/arm_right_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 454
-			},
-			"model": "animated_java:item/twins_rubiel/damage/arm_right_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 455
-			},
-			"model": "animated_java:item/twins_rubiel/damage/sapphie_katana"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 456
-			},
-			"model": "animated_java:item/twins_rubiel/damage/ruby_saya"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 457
-			},
-			"model": "animated_java:item/twins_rubiel/damage/ruby_sheathe"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 458
-			},
-			"model": "animated_java:item/twins_rubiel/damage/arm_left_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 459
-			},
-			"model": "animated_java:item/twins_rubiel/damage/arm_left_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 460
-			},
-			"model": "animated_java:item/twins_rubiel/damage/wing_3"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 461
-			},
-			"model": "animated_java:item/twins_rubiel/damage/wing_2"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 462
-			},
-			"model": "animated_java:item/twins_rubiel/damage/wing_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 463
-			},
-			"model": "animated_java:item/twins_rubiel/damage/wing_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 464
-			},
-			"model": "animated_java:item/twins_rubiel/damage/tail_2"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 465
-			},
-			"model": "animated_java:item/twins_rubiel/damage/tail_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 466
-			},
-			"model": "animated_java:item/twins_rubiel/damage/tail_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 467
-			},
-			"model": "animated_java:item/twins_rubiel/damage/uwagi_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 468
-			},
-			"model": "animated_java:item/twins_rubiel/damage/uwagi_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 469
-			},
-			"model": "animated_java:item/twins_rubiel/damage/uwagi"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 470
-			},
-			"model": "animated_java:item/twins_rubiel/damage/body_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 471
-			},
-			"model": "animated_java:item/twins_rubiel/damage/leg_right_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 472
-			},
-			"model": "animated_java:item/twins_rubiel/damage/leg_right_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 473
-			},
-			"model": "animated_java:item/twins_rubiel/damage/leg_left_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 474
-			},
-			"model": "animated_java:item/twins_rubiel/damage/leg_left_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 475
-			},
-			"model": "animated_java:item/twins_rubiel/damage/saya_belt"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 476
-			},
-			"model": "animated_java:item/twins_rubiel/damage/saya"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 477
-			},
-			"model": "animated_java:item/twins_rubiel/damage/body_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 478
-			},
-			"model": "animated_java:item/twins_rubiel/jito/halo"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 479
-			},
-			"model": "animated_java:item/twins_rubiel/jito/head"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 480
-			},
-			"model": "animated_java:item/twins_rubiel/jito/ruby_katana"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 481
-			},
-			"model": "animated_java:item/twins_rubiel/jito/root_taiken"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 482
-			},
-			"model": "animated_java:item/twins_rubiel/jito/root_scythe"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 483
-			},
-			"model": "animated_java:item/twins_rubiel/jito/arm_right_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 484
-			},
-			"model": "animated_java:item/twins_rubiel/jito/arm_right_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 485
-			},
-			"model": "animated_java:item/twins_rubiel/jito/sapphie_katana"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 486
-			},
-			"model": "animated_java:item/twins_rubiel/jito/ruby_saya"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 487
-			},
-			"model": "animated_java:item/twins_rubiel/jito/ruby_sheathe"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 488
-			},
-			"model": "animated_java:item/twins_rubiel/jito/arm_left_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 489
-			},
-			"model": "animated_java:item/twins_rubiel/jito/arm_left_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 490
-			},
-			"model": "animated_java:item/twins_rubiel/jito/wing_3"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 491
-			},
-			"model": "animated_java:item/twins_rubiel/jito/wing_2"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 492
-			},
-			"model": "animated_java:item/twins_rubiel/jito/wing_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 493
-			},
-			"model": "animated_java:item/twins_rubiel/jito/wing_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 494
-			},
-			"model": "animated_java:item/twins_rubiel/jito/tail_2"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 495
-			},
-			"model": "animated_java:item/twins_rubiel/jito/tail_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 496
-			},
-			"model": "animated_java:item/twins_rubiel/jito/tail_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 497
-			},
-			"model": "animated_java:item/twins_rubiel/jito/uwagi_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 498
-			},
-			"model": "animated_java:item/twins_rubiel/jito/uwagi_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 499
-			},
-			"model": "animated_java:item/twins_rubiel/jito/uwagi"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 500
-			},
-			"model": "animated_java:item/twins_rubiel/jito/body_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 501
-			},
-			"model": "animated_java:item/twins_rubiel/jito/leg_right_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 502
-			},
-			"model": "animated_java:item/twins_rubiel/jito/leg_right_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 503
-			},
-			"model": "animated_java:item/twins_rubiel/jito/leg_left_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 504
-			},
-			"model": "animated_java:item/twins_rubiel/jito/leg_left_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 505
-			},
-			"model": "animated_java:item/twins_rubiel/jito/saya_belt"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 506
-			},
-			"model": "animated_java:item/twins_rubiel/jito/saya"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 507
-			},
-			"model": "animated_java:item/twins_rubiel/jito/body_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 508
-			},
-			"model": "animated_java:item/twins_rubiel/stun/halo"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 509
-			},
-			"model": "animated_java:item/twins_rubiel/stun/head"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 510
-			},
-			"model": "animated_java:item/twins_rubiel/stun/ruby_katana"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 511
-			},
-			"model": "animated_java:item/twins_rubiel/stun/root_taiken"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 512
-			},
-			"model": "animated_java:item/twins_rubiel/stun/root_scythe"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 513
-			},
-			"model": "animated_java:item/twins_rubiel/stun/arm_right_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 514
-			},
-			"model": "animated_java:item/twins_rubiel/stun/arm_right_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 515
-			},
-			"model": "animated_java:item/twins_rubiel/stun/sapphie_katana"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 516
-			},
-			"model": "animated_java:item/twins_rubiel/stun/ruby_saya"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 517
-			},
-			"model": "animated_java:item/twins_rubiel/stun/ruby_sheathe"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 518
-			},
-			"model": "animated_java:item/twins_rubiel/stun/arm_left_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 519
-			},
-			"model": "animated_java:item/twins_rubiel/stun/arm_left_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 520
-			},
-			"model": "animated_java:item/twins_rubiel/stun/wing_3"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 521
-			},
-			"model": "animated_java:item/twins_rubiel/stun/wing_2"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 522
-			},
-			"model": "animated_java:item/twins_rubiel/stun/wing_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 523
-			},
-			"model": "animated_java:item/twins_rubiel/stun/wing_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 524
-			},
-			"model": "animated_java:item/twins_rubiel/stun/tail_2"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 525
-			},
-			"model": "animated_java:item/twins_rubiel/stun/tail_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 526
-			},
-			"model": "animated_java:item/twins_rubiel/stun/tail_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 527
-			},
-			"model": "animated_java:item/twins_rubiel/stun/uwagi_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 528
-			},
-			"model": "animated_java:item/twins_rubiel/stun/uwagi_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 529
-			},
-			"model": "animated_java:item/twins_rubiel/stun/uwagi"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 530
-			},
-			"model": "animated_java:item/twins_rubiel/stun/body_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 531
-			},
-			"model": "animated_java:item/twins_rubiel/stun/leg_right_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 532
-			},
-			"model": "animated_java:item/twins_rubiel/stun/leg_right_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 533
-			},
-			"model": "animated_java:item/twins_rubiel/stun/leg_left_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 534
-			},
-			"model": "animated_java:item/twins_rubiel/stun/leg_left_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 535
-			},
-			"model": "animated_java:item/twins_rubiel/stun/saya_belt"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 536
-			},
-			"model": "animated_java:item/twins_rubiel/stun/saya"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 537
-			},
-			"model": "animated_java:item/twins_rubiel/stun/body_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 538
-			},
-			"model": "animated_java:item/twins_rubiel/surprise/halo"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 539
-			},
-			"model": "animated_java:item/twins_rubiel/surprise/head"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 540
-			},
-			"model": "animated_java:item/twins_rubiel/surprise/ruby_katana"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 541
-			},
-			"model": "animated_java:item/twins_rubiel/surprise/root_taiken"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 542
-			},
-			"model": "animated_java:item/twins_rubiel/surprise/root_scythe"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 543
-			},
-			"model": "animated_java:item/twins_rubiel/surprise/arm_right_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 544
-			},
-			"model": "animated_java:item/twins_rubiel/surprise/arm_right_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 545
-			},
-			"model": "animated_java:item/twins_rubiel/surprise/sapphie_katana"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 546
-			},
-			"model": "animated_java:item/twins_rubiel/surprise/ruby_saya"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 547
-			},
-			"model": "animated_java:item/twins_rubiel/surprise/ruby_sheathe"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 548
-			},
-			"model": "animated_java:item/twins_rubiel/surprise/arm_left_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 549
-			},
-			"model": "animated_java:item/twins_rubiel/surprise/arm_left_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 550
-			},
-			"model": "animated_java:item/twins_rubiel/surprise/wing_3"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 551
-			},
-			"model": "animated_java:item/twins_rubiel/surprise/wing_2"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 552
-			},
-			"model": "animated_java:item/twins_rubiel/surprise/wing_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 553
-			},
-			"model": "animated_java:item/twins_rubiel/surprise/wing_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 554
-			},
-			"model": "animated_java:item/twins_rubiel/surprise/tail_2"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 555
-			},
-			"model": "animated_java:item/twins_rubiel/surprise/tail_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 556
-			},
-			"model": "animated_java:item/twins_rubiel/surprise/tail_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 557
-			},
-			"model": "animated_java:item/twins_rubiel/surprise/uwagi_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 558
-			},
-			"model": "animated_java:item/twins_rubiel/surprise/uwagi_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 559
-			},
-			"model": "animated_java:item/twins_rubiel/surprise/uwagi"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 560
-			},
-			"model": "animated_java:item/twins_rubiel/surprise/body_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 561
-			},
-			"model": "animated_java:item/twins_rubiel/surprise/leg_right_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 562
-			},
-			"model": "animated_java:item/twins_rubiel/surprise/leg_right_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 563
-			},
-			"model": "animated_java:item/twins_rubiel/surprise/leg_left_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 564
-			},
-			"model": "animated_java:item/twins_rubiel/surprise/leg_left_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 565
-			},
-			"model": "animated_java:item/twins_rubiel/surprise/saya_belt"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 566
-			},
-			"model": "animated_java:item/twins_rubiel/surprise/saya"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 567
-			},
-			"model": "animated_java:item/twins_rubiel/surprise/body_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 568
-			},
-			"model": "animated_java:item/twins_rubiel/wink/halo"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 569
-			},
-			"model": "animated_java:item/twins_rubiel/wink/head"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 570
-			},
-			"model": "animated_java:item/twins_rubiel/wink/ruby_katana"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 571
-			},
-			"model": "animated_java:item/twins_rubiel/wink/root_taiken"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 572
-			},
-			"model": "animated_java:item/twins_rubiel/wink/root_scythe"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 573
-			},
-			"model": "animated_java:item/twins_rubiel/wink/arm_right_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 574
-			},
-			"model": "animated_java:item/twins_rubiel/wink/arm_right_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 575
-			},
-			"model": "animated_java:item/twins_rubiel/wink/sapphie_katana"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 576
-			},
-			"model": "animated_java:item/twins_rubiel/wink/ruby_saya"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 577
-			},
-			"model": "animated_java:item/twins_rubiel/wink/ruby_sheathe"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 578
-			},
-			"model": "animated_java:item/twins_rubiel/wink/arm_left_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 579
-			},
-			"model": "animated_java:item/twins_rubiel/wink/arm_left_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 580
-			},
-			"model": "animated_java:item/twins_rubiel/wink/wing_3"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 581
-			},
-			"model": "animated_java:item/twins_rubiel/wink/wing_2"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 582
-			},
-			"model": "animated_java:item/twins_rubiel/wink/wing_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 583
-			},
-			"model": "animated_java:item/twins_rubiel/wink/wing_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 584
-			},
-			"model": "animated_java:item/twins_rubiel/wink/tail_2"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 585
-			},
-			"model": "animated_java:item/twins_rubiel/wink/tail_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 586
-			},
-			"model": "animated_java:item/twins_rubiel/wink/tail_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 587
-			},
-			"model": "animated_java:item/twins_rubiel/wink/uwagi_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 588
-			},
-			"model": "animated_java:item/twins_rubiel/wink/uwagi_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 589
-			},
-			"model": "animated_java:item/twins_rubiel/wink/uwagi"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 590
-			},
-			"model": "animated_java:item/twins_rubiel/wink/body_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 591
-			},
-			"model": "animated_java:item/twins_rubiel/wink/leg_right_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 592
-			},
-			"model": "animated_java:item/twins_rubiel/wink/leg_right_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 593
-			},
-			"model": "animated_java:item/twins_rubiel/wink/leg_left_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 594
-			},
-			"model": "animated_java:item/twins_rubiel/wink/leg_left_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 595
-			},
-			"model": "animated_java:item/twins_rubiel/wink/saya_belt"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 596
-			},
-			"model": "animated_java:item/twins_rubiel/wink/saya"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 597
-			},
-			"model": "animated_java:item/twins_rubiel/wink/body_1"
+			"model": "animated_java:item/labyria/normal/head"
 		}
 	],
 	"animated_java": {
+		"axia": [1, 391001, 391002, 391003, 391004, 391005, 391006, 391007, 391008, 391009, 391010, 391011, 391012, 391013, 391014, 391015, 391016, 391017, 391018, 391019, 391020, 391021, 391022, 391023, 391024, 391025, 391026, 391027, 391028, 391029, 391030, 391031, 391032, 391033, 391034, 391035],
 		"convict": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+		"ecual": [
+			392001,
+			392002,
+			392003,
+			392004,
+			392005,
+			392006,
+			392007,
+			392008,
+			392009,
+			392010,
+			392011,
+			392012,
+			392013,
+			392014,
+			392015,
+			392016,
+			392017,
+			392018,
+			392019,
+			392020,
+			392021,
+			392022,
+			392023,
+			392024,
+			392025,
+			392026,
+			392027,
+			392028,
+			392029,
+			392030,
+			392031,
+			392032,
+			392033,
+			392034,
+			392035,
+			392036,
+			392037,
+			392038,
+			392039,
+			392040,
+			392041,
+			392042,
+			392043,
+			392044,
+			392045,
+			392046,
+			392047,
+			392048,
+			392049,
+			392050,
+			392051,
+			392052,
+			392053,
+			392054,
+			392055,
+			392056,
+			392057,
+			392058
+		],
 		"frestchika_v2": [
 			88,
 			89,
@@ -3742,566 +2549,68 @@
 			237
 		],
 		"grey_guardian": [30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40],
-		"heiloang_aj": [1, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 308],
-		"illusion_of_loyalty": [260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281],
-		"lexiel": [284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307],
-		"red_knight": [74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86],
-		"tultaria": [87, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 282, 283],
-		"tutankhamen": [14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29],
-		"twins_rubiel": [
-			417,
-			418,
-			419,
-			420,
-			421,
-			422,
-			423,
-			424,
-			425,
-			426,
-			427,
-			428,
-			429,
-			430,
-			431,
-			432,
-			433,
-			434,
-			435,
-			436,
-			437,
-			438,
-			439,
-			440,
-			441,
-			442,
-			443,
-			444,
-			445,
-			446,
-			447,
-			448,
-			449,
-			450,
-			451,
-			452,
-			453,
-			454,
-			455,
-			456,
-			457,
-			458,
-			459,
-			460,
-			461,
-			462,
-			463,
-			464,
-			465,
-			466,
-			467,
-			468,
-			469,
-			470,
-			471,
-			472,
-			473,
-			474,
-			475,
-			476,
-			477,
-			478,
-			479,
-			480,
-			481,
-			482,
-			483,
-			484,
-			485,
-			486,
-			487,
-			488,
-			489,
-			490,
-			491,
-			492,
-			493,
-			494,
-			495,
-			496,
-			497,
-			498,
-			499,
-			500,
-			501,
-			502,
-			503,
-			504,
-			505,
-			506,
-			507,
-			508,
-			509,
-			510,
-			511,
-			512,
-			513,
-			514,
-			515,
-			516,
-			517,
-			518,
-			519,
-			520,
-			521,
-			522,
-			523,
-			524,
-			525,
-			526,
-			527,
-			528,
-			529,
-			530,
-			531,
-			532,
-			533,
-			534,
-			535,
-			536,
-			537,
-			538,
-			539,
-			540,
-			541,
-			542,
-			543,
-			544,
-			545,
-			546,
-			547,
-			548,
-			549,
-			550,
-			551,
-			552,
-			553,
-			554,
-			555,
-			556,
-			557,
-			558,
-			559,
-			560,
-			561,
-			562,
-			563,
-			564,
-			565,
-			566,
-			567,
-			568,
-			569,
-			570,
-			571,
-			572,
-			573,
-			574,
-			575,
-			576,
-			577,
-			578,
-			579,
-			580,
-			581,
-			582,
-			583,
-			584,
-			585,
-			586,
-			587,
-			588,
-			589,
-			590,
-			591,
-			592,
-			593,
-			594,
-			595,
-			596,
-			597
+		"heiloang_aj": [41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 87],
+		"labyria": [
+			393001,
+			393002,
+			393003,
+			393004,
+			393005,
+			393006,
+			393007,
+			393008,
+			393009,
+			393010,
+			393011,
+			393012,
+			393013,
+			393014,
+			393015,
+			393016,
+			393017,
+			393018,
+			393019,
+			393020,
+			393021,
+			393022,
+			393023,
+			393024,
+			393025,
+			393026,
+			393027,
+			393028,
+			393029,
+			393030,
+			393031,
+			393032,
+			393033,
+			393034,
+			393035,
+			393036,
+			393037,
+			393038,
+			393039,
+			393040,
+			393041,
+			393042,
+			393043,
+			393044,
+			393045,
+			393046,
+			393047,
+			393048,
+			393049,
+			393050,
+			393051,
+			393052,
+			393053,
+			393054,
+			393055,
+			393056,
+			393057,
+			393058
 		],
-		"twins_sapphiel": [
-			309,
-			310,
-			311,
-			312,
-			313,
-			314,
-			315,
-			316,
-			317,
-			318,
-			319,
-			320,
-			321,
-			322,
-			323,
-			324,
-			325,
-			326,
-			327,
-			328,
-			329,
-			330,
-			331,
-			332,
-			333,
-			334,
-			335,
-			336,
-			337,
-			338,
-			339,
-			340,
-			341,
-			342,
-			343,
-			344,
-			345,
-			346,
-			347,
-			348,
-			349,
-			350,
-			351,
-			352,
-			353,
-			354,
-			355,
-			356,
-			357,
-			358,
-			359,
-			360,
-			361,
-			362,
-			363,
-			364,
-			365,
-			366,
-			367,
-			368,
-			369,
-			370,
-			371,
-			372,
-			373,
-			374,
-			375,
-			376,
-			377,
-			378,
-			379,
-			380,
-			381,
-			382,
-			383,
-			384,
-			385,
-			386,
-			387,
-			388,
-			389,
-			390,
-			391,
-			392,
-			393,
-			394,
-			395,
-			396,
-			397,
-			398,
-			399,
-			400,
-			401,
-			402,
-			403,
-			404,
-			405,
-			406,
-			407,
-			408,
-			409,
-			410,
-			411,
-			412,
-			413,
-			414,
-			415,
-			416
-		]
-		,"rigs": {
-			"convict": {
-				"used_ids": [
-					2,
-					3,
-					4,
-					5,
-					6,
-					7,
-					8,
-					9,
-					10,
-					11,
-					12,
-					13
-				]
-			},
-			"tutankhamen": {
-				"used_ids": [
-					14,
-					15,
-					16,
-					17,
-					18,
-					19,
-					20,
-					21,
-					22,
-					23,
-					24,
-					25,
-					26,
-					27,
-					28,
-					29
-				]
-			},
-			"grey_guardian": {
-				"used_ids": [
-					30,
-					31,
-					32,
-					33,
-					34,
-					35,
-					36,
-					37,
-					38,
-					39,
-					40
-				]
-			},
-			"heiloang_aj": {
-				"used_ids": [
-					41,
-					42,
-					43,
-					44,
-					45,
-					46,
-					47,
-					48,
-					49,
-					50,
-					51,
-					52,
-					53,
-					54,
-					55,
-					56,
-					57,
-					58,
-					59,
-					60,
-					61,
-					62,
-					63,
-					64,
-					65,
-					66,
-					67,
-					68,
-					69,
-					70,
-					71,
-					72,
-					73,
-					87
-				]
-			},
-			"red_knight": {
-				"used_ids": [
-					74,
-					75,
-					76,
-					77,
-					78,
-					79,
-					80,
-					81,
-					82,
-					83,
-					84,
-					85,
-					86
-				]
-			},
-			"frestchika_v2": {
-				"used_ids": [
-					88,
-					89,
-					90,
-					91,
-					92,
-					93,
-					94,
-					95,
-					96,
-					97,
-					98,
-					99,
-					100,
-					101,
-					102,
-					103,
-					104,
-					105,
-					106,
-					107,
-					108,
-					109,
-					110,
-					111,
-					112,
-					113,
-					114,
-					115,
-					116,
-					117,
-					118,
-					119,
-					120,
-					121,
-					122,
-					123,
-					124,
-					125,
-					126,
-					127,
-					128,
-					129,
-					130,
-					131,
-					132,
-					133,
-					134,
-					135,
-					136,
-					137,
-					138,
-					139,
-					140,
-					141,
-					142,
-					143,
-					144,
-					145,
-					146,
-					147,
-					148,
-					149,
-					150,
-					151,
-					152,
-					153,
-					154,
-					155,
-					156,
-					157,
-					158,
-					159,
-					160,
-					161,
-					162,
-					163,
-					164,
-					165,
-					166,
-					167,
-					168,
-					169,
-					170,
-					171,
-					172,
-					173,
-					174,
-					175,
-					176,
-					177,
-					178,
-					179,
-					180,
-					181,
-					182,
-					183,
-					184,
-					185,
-					186,
-					187,
-					188,
-					189,
-					190,
-					191,
-					192,
-					193,
-					194,
-					195,
-					196,
-					197,
-					198,
-					199,
-					200,
-					201,
-					202,
-					203,
-					204,
-					205,
-					206,
-					207,
-					208,
-					209,
-					210,
-					211,
-					212,
-					213,
-					214,
-					215,
-					216,
-					217,
-					218,
-					219,
-					220,
-					221,
-					222,
-					223,
-					224,
-					225,
-					226,
-					227,
-					228,
-					229,
-					230,
-					231,
-					232,
-					233,
-					234,
-					235,
-					236,
-					237
-				]
-			}
-		}
+		"red_knight": [74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86],
+		"tutankhamen": [14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29]
 	}
 }

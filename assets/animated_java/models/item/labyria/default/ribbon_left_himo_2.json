@@ -1,0 +1,31 @@
+{
+	"textures": {
+		"0": "animated_java:item/labyria/labyria"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [8, 5.45, 7.59625],
+			"to": [8, 8, 8.40375],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8.0085, 8.2125, 8]
+			},
+			"faces": {
+				"east": {
+					"uv": [9.125, 2.75, 9, 3.125],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [9.125, 2.75, 9, 3.125],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}
