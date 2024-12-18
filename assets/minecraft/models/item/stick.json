@@ -2424,6 +2424,72 @@
         },
         {
             "predicate": {
+                "custom_model_data": 20363
+            },
+            "model": "item/mob/stick/20363"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20364
+            },
+            "model": "item/stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20367
+            },
+            "model": "item/mob/stick/20367"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20368
+            },
+            "model": "item/mob/stick/20368"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20369
+            },
+            "model": "item/mob/stick/20369"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20370
+            },
+            "model": "item/stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20371
+            },
+            "model": "item/other/stick/20371"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20372
+            },
+            "model": "item/other/stick/20372"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20373
+            },
+            "model": "item/other/stick/20373"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20374
+            },
+            "model": "item/other/stick/20374"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20375
+            },
+            "model": "item/stick"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 20384
             },
             "model": "item/mob/stick/20384"
