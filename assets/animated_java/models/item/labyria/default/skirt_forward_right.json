@@ -1,0 +1,50 @@
+{
+	"textures": {
+		"0": "animated_java:item/labyria/labyria"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [8.5, 2, 5.6],
+			"to": [12.25, 7.75, 10.4],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 7.875, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [3.5, 6.5, 4, 7.25],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [5.375, 6.5, 4.75, 7.25],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [12.15, 2, 5.7],
+			"to": [8.4, 7.75, 10.5],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [16.4, 7.875, 8.1]
+			},
+			"faces": {
+				"north": {
+					"uv": [3.5, 6.5, 4, 7.25],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [4.75, 6.5, 5.375, 7.25],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

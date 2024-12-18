@@ -1,0 +1,7 @@
+{
+	"parent": "animated_java:item/axia/default/head",
+	"textures": {
+		"1": "animated_java:item/aixa/axia_face_1",
+		"5": "animated_java:item/aixa/axia_mayu_2"
+	}
+}
