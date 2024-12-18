@@ -1428,6 +1428,90 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 238
+			},
+			"model": "animated_java:item/blazing_inferno/default/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 239
+			},
+			"model": "animated_java:item/blazing_inferno/default/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 240
+			},
+			"model": "animated_java:item/blazing_inferno/default/left_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 241
+			},
+			"model": "animated_java:item/blazing_inferno/default/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 242
+			},
+			"model": "animated_java:item/blazing_inferno/default/right_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 243
+			},
+			"model": "animated_java:item/blazing_inferno/default/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 244
+			},
+			"model": "animated_java:item/blazing_inferno/default/bottom"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 245
+			},
+			"model": "animated_java:item/blazing_inferno/shadow/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 246
+			},
+			"model": "animated_java:item/blazing_inferno/shadow/left_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 247
+			},
+			"model": "animated_java:item/blazing_inferno/shadow/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 248
+			},
+			"model": "animated_java:item/blazing_inferno/shadow/right_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 249
+			},
+			"model": "animated_java:item/blazing_inferno/shadow/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 250
+			},
+			"model": "animated_java:item/blazing_inferno/shadow/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 251
+			},
+			"model": "animated_java:item/blazing_inferno/shadow/bottom"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 391001
 			},
 			"model": "animated_java:item/axia/default/body_2"
@@ -2335,6 +2419,7 @@
 	],
 	"animated_java": {
 		"axia": [1, 391001, 391002, 391003, 391004, 391005, 391006, 391007, 391008, 391009, 391010, 391011, 391012, 391013, 391014, 391015, 391016, 391017, 391018, 391019, 391020, 391021, 391022, 391023, 391024, 391025, 391026, 391027, 391028, 391029, 391030, 391031, 391032, 391033, 391034, 391035],
+		"blazing_inferno": [238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251],
 		"convict": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
 		"ecual": [
 			392001,
