@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld_tsb/24",
+    "textures": {
+        "layer0": "item/artifact/stick/1028"
+    }
+}

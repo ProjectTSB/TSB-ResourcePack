@@ -1,0 +1,102 @@
+{
+	"textures": {
+		"0": "animated_java:item/lexiel/texture_face",
+		"2": "animated_java:item/lexiel/texture_body"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [4, 8, 4],
+			"to": [12, 16, 12],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 10, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [4, 4, 8, 8],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [0, 4, 4, 8],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [12, 4, 16, 8],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [8, 4, 12, 8],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [4, 0, 8, 4],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [8, 0, 12, 4],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [3.75, 7.75, 3.75],
+			"to": [12.25, 16.25, 12.25],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [16.25, 10.25, 16.25]
+			},
+			"faces": {
+				"north": {
+					"uv": [1.75, 3, 2.75, 4],
+					"texture": "#2"
+				},
+				"east": {
+					"uv": [2.75, 3, 3.75, 4],
+					"texture": "#2"
+				},
+				"south": {
+					"uv": [3.75, 3, 4.75, 4],
+					"texture": "#2"
+				},
+				"west": {
+					"uv": [3.875, 0, 4.875, 1],
+					"texture": "#2"
+				}
+			}
+		},
+		{
+			"from": [2.915, 11.311, 2.915],
+			"to": [13.085, 15.831, 13.085],
+			"rotation": {
+				"angle": -22.5,
+				"axis": "z",
+				"origin": [8, 13.571, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [5.5, 2.25, 6.5, 2.625],
+					"texture": "#2"
+				},
+				"east": {
+					"uv": [5.5, 2.625, 6.5, 3],
+					"texture": "#2"
+				},
+				"south": {
+					"uv": [5.625, 0.75, 6.625, 1.125],
+					"texture": "#2"
+				},
+				"west": {
+					"uv": [5.625, 1.125, 6.625, 1.5],
+					"texture": "#2"
+				}
+			}
+		}
+	]
+}

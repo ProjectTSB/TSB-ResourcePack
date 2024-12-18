@@ -1,5 +1,5 @@
 {
-	"parent": "animated_java:item/twins_rubiel/saya_belt",
+	"parent": "animated_java:item/twins_rubiel/default/saya_belt",
 	"textures": {
 		"4": "animated_java:item/twins_rubiel/rubiel_face_surprise"
 	}

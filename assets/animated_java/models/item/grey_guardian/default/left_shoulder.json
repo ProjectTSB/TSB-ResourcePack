@@ -1,0 +1,47 @@
+{
+	"textures": {
+		"0": "animated_java:item/grey_guardian/texture"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [5.88896, 6.07193, 3.5],
+			"to": [13.88896, 10.07193, 12.5],
+			"rotation": {
+				"angle": -22.5,
+				"axis": "z",
+				"origin": [10, 5, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [5.875, 1, 6.875, 1.5],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [5.25, 4.625, 6.375, 5.125],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [5.375, 6, 6.375, 6.5],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [5.375, 2.25, 6.5, 2.75],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [3.75, 1.125, 2.75, 0],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [3.75, 1.125, 2.75, 2.25],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

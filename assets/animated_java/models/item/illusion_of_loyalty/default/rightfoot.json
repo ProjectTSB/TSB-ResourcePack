@@ -1,0 +1,47 @@
+{
+	"textures": {
+		"2": "animated_java:item/illusion_of_loyalty/texture_shadow_body"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [5.89711, 2.0677, 8.10963],
+			"to": [9.89711, 8.0677, 12.10963],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [5.89713, 1.26865, 10.40326]
+			},
+			"faces": {
+				"north": {
+					"uv": [1.5, 5.75, 2, 6.5],
+					"texture": "#2"
+				},
+				"east": {
+					"uv": [2, 5.75, 2.5, 6.5],
+					"texture": "#2"
+				},
+				"south": {
+					"uv": [2.5, 5.75, 3, 6.5],
+					"texture": "#2"
+				},
+				"west": {
+					"uv": [3.875, 5.75, 4.375, 6.5],
+					"texture": "#2"
+				},
+				"up": {
+					"uv": [7.75, 6.375, 7.25, 5.875],
+					"texture": "#2"
+				},
+				"down": {
+					"uv": [7.75, 6.375, 7.25, 6.875],
+					"texture": "#2"
+				}
+			}
+		}
+	]
+}

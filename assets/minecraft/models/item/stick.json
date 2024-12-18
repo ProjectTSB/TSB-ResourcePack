@@ -482,6 +482,12 @@
             "predicate": {
                 "custom_model_data": 900
             },
+            "model": "item/artifact/stick/900"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 901
+            },
             "model": "item/stick"
         },
         {
@@ -726,6 +732,18 @@
         },
         {
             "predicate": {
+                "custom_model_data": 1028
+            },
+            "model": "item/artifact/stick/1028"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1029
+            },
+            "model": "item/stick"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 1032
             },
             "model": "item/artifact/stick/1032"
@@ -913,6 +931,18 @@
         {
             "predicate": {
                 "custom_model_data": 1111
+            },
+            "model": "item/stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1122
+            },
+            "model": "item/artifact/stick/1122"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1123
             },
             "model": "item/stick"
         },
@@ -2570,7 +2600,13 @@
             "predicate": {
                 "custom_model_data": 20448
             },
-            "model": "item/stick"
+            "model": "item/other/stick/20448"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20449
+            },
+            "model": "item/other/stick/20449"
         },
         {
             "predicate": {
@@ -2580,9 +2616,27 @@
         },
         {
             "predicate": {
-                "custom_model_data": 20451
+                "custom_model_data": 20452
             },
-            "model": "item/stick"
+            "model": "item/other/stick/20452"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20453
+            },
+            "model": "item/other/stick/20453"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20454
+            },
+            "model": "item/other/stick/20454"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20455
+            },
+            "model": "item/other/stick/20455"
         }
     ]
 }

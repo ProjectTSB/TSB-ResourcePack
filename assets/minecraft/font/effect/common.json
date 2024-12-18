@@ -60,7 +60,7 @@
             "ascent": -20,
             "height": 7,
             "chars": [
-                "\uB001\uB002\uB003\uB004\uB005\uB006\uB007\uB008\uB009\uB00F"
+                "\uB000\uB001\uB002\uB003\uB004\uB005\uB006\uB007\uB008\uB009\uB00F"
             ]
         },
         {
@@ -69,7 +69,7 @@
             "ascent": -34,
             "height": 7,
             "chars": [
-                "\uD001\uD002\uD003\uD004\uD005\uD006\uD007\uD008\uD009\uD00F"
+                "\uD000\uD001\uD002\uD003\uD004\uD005\uD006\uD007\uD008\uD009\uD00F"
             ]
         }
     ]
