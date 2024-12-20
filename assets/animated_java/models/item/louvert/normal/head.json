@@ -1,6 +1,6 @@
 {
 	"parent": "animated_java:item/louvert/default/head",
 	"textures": {
-		"2": "animated_java:item/louvert/louvert_face_1"
+		"2": "animated_java:item/louvert/louvert_face_0"
 	}
 }
