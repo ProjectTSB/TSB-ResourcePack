@@ -30,8 +30,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/screen_effect/boss_intro/blazing_inferno.png",
-            "height": 64,
-            "ascent": 38,
+            "height": 80,
+            "ascent": 16,
             "chars": [
                 "\uE015"
             ]

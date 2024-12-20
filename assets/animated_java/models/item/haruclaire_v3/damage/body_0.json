@@ -1,5 +1,5 @@
 {
-	"parent": "animated_java:item/haruclaire_v3/body_0",
+	"parent": "animated_java:item/haruclaire_v3/default/body_0",
 	"textures": {
 		"3": "animated_java:item/haruclaire_v3/haruclaire_v3_face_damage"
 	}
