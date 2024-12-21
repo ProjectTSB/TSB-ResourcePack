@@ -1,0 +1,68 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "item/other/stick/20452/ice"
+	},
+	"elements": [
+		{
+			"from": [6.19, 7.25, 6.19],
+			"to": [9.81, 15.25, 9.81],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7.25, 8]},
+			"faces": {
+				"north": {"uv": [0, 2, 2, 7], "texture": "#1"},
+				"east": {"uv": [2, 2, 4, 7], "texture": "#1"},
+				"south": {"uv": [4, 2, 6, 7], "texture": "#1"},
+				"west": {"uv": [6, 2, 8, 7], "texture": "#1"},
+				"up": {"uv": [12, 2, 10, 0], "texture": "#1"},
+				"down": {"uv": [12, 2, 10, 4], "texture": "#1"}
+			}
+		},
+		{
+			"from": [6.6425, 15.25, 6.6425],
+			"to": [9.3575, 23.25, 9.3575],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 15.25, 8]},
+			"faces": {
+				"north": {"uv": [0, 11, 1.5, 14], "texture": "#1"},
+				"east": {"uv": [8, 3, 9.5, 6], "texture": "#1"},
+				"south": {"uv": [2, 11, 3.5, 14], "texture": "#1"},
+				"west": {"uv": [4, 11, 5.5, 14], "texture": "#1"},
+				"up": {"uv": [11.5, 5.5, 10, 4], "texture": "#1"},
+				"down": {"uv": [11.5, 6, 10, 7.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [7.095, 23.25, 7.095],
+			"to": [8.905, 31.25, 8.905],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 23.25, 8]},
+			"faces": {
+				"north": {"uv": [6, 10, 7, 16], "texture": "#1"},
+				"east": {"uv": [7, 10, 8, 16], "texture": "#1"},
+				"south": {"uv": [8, 10, 9, 16], "texture": "#1"},
+				"west": {"uv": [9, 10, 10, 16], "texture": "#1"},
+				"up": {"uv": [11, 9, 10, 8], "texture": "#1"},
+				"down": {"uv": [11, 9, 10, 10], "texture": "#1"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "bone5",
+			"origin": [12, 0, 9],
+			"color": 0,
+			"configs": {
+				"variants": {}
+			},
+			"children": [
+				{
+					"name": "bone",
+					"origin": [8, 0, 8],
+					"color": 0,
+					"configs": {
+						"variants": {}
+					},
+					"children": [0, 1, 2]
+				}
+			]
+		}
+	]
+}
