@@ -780,6 +780,18 @@
         },
         {
             "predicate": {
+                "custom_model_data": 1051
+            },
+            "model": "item/artifact/stick/1051"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1052
+            },
+            "model": "item/stick"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 1053
             },
             "model": "item/artifact/stick/1053"
@@ -907,6 +919,18 @@
         {
             "predicate": {
                 "custom_model_data": 1086
+            },
+            "model": "item/stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1088
+            },
+            "model": "item/artifact/stick/1088"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1089
             },
             "model": "item/stick"
         },
