@@ -1,0 +1,20 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/cookie"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1117
+            },
+            "model": "item/artifact/cookie/1117"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1118
+            },
+            "model": "item/cookie"
+        }
+    ]
+}
