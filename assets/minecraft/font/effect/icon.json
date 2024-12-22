@@ -135,7 +135,7 @@
         { "name": "白呪", "level": 2,
             "advances": { "\u0613": 10 }, "type": "space" },
         { "name": "紅焔の呪い", "level": 2,
-            "advances": { "\u0614": 10 }, "type": "space" },
+            "chars": [ "\u0614" ], "file": "minecraft:font/effect/614.png", "type": "bitmap", "ascent": -31, "height": 9 },
         { "name": "荒波の呪い", "level": 2,
             "advances": { "\u0615": 10 }, "type": "space" },
         { "name": "天雷の呪い", "level": 2,
