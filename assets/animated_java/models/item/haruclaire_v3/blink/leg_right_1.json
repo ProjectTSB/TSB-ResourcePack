@@ -1,5 +1,5 @@
 {
-	"parent": "animated_java:item/haruclaire_v3/leg_right_1",
+	"parent": "animated_java:item/haruclaire_v3/default/leg_right_1",
 	"textures": {
 		"3": "animated_java:item/haruclaire_v3/haruclaire_v3_face_blink"
 	}
