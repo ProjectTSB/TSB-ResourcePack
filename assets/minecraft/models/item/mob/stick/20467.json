@@ -5,8 +5,8 @@
         32
     ],
     "textures": {
-        "1": "block/texture",
-        "particle": "block/texture"
+        "1": "item/mob/stick/20467/turret",
+        "particle": "item/mob/stick/20467/turret"
     },
     "elements": [
         {
