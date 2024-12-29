@@ -2388,6 +2388,150 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 398
+			},
+			"model": "animated_java:item/lexiel/default/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 399
+			},
+			"model": "animated_java:item/lexiel/default/backhair"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 400
+			},
+			"model": "animated_java:item/lexiel/default/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 401
+			},
+			"model": "animated_java:item/lexiel/default/ring"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 402
+			},
+			"model": "animated_java:item/lexiel/default/bust"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 403
+			},
+			"model": "animated_java:item/lexiel/default/left_wing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 404
+			},
+			"model": "animated_java:item/lexiel/default/right_wing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 405
+			},
+			"model": "animated_java:item/lexiel/default/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 406
+			},
+			"model": "animated_java:item/lexiel/default/right_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 407
+			},
+			"model": "animated_java:item/lexiel/default/sword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 408
+			},
+			"model": "animated_java:item/lexiel/default/rod"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 409
+			},
+			"model": "animated_java:item/lexiel/default/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 410
+			},
+			"model": "animated_java:item/lexiel/default/left_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 411
+			},
+			"model": "animated_java:item/lexiel/default/lower"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 412
+			},
+			"model": "animated_java:item/lexiel/default/skirt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 413
+			},
+			"model": "animated_java:item/lexiel/default/skirt_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 414
+			},
+			"model": "animated_java:item/lexiel/default/skirt_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 415
+			},
+			"model": "animated_java:item/lexiel/default/skirt_back_middle"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 416
+			},
+			"model": "animated_java:item/lexiel/default/skirt_front_middle"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 417
+			},
+			"model": "animated_java:item/lexiel/default/rightupper"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 418
+			},
+			"model": "animated_java:item/lexiel/default/rightfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 419
+			},
+			"model": "animated_java:item/lexiel/default/leftupper"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 420
+			},
+			"model": "animated_java:item/lexiel/default/leftfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 421
+			},
+			"model": "animated_java:item/lexiel/default/sucidesword"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 341001
 			},
 			"model": "animated_java:item/louvert/default/body_0"
@@ -3793,6 +3937,7 @@
 			393057,
 			393058
 		],
+		"lexiel": [398, 399, 400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 417, 418, 419, 420, 421],
 		"louvert": [341001, 341002, 341003, 341004, 341005, 341006, 341007, 341008, 341009, 341010, 341011, 341012, 341013, 341014, 341015, 341016, 341017, 341018, 341019, 341020],
 		"red_knight": [74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86],
 		"tultaria": [252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276],
