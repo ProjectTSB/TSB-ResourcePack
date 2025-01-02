@@ -1,0 +1,6 @@
+{
+    "parent": "item/mob/stick/20209",
+    "textures": {
+    "0": "item/mob/stick/20470/texture"
+    }
+}
