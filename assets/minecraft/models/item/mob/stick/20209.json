@@ -3,7 +3,7 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "item/mob/stick/20209/stomper"
-		},
+	},
 	"elements": [
 		{
 			"from": [4, 13, 9],
@@ -65,7 +65,7 @@
 			"rotation": {"angle": 0, "axis": "x", "origin": [7, 12, 8]},
 			"faces": {
 				"north": {"uv": [1, 9, 2, 11], "texture": "#0"},
-				"east": {"uv": [0, 9, 1, 11], "texture": "#0"},
+				"east": {"uv": [1, 9, 0, 11], "texture": "#0"},
 				"south": {"uv": [3, 9, 4, 11], "texture": "#0"},
 				"west": {"uv": [2, 9, 3, 11], "texture": "#0"},
 				"up": {"uv": [2, 9, 1, 8], "texture": "#0"},
