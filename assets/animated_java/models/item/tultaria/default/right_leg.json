@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"3": "animated_java:item/tultaria/texture_body"
+		"5": "animated_java:item/tultaria/texture_body"
 	},
 	"display": {
 		"head": {
@@ -19,27 +19,27 @@
 			"faces": {
 				"north": {
 					"uv": [3.5, 9.75, 4.5, 11.5],
-					"texture": "#3"
+					"texture": "#5"
 				},
 				"east": {
 					"uv": [4.5, 9.75, 5.5, 11.5],
-					"texture": "#3"
+					"texture": "#5"
 				},
 				"south": {
 					"uv": [0, 10.25, 1, 12],
-					"texture": "#3"
+					"texture": "#5"
 				},
 				"west": {
 					"uv": [10.5, 3, 11.5, 4.75],
-					"texture": "#3"
+					"texture": "#5"
 				},
 				"up": {
 					"uv": [14.25, 4, 13.25, 3],
-					"texture": "#3"
+					"texture": "#5"
 				},
 				"down": {
 					"uv": [4.75, 13.25, 3.75, 14.25],
-					"texture": "#3"
+					"texture": "#5"
 				}
 			}
 		}

@@ -150,6 +150,8 @@
 		"files": [
 			"assets/animated_java/models/empty.json",
 			"assets/animated_java/textures/item/tultaria/texture_face.png",
+			"assets/animated_java/textures/item/tultaria/texture_face_eye_close.png",
+			"assets/animated_java/textures/item/tultaria/texture_face_eye_half.png",
 			"assets/animated_java/textures/item/tultaria/texture_sword.png",
 			"assets/animated_java/textures/item/transparent.png",
 			"assets/animated_java/models/item/tultaria/default/head.json",
@@ -165,10 +167,10 @@
 			"assets/animated_java/models/item/tultaria/default/left_hand.json",
 			"assets/animated_java/models/item/tultaria/default/left_ring.json",
 			"assets/animated_java/models/item/tultaria/default/lower.json",
-			"assets/animated_java/models/item/tultaria/default/leftleg.json",
-			"assets/animated_java/models/item/tultaria/default/leftfoot.json",
-			"assets/animated_java/models/item/tultaria/default/rightleg.json",
-			"assets/animated_java/models/item/tultaria/default/rightfoot.json",
+			"assets/animated_java/models/item/tultaria/default/left_leg.json",
+			"assets/animated_java/models/item/tultaria/default/left_foot.json",
+			"assets/animated_java/models/item/tultaria/default/right_leg.json",
+			"assets/animated_java/models/item/tultaria/default/right_foot.json",
 			"assets/animated_java/models/item/tultaria/default/skirt_right.json",
 			"assets/animated_java/models/item/tultaria/default/skirt_right_back.json",
 			"assets/animated_java/models/item/tultaria/default/skirt_left.json",
@@ -176,7 +178,9 @@
 			"assets/animated_java/models/item/tultaria/default/skirt_back_middle.json",
 			"assets/animated_java/models/item/tultaria/default/skirt_front_middle.json",
 			"assets/animated_java/models/item/tultaria/winged/left_wing.json",
-			"assets/animated_java/models/item/tultaria/winged/right_wing.json"
+			"assets/animated_java/models/item/tultaria/winged/right_wing.json",
+			"assets/animated_java/models/item/tultaria/face_eyeclose/head.json",
+			"assets/animated_java/models/item/tultaria/face_eyehalf/head.json"
 		]
 	},
 	"tutankhamen": {

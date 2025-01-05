@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"3": "animated_java:item/tultaria/texture_body"
+		"5": "animated_java:item/tultaria/texture_body"
 	},
 	"display": {
 		"head": {
@@ -19,7 +19,7 @@
 			"faces": {
 				"south": {
 					"uv": [6, 0, 7.5, 3],
-					"texture": "#3"
+					"texture": "#5"
 				}
 			}
 		},
@@ -35,7 +35,7 @@
 				"north": {
 					"uv": [7.5, 0, 6, 3],
 					"rotation": 180,
-					"texture": "#3"
+					"texture": "#5"
 				}
 			}
 		}

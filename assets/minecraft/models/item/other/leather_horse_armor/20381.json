@@ -8,7 +8,7 @@
 	"elements": [
 		{
 			"name": "overay",
-			"from": [16, 16, 16],
+			"from": [16, 24, 16],
 			"to": [0, 8, 0],
 			"shade": false,
 			"rotation": {"angle": 0, "axis": "y", "origin": [18.5, 4, 18.5]},
@@ -21,7 +21,7 @@
 		},
 		{
 			"name": "overay",
-			"from": [14, 16, 14],
+			"from": [14, 24, 14],
 			"to": [2, 8, 2],
 			"shade": false,
 			"rotation": {"angle": 0, "axis": "y", "origin": [20.5, 4, 20.5]},
@@ -34,7 +34,7 @@
 		},
 		{
 			"name": "overay",
-			"from": [12, 16, 12],
+			"from": [12, 24, 12],
 			"to": [4, 8, 4],
 			"shade": false,
 			"rotation": {"angle": 0, "axis": "y", "origin": [22.5, 4, 22.5]},
@@ -47,7 +47,7 @@
 		},
 		{
 			"name": "overay",
-			"from": [10, 16, 10],
+			"from": [10, 24, 10],
 			"to": [6, 8, 6],
 			"shade": false,
 			"rotation": {"angle": 0, "axis": "y", "origin": [24.5, 4, 24.5]},
@@ -58,6 +58,5 @@
 				"west": {"uv": [4, 8, 6, 9], "rotation": 90, "texture": "#0", "tintindex": 0}
 			}
 		}
-	],
-	"display": {}
+	]
 }
