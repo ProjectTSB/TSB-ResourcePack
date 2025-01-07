@@ -1,0 +1,47 @@
+{
+	"textures": {
+		"0": "animated_java:item/eclael/eclael"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [6, 1, 6],
+			"to": [10, 8, 10],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [2, 3, 0]
+			},
+			"faces": {
+				"north": {
+					"uv": [5, 5.25, 5.5, 6.125],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [4.5, 5.25, 5, 6.125],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [6, 5.25, 6.5, 6.125],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [5.5, 5.25, 6, 6.125],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [5.5, 5.25, 5, 4.75],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [6, 4.75, 5.5, 5.25],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

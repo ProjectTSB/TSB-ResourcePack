@@ -2994,6 +2994,222 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 499
+			},
+			"model": "animated_java:item/eclael/default/body_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 500
+			},
+			"model": "animated_java:item/eclael/default/body_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 501
+			},
+			"model": "animated_java:item/eclael/default/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 502
+			},
+			"model": "animated_java:item/eclael/default/arm_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 503
+			},
+			"model": "animated_java:item/eclael/default/arm_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 504
+			},
+			"model": "animated_java:item/eclael/default/sword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 505
+			},
+			"model": "animated_java:item/eclael/default/eclael_sword_blade"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 506
+			},
+			"model": "animated_java:item/eclael/default/eclael_sword_blade_long"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 507
+			},
+			"model": "animated_java:item/eclael/default/bow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 508
+			},
+			"model": "animated_java:item/eclael/default/bow_pulling"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 509
+			},
+			"model": "animated_java:item/eclael/default/arm_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 510
+			},
+			"model": "animated_java:item/eclael/default/arm_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 511
+			},
+			"model": "animated_java:item/eclael/default/parker_himo"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 512
+			},
+			"model": "animated_java:item/eclael/default/scarf_up_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 513
+			},
+			"model": "animated_java:item/eclael/default/scarf_down_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 514
+			},
+			"model": "animated_java:item/eclael/default/scarf_up_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 515
+			},
+			"model": "animated_java:item/eclael/default/scarf_down_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 516
+			},
+			"model": "animated_java:item/eclael/default/theathe_bow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 517
+			},
+			"model": "animated_java:item/eclael/default/wing_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 518
+			},
+			"model": "animated_java:item/eclael/default/wing_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 519
+			},
+			"model": "animated_java:item/eclael/default/leg_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 520
+			},
+			"model": "animated_java:item/eclael/default/leg_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 521
+			},
+			"model": "animated_java:item/eclael/default/leg_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 522
+			},
+			"model": "animated_java:item/eclael/default/leg_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 523
+			},
+			"model": "animated_java:item/eclael/default/skirt_forward"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 524
+			},
+			"model": "animated_java:item/eclael/default/skirt_forward_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 525
+			},
+			"model": "animated_java:item/eclael/default/skirt_forward_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 526
+			},
+			"model": "animated_java:item/eclael/default/skirt_back"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 527
+			},
+			"model": "animated_java:item/eclael/default/skirt_back_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 528
+			},
+			"model": "animated_java:item/eclael/default/skirt_back_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 529
+			},
+			"model": "animated_java:item/eclael/default/skirt_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 530
+			},
+			"model": "animated_java:item/eclael/default/skirt_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 531
+			},
+			"model": "animated_java:item/eclael/default/sword_sheathe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 532
+			},
+			"model": "animated_java:item/eclael/akubi/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 533
+			},
+			"model": "animated_java:item/eclael/blink/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 534
+			},
+			"model": "animated_java:item/eclael/wink/head"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 341001
 			},
 			"model": "animated_java:item/louvert/default/body_0"
@@ -4024,6 +4240,7 @@
 		"behemoth_aj": [422, 423, 424, 425, 426, 427, 428, 429, 430, 431, 432, 433, 434, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458],
 		"blazing_inferno": [238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251],
 		"convict": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+		"eclael": [499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534],
 		"ecual": [
 			392001,
 			392002,
