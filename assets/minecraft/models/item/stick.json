@@ -2444,13 +2444,13 @@
             "predicate": {
                 "custom_model_data": 20346
             },
-            "model": "item/stick"
+            "model": "item/other/stick/20346"
         },
         {
             "predicate": {
                 "custom_model_data": 20347
             },
-            "model": "item/other/stick/20347"
+            "model": "item/stick"
         },
         {
             "predicate": {
