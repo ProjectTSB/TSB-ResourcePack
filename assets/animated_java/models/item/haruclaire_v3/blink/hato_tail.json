@@ -1,5 +1,5 @@
 {
-	"parent": "animated_java:item/haruclaire_v3/default/hato_tail",
+	"parent": "animated_java:item/haruclaire_v3/hato_tail",
 	"textures": {
 		"3": "animated_java:item/haruclaire_v3/haruclaire_v3_face_blink"
 	}

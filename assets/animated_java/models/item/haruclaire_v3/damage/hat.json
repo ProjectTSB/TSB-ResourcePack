@@ -1,5 +1,5 @@
 {
-	"parent": "animated_java:item/haruclaire_v3/default/hat",
+	"parent": "animated_java:item/haruclaire_v3/hat",
 	"textures": {
 		"3": "animated_java:item/haruclaire_v3/haruclaire_v3_face_damage"
 	}

@@ -1,6 +1,7 @@
 {
 	"textures": {
-		"0": "animated_java:item/haruclaire_v3/haruclaire_v3"
+		"0": "animated_java:item/haruclaire_v3/haruclaire_v3",
+		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
 		"head": {
