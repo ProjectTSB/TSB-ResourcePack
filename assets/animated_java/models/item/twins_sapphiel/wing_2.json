@@ -1,57 +1,32 @@
 {
 	"textures": {
-		"0": "animated_java:item/twins_sapphiel/sapphiel"
+		"0": "animated_java:item/twins_sapphiel/sapphiel",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
 	},
 	"elements": [
 		{
-			"from": [
-				8.56835,
-				4.560230000000001,
-				7.554690000000001
-			],
-			"to": [
-				9.06835,
-				14.56023,
-				16.55469
-			],
+			"from": [8.56835, 4.56023, 7.55469],
+			"to": [9.06835, 14.56023, 16.55469],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
-				"origin": [
-					8.81835,
-					8.56023,
-					7.554690000000001
-				]
+				"origin": [8.81835, 8.56023, 7.55469]
 			},
 			"faces": {
 				"east": {
-					"uv": [
-						3,
-						9.375,
-						4.125,
-						10.625
-					],
+					"uv": [3, 9.375, 4.125, 10.625],
 					"texture": "#0"
 				},
 				"west": {
-					"uv": [
-						4.125,
-						9.375,
-						3,
-						10.625
-					],
+					"uv": [4.125, 9.375, 3, 10.625],
 					"texture": "#0"
 				}
 			}
 		}
-	],
-	"display": {
-		"head": {
-			"rotation": [
-				0,
-				180,
-				0
-			]
-		}
-	}
+	]
 }

@@ -3212,217 +3212,217 @@
 			"predicate": {
 				"custom_model_data": 535
 			},
-			"model": "animated_java:item/twins_sapphiel/default/body_1"
+			"model": "animated_java:item/twins_sapphiel/body_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 536
 			},
-			"model": "animated_java:item/twins_sapphiel/default/body_0"
+			"model": "animated_java:item/twins_sapphiel/body_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 537
 			},
-			"model": "animated_java:item/twins_sapphiel/default/head"
+			"model": "animated_java:item/twins_sapphiel/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 538
 			},
-			"model": "animated_java:item/twins_sapphiel/default/halo"
+			"model": "animated_java:item/twins_sapphiel/halo"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 539
 			},
-			"model": "animated_java:item/twins_sapphiel/default/arm_right_0"
+			"model": "animated_java:item/twins_sapphiel/arm_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 540
 			},
-			"model": "animated_java:item/twins_sapphiel/default/arm_right_1"
+			"model": "animated_java:item/twins_sapphiel/arm_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 541
 			},
-			"model": "animated_java:item/twins_sapphiel/default/ruby_gun"
+			"model": "animated_java:item/twins_sapphiel/ruby_gun"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 542
 			},
-			"model": "animated_java:item/twins_sapphiel/default/slide2"
+			"model": "animated_java:item/twins_sapphiel/slide2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 543
 			},
-			"model": "animated_java:item/twins_sapphiel/default/arm_left_0"
+			"model": "animated_java:item/twins_sapphiel/arm_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 544
 			},
-			"model": "animated_java:item/twins_sapphiel/default/arm_left_1"
+			"model": "animated_java:item/twins_sapphiel/arm_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 545
 			},
-			"model": "animated_java:item/twins_sapphiel/default/sapphire_gun"
+			"model": "animated_java:item/twins_sapphiel/sapphire_gun"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 546
 			},
-			"model": "animated_java:item/twins_sapphiel/default/slide"
+			"model": "animated_java:item/twins_sapphiel/slide"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 547
 			},
-			"model": "animated_java:item/twins_sapphiel/default/shotgun"
+			"model": "animated_java:item/twins_sapphiel/shotgun"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 548
 			},
-			"model": "animated_java:item/twins_sapphiel/default/body"
+			"model": "animated_java:item/twins_sapphiel/body"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 549
 			},
-			"model": "animated_java:item/twins_sapphiel/default/launcher"
+			"model": "animated_java:item/twins_sapphiel/launcher"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 550
 			},
-			"model": "animated_java:item/twins_sapphiel/default/rocket"
+			"model": "animated_java:item/twins_sapphiel/rocket"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 551
 			},
-			"model": "animated_java:item/twins_sapphiel/default/wing_0"
+			"model": "animated_java:item/twins_sapphiel/wing_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 552
 			},
-			"model": "animated_java:item/twins_sapphiel/default/wing_1"
+			"model": "animated_java:item/twins_sapphiel/wing_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 553
 			},
-			"model": "animated_java:item/twins_sapphiel/default/wing_2"
+			"model": "animated_java:item/twins_sapphiel/wing_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 554
 			},
-			"model": "animated_java:item/twins_sapphiel/default/wing_3"
+			"model": "animated_java:item/twins_sapphiel/wing_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 555
 			},
-			"model": "animated_java:item/twins_sapphiel/default/leg_right_0"
+			"model": "animated_java:item/twins_sapphiel/leg_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 556
 			},
-			"model": "animated_java:item/twins_sapphiel/default/leg_right_1"
+			"model": "animated_java:item/twins_sapphiel/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 557
 			},
-			"model": "animated_java:item/twins_sapphiel/default/leg_left_0"
+			"model": "animated_java:item/twins_sapphiel/leg_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 558
 			},
-			"model": "animated_java:item/twins_sapphiel/default/leg_left_1"
+			"model": "animated_java:item/twins_sapphiel/leg_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 559
 			},
-			"model": "animated_java:item/twins_sapphiel/default/skirt_forward"
+			"model": "animated_java:item/twins_sapphiel/skirt_forward"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 560
 			},
-			"model": "animated_java:item/twins_sapphiel/default/skirt_forward_right"
+			"model": "animated_java:item/twins_sapphiel/skirt_forward_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 561
 			},
-			"model": "animated_java:item/twins_sapphiel/default/skirt_forward_left"
+			"model": "animated_java:item/twins_sapphiel/skirt_forward_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 562
 			},
-			"model": "animated_java:item/twins_sapphiel/default/skirt_back"
+			"model": "animated_java:item/twins_sapphiel/skirt_back"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 563
 			},
-			"model": "animated_java:item/twins_sapphiel/default/skirt_back_right"
+			"model": "animated_java:item/twins_sapphiel/skirt_back_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 564
 			},
-			"model": "animated_java:item/twins_sapphiel/default/skirt_back_left"
+			"model": "animated_java:item/twins_sapphiel/skirt_back_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 565
 			},
-			"model": "animated_java:item/twins_sapphiel/default/skirt_right"
+			"model": "animated_java:item/twins_sapphiel/skirt_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 566
 			},
-			"model": "animated_java:item/twins_sapphiel/default/skirt_left"
+			"model": "animated_java:item/twins_sapphiel/skirt_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 567
 			},
-			"model": "animated_java:item/twins_sapphiel/default/belt_right_0"
+			"model": "animated_java:item/twins_sapphiel/belt_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 568
 			},
-			"model": "animated_java:item/twins_sapphiel/default/belt_right_1"
+			"model": "animated_java:item/twins_sapphiel/belt_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 569
 			},
-			"model": "animated_java:item/twins_sapphiel/default/belt_left_0"
+			"model": "animated_java:item/twins_sapphiel/belt_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 570
 			},
-			"model": "animated_java:item/twins_sapphiel/default/belt_left_1"
+			"model": "animated_java:item/twins_sapphiel/belt_left_1"
 		},
 		{
 			"predicate": {
@@ -3860,181 +3860,181 @@
 			"predicate": {
 				"custom_model_data": 643
 			},
-			"model": "animated_java:item/twins_rubiel/default/body_1"
+			"model": "animated_java:item/twins_rubiel/body_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 644
 			},
-			"model": "animated_java:item/twins_rubiel/default/body_0"
+			"model": "animated_java:item/twins_rubiel/body_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 645
 			},
-			"model": "animated_java:item/twins_rubiel/default/head"
+			"model": "animated_java:item/twins_rubiel/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 646
 			},
-			"model": "animated_java:item/twins_rubiel/default/halo"
+			"model": "animated_java:item/twins_rubiel/halo"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 647
 			},
-			"model": "animated_java:item/twins_rubiel/default/arm_right_0"
+			"model": "animated_java:item/twins_rubiel/arm_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 648
 			},
-			"model": "animated_java:item/twins_rubiel/default/arm_right_1"
+			"model": "animated_java:item/twins_rubiel/arm_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 649
 			},
-			"model": "animated_java:item/twins_rubiel/default/ruby_katana"
+			"model": "animated_java:item/twins_rubiel/ruby_katana"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 650
 			},
-			"model": "animated_java:item/twins_rubiel/default/root_taiken"
+			"model": "animated_java:item/twins_rubiel/root_taiken"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 651
 			},
-			"model": "animated_java:item/twins_rubiel/default/root_scythe"
+			"model": "animated_java:item/twins_rubiel/root_scythe"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 652
 			},
-			"model": "animated_java:item/twins_rubiel/default/arm_left_0"
+			"model": "animated_java:item/twins_rubiel/arm_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 653
 			},
-			"model": "animated_java:item/twins_rubiel/default/arm_left_1"
+			"model": "animated_java:item/twins_rubiel/arm_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 654
 			},
-			"model": "animated_java:item/twins_rubiel/default/sapphie_katana"
+			"model": "animated_java:item/twins_rubiel/sapphie_katana"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 655
 			},
-			"model": "animated_java:item/twins_rubiel/default/ruby_saya"
+			"model": "animated_java:item/twins_rubiel/ruby_saya"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 656
 			},
-			"model": "animated_java:item/twins_rubiel/default/ruby_sheathe"
+			"model": "animated_java:item/twins_rubiel/ruby_sheathe"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 657
 			},
-			"model": "animated_java:item/twins_rubiel/default/wing_0"
+			"model": "animated_java:item/twins_rubiel/wing_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 658
 			},
-			"model": "animated_java:item/twins_rubiel/default/wing_1"
+			"model": "animated_java:item/twins_rubiel/wing_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 659
 			},
-			"model": "animated_java:item/twins_rubiel/default/wing_2"
+			"model": "animated_java:item/twins_rubiel/wing_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 660
 			},
-			"model": "animated_java:item/twins_rubiel/default/wing_3"
+			"model": "animated_java:item/twins_rubiel/wing_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 661
 			},
-			"model": "animated_java:item/twins_rubiel/default/uwagi"
+			"model": "animated_java:item/twins_rubiel/uwagi"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 662
 			},
-			"model": "animated_java:item/twins_rubiel/default/uwagi_right"
+			"model": "animated_java:item/twins_rubiel/uwagi_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 663
 			},
-			"model": "animated_java:item/twins_rubiel/default/tail_0"
+			"model": "animated_java:item/twins_rubiel/tail_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 664
 			},
-			"model": "animated_java:item/twins_rubiel/default/tail_1"
+			"model": "animated_java:item/twins_rubiel/tail_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 665
 			},
-			"model": "animated_java:item/twins_rubiel/default/tail_2"
+			"model": "animated_java:item/twins_rubiel/tail_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 666
 			},
-			"model": "animated_java:item/twins_rubiel/default/uwagi_left"
+			"model": "animated_java:item/twins_rubiel/uwagi_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 667
 			},
-			"model": "animated_java:item/twins_rubiel/default/leg_right_0"
+			"model": "animated_java:item/twins_rubiel/leg_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 668
 			},
-			"model": "animated_java:item/twins_rubiel/default/leg_right_1"
+			"model": "animated_java:item/twins_rubiel/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 669
 			},
-			"model": "animated_java:item/twins_rubiel/default/leg_left_0"
+			"model": "animated_java:item/twins_rubiel/leg_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 670
 			},
-			"model": "animated_java:item/twins_rubiel/default/leg_left_1"
+			"model": "animated_java:item/twins_rubiel/leg_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 671
 			},
-			"model": "animated_java:item/twins_rubiel/default/saya"
+			"model": "animated_java:item/twins_rubiel/saya"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 672
 			},
-			"model": "animated_java:item/twins_rubiel/default/saya_belt"
+			"model": "animated_java:item/twins_rubiel/saya_belt"
 		},
 		{
 			"predicate": {
