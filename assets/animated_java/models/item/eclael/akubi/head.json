@@ -1,5 +1,5 @@
 {
-	"parent": "animated_java:item/eclael/default/head",
+	"parent": "animated_java:item/eclael/head",
 	"textures": {
 		"3": "animated_java:item/eclael/eclael_face_akubi",
 		"4": "animated_java:item/eclael/eclael_face_akubi",

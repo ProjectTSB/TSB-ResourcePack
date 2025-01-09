@@ -2996,199 +2996,199 @@
 			"predicate": {
 				"custom_model_data": 499
 			},
-			"model": "animated_java:item/eclael/default/body_1"
+			"model": "animated_java:item/eclael/body_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 500
 			},
-			"model": "animated_java:item/eclael/default/body_0"
+			"model": "animated_java:item/eclael/body_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 501
 			},
-			"model": "animated_java:item/eclael/default/head"
+			"model": "animated_java:item/eclael/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 502
 			},
-			"model": "animated_java:item/eclael/default/arm_right_0"
+			"model": "animated_java:item/eclael/arm_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 503
 			},
-			"model": "animated_java:item/eclael/default/arm_right_1"
+			"model": "animated_java:item/eclael/arm_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 504
 			},
-			"model": "animated_java:item/eclael/default/sword"
+			"model": "animated_java:item/eclael/sword"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 505
 			},
-			"model": "animated_java:item/eclael/default/eclael_sword_blade"
+			"model": "animated_java:item/eclael/eclael_sword_blade"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 506
 			},
-			"model": "animated_java:item/eclael/default/eclael_sword_blade_long"
+			"model": "animated_java:item/eclael/eclael_sword_blade_long"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 507
 			},
-			"model": "animated_java:item/eclael/default/bow"
+			"model": "animated_java:item/eclael/bow"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 508
 			},
-			"model": "animated_java:item/eclael/default/bow_pulling"
+			"model": "animated_java:item/eclael/bow_pulling"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 509
 			},
-			"model": "animated_java:item/eclael/default/arm_left_0"
+			"model": "animated_java:item/eclael/arm_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 510
 			},
-			"model": "animated_java:item/eclael/default/arm_left_1"
+			"model": "animated_java:item/eclael/arm_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 511
 			},
-			"model": "animated_java:item/eclael/default/parker_himo"
+			"model": "animated_java:item/eclael/parker_himo"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 512
 			},
-			"model": "animated_java:item/eclael/default/scarf_up_right"
+			"model": "animated_java:item/eclael/scarf_up_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 513
 			},
-			"model": "animated_java:item/eclael/default/scarf_down_right"
+			"model": "animated_java:item/eclael/scarf_down_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 514
 			},
-			"model": "animated_java:item/eclael/default/scarf_up_left"
+			"model": "animated_java:item/eclael/scarf_up_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 515
 			},
-			"model": "animated_java:item/eclael/default/scarf_down_left"
+			"model": "animated_java:item/eclael/scarf_down_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 516
 			},
-			"model": "animated_java:item/eclael/default/theathe_bow"
+			"model": "animated_java:item/eclael/theathe_bow"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 517
 			},
-			"model": "animated_java:item/eclael/default/wing_right"
+			"model": "animated_java:item/eclael/wing_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 518
 			},
-			"model": "animated_java:item/eclael/default/wing_left"
+			"model": "animated_java:item/eclael/wing_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 519
 			},
-			"model": "animated_java:item/eclael/default/leg_right_0"
+			"model": "animated_java:item/eclael/leg_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 520
 			},
-			"model": "animated_java:item/eclael/default/leg_right_1"
+			"model": "animated_java:item/eclael/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 521
 			},
-			"model": "animated_java:item/eclael/default/leg_left_0"
+			"model": "animated_java:item/eclael/leg_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 522
 			},
-			"model": "animated_java:item/eclael/default/leg_left_1"
+			"model": "animated_java:item/eclael/leg_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 523
 			},
-			"model": "animated_java:item/eclael/default/skirt_forward"
+			"model": "animated_java:item/eclael/skirt_forward"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 524
 			},
-			"model": "animated_java:item/eclael/default/skirt_forward_right"
+			"model": "animated_java:item/eclael/skirt_forward_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 525
 			},
-			"model": "animated_java:item/eclael/default/skirt_forward_left"
+			"model": "animated_java:item/eclael/skirt_forward_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 526
 			},
-			"model": "animated_java:item/eclael/default/skirt_back"
+			"model": "animated_java:item/eclael/skirt_back"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 527
 			},
-			"model": "animated_java:item/eclael/default/skirt_back_right"
+			"model": "animated_java:item/eclael/skirt_back_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 528
 			},
-			"model": "animated_java:item/eclael/default/skirt_back_left"
+			"model": "animated_java:item/eclael/skirt_back_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 529
 			},
-			"model": "animated_java:item/eclael/default/skirt_right"
+			"model": "animated_java:item/eclael/skirt_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 530
 			},
-			"model": "animated_java:item/eclael/default/skirt_left"
+			"model": "animated_java:item/eclael/skirt_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 531
 			},
-			"model": "animated_java:item/eclael/default/sword_sheathe"
+			"model": "animated_java:item/eclael/sword_sheathe"
 		},
 		{
 			"predicate": {

@@ -1,57 +1,32 @@
 {
 	"textures": {
-		"0": "animated_java:item/eclael/eclael"
+		"0": "animated_java:item/eclael/eclael",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
 	},
 	"elements": [
 		{
-			"from": [
-				6.375,
-				0.75,
-				8
-			],
-			"to": [
-				9.625,
-				11.600000000000001,
-				8
-			],
+			"from": [6.375, 0.75, 8],
+			"to": [9.625, 11.6, 8],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
-				"origin": [
-					2.2750000000000004,
-					-6,
-					-3.4000000000000004
-				]
+				"origin": [2.275, -6, -3.4]
 			},
 			"faces": {
 				"north": {
-					"uv": [
-						3.5,
-						9,
-						3.875,
-						10.125
-					],
+					"uv": [3.5, 9, 3.875, 10.125],
 					"texture": "#0"
 				},
 				"south": {
-					"uv": [
-						3.875,
-						9,
-						4.25,
-						10.125
-					],
+					"uv": [3.875, 9, 4.25, 10.125],
 					"texture": "#0"
 				}
 			}
 		}
-	],
-	"display": {
-		"head": {
-			"rotation": [
-				0,
-				180,
-				0
-			]
-		}
-	}
+	]
 }
