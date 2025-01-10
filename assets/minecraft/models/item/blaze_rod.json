@@ -248,199 +248,199 @@
 			"predicate": {
 				"custom_model_data": 41
 			},
-			"model": "animated_java:item/heiloang/default/body_1"
+			"model": "animated_java:item/heiloang/body_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 42
 			},
-			"model": "animated_java:item/heiloang/default/body_0"
+			"model": "animated_java:item/heiloang/body_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 43
 			},
-			"model": "animated_java:item/heiloang/default/neck_3"
+			"model": "animated_java:item/heiloang/neck_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 44
 			},
-			"model": "animated_java:item/heiloang/default/neck_2"
+			"model": "animated_java:item/heiloang/neck_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 45
 			},
-			"model": "animated_java:item/heiloang/default/neck_1"
+			"model": "animated_java:item/heiloang/neck_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 46
 			},
-			"model": "animated_java:item/heiloang/default/neck_0"
+			"model": "animated_java:item/heiloang/neck_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 47
 			},
-			"model": "animated_java:item/heiloang/default/head_upper"
+			"model": "animated_java:item/heiloang/head_upper"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 48
 			},
-			"model": "animated_java:item/heiloang/default/flame_model"
+			"model": "animated_java:item/heiloang/flame_model"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 49
 			},
-			"model": "animated_java:item/heiloang/default/head_lower"
+			"model": "animated_java:item/heiloang/head_lower"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 50
 			},
-			"model": "animated_java:item/heiloang/default/horne_right"
+			"model": "animated_java:item/heiloang/horne_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 51
 			},
-			"model": "animated_java:item/heiloang/default/horne_left"
+			"model": "animated_java:item/heiloang/horne_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 52
 			},
-			"model": "animated_java:item/heiloang/default/wing_right_0"
+			"model": "animated_java:item/heiloang/wing_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 53
 			},
-			"model": "animated_java:item/heiloang/default/wing_right_1"
+			"model": "animated_java:item/heiloang/wing_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 54
 			},
-			"model": "animated_java:item/heiloang/default/wing_right_2"
+			"model": "animated_java:item/heiloang/wing_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 55
 			},
-			"model": "animated_java:item/heiloang/default/wing_left_0"
+			"model": "animated_java:item/heiloang/wing_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 56
 			},
-			"model": "animated_java:item/heiloang/default/wing_left_1"
+			"model": "animated_java:item/heiloang/wing_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 57
 			},
-			"model": "animated_java:item/heiloang/default/wing_left_2"
+			"model": "animated_java:item/heiloang/wing_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 58
 			},
-			"model": "animated_java:item/heiloang/default/ring"
+			"model": "animated_java:item/heiloang/ring"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 59
 			},
-			"model": "animated_java:item/heiloang/default/kazari_right"
+			"model": "animated_java:item/heiloang/kazari_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 60
 			},
-			"model": "animated_java:item/heiloang/default/kazari_left"
+			"model": "animated_java:item/heiloang/kazari_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 61
 			},
-			"model": "animated_java:item/heiloang/default/leg_right_0"
+			"model": "animated_java:item/heiloang/leg_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 62
 			},
-			"model": "animated_java:item/heiloang/default/leg_right_1"
+			"model": "animated_java:item/heiloang/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 63
 			},
-			"model": "animated_java:item/heiloang/default/leg_right_2"
+			"model": "animated_java:item/heiloang/leg_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 64
 			},
-			"model": "animated_java:item/heiloang/default/leg_right_3"
+			"model": "animated_java:item/heiloang/leg_right_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 65
 			},
-			"model": "animated_java:item/heiloang/default/leg_left_0"
+			"model": "animated_java:item/heiloang/leg_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 66
 			},
-			"model": "animated_java:item/heiloang/default/leg_left_1"
+			"model": "animated_java:item/heiloang/leg_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 67
 			},
-			"model": "animated_java:item/heiloang/default/leg_left_2"
+			"model": "animated_java:item/heiloang/leg_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 68
 			},
-			"model": "animated_java:item/heiloang/default/leg_left_3"
+			"model": "animated_java:item/heiloang/leg_left_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 69
 			},
-			"model": "animated_java:item/heiloang/default/tail_0"
+			"model": "animated_java:item/heiloang/tail_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 70
 			},
-			"model": "animated_java:item/heiloang/default/tail_1"
+			"model": "animated_java:item/heiloang/tail_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 71
 			},
-			"model": "animated_java:item/heiloang/default/tail_2"
+			"model": "animated_java:item/heiloang/tail_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 72
 			},
-			"model": "animated_java:item/heiloang/default/tail_3"
+			"model": "animated_java:item/heiloang/tail_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 73
 			},
-			"model": "animated_java:item/heiloang/default/tail_4"
+			"model": "animated_java:item/heiloang/tail_4"
 		},
 		{
 			"predicate": {
@@ -524,7 +524,7 @@
 			"predicate": {
 				"custom_model_data": 87
 			},
-			"model": "animated_java:item/heiloang/default/tail_ring"
+			"model": "animated_java:item/heiloang/tail_ring"
 		},
 		{
 			"predicate": {
@@ -2534,451 +2534,451 @@
 			"predicate": {
 				"custom_model_data": 422
 			},
-			"model": "animated_java:item/behemoth/default/body_1"
+			"model": "animated_java:item/behemoth/body_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 423
 			},
-			"model": "animated_java:item/behemoth/default/body_0"
+			"model": "animated_java:item/behemoth/body_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 424
 			},
-			"model": "animated_java:item/behemoth/default/neck_2"
+			"model": "animated_java:item/behemoth/neck_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 425
 			},
-			"model": "animated_java:item/behemoth/default/neck_1"
+			"model": "animated_java:item/behemoth/neck_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 426
 			},
-			"model": "animated_java:item/behemoth/default/neck_0"
+			"model": "animated_java:item/behemoth/neck_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 427
 			},
-			"model": "animated_java:item/behemoth/default/head_upper"
+			"model": "animated_java:item/behemoth/head_upper"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 428
 			},
-			"model": "animated_java:item/behemoth/default/head_lower"
+			"model": "animated_java:item/behemoth/head_lower"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 429
 			},
-			"model": "animated_java:item/behemoth/default/horne_right"
+			"model": "animated_java:item/behemoth/horne_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 430
 			},
-			"model": "animated_java:item/behemoth/default/horne_left"
+			"model": "animated_java:item/behemoth/horne_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 431
 			},
-			"model": "animated_java:item/behemoth/default/arm_right_0"
+			"model": "animated_java:item/behemoth/arm_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 432
 			},
-			"model": "animated_java:item/behemoth/default/arm_right_1"
+			"model": "animated_java:item/behemoth/arm_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 433
 			},
-			"model": "animated_java:item/behemoth/default/arm_right_2"
+			"model": "animated_java:item/behemoth/arm_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 434
 			},
-			"model": "animated_java:item/behemoth/default/arm_right_3"
+			"model": "animated_java:item/behemoth/arm_right_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 435
 			},
-			"model": "animated_java:item/behemoth/default/arm_right_4"
+			"model": "animated_java:item/behemoth/arm_right_4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 436
 			},
-			"model": "animated_java:item/behemoth/default/arm_left_0"
+			"model": "animated_java:item/behemoth/arm_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 437
 			},
-			"model": "animated_java:item/behemoth/default/arm_left_1"
+			"model": "animated_java:item/behemoth/arm_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 438
 			},
-			"model": "animated_java:item/behemoth/default/arm_left_2"
+			"model": "animated_java:item/behemoth/arm_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 439
 			},
-			"model": "animated_java:item/behemoth/default/arm_left_3"
+			"model": "animated_java:item/behemoth/arm_left_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 440
 			},
-			"model": "animated_java:item/behemoth/default/arm_left_4"
+			"model": "animated_java:item/behemoth/arm_left_4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 441
 			},
-			"model": "animated_java:item/behemoth/default/wing_right_0"
+			"model": "animated_java:item/behemoth/wing_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 442
 			},
-			"model": "animated_java:item/behemoth/default/wing_right_1"
+			"model": "animated_java:item/behemoth/wing_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 443
 			},
-			"model": "animated_java:item/behemoth/default/wing_right_2"
+			"model": "animated_java:item/behemoth/wing_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 444
 			},
-			"model": "animated_java:item/behemoth/default/wing_left_0"
+			"model": "animated_java:item/behemoth/wing_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 445
 			},
-			"model": "animated_java:item/behemoth/default/wing_left_1"
+			"model": "animated_java:item/behemoth/wing_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 446
 			},
-			"model": "animated_java:item/behemoth/default/wing_left_2"
+			"model": "animated_java:item/behemoth/wing_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 447
 			},
-			"model": "animated_java:item/behemoth/default/leg_right_0"
+			"model": "animated_java:item/behemoth/leg_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 448
 			},
-			"model": "animated_java:item/behemoth/default/leg_right_1"
+			"model": "animated_java:item/behemoth/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 449
 			},
-			"model": "animated_java:item/behemoth/default/leg_right_2"
+			"model": "animated_java:item/behemoth/leg_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 450
 			},
-			"model": "animated_java:item/behemoth/default/leg_right_3"
+			"model": "animated_java:item/behemoth/leg_right_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 451
 			},
-			"model": "animated_java:item/behemoth/default/leg_left_0"
+			"model": "animated_java:item/behemoth/leg_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 452
 			},
-			"model": "animated_java:item/behemoth/default/leg_left_1"
+			"model": "animated_java:item/behemoth/leg_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 453
 			},
-			"model": "animated_java:item/behemoth/default/leg_left_2"
+			"model": "animated_java:item/behemoth/leg_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 454
 			},
-			"model": "animated_java:item/behemoth/default/leg_left_3"
+			"model": "animated_java:item/behemoth/leg_left_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 455
 			},
-			"model": "animated_java:item/behemoth/default/tail_0"
+			"model": "animated_java:item/behemoth/tail_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 456
 			},
-			"model": "animated_java:item/behemoth/default/tail_1"
+			"model": "animated_java:item/behemoth/tail_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 457
 			},
-			"model": "animated_java:item/behemoth/default/tail_2"
+			"model": "animated_java:item/behemoth/tail_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 458
 			},
-			"model": "animated_java:item/behemoth/default/tail_3"
+			"model": "animated_java:item/behemoth/tail_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 459
 			},
-			"model": "animated_java:item/tiamat/default/body_2"
+			"model": "animated_java:item/tiamat/body_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 460
 			},
-			"model": "animated_java:item/tiamat/default/body_1"
+			"model": "animated_java:item/tiamat/body_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 461
 			},
-			"model": "animated_java:item/tiamat/default/body_0"
+			"model": "animated_java:item/tiamat/body_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 462
 			},
-			"model": "animated_java:item/tiamat/default/neck_2"
+			"model": "animated_java:item/tiamat/neck_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 463
 			},
-			"model": "animated_java:item/tiamat/default/neck_1"
+			"model": "animated_java:item/tiamat/neck_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 464
 			},
-			"model": "animated_java:item/tiamat/default/neck_0"
+			"model": "animated_java:item/tiamat/neck_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 465
 			},
-			"model": "animated_java:item/tiamat/default/head_upper"
+			"model": "animated_java:item/tiamat/head_upper"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 466
 			},
-			"model": "animated_java:item/tiamat/default/head_lower"
+			"model": "animated_java:item/tiamat/head_lower"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 467
 			},
-			"model": "animated_java:item/tiamat/default/horne_right"
+			"model": "animated_java:item/tiamat/horne_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 468
 			},
-			"model": "animated_java:item/tiamat/default/horne_left"
+			"model": "animated_java:item/tiamat/horne_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 469
 			},
-			"model": "animated_java:item/tiamat/default/arm_right_0"
+			"model": "animated_java:item/tiamat/arm_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 470
 			},
-			"model": "animated_java:item/tiamat/default/arm_right_1"
+			"model": "animated_java:item/tiamat/arm_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 471
 			},
-			"model": "animated_java:item/tiamat/default/arm_right_2"
+			"model": "animated_java:item/tiamat/arm_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 472
 			},
-			"model": "animated_java:item/tiamat/default/arm_right_3"
+			"model": "animated_java:item/tiamat/arm_right_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 473
 			},
-			"model": "animated_java:item/tiamat/default/arm_right_4"
+			"model": "animated_java:item/tiamat/arm_right_4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 474
 			},
-			"model": "animated_java:item/tiamat/default/arm_left_0"
+			"model": "animated_java:item/tiamat/arm_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 475
 			},
-			"model": "animated_java:item/tiamat/default/arm_left_1"
+			"model": "animated_java:item/tiamat/arm_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 476
 			},
-			"model": "animated_java:item/tiamat/default/arm_left_2"
+			"model": "animated_java:item/tiamat/arm_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 477
 			},
-			"model": "animated_java:item/tiamat/default/arm_left_3"
+			"model": "animated_java:item/tiamat/arm_left_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 478
 			},
-			"model": "animated_java:item/tiamat/default/arm_left_4"
+			"model": "animated_java:item/tiamat/arm_left_4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 479
 			},
-			"model": "animated_java:item/tiamat/default/wing_right_0"
+			"model": "animated_java:item/tiamat/wing_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 480
 			},
-			"model": "animated_java:item/tiamat/default/wing_right_1"
+			"model": "animated_java:item/tiamat/wing_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 481
 			},
-			"model": "animated_java:item/tiamat/default/wing_right_2"
+			"model": "animated_java:item/tiamat/wing_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 482
 			},
-			"model": "animated_java:item/tiamat/default/wing_left_0"
+			"model": "animated_java:item/tiamat/wing_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 483
 			},
-			"model": "animated_java:item/tiamat/default/wing_left_1"
+			"model": "animated_java:item/tiamat/wing_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 484
 			},
-			"model": "animated_java:item/tiamat/default/wing_left_2"
+			"model": "animated_java:item/tiamat/wing_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 485
 			},
-			"model": "animated_java:item/tiamat/default/leg_right_0"
+			"model": "animated_java:item/tiamat/leg_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 486
 			},
-			"model": "animated_java:item/tiamat/default/leg_right_1"
+			"model": "animated_java:item/tiamat/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 487
 			},
-			"model": "animated_java:item/tiamat/default/leg_right_2"
+			"model": "animated_java:item/tiamat/leg_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 488
 			},
-			"model": "animated_java:item/tiamat/default/leg_right_3"
+			"model": "animated_java:item/tiamat/leg_right_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 489
 			},
-			"model": "animated_java:item/tiamat/default/leg_left_0"
+			"model": "animated_java:item/tiamat/leg_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 490
 			},
-			"model": "animated_java:item/tiamat/default/leg_left_1"
+			"model": "animated_java:item/tiamat/leg_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 491
 			},
-			"model": "animated_java:item/tiamat/default/leg_left_2"
+			"model": "animated_java:item/tiamat/leg_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 492
 			},
-			"model": "animated_java:item/tiamat/default/leg_left_3"
+			"model": "animated_java:item/tiamat/leg_left_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 493
 			},
-			"model": "animated_java:item/tiamat/default/tail_0"
+			"model": "animated_java:item/tiamat/tail_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 494
 			},
-			"model": "animated_java:item/tiamat/default/tail_1"
+			"model": "animated_java:item/tiamat/tail_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 495
 			},
-			"model": "animated_java:item/tiamat/default/tail_2"
+			"model": "animated_java:item/tiamat/tail_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 496
 			},
-			"model": "animated_java:item/tiamat/default/tail_3"
+			"model": "animated_java:item/tiamat/tail_3"
 		},
 		{
 			"predicate": {
