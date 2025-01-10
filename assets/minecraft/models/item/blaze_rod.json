@@ -4944,6 +4944,228 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 824
+			},
+			"model": "animated_java:item/twins_rubiel/normal/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 825
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/halo"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 826
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 827
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/slide2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 828
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/ruby_gun"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 829
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/arm_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 830
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/arm_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 831
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/slide"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 832
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/sapphire_gun"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 833
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 834
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/shotgun"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 835
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/rocket"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 836
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/launcher"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 837
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/arm_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 838
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/arm_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 839
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/wing_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 840
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/wing_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 841
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/wing_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 842
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/wing_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 843
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/body_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 844
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/leg_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 845
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/leg_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 846
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/leg_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 847
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/leg_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 848
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/skirt_forward_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 849
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/skirt_forward_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 850
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/skirt_forward"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 851
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/skirt_back_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 852
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/skirt_back_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 853
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/skirt_back"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 854
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/skirt_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 855
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/skirt_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 856
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/belt_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 857
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/belt_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 858
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/belt_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 859
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/belt_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 860
+			},
+			"model": "animated_java:item/twins_sapphiel/normal/body_1"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 341001
 			},
 			"model": "animated_java:item/louvert/default/body_0"
@@ -6538,7 +6760,8 @@
 			820,
 			821,
 			822,
-			823
+			823,
+			824
 		],
 		"twins_sapphiel": [
 			535,
@@ -6648,7 +6871,43 @@
 			639,
 			640,
 			641,
-			642
+			642,
+			825,
+			826,
+			827,
+			828,
+			829,
+			830,
+			831,
+			832,
+			833,
+			834,
+			835,
+			836,
+			837,
+			838,
+			839,
+			840,
+			841,
+			842,
+			843,
+			844,
+			845,
+			846,
+			847,
+			848,
+			849,
+			850,
+			851,
+			852,
+			853,
+			854,
+			855,
+			856,
+			857,
+			858,
+			859,
+			860
 		]
 	}
 }
