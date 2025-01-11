@@ -1,6 +1,7 @@
 {
 	"textures": {
-		"2": "animated_java:item/illusion_of_loyalty/texture_shadow_body"
+		"2": "animated_java:blueprint/illusion_of_loyalty/texture_shadow_body",
+		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
 		"head": {
@@ -14,15 +15,15 @@
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
-				"origin": [10, -3, 8]
+				"origin": [10, 5, 7]
 			},
 			"faces": {
 				"north": {
-					"uv": [2.125, 5, 2.75, 5.75],
+					"uv": [4.875, 2.25, 5.5, 3],
 					"texture": "#2"
 				},
 				"south": {
-					"uv": [2.75, 5, 3.375, 5.75],
+					"uv": [1.5, 5, 2.125, 5.75],
 					"texture": "#2"
 				}
 			}

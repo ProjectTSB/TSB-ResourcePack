@@ -1,6 +1,7 @@
 {
 	"textures": {
-		"1": "animated_java:item/illusion_of_loyalty/texture_shadow"
+		"1": "animated_java:blueprint/illusion_of_loyalty/texture_shadow",
+		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
 		"head": {

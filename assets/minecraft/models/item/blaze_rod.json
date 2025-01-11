@@ -1664,133 +1664,133 @@
 			"predicate": {
 				"custom_model_data": 277
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/head"
+			"model": "animated_java:blueprint/illusion_of_loyalty/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 278
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/backhair"
+			"model": "animated_java:blueprint/illusion_of_loyalty/backhair"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 279
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/body"
+			"model": "animated_java:blueprint/illusion_of_loyalty/body"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 280
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/ring"
+			"model": "animated_java:blueprint/illusion_of_loyalty/ring"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 281
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/bust"
+			"model": "animated_java:blueprint/illusion_of_loyalty/bust"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 282
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/left_wing"
+			"model": "animated_java:blueprint/illusion_of_loyalty/left_wing"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 283
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/right_wing"
+			"model": "animated_java:blueprint/illusion_of_loyalty/right_wing"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 284
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/right_arm"
+			"model": "animated_java:blueprint/illusion_of_loyalty/right_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 285
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/right_hand"
+			"model": "animated_java:blueprint/illusion_of_loyalty/right_hand"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 286
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/sword"
+			"model": "animated_java:blueprint/illusion_of_loyalty/sword"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 287
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/left_arm"
+			"model": "animated_java:blueprint/illusion_of_loyalty/left_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 288
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/left_hand"
+			"model": "animated_java:blueprint/illusion_of_loyalty/left_hand"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 289
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/lower"
+			"model": "animated_java:blueprint/illusion_of_loyalty/lower"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 290
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/skirt"
+			"model": "animated_java:blueprint/illusion_of_loyalty/skirt"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 291
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/skirt_right"
+			"model": "animated_java:blueprint/illusion_of_loyalty/skirt_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 292
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/skirt_left"
+			"model": "animated_java:blueprint/illusion_of_loyalty/skirt_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 293
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/skirt_back_middle"
+			"model": "animated_java:blueprint/illusion_of_loyalty/skirt_back_middle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 294
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/skirt_front_middle"
+			"model": "animated_java:blueprint/illusion_of_loyalty/skirt_front_middle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 295
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/rightleg"
+			"model": "animated_java:blueprint/illusion_of_loyalty/rightleg"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 296
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/rightfoot"
+			"model": "animated_java:blueprint/illusion_of_loyalty/rightfoot"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 297
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/leftleg"
+			"model": "animated_java:blueprint/illusion_of_loyalty/leftleg"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 298
 			},
-			"model": "animated_java:item/illusion_of_loyalty/default/leftfoot"
+			"model": "animated_java:blueprint/illusion_of_loyalty/leftfoot"
 		},
 		{
 			"predicate": {
