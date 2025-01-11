@@ -1,6 +1,0 @@
-{
-	"parent": "animated_java:item/twins_sapphiel/shotgun",
-	"textures": {
-		"4": "animated_java:item/twins_sapphiel/sapphiel_face_blink"
-	}
-}

@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:blueprint/twins_sapphiel/belt_left_1",
+	"textures": {
+		"4": "animated_java:blueprint/twins_sapphiel/sapphiel_face_stun"
+	}
+}
