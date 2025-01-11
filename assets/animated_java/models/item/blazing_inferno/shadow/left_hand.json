@@ -1,6 +1,0 @@
-{
-	"parent": "animated_java:item/blazing_inferno/default/left_hand",
-	"textures": {
-		"0": "animated_java:item/blazing_inferno/blazing_shadow"
-	}
-}

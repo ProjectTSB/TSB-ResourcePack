@@ -1430,85 +1430,85 @@
 			"predicate": {
 				"custom_model_data": 238
 			},
-			"model": "animated_java:item/blazing_inferno/default/body"
+			"model": "animated_java:blueprint/blazing_inferno/body"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 239
 			},
-			"model": "animated_java:item/blazing_inferno/default/left_arm"
+			"model": "animated_java:blueprint/blazing_inferno/left_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 240
 			},
-			"model": "animated_java:item/blazing_inferno/default/left_hand"
+			"model": "animated_java:blueprint/blazing_inferno/left_hand"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 241
 			},
-			"model": "animated_java:item/blazing_inferno/default/right_arm"
+			"model": "animated_java:blueprint/blazing_inferno/right_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 242
 			},
-			"model": "animated_java:item/blazing_inferno/default/right_hand"
+			"model": "animated_java:blueprint/blazing_inferno/right_hand"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 243
 			},
-			"model": "animated_java:item/blazing_inferno/default/head"
+			"model": "animated_java:blueprint/blazing_inferno/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 244
 			},
-			"model": "animated_java:item/blazing_inferno/default/bottom"
+			"model": "animated_java:blueprint/blazing_inferno/bottom"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 245
 			},
-			"model": "animated_java:item/blazing_inferno/shadow/body"
+			"model": "animated_java:blueprint/blazing_inferno/shadow/body"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 246
 			},
-			"model": "animated_java:item/blazing_inferno/shadow/left_hand"
+			"model": "animated_java:blueprint/blazing_inferno/shadow/left_hand"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 247
 			},
-			"model": "animated_java:item/blazing_inferno/shadow/left_arm"
+			"model": "animated_java:blueprint/blazing_inferno/shadow/left_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 248
 			},
-			"model": "animated_java:item/blazing_inferno/shadow/right_hand"
+			"model": "animated_java:blueprint/blazing_inferno/shadow/right_hand"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 249
 			},
-			"model": "animated_java:item/blazing_inferno/shadow/right_arm"
+			"model": "animated_java:blueprint/blazing_inferno/shadow/right_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 250
 			},
-			"model": "animated_java:item/blazing_inferno/shadow/head"
+			"model": "animated_java:blueprint/blazing_inferno/shadow/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 251
 			},
-			"model": "animated_java:item/blazing_inferno/shadow/bottom"
+			"model": "animated_java:blueprint/blazing_inferno/shadow/bottom"
 		},
 		{
 			"predicate": {

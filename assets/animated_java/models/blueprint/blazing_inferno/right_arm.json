@@ -1,6 +1,7 @@
 {
 	"textures": {
-		"0": "animated_java:item/blazing_inferno/blazing"
+		"0": "animated_java:blueprint/blazing_inferno/blazing",
+		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
 		"head": {
