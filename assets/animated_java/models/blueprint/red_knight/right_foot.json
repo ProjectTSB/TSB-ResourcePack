@@ -1,6 +1,7 @@
 {
 	"textures": {
-		"1": "animated_java:item/red_knight/red_knight"
+		"1": "animated_java:blueprint/red_knight/red_knight",
+		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
 		"head": {
