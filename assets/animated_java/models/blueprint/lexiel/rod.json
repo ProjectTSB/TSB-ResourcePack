@@ -1,6 +1,7 @@
 {
 	"textures": {
-		"3": "animated_java:item/lexiel/rod"
+		"3": "animated_java:blueprint/lexiel/rod",
+		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
 		"head": {

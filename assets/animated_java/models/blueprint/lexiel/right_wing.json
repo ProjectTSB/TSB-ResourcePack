@@ -1,6 +1,7 @@
 {
 	"textures": {
-		"2": "animated_java:item/lexiel/texture_body"
+		"2": "animated_java:blueprint/lexiel/texture_body",
+		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
 		"head": {
@@ -9,8 +10,8 @@
 	},
 	"elements": [
 		{
-			"from": [-4, 2, 8],
-			"to": [8, 14, 8.1],
+			"from": [8, 2, 8],
+			"to": [20, 14, 8.1],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
@@ -18,7 +19,7 @@
 			},
 			"faces": {
 				"north": {
-					"uv": [0, 0, 1.5, 1.5],
+					"uv": [1.5, 0, 3, 1.5],
 					"texture": "#2"
 				},
 				"east": {
@@ -26,7 +27,7 @@
 					"texture": "#2"
 				},
 				"south": {
-					"uv": [0, 1.5, 1.5, 3],
+					"uv": [1.5, 1.5, 3, 3],
 					"texture": "#2"
 				},
 				"west": {

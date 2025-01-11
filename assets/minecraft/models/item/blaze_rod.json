@@ -2390,145 +2390,145 @@
 			"predicate": {
 				"custom_model_data": 398
 			},
-			"model": "animated_java:item/lexiel/default/head"
+			"model": "animated_java:blueprint/lexiel/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 399
 			},
-			"model": "animated_java:item/lexiel/default/backhair"
+			"model": "animated_java:blueprint/lexiel/backhair"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 400
 			},
-			"model": "animated_java:item/lexiel/default/body"
+			"model": "animated_java:blueprint/lexiel/body"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 401
 			},
-			"model": "animated_java:item/lexiel/default/ring"
+			"model": "animated_java:blueprint/lexiel/ring"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 402
 			},
-			"model": "animated_java:item/lexiel/default/bust"
+			"model": "animated_java:blueprint/lexiel/bust"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 403
 			},
-			"model": "animated_java:item/lexiel/default/left_wing"
+			"model": "animated_java:blueprint/lexiel/left_wing"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 404
 			},
-			"model": "animated_java:item/lexiel/default/right_wing"
+			"model": "animated_java:blueprint/lexiel/right_wing"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 405
 			},
-			"model": "animated_java:item/lexiel/default/right_arm"
+			"model": "animated_java:blueprint/lexiel/right_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 406
 			},
-			"model": "animated_java:item/lexiel/default/right_hand"
+			"model": "animated_java:blueprint/lexiel/right_hand"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 407
 			},
-			"model": "animated_java:item/lexiel/default/sword"
+			"model": "animated_java:blueprint/lexiel/sword"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 408
 			},
-			"model": "animated_java:item/lexiel/default/rod"
+			"model": "animated_java:blueprint/lexiel/rod"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 409
 			},
-			"model": "animated_java:item/lexiel/default/left_arm"
+			"model": "animated_java:blueprint/lexiel/left_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 410
 			},
-			"model": "animated_java:item/lexiel/default/left_hand"
+			"model": "animated_java:blueprint/lexiel/left_hand"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 411
 			},
-			"model": "animated_java:item/lexiel/default/lower"
+			"model": "animated_java:blueprint/lexiel/lower"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 412
 			},
-			"model": "animated_java:item/lexiel/default/skirt"
+			"model": "animated_java:blueprint/lexiel/skirt"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 413
 			},
-			"model": "animated_java:item/lexiel/default/skirt_right"
+			"model": "animated_java:blueprint/lexiel/skirt_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 414
 			},
-			"model": "animated_java:item/lexiel/default/skirt_left"
+			"model": "animated_java:blueprint/lexiel/skirt_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 415
 			},
-			"model": "animated_java:item/lexiel/default/skirt_back_middle"
+			"model": "animated_java:blueprint/lexiel/skirt_back_middle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 416
 			},
-			"model": "animated_java:item/lexiel/default/skirt_front_middle"
+			"model": "animated_java:blueprint/lexiel/skirt_front_middle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 417
 			},
-			"model": "animated_java:item/lexiel/default/rightupper"
+			"model": "animated_java:blueprint/lexiel/rightupper"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 418
 			},
-			"model": "animated_java:item/lexiel/default/rightfoot"
+			"model": "animated_java:blueprint/lexiel/rightfoot"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 419
 			},
-			"model": "animated_java:item/lexiel/default/leftupper"
+			"model": "animated_java:blueprint/lexiel/leftupper"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 420
 			},
-			"model": "animated_java:item/lexiel/default/leftfoot"
+			"model": "animated_java:blueprint/lexiel/leftfoot"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 421
 			},
-			"model": "animated_java:item/lexiel/default/sucidesword"
+			"model": "animated_java:blueprint/lexiel/sucidesword"
 		},
 		{
 			"predicate": {
