@@ -1,0 +1,28 @@
+{
+	"textures": {
+		"5": "animated_java:blueprint/tultaria/texture_body",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [4, -4, 9],
+			"to": [12, 8, 9],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8.5, -1, 8]
+			},
+			"faces": {
+				"south": {
+					"uv": [0, 3, 2, 6],
+					"texture": "#5"
+				}
+			}
+		}
+	]
+}
