@@ -248,199 +248,199 @@
 			"predicate": {
 				"custom_model_data": 41
 			},
-			"model": "animated_java:item/heiloang/body_1"
+			"model": "animated_java:blueprint/heiloang_aj/body_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 42
 			},
-			"model": "animated_java:item/heiloang/body_0"
+			"model": "animated_java:blueprint/heiloang_aj/body_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 43
 			},
-			"model": "animated_java:item/heiloang/neck_3"
+			"model": "animated_java:blueprint/heiloang_aj/neck_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 44
 			},
-			"model": "animated_java:item/heiloang/neck_2"
+			"model": "animated_java:blueprint/heiloang_aj/neck_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 45
 			},
-			"model": "animated_java:item/heiloang/neck_1"
+			"model": "animated_java:blueprint/heiloang_aj/neck_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 46
 			},
-			"model": "animated_java:item/heiloang/neck_0"
+			"model": "animated_java:blueprint/heiloang_aj/neck_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 47
 			},
-			"model": "animated_java:item/heiloang/head_upper"
+			"model": "animated_java:blueprint/heiloang_aj/head_upper"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 48
 			},
-			"model": "animated_java:item/heiloang/flame_model"
+			"model": "animated_java:blueprint/heiloang_aj/flame_model"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 49
 			},
-			"model": "animated_java:item/heiloang/head_lower"
+			"model": "animated_java:blueprint/heiloang_aj/head_lower"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 50
 			},
-			"model": "animated_java:item/heiloang/horne_right"
+			"model": "animated_java:blueprint/heiloang_aj/horne_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 51
 			},
-			"model": "animated_java:item/heiloang/horne_left"
+			"model": "animated_java:blueprint/heiloang_aj/horne_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 52
 			},
-			"model": "animated_java:item/heiloang/wing_right_0"
+			"model": "animated_java:blueprint/heiloang_aj/wing_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 53
 			},
-			"model": "animated_java:item/heiloang/wing_right_1"
+			"model": "animated_java:blueprint/heiloang_aj/wing_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 54
 			},
-			"model": "animated_java:item/heiloang/wing_right_2"
+			"model": "animated_java:blueprint/heiloang_aj/wing_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 55
 			},
-			"model": "animated_java:item/heiloang/wing_left_0"
+			"model": "animated_java:blueprint/heiloang_aj/wing_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 56
 			},
-			"model": "animated_java:item/heiloang/wing_left_1"
+			"model": "animated_java:blueprint/heiloang_aj/wing_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 57
 			},
-			"model": "animated_java:item/heiloang/wing_left_2"
+			"model": "animated_java:blueprint/heiloang_aj/wing_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 58
 			},
-			"model": "animated_java:item/heiloang/ring"
+			"model": "animated_java:blueprint/heiloang_aj/ring"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 59
 			},
-			"model": "animated_java:item/heiloang/kazari_right"
+			"model": "animated_java:blueprint/heiloang_aj/kazari_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 60
 			},
-			"model": "animated_java:item/heiloang/kazari_left"
+			"model": "animated_java:blueprint/heiloang_aj/kazari_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 61
 			},
-			"model": "animated_java:item/heiloang/leg_right_0"
+			"model": "animated_java:blueprint/heiloang_aj/leg_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 62
 			},
-			"model": "animated_java:item/heiloang/leg_right_1"
+			"model": "animated_java:blueprint/heiloang_aj/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 63
 			},
-			"model": "animated_java:item/heiloang/leg_right_2"
+			"model": "animated_java:blueprint/heiloang_aj/leg_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 64
 			},
-			"model": "animated_java:item/heiloang/leg_right_3"
+			"model": "animated_java:blueprint/heiloang_aj/leg_right_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 65
 			},
-			"model": "animated_java:item/heiloang/leg_left_0"
+			"model": "animated_java:blueprint/heiloang_aj/leg_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 66
 			},
-			"model": "animated_java:item/heiloang/leg_left_1"
+			"model": "animated_java:blueprint/heiloang_aj/leg_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 67
 			},
-			"model": "animated_java:item/heiloang/leg_left_2"
+			"model": "animated_java:blueprint/heiloang_aj/leg_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 68
 			},
-			"model": "animated_java:item/heiloang/leg_left_3"
+			"model": "animated_java:blueprint/heiloang_aj/leg_left_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 69
 			},
-			"model": "animated_java:item/heiloang/tail_0"
+			"model": "animated_java:blueprint/heiloang_aj/tail_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 70
 			},
-			"model": "animated_java:item/heiloang/tail_1"
+			"model": "animated_java:blueprint/heiloang_aj/tail_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 71
 			},
-			"model": "animated_java:item/heiloang/tail_2"
+			"model": "animated_java:blueprint/heiloang_aj/tail_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 72
 			},
-			"model": "animated_java:item/heiloang/tail_3"
+			"model": "animated_java:blueprint/heiloang_aj/tail_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 73
 			},
-			"model": "animated_java:item/heiloang/tail_4"
+			"model": "animated_java:blueprint/heiloang_aj/tail_4"
 		},
 		{
 			"predicate": {
@@ -524,7 +524,7 @@
 			"predicate": {
 				"custom_model_data": 87
 			},
-			"model": "animated_java:item/heiloang/tail_ring"
+			"model": "animated_java:blueprint/heiloang_aj/tail_ring"
 		},
 		{
 			"predicate": {
