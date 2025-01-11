@@ -1,6 +1,0 @@
-{
-	"parent": "animated_java:item/haruclaire_v3/belt_right_0",
-	"textures": {
-		"3": "animated_java:item/haruclaire_v3/haruclaire_v3_face_blink"
-	}
-}

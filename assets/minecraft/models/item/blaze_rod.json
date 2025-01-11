@@ -1796,595 +1796,595 @@
 			"predicate": {
 				"custom_model_data": 299
 			},
-			"model": "animated_java:item/haruclaire_v3/body_1"
+			"model": "animated_java:blueprint/haruclaire_aj/body_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 300
 			},
-			"model": "animated_java:item/haruclaire_v3/body_0"
+			"model": "animated_java:blueprint/haruclaire_aj/body_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 301
 			},
-			"model": "animated_java:item/haruclaire_v3/head"
+			"model": "animated_java:blueprint/haruclaire_aj/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 302
 			},
-			"model": "animated_java:item/haruclaire_v3/hat"
+			"model": "animated_java:blueprint/haruclaire_aj/hat"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 303
 			},
-			"model": "animated_java:item/haruclaire_v3/arm_right_0"
+			"model": "animated_java:blueprint/haruclaire_aj/arm_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 304
 			},
-			"model": "animated_java:item/haruclaire_v3/arm_right_1"
+			"model": "animated_java:blueprint/haruclaire_aj/arm_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 305
 			},
-			"model": "animated_java:item/haruclaire_v3/haruclaire_rod"
+			"model": "animated_java:blueprint/haruclaire_aj/haruclaire_rod"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 306
 			},
-			"model": "animated_java:item/haruclaire_v3/haruclaire_korigori"
+			"model": "animated_java:blueprint/haruclaire_aj/haruclaire_korigori"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 307
 			},
-			"model": "animated_java:item/haruclaire_v3/haruclaire_sword"
+			"model": "animated_java:blueprint/haruclaire_aj/haruclaire_sword"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 308
 			},
-			"model": "animated_java:item/haruclaire_v3/arm_right_2"
+			"model": "animated_java:blueprint/haruclaire_aj/arm_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 309
 			},
-			"model": "animated_java:item/haruclaire_v3/arm_belt_right"
+			"model": "animated_java:blueprint/haruclaire_aj/arm_belt_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 310
 			},
-			"model": "animated_java:item/haruclaire_v3/arm_left_0"
+			"model": "animated_java:blueprint/haruclaire_aj/arm_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 311
 			},
-			"model": "animated_java:item/haruclaire_v3/arm_left_1"
+			"model": "animated_java:blueprint/haruclaire_aj/arm_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 312
 			},
-			"model": "animated_java:item/haruclaire_v3/hat_hand"
+			"model": "animated_java:blueprint/haruclaire_aj/hat_hand"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 313
 			},
-			"model": "animated_java:item/haruclaire_v3/arm_left_2"
+			"model": "animated_java:blueprint/haruclaire_aj/arm_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 314
 			},
-			"model": "animated_java:item/haruclaire_v3/arm_belt_left"
+			"model": "animated_java:blueprint/haruclaire_aj/arm_belt_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 315
 			},
-			"model": "animated_java:item/haruclaire_v3/wing_right"
+			"model": "animated_java:blueprint/haruclaire_aj/wing_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 316
 			},
-			"model": "animated_java:item/haruclaire_v3/wing_left"
+			"model": "animated_java:blueprint/haruclaire_aj/wing_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 317
 			},
-			"model": "animated_java:item/haruclaire_v3/leg_right_0"
+			"model": "animated_java:blueprint/haruclaire_aj/leg_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 318
 			},
-			"model": "animated_java:item/haruclaire_v3/leg_right_1"
+			"model": "animated_java:blueprint/haruclaire_aj/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 319
 			},
-			"model": "animated_java:item/haruclaire_v3/leg_left_0"
+			"model": "animated_java:blueprint/haruclaire_aj/leg_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 320
 			},
-			"model": "animated_java:item/haruclaire_v3/leg_left_1"
+			"model": "animated_java:blueprint/haruclaire_aj/leg_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 321
 			},
-			"model": "animated_java:item/haruclaire_v3/parker_under"
+			"model": "animated_java:blueprint/haruclaire_aj/parker_under"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 322
 			},
-			"model": "animated_java:item/haruclaire_v3/belt_right_0"
+			"model": "animated_java:blueprint/haruclaire_aj/belt_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 323
 			},
-			"model": "animated_java:item/haruclaire_v3/belt_right_1"
+			"model": "animated_java:blueprint/haruclaire_aj/belt_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 324
 			},
-			"model": "animated_java:item/haruclaire_v3/belt_left_0"
+			"model": "animated_java:blueprint/haruclaire_aj/belt_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 325
 			},
-			"model": "animated_java:item/haruclaire_v3/belt_left_1"
+			"model": "animated_java:blueprint/haruclaire_aj/belt_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 326
 			},
-			"model": "animated_java:item/haruclaire_v3/haruclaire_rod_air"
+			"model": "animated_java:blueprint/haruclaire_aj/haruclaire_rod_air"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 327
 			},
-			"model": "animated_java:item/haruclaire_v3/hato_body"
+			"model": "animated_java:blueprint/haruclaire_aj/hato_body"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 328
 			},
-			"model": "animated_java:item/haruclaire_v3/hato_head"
+			"model": "animated_java:blueprint/haruclaire_aj/hato_head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 329
 			},
-			"model": "animated_java:item/haruclaire_v3/hato_tail"
+			"model": "animated_java:blueprint/haruclaire_aj/hato_tail"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 330
 			},
-			"model": "animated_java:item/haruclaire_v3/hato_wing_right"
+			"model": "animated_java:blueprint/haruclaire_aj/hato_wing_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 331
 			},
-			"model": "animated_java:item/haruclaire_v3/hato_wing_left"
+			"model": "animated_java:blueprint/haruclaire_aj/hato_wing_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 332
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/hat"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/hat"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 333
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/head"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 334
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/haruclaire_rod"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/haruclaire_rod"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 335
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/haruclaire_korigori"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/haruclaire_korigori"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 336
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/haruclaire_sword"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/haruclaire_sword"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 337
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/arm_belt_right"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/arm_belt_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 338
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/arm_right_2"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/arm_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 339
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/arm_right_1"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/arm_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 340
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/arm_right_0"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/arm_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 341
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/hat_hand"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/hat_hand"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 342
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/arm_belt_left"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/arm_belt_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 343
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/arm_left_2"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/arm_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 344
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/arm_left_1"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/arm_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 345
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/arm_left_0"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/arm_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 346
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/wing_right"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/wing_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 347
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/wing_left"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/wing_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 348
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/body_0"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/body_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 349
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/leg_right_1"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/leg_right_0"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/leg_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 351
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/leg_left_1"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/leg_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 352
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/leg_left_0"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/leg_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 353
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/belt_right_1"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/belt_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 354
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/belt_right_0"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/belt_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 355
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/belt_left_1"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/belt_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 356
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/belt_left_0"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/belt_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 357
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/parker_under"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/parker_under"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 358
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/body_1"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/body_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 359
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/haruclaire_rod_air"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/haruclaire_rod_air"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 360
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/hato_head"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/hato_head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 361
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/hato_tail"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/hato_tail"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 362
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/hato_wing_right"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/hato_wing_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 363
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/hato_wing_left"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/hato_wing_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 364
 			},
-			"model": "animated_java:item/haruclaire_v3/blink/hato_body"
+			"model": "animated_java:blueprint/haruclaire_aj/blink/hato_body"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 365
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/hat"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/hat"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 366
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/head"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 367
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/haruclaire_rod"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/haruclaire_rod"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 368
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/haruclaire_korigori"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/haruclaire_korigori"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 369
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/haruclaire_sword"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/haruclaire_sword"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 370
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/arm_belt_right"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/arm_belt_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 371
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/arm_right_2"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/arm_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 372
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/arm_right_1"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/arm_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 373
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/arm_right_0"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/arm_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 374
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/hat_hand"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/hat_hand"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 375
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/arm_belt_left"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/arm_belt_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 376
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/arm_left_2"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/arm_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 377
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/arm_left_1"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/arm_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 378
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/arm_left_0"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/arm_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 379
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/wing_right"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/wing_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 380
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/wing_left"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/wing_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 381
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/body_0"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/body_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 382
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/leg_right_1"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 383
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/leg_right_0"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/leg_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 384
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/leg_left_1"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/leg_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 385
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/leg_left_0"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/leg_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 386
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/belt_right_1"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/belt_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 387
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/belt_right_0"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/belt_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 388
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/belt_left_1"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/belt_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 389
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/belt_left_0"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/belt_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 390
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/parker_under"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/parker_under"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/body_1"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/body_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/haruclaire_rod_air"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/haruclaire_rod_air"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/hato_head"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/hato_head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 394
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/hato_tail"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/hato_tail"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 395
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/hato_wing_right"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/hato_wing_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 396
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/hato_wing_left"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/hato_wing_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 397
 			},
-			"model": "animated_java:item/haruclaire_v3/damage/hato_body"
+			"model": "animated_java:blueprint/haruclaire_aj/damage/hato_body"
 		},
 		{
 			"predicate": {

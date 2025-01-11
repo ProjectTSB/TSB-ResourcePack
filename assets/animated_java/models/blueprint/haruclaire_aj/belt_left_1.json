@@ -1,0 +1,40 @@
+{
+	"textures": {
+		"0": "animated_java:blueprint/haruclaire_aj/haruclaire_v3",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [7.5, 3.925, 8],
+			"to": [8.5, 8.075, 8],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [2.5, 3.675, 3.65]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 7.125, 0.125, 7.625],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [0, 6.5, 0, 7.625],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [0, 7.125, 0.125, 7.625],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [0.125, 6.5, 0.125, 7.625],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}
