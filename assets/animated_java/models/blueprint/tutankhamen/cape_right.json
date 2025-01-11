@@ -1,6 +1,7 @@
 {
 	"textures": {
-		"0": "animated_java:item/tutankhamen/texture"
+		"0": "animated_java:blueprint/tutankhamen/texture",
+		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
 		"head": {
@@ -9,36 +10,36 @@
 	},
 	"elements": [
 		{
-			"from": [2, -9, 8],
-			"to": [14, 8, 8],
+			"from": [8, -4, 7.5],
+			"to": [8, 8, 12.5],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
-				"origin": [2, -9, 8]
+				"origin": [12, -4, 7.5]
 			},
 			"faces": {
 				"north": {
-					"uv": [0, 4, 1.5, 6.125],
+					"uv": [1.875, 6.75, 1.875, 8.25],
 					"texture": "#0"
 				},
 				"east": {
-					"uv": [0, 4, 0, 6.125],
+					"uv": [1.25, 6.75, 1.875, 8.25],
 					"texture": "#0"
 				},
 				"south": {
-					"uv": [1.5, 4, 3, 6.125],
+					"uv": [2.5, 6.75, 2.5, 8.25],
 					"texture": "#0"
 				},
 				"west": {
-					"uv": [1.5, 4, 1.5, 6.125],
+					"uv": [1.875, 6.75, 2.5, 8.25],
 					"texture": "#0"
 				},
 				"up": {
-					"uv": [1.5, 4, 0, 4],
+					"uv": [1.875, 6.75, 1.875, 6.125],
 					"texture": "#0"
 				},
 				"down": {
-					"uv": [3, 4, 1.5, 4],
+					"uv": [1.875, 6.125, 1.875, 6.75],
 					"texture": "#0"
 				}
 			}

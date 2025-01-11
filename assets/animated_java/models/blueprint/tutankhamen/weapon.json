@@ -1,6 +1,7 @@
 {
 	"textures": {
-		"0": "animated_java:item/tutankhamen/texture"
+		"0": "animated_java:blueprint/tutankhamen/texture",
+		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
 		"head": {
