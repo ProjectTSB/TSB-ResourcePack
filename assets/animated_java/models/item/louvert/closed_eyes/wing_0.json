@@ -1,6 +1,0 @@
-{
-	"parent": "animated_java:item/louvert/wing_0",
-	"textures": {
-		"2": "animated_java:item/louvert/louvert_face_1"
-	}
-}
