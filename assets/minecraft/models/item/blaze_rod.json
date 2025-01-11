@@ -5168,121 +5168,121 @@
 			"predicate": {
 				"custom_model_data": 341001
 			},
-			"model": "animated_java:item/louvert/default/body_0"
+			"model": "animated_java:blueprint/louvert/body_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 341002
 			},
-			"model": "animated_java:item/louvert/default/head"
+			"model": "animated_java:blueprint/louvert/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 341003
 			},
-			"model": "animated_java:item/louvert/default/body_1"
+			"model": "animated_java:blueprint/louvert/body_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 341004
 			},
-			"model": "animated_java:item/louvert/default/coat_0"
+			"model": "animated_java:blueprint/louvert/coat_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 341005
 			},
-			"model": "animated_java:item/louvert/default/coat_1"
+			"model": "animated_java:blueprint/louvert/coat_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 341006
 			},
-			"model": "animated_java:item/louvert/default/coat_2"
+			"model": "animated_java:blueprint/louvert/coat_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 341007
 			},
-			"model": "animated_java:item/louvert/default/right_leg_0"
+			"model": "animated_java:blueprint/louvert/right_leg_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 341008
 			},
-			"model": "animated_java:item/louvert/default/right_leg_1"
+			"model": "animated_java:blueprint/louvert/right_leg_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 341009
 			},
-			"model": "animated_java:item/louvert/default/left_leg_0"
+			"model": "animated_java:blueprint/louvert/left_leg_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 341010
 			},
-			"model": "animated_java:item/louvert/default/left_leg_1"
+			"model": "animated_java:blueprint/louvert/left_leg_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 341011
 			},
-			"model": "animated_java:item/louvert/default/right_arm_0"
+			"model": "animated_java:blueprint/louvert/right_arm_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 341012
 			},
-			"model": "animated_java:item/louvert/default/right_arm_1"
+			"model": "animated_java:blueprint/louvert/right_arm_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 341013
 			},
-			"model": "animated_java:item/louvert/default/sword_0"
+			"model": "animated_java:blueprint/louvert/sword_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 341014
 			},
-			"model": "animated_java:item/louvert/default/left_arm_0"
+			"model": "animated_java:blueprint/louvert/left_arm_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 341015
 			},
-			"model": "animated_java:item/louvert/default/left_arm_1"
+			"model": "animated_java:blueprint/louvert/left_arm_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 341016
 			},
-			"model": "animated_java:item/louvert/default/sword_1"
+			"model": "animated_java:blueprint/louvert/sword_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 341017
 			},
-			"model": "animated_java:item/louvert/default/wing_0"
+			"model": "animated_java:blueprint/louvert/wing_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 341018
 			},
-			"model": "animated_java:item/louvert/default/wing_1"
+			"model": "animated_java:blueprint/louvert/wing_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 341019
 			},
-			"model": "animated_java:item/louvert/closed_eyes/head"
+			"model": "animated_java:blueprint/louvert/closed_eyes/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 341020
 			},
-			"model": "animated_java:item/louvert/normal/head"
+			"model": "animated_java:blueprint/louvert/normal/head"
 		},
 		{
 			"predicate": {

@@ -439,6 +439,36 @@
 			"assets/animated_java/models/blueprint/lexiel/sucidesword.json"
 		]
 	},
+	"louvert": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/textures/blueprint/louvert/louvert.png",
+			"assets/animated_java/textures/blueprint/louvert/louvert_face_1.png",
+			"assets/animated_java/textures/blueprint/louvert/louvert_face_0.png",
+			"assets/minecraft/atlases/blocks.json",
+			"assets/animated_java/textures/blueprint/transparent.png",
+			"assets/animated_java/models/blueprint/louvert/body_0.json",
+			"assets/animated_java/models/blueprint/louvert/head.json",
+			"assets/animated_java/models/blueprint/louvert/body_1.json",
+			"assets/animated_java/models/blueprint/louvert/coat_0.json",
+			"assets/animated_java/models/blueprint/louvert/coat_1.json",
+			"assets/animated_java/models/blueprint/louvert/coat_2.json",
+			"assets/animated_java/models/blueprint/louvert/right_leg_0.json",
+			"assets/animated_java/models/blueprint/louvert/right_leg_1.json",
+			"assets/animated_java/models/blueprint/louvert/left_leg_0.json",
+			"assets/animated_java/models/blueprint/louvert/left_leg_1.json",
+			"assets/animated_java/models/blueprint/louvert/right_arm_0.json",
+			"assets/animated_java/models/blueprint/louvert/right_arm_1.json",
+			"assets/animated_java/models/blueprint/louvert/sword_0.json",
+			"assets/animated_java/models/blueprint/louvert/left_arm_0.json",
+			"assets/animated_java/models/blueprint/louvert/left_arm_1.json",
+			"assets/animated_java/models/blueprint/louvert/sword_1.json",
+			"assets/animated_java/models/blueprint/louvert/wing_0.json",
+			"assets/animated_java/models/blueprint/louvert/wing_1.json",
+			"assets/animated_java/models/blueprint/louvert/closed_eyes/head.json",
+			"assets/animated_java/models/blueprint/louvert/normal/head.json"
+		]
+	},
 	"red_knight": {
 		"files": [
 			"assets/animated_java/models/empty.json",
