@@ -1,0 +1,7 @@
+{
+	"parent": "animated_java:blueprint/labyria/head",
+	"textures": {
+		"2": "animated_java:blueprint/labyria/labyria_face_3",
+		"5": "animated_java:blueprint/labyria/labyria_mayu_1"
+	}
+}

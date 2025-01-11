@@ -1,0 +1,7 @@
+{
+	"parent": "animated_java:blueprint/axia/head",
+	"textures": {
+		"1": "animated_java:blueprint/axia/axia_face_3",
+		"5": "animated_java:blueprint/axia/axia_mayu_3"
+	}
+}

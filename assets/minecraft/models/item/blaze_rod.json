@@ -5288,916 +5288,917 @@
 			"predicate": {
 				"custom_model_data": 391001
 			},
-			"model": "animated_java:item/axia/default/body_2"
+			"model": "animated_java:blueprint/axia/body_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391002
 			},
-			"model": "animated_java:item/axia/default/body_1"
+			"model": "animated_java:blueprint/axia/body_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391003
 			},
-			"model": "animated_java:item/axia/default/wing_right_1"
+			"model": "animated_java:blueprint/axia/wing_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391004
 			},
-			"model": "animated_java:item/axia/default/wing_right_2"
+			"model": "animated_java:blueprint/axia/wing_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391005
 			},
-			"model": "animated_java:item/axia/default/wing_left_1"
+			"model": "animated_java:blueprint/axia/wing_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391006
 			},
-			"model": "animated_java:item/axia/default/wing_left_2"
+			"model": "animated_java:blueprint/axia/wing_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391007
 			},
-			"model": "animated_java:item/axia/default/arm_right_1"
+			"model": "animated_java:blueprint/axia/arm_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391008
 			},
-			"model": "animated_java:item/axia/default/arm_right_2"
+			"model": "animated_java:blueprint/axia/arm_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391009
 			},
-			"model": "animated_java:item/axia/default/blade"
+			"model": "animated_java:blueprint/axia/blade"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391010
 			},
-			"model": "animated_java:item/axia/default/arm_left_1"
+			"model": "animated_java:blueprint/axia/arm_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391011
 			},
-			"model": "animated_java:item/axia/default/arm_left_2"
+			"model": "animated_java:blueprint/axia/arm_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391012
 			},
-			"model": "animated_java:item/axia/default/head"
+			"model": "animated_java:blueprint/axia/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391013
 			},
-			"model": "animated_java:item/axia/default/ear_right_1"
+			"model": "animated_java:blueprint/axia/ear_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391014
 			},
-			"model": "animated_java:item/axia/default/ear_edge_a1"
+			"model": "animated_java:blueprint/axia/ear_edge_a1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391015
 			},
-			"model": "animated_java:item/axia/default/ear_edge_a2"
+			"model": "animated_java:blueprint/axia/ear_edge_a2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391016
 			},
-			"model": "animated_java:item/axia/default/ear_right_2"
+			"model": "animated_java:blueprint/axia/ear_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391017
 			},
-			"model": "animated_java:item/axia/default/ear_edge_b1"
+			"model": "animated_java:blueprint/axia/ear_edge_b1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391018
 			},
-			"model": "animated_java:item/axia/default/ear_edge_b2"
+			"model": "animated_java:blueprint/axia/ear_edge_b2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391019
 			},
-			"model": "animated_java:item/axia/default/ear_left_1"
+			"model": "animated_java:blueprint/axia/ear_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391020
 			},
-			"model": "animated_java:item/axia/default/ear_edge_a3"
+			"model": "animated_java:blueprint/axia/ear_edge_a3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391021
 			},
-			"model": "animated_java:item/axia/default/ear_edge_a4"
+			"model": "animated_java:blueprint/axia/ear_edge_a4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391022
 			},
-			"model": "animated_java:item/axia/default/ear_left_2"
+			"model": "animated_java:blueprint/axia/ear_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391023
 			},
-			"model": "animated_java:item/axia/default/ear_edge_b3"
+			"model": "animated_java:blueprint/axia/ear_edge_b3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391024
 			},
-			"model": "animated_java:item/axia/default/ear_edge_b4"
+			"model": "animated_java:blueprint/axia/ear_edge_b4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391025
 			},
-			"model": "animated_java:item/axia/default/leg_left_1"
+			"model": "animated_java:blueprint/axia/leg_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391026
 			},
-			"model": "animated_java:item/axia/default/leg_left_2"
+			"model": "animated_java:blueprint/axia/leg_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391027
 			},
-			"model": "animated_java:item/axia/default/leg_right_1"
+			"model": "animated_java:blueprint/axia/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391028
 			},
-			"model": "animated_java:item/axia/default/leg_right_2"
+			"model": "animated_java:blueprint/axia/leg_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391029
 			},
-			"model": "animated_java:item/axia/default/coat_downer"
+			"model": "animated_java:blueprint/axia/coat_downer"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391030
 			},
-			"model": "animated_java:item/axia/jitome/head"
+			"model": "animated_java:blueprint/axia/jitome/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391031
 			},
-			"model": "animated_java:item/axia/mabataki/head"
+			"model": "animated_java:blueprint/axia/mabataki/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391032
 			},
-			"model": "animated_java:item/axia/mazime/head"
+			"model": "animated_java:blueprint/axia/mazime/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391033
 			},
-			"model": "animated_java:item/axia/wink/head"
+			"model": "animated_java:blueprint/axia/wink/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391034
 			},
-			"model": "animated_java:item/axia/yarare/head"
+			"model": "animated_java:blueprint/axia/yarare/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391035
 			},
-			"model": "animated_java:item/axia/normal/head"
+			"model": "animated_java:blueprint/axia/normal/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392001
 			},
-			"model": "animated_java:item/ecual/default/body_2"
+			"model": "animated_java:blueprint/ecual/body_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392002
 			},
-			"model": "animated_java:item/ecual/default/body_1"
+			"model": "animated_java:blueprint/ecual/body_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392003
 			},
-			"model": "animated_java:item/ecual/default/wing_right_1"
+			"model": "animated_java:blueprint/ecual/wing_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392004
 			},
-			"model": "animated_java:item/ecual/default/wing_right_2"
+			"model": "animated_java:blueprint/ecual/wing_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392005
 			},
-			"model": "animated_java:item/ecual/default/wing_left_1"
+			"model": "animated_java:blueprint/ecual/wing_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392006
 			},
-			"model": "animated_java:item/ecual/default/wing_left_2"
+			"model": "animated_java:blueprint/ecual/wing_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392007
 			},
-			"model": "animated_java:item/ecual/default/arm_right_1"
+			"model": "animated_java:blueprint/ecual/arm_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392008
 			},
-			"model": "animated_java:item/ecual/default/arm_right_2"
+			"model": "animated_java:blueprint/ecual/arm_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392009
 			},
-			"model": "animated_java:item/ecual/default/staff"
+			"model": "animated_java:blueprint/ecual/staff"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392010
 			},
-			"model": "animated_java:item/ecual/default/arm_left_1"
+			"model": "animated_java:blueprint/ecual/arm_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392011
 			},
-			"model": "animated_java:item/ecual/default/arm_left_2"
+			"model": "animated_java:blueprint/ecual/arm_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392012
 			},
-			"model": "animated_java:item/ecual/default/himo_right_1"
+			"model": "animated_java:blueprint/ecual/himo_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392013
 			},
-			"model": "animated_java:item/ecual/default/himo_right_2"
+			"model": "animated_java:blueprint/ecual/himo_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392014
 			},
-			"model": "animated_java:item/ecual/default/himo_left_1"
+			"model": "animated_java:blueprint/ecual/himo_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392015
 			},
-			"model": "animated_java:item/ecual/default/himo_left_2"
+			"model": "animated_java:blueprint/ecual/himo_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392016
 			},
-			"model": "animated_java:item/ecual/default/head"
+			"model": "animated_java:blueprint/ecual/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392017
 			},
-			"model": "animated_java:item/ecual/default/ponpon1"
+			"model": "animated_java:blueprint/ecual/ponpon1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392018
 			},
-			"model": "animated_java:item/ecual/default/ponpon2"
+			"model": "animated_java:blueprint/ecual/ponpon2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392019
 			},
-			"model": "animated_java:item/ecual/default/ponpon3"
+			"model": "animated_java:blueprint/ecual/ponpon3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392020
 			},
-			"model": "animated_java:item/ecual/default/ponpon4"
+			"model": "animated_java:blueprint/ecual/ponpon4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392021
 			},
-			"model": "animated_java:item/ecual/default/ear_right_1"
+			"model": "animated_java:blueprint/ecual/ear_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392022
 			},
-			"model": "animated_java:item/ecual/default/ear_edge_a1"
+			"model": "animated_java:blueprint/ecual/ear_edge_a1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392023
 			},
-			"model": "animated_java:item/ecual/default/ear_edge_a2"
+			"model": "animated_java:blueprint/ecual/ear_edge_a2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392024
 			},
-			"model": "animated_java:item/ecual/default/ear_right_2"
+			"model": "animated_java:blueprint/ecual/ear_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392025
 			},
-			"model": "animated_java:item/ecual/default/ear_edge_b1"
+			"model": "animated_java:blueprint/ecual/ear_edge_b1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392026
 			},
-			"model": "animated_java:item/ecual/default/ear_edge_b2"
+			"model": "animated_java:blueprint/ecual/ear_edge_b2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392027
 			},
-			"model": "animated_java:item/ecual/default/ear_left_1"
+			"model": "animated_java:blueprint/ecual/ear_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392028
 			},
-			"model": "animated_java:item/ecual/default/ear_edge_a3"
+			"model": "animated_java:blueprint/ecual/ear_edge_a3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392029
 			},
-			"model": "animated_java:item/ecual/default/ear_edge_a4"
+			"model": "animated_java:blueprint/ecual/ear_edge_a4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392030
 			},
-			"model": "animated_java:item/ecual/default/ear_left_2"
+			"model": "animated_java:blueprint/ecual/ear_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392031
 			},
-			"model": "animated_java:item/ecual/default/ear_edge_b3"
+			"model": "animated_java:blueprint/ecual/ear_edge_b3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392032
 			},
-			"model": "animated_java:item/ecual/default/ear_edge_b4"
+			"model": "animated_java:blueprint/ecual/ear_edge_b4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392033
 			},
-			"model": "animated_java:item/ecual/default/leg_left_1"
+			"model": "animated_java:blueprint/ecual/leg_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392034
 			},
-			"model": "animated_java:item/ecual/default/leg_left_2"
+			"model": "animated_java:blueprint/ecual/leg_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392035
 			},
-			"model": "animated_java:item/ecual/default/leg_right_1"
+			"model": "animated_java:blueprint/ecual/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392036
 			},
-			"model": "animated_java:item/ecual/default/leg_right_2"
+			"model": "animated_java:blueprint/ecual/leg_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392037
 			},
-			"model": "animated_java:item/ecual/default/skirt_forward"
+			"model": "animated_java:blueprint/ecual/skirt_forward"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392038
 			},
-			"model": "animated_java:item/ecual/default/skirt_forward_right"
+			"model": "animated_java:blueprint/ecual/skirt_forward_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392039
 			},
-			"model": "animated_java:item/ecual/default/skirt_forward_left"
+			"model": "animated_java:blueprint/ecual/skirt_forward_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392040
 			},
-			"model": "animated_java:item/ecual/default/skirt_back"
+			"model": "animated_java:blueprint/ecual/skirt_back"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392041
 			},
-			"model": "animated_java:item/ecual/default/skirt_back_right"
+			"model": "animated_java:blueprint/ecual/skirt_back_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392042
 			},
-			"model": "animated_java:item/ecual/default/skirt_back_left"
+			"model": "animated_java:blueprint/ecual/skirt_back_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392043
 			},
-			"model": "animated_java:item/ecual/default/skirt_right"
+			"model": "animated_java:blueprint/ecual/skirt_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392044
 			},
-			"model": "animated_java:item/ecual/default/skirt_left"
+			"model": "animated_java:blueprint/ecual/skirt_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392045
 			},
-			"model": "animated_java:item/ecual/default/coat_downer"
+			"model": "animated_java:blueprint/ecual/coat_downer"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392046
 			},
-			"model": "animated_java:item/ecual/default/book_loot_1"
+			"model": "animated_java:blueprint/ecual/book_loot_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392047
 			},
-			"model": "animated_java:item/ecual/default/book_left"
+			"model": "animated_java:blueprint/ecual/book_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392048
 			},
-			"model": "animated_java:item/ecual/default/book_right"
+			"model": "animated_java:blueprint/ecual/book_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392049
 			},
-			"model": "animated_java:item/ecual/default/book_loot_2"
+			"model": "animated_java:blueprint/ecual/book_loot_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392050
 			},
-			"model": "animated_java:item/ecual/default/book_left2"
+			"model": "animated_java:blueprint/ecual/book_left2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392051
 			},
-			"model": "animated_java:item/ecual/default/book_right2"
+			"model": "animated_java:blueprint/ecual/book_right2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392052
 			},
-			"model": "animated_java:item/ecual/default/air_staff_povit_1"
+			"model": "animated_java:blueprint/ecual/air_staff_povit_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392053
 			},
-			"model": "animated_java:item/ecual/jitome/head"
+			"model": "animated_java:blueprint/ecual/jitome/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392054
 			},
-			"model": "animated_java:item/ecual/mabataki/head"
+			"model": "animated_java:blueprint/ecual/mabaraki/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392055
 			},
-			"model": "animated_java:item/ecual/majime/head"
+			"model": "animated_java:blueprint/ecual/majime/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392056
 			},
-			"model": "animated_java:item/ecual/wink/head"
+			"model": "animated_java:blueprint/ecual/wink/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392057
 			},
-			"model": "animated_java:item/ecual/yarare/head"
+			"model": "animated_java:blueprint/ecual/yarare/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392058
 			},
-			"model": "animated_java:item/ecual/normal/head"
+			"model": "animated_java:blueprint/ecual/normal/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393001
 			},
-			"model": "animated_java:item/labyria/default/body_2"
+			"model": "animated_java:blueprint/labyria/body_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393002
 			},
-			"model": "animated_java:item/labyria/default/body_1"
+			"model": "animated_java:blueprint/labyria/body_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393003
 			},
-			"model": "animated_java:item/labyria/default/wing_right_1"
+			"model": "animated_java:blueprint/labyria/wing_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393004
 			},
-			"model": "animated_java:item/labyria/default/wing_right_2"
+			"model": "animated_java:blueprint/labyria/wing_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393005
 			},
-			"model": "animated_java:item/labyria/default/wing_left_1"
+			"model": "animated_java:blueprint/labyria/wing_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393006
 			},
-			"model": "animated_java:item/labyria/default/wing_left_2"
+			"model": "animated_java:blueprint/labyria/wing_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393007
 			},
-			"model": "animated_java:item/labyria/default/arm_right_1"
+			"model": "animated_java:blueprint/labyria/arm_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393008
 			},
-			"model": "animated_java:item/labyria/default/arm_right_2"
+			"model": "animated_java:blueprint/labyria/arm_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393009
 			},
-			"model": "animated_java:item/labyria/default/musket"
+			"model": "animated_java:blueprint/labyria/musket"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393010
 			},
-			"model": "animated_java:item/labyria/default/omega_blade"
+			"model": "animated_java:blueprint/labyria/omega_blade"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393011
 			},
-			"model": "animated_java:item/labyria/default/arm_left_1"
+			"model": "animated_java:blueprint/labyria/arm_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393012
 			},
-			"model": "animated_java:item/labyria/default/arm_left_2"
+			"model": "animated_java:blueprint/labyria/arm_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393013
 			},
-			"model": "animated_java:item/labyria/default/himo_right_1"
+			"model": "animated_java:blueprint/labyria/himo_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393014
 			},
-			"model": "animated_java:item/labyria/default/himo_right_2"
+			"model": "animated_java:blueprint/labyria/himo_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393015
 			},
-			"model": "animated_java:item/labyria/default/himo_left_1"
+			"model": "animated_java:blueprint/labyria/himo_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393016
 			},
-			"model": "animated_java:item/labyria/default/himo_left_2"
+			"model": "animated_java:blueprint/labyria/himo_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393017
 			},
-			"model": "animated_java:item/labyria/default/head"
+			"model": "animated_java:blueprint/labyria/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393018
 			},
-			"model": "animated_java:item/labyria/default/ribbon_left"
+			"model": "animated_java:blueprint/labyria/ribbon_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393019
 			},
-			"model": "animated_java:item/labyria/default/ribbon_left_himo_1"
+			"model": "animated_java:blueprint/labyria/ribbon_left_himo_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393020
 			},
-			"model": "animated_java:item/labyria/default/ribbon_left_himo_2"
+			"model": "animated_java:blueprint/labyria/ribbon_left_himo_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393021
 			},
-			"model": "animated_java:item/labyria/default/ribbon_right"
+			"model": "animated_java:blueprint/labyria/ribbon_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393022
 			},
-			"model": "animated_java:item/labyria/default/ribbon_right_himo_1"
+			"model": "animated_java:blueprint/labyria/ribbon_right_himo_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393023
 			},
-			"model": "animated_java:item/labyria/default/ribbon_right_himo_2"
+			"model": "animated_java:blueprint/labyria/ribbon_right_himo_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393024
 			},
-			"model": "animated_java:item/labyria/default/crown"
+			"model": "animated_java:blueprint/labyria/crown"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393025
 			},
-			"model": "animated_java:item/labyria/default/ear_right_1"
+			"model": "animated_java:blueprint/labyria/ear_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393026
 			},
-			"model": "animated_java:item/labyria/default/ear_edge_a1"
+			"model": "animated_java:blueprint/labyria/ear_edge_a1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393027
 			},
-			"model": "animated_java:item/labyria/default/ear_edge_a2"
+			"model": "animated_java:blueprint/labyria/ear_edge_a2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393028
 			},
-			"model": "animated_java:item/labyria/default/ear_right_2"
+			"model": "animated_java:blueprint/labyria/ear_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393029
 			},
-			"model": "animated_java:item/labyria/default/ear_edge_b1"
+			"model": "animated_java:blueprint/labyria/ear_edge_b1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393030
 			},
-			"model": "animated_java:item/labyria/default/ear_edge_b2"
+			"model": "animated_java:blueprint/labyria/ear_edge_b2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393031
 			},
-			"model": "animated_java:item/labyria/default/ear_left_1"
+			"model": "animated_java:blueprint/labyria/ear_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393032
 			},
-			"model": "animated_java:item/labyria/default/ear_edge_a3"
+			"model": "animated_java:blueprint/labyria/ear_edge_a3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393033
 			},
-			"model": "animated_java:item/labyria/default/ear_edge_a4"
+			"model": "animated_java:blueprint/labyria/ear_edge_a4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393034
 			},
-			"model": "animated_java:item/labyria/default/ear_left_2"
+			"model": "animated_java:blueprint/labyria/ear_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393035
 			},
-			"model": "animated_java:item/labyria/default/ear_edge_b3"
+			"model": "animated_java:blueprint/labyria/ear_edge_b3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393036
 			},
-			"model": "animated_java:item/labyria/default/ear_edge_b4"
+			"model": "animated_java:blueprint/labyria/ear_edge_b4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393037
 			},
-			"model": "animated_java:item/labyria/default/back_musket"
+			"model": "animated_java:blueprint/labyria/back_musket"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393038
 			},
-			"model": "animated_java:item/labyria/default/leg_left_1"
+			"model": "animated_java:blueprint/labyria/leg_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393039
 			},
-			"model": "animated_java:item/labyria/default/leg_left_2"
+			"model": "animated_java:blueprint/labyria/leg_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393040
 			},
-			"model": "animated_java:item/labyria/default/belt2"
+			"model": "animated_java:blueprint/labyria/belt2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393041
 			},
-			"model": "animated_java:item/labyria/default/leg_right_1"
+			"model": "animated_java:blueprint/labyria/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393042
 			},
-			"model": "animated_java:item/labyria/default/belt"
+			"model": "animated_java:blueprint/labyria/belt"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393043
 			},
-			"model": "animated_java:item/labyria/default/leg_right_2"
+			"model": "animated_java:blueprint/labyria/leg_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393044
 			},
-			"model": "animated_java:item/labyria/default/skirt_forward"
+			"model": "animated_java:blueprint/labyria/skirt_forward"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393045
 			},
-			"model": "animated_java:item/labyria/default/skirt_forward_right"
+			"model": "animated_java:blueprint/labyria/skirt_forward_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393046
 			},
-			"model": "animated_java:item/labyria/default/skirt_forward_left"
+			"model": "animated_java:blueprint/labyria/skirt_forward_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393047
 			},
-			"model": "animated_java:item/labyria/default/skirt_back"
+			"model": "animated_java:blueprint/labyria/skirt_back"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393048
 			},
-			"model": "animated_java:item/labyria/default/skirt_back_right"
+			"model": "animated_java:blueprint/labyria/skirt_back_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393049
 			},
-			"model": "animated_java:item/labyria/default/skirt_back_left"
+			"model": "animated_java:blueprint/labyria/skirt_back_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393050
 			},
-			"model": "animated_java:item/labyria/default/skirt_right"
+			"model": "animated_java:blueprint/labyria/skirt_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393051
 			},
-			"model": "animated_java:item/labyria/default/skirt_left"
+			"model": "animated_java:blueprint/labyria/skirt_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393052
 			},
-			"model": "animated_java:item/labyria/default/coat_downer"
+			"model": "animated_java:blueprint/labyria/coat_downer"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393053
 			},
-			"model": "animated_java:item/labyria/default/sphere"
+			"model": "animated_java:blueprint/labyria/sphere"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393054
 			},
-			"model": "animated_java:item/labyria/jitome/head"
+			"model": "animated_java:blueprint/labyria/jitome/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393055
 			},
-			"model": "animated_java:item/labyria/mabataki/head"
+			"model": "animated_java:blueprint/labyria/mabataki/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393056
 			},
-			"model": "animated_java:item/labyria/majime/head"
+			"model": "animated_java:blueprint/labyria/majime/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393057
 			},
-			"model": "animated_java:item/labyria/yarare/head"
+			"model": "animated_java:blueprint/labyria/yarare/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393058
 			},
-			"model": "animated_java:item/labyria/normal/head"
+			"model": "animated_java:blueprint/labyria/normal/head"
 		}
 	],
 	"animated_java": {
-		"axia": [1, 391001, 391002, 391003, 391004, 391005, 391006, 391007, 391008, 391009, 391010, 391011, 391012, 391013, 391014, 391015, 391016, 391017, 391018, 391019, 391020, 391021, 391022, 391023, 391024, 391025, 391026, 391027, 391028, 391029, 391030, 391031, 391032, 391033, 391034, 391035],
+		"axia": [391001, 391002, 391003, 391004, 391005, 391006, 391007, 391008, 391009, 391010, 391011, 391012, 391013, 391014, 391015, 391016, 391017, 391018, 391019, 391020, 391021, 391022, 391023, 391024, 391025, 391026, 391027, 391028, 391029, 391030, 391031, 391032, 391033, 391034, 391035],
 		"behemoth_aj": [422, 423, 424, 425, 426, 427, 428, 429, 430, 431, 432, 433, 434, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458],
 		"blazing_inferno": [238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251],
 		"convict": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
 		"eclael": [499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534],
 		"ecual": [
+			1,
 			392001,
 			392002,
 			392003,

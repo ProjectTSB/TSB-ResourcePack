@@ -1,7 +1,0 @@
-{
-	"parent": "animated_java:item/ecual/default/head",
-	"textures": {
-		"1": "animated_java:item/eclael/ecual_face_1",
-		"5": "animated_java:item/eclael/ecual_mayu_2"
-	}
-}

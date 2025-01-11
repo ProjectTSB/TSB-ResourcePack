@@ -1,0 +1,7 @@
+{
+	"parent": "animated_java:blueprint/ecual/head",
+	"textures": {
+		"1": "animated_java:blueprint/ecual/ecual_face_3",
+		"5": "animated_java:blueprint/ecual/ecual_mayu_1"
+	}
+}
