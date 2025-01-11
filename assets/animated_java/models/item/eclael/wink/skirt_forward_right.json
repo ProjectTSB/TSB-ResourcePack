@@ -1,7 +1,0 @@
-{
-	"parent": "animated_java:item/eclael/skirt_forward_right",
-	"textures": {
-		"3": "animated_java:item/eclael/eclael_face_wink",
-		"4": "animated_java:item/eclael/eclael_face_wink"
-	}
-}
