@@ -1,6 +1,7 @@
 {
 	"textures": {
-		"0": "animated_java:item/convict/texture"
+		"0": "animated_java:blueprint/convict/texture",
+		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
 		"head": {
@@ -9,8 +10,8 @@
 	},
 	"elements": [
 		{
-			"from": [5, 1, 5],
-			"to": [11, 15, 11],
+			"from": [5, -3, 5],
+			"to": [11, 11, 11],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
@@ -18,27 +19,27 @@
 			},
 			"faces": {
 				"north": {
-					"uv": [5.875, 0, 6.375, 1.5],
+					"uv": [5.5, 3, 6, 4.5],
 					"texture": "#0"
 				},
 				"east": {
-					"uv": [5.875, 1.5, 6.375, 3],
+					"uv": [5.5, 4.5, 6, 6],
 					"texture": "#0"
 				},
 				"south": {
-					"uv": [1, 6, 1.5, 7.5],
+					"uv": [0, 5.75, 0.5, 7.25],
 					"texture": "#0"
 				},
 				"west": {
-					"uv": [1.5, 6, 2, 7.5],
+					"uv": [0.5, 5.75, 1, 7.25],
 					"texture": "#0"
 				},
 				"up": {
-					"uv": [7.875, 0.5, 7.375, 0],
+					"uv": [1, 7.75, 0.5, 7.25],
 					"texture": "#0"
 				},
 				"down": {
-					"uv": [7.875, 0.5, 7.375, 1],
+					"uv": [7.75, 7, 7.25, 7.5],
 					"texture": "#0"
 				}
 			}

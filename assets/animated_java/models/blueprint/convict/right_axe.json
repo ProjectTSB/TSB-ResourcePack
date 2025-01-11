@@ -1,6 +1,7 @@
 {
 	"textures": {
-		"0": "animated_java:item/convict/texture"
+		"0": "animated_java:blueprint/convict/texture",
+		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
 		"head": {

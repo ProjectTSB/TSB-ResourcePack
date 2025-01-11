@@ -75,20 +75,21 @@
 	"convict": {
 		"files": [
 			"assets/animated_java/models/empty.json",
-			"assets/animated_java/textures/item/convict/texture.png",
-			"assets/animated_java/textures/item/transparent.png",
-			"assets/animated_java/models/item/convict/default/left_leg.json",
-			"assets/animated_java/models/item/convict/default/left_leg_2.json",
-			"assets/animated_java/models/item/convict/default/right_leg.json",
-			"assets/animated_java/models/item/convict/default/right_leg_2.json",
-			"assets/animated_java/models/item/convict/default/body.json",
-			"assets/animated_java/models/item/convict/default/head.json",
-			"assets/animated_java/models/item/convict/default/left_arm.json",
-			"assets/animated_java/models/item/convict/default/left_arm_2.json",
-			"assets/animated_java/models/item/convict/default/left_axe.json",
-			"assets/animated_java/models/item/convict/default/right_arm.json",
-			"assets/animated_java/models/item/convict/default/right_arm_2.json",
-			"assets/animated_java/models/item/convict/default/right_axe.json"
+			"assets/animated_java/textures/blueprint/convict/texture.png",
+			"assets/minecraft/atlases/blocks.json",
+			"assets/animated_java/textures/blueprint/transparent.png",
+			"assets/animated_java/models/blueprint/convict/left_leg.json",
+			"assets/animated_java/models/blueprint/convict/left_leg_2.json",
+			"assets/animated_java/models/blueprint/convict/right_leg.json",
+			"assets/animated_java/models/blueprint/convict/right_leg_2.json",
+			"assets/animated_java/models/blueprint/convict/body.json",
+			"assets/animated_java/models/blueprint/convict/head.json",
+			"assets/animated_java/models/blueprint/convict/left_arm.json",
+			"assets/animated_java/models/blueprint/convict/left_arm_2.json",
+			"assets/animated_java/models/blueprint/convict/left_axe.json",
+			"assets/animated_java/models/blueprint/convict/right_arm.json",
+			"assets/animated_java/models/blueprint/convict/right_arm_2.json",
+			"assets/animated_java/models/blueprint/convict/right_axe.json"
 		]
 	},
 	"ecual": {
