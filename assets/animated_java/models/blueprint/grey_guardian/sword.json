@@ -1,6 +1,7 @@
 {
 	"textures": {
-		"2": "animated_java:item/grey_guardian/sword"
+		"2": "animated_java:blueprint/grey_guardian/sword",
+		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
 		"head": {
