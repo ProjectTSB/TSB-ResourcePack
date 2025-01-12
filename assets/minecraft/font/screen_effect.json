@@ -4,7 +4,7 @@
             "type": "bitmap",
             "file": "minecraft:font/screen_effect/fade.png",
             "height": 3200,
-            "ascent": 128,
+            "ascent": 256,
             "chars": [
                 "\uE010"
             ]
