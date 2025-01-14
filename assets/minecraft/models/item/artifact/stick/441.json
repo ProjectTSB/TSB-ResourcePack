@@ -1,3 +1,6 @@
 {
-    "parent": "item/iron_pickaxe"
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/artifact/stick/441"
+    }
 }
