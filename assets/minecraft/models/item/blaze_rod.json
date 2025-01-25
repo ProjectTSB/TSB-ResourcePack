@@ -5166,6 +5166,342 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 861
+			},
+			"model": "animated_java:blueprint/terrible_sonic_bomber/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 862
+			},
+			"model": "animated_java:blueprint/terrible_sonic_bomber/radder1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 863
+			},
+			"model": "animated_java:blueprint/terrible_sonic_bomber/right_wing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 864
+			},
+			"model": "animated_java:blueprint/terrible_sonic_bomber/right_aileron"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 865
+			},
+			"model": "animated_java:blueprint/terrible_sonic_bomber/right_hp1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 866
+			},
+			"model": "animated_java:blueprint/terrible_sonic_bomber/right_hp2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 867
+			},
+			"model": "animated_java:blueprint/terrible_sonic_bomber/left_elevetor"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 868
+			},
+			"model": "animated_java:blueprint/terrible_sonic_bomber/right_elevetor"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 869
+			},
+			"model": "animated_java:blueprint/terrible_sonic_bomber/left_wing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 870
+			},
+			"model": "animated_java:blueprint/terrible_sonic_bomber/left_aileron"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 871
+			},
+			"model": "animated_java:blueprint/terrible_sonic_bomber/left_hp2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 872
+			},
+			"model": "animated_java:blueprint/terrible_sonic_bomber/left_hp1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 873
+			},
+			"model": "animated_java:blueprint/patriot_launcher/root1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 874
+			},
+			"model": "animated_java:blueprint/patriot_launcher/turret3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 875
+			},
+			"model": "animated_java:blueprint/patriot_launcher/radar1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 876
+			},
+			"model": "animated_java:blueprint/patriot_launcher/arm1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 877
+			},
+			"model": "animated_java:blueprint/patriot_launcher/missile1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 878
+			},
+			"model": "animated_java:blueprint/patriot_launcher/wheels9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 879
+			},
+			"model": "animated_java:blueprint/patriot_launcher/wheels10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 880
+			},
+			"model": "animated_java:blueprint/patriot_launcher/wheels11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 881
+			},
+			"model": "animated_java:blueprint/patriot_launcher/wheels12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 882
+			},
+			"model": "animated_java:blueprint/patriot_launcher/wheels13"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 883
+			},
+			"model": "animated_java:blueprint/patriot_launcher/wheels14"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 884
+			},
+			"model": "animated_java:blueprint/patriot_launcher/wheels15"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 885
+			},
+			"model": "animated_java:blueprint/patriot_launcher/ritai_left1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 886
+			},
+			"model": "animated_java:blueprint/patriot_launcher/wheels2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 887
+			},
+			"model": "animated_java:blueprint/patriot_launcher/wheels3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 888
+			},
+			"model": "animated_java:blueprint/patriot_launcher/wheels4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 889
+			},
+			"model": "animated_java:blueprint/patriot_launcher/wheels5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 890
+			},
+			"model": "animated_java:blueprint/patriot_launcher/wheels6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 891
+			},
+			"model": "animated_java:blueprint/patriot_launcher/wheels1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 892
+			},
+			"model": "animated_java:blueprint/patriot_launcher/wheels7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 893
+			},
+			"model": "animated_java:blueprint/patriot_launcher/missile2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 894
+			},
+			"model": "animated_java:blueprint/patriot_launcher/lid1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 895
+			},
+			"model": "animated_java:blueprint/patriot_launcher/destroyed/radar1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 896
+			},
+			"model": "animated_java:blueprint/patriot_launcher/destroyed/missile1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 897
+			},
+			"model": "animated_java:blueprint/patriot_launcher/destroyed/arm1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 898
+			},
+			"model": "animated_java:blueprint/patriot_launcher/destroyed/turret3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 899
+			},
+			"model": "animated_java:blueprint/patriot_launcher/destroyed/wheels9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 900
+			},
+			"model": "animated_java:blueprint/patriot_launcher/destroyed/wheels10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 901
+			},
+			"model": "animated_java:blueprint/patriot_launcher/destroyed/wheels11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 902
+			},
+			"model": "animated_java:blueprint/patriot_launcher/destroyed/wheels12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 903
+			},
+			"model": "animated_java:blueprint/patriot_launcher/destroyed/wheels13"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 904
+			},
+			"model": "animated_java:blueprint/patriot_launcher/destroyed/wheels14"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 905
+			},
+			"model": "animated_java:blueprint/patriot_launcher/destroyed/wheels15"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 906
+			},
+			"model": "animated_java:blueprint/patriot_launcher/destroyed/wheels2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 907
+			},
+			"model": "animated_java:blueprint/patriot_launcher/destroyed/wheels3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 908
+			},
+			"model": "animated_java:blueprint/patriot_launcher/destroyed/wheels4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 909
+			},
+			"model": "animated_java:blueprint/patriot_launcher/destroyed/wheels5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 910
+			},
+			"model": "animated_java:blueprint/patriot_launcher/destroyed/wheels6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 911
+			},
+			"model": "animated_java:blueprint/patriot_launcher/destroyed/wheels1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 912
+			},
+			"model": "animated_java:blueprint/patriot_launcher/destroyed/wheels7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 913
+			},
+			"model": "animated_java:blueprint/patriot_launcher/destroyed/ritai_left1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 914
+			},
+			"model": "animated_java:blueprint/patriot_launcher/destroyed/missile2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 915
+			},
+			"model": "animated_java:blueprint/patriot_launcher/destroyed/lid1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 916
+			},
+			"model": "animated_java:blueprint/patriot_launcher/destroyed/root1"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 341001
 			},
 			"model": "animated_java:blueprint/louvert/body_0"
@@ -6576,7 +6912,9 @@
 		],
 		"lexiel": [398, 399, 400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 417, 418, 419, 420, 421],
 		"louvert": [341001, 341002, 341003, 341004, 341005, 341006, 341007, 341008, 341009, 341010, 341011, 341012, 341013, 341014, 341015, 341016, 341017, 341018, 341019, 341020],
+		"patriot_launcher": [873, 874, 875, 876, 877, 878, 879, 880, 881, 882, 883, 884, 885, 886, 887, 888, 889, 890, 891, 892, 893, 894, 895, 896, 897, 898, 899, 900, 901, 902, 903, 904, 905, 906, 907, 908, 909, 910, 911, 912, 913, 914, 915, 916],
 		"red_knight": [74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86],
+		"terrible_sonic_bomber": [861, 862, 863, 864, 865, 866, 867, 868, 869, 870, 871, 872],
 		"tiamat_aj": [459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496],
 		"tultaria": [252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 497, 498],
 		"tutankhamen": [14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29],

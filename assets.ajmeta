@@ -469,6 +469,59 @@
 			"assets/animated_java/models/blueprint/louvert/normal/head.json"
 		]
 	},
+	"patriot_launcher": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/textures/blueprint/patriot_launcher/aa_missile_launcher.png",
+			"assets/animated_java/textures/blueprint/patriot_launcher/aa_missile_launcher_destroy.png",
+			"assets/minecraft/atlases/blocks.json",
+			"assets/animated_java/textures/blueprint/transparent.png",
+			"assets/animated_java/models/blueprint/patriot_launcher/root1.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/turret3.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/radar1.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/arm1.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/missile1.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/wheels9.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/wheels10.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/wheels11.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/wheels12.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/wheels13.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/wheels14.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/wheels15.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/ritai_left1.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/wheels2.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/wheels3.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/wheels4.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/wheels5.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/wheels6.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/wheels1.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/wheels7.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/missile2.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/lid1.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/destroyed/radar1.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/destroyed/missile1.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/destroyed/arm1.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/destroyed/turret3.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/destroyed/wheels9.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/destroyed/wheels10.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/destroyed/wheels11.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/destroyed/wheels12.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/destroyed/wheels13.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/destroyed/wheels14.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/destroyed/wheels15.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/destroyed/wheels2.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/destroyed/wheels3.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/destroyed/wheels4.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/destroyed/wheels5.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/destroyed/wheels6.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/destroyed/wheels1.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/destroyed/wheels7.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/destroyed/ritai_left1.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/destroyed/missile2.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/destroyed/lid1.json",
+			"assets/animated_java/models/blueprint/patriot_launcher/destroyed/root1.json"
+		]
+	},
 	"red_knight": {
 		"files": [
 			"assets/animated_java/models/empty.json",
@@ -489,6 +542,27 @@
 			"assets/animated_java/models/blueprint/red_knight/right_leg.json",
 			"assets/animated_java/models/blueprint/red_knight/right_foot.json",
 			"assets/animated_java/models/blueprint/red_knight/weapon_ground.json"
+		]
+	},
+	"terrible_sonic_bomber": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/textures/blueprint/terrible_sonic_bomber/terrible_sonic_bomber.png",
+			"assets/animated_java/textures/blueprint/terrible_sonic_bomber/tsb_icon_lowvis.png",
+			"assets/minecraft/atlases/blocks.json",
+			"assets/animated_java/textures/blueprint/transparent.png",
+			"assets/animated_java/models/blueprint/terrible_sonic_bomber/body.json",
+			"assets/animated_java/models/blueprint/terrible_sonic_bomber/radder1.json",
+			"assets/animated_java/models/blueprint/terrible_sonic_bomber/right_wing.json",
+			"assets/animated_java/models/blueprint/terrible_sonic_bomber/right_aileron.json",
+			"assets/animated_java/models/blueprint/terrible_sonic_bomber/right_hp1.json",
+			"assets/animated_java/models/blueprint/terrible_sonic_bomber/right_hp2.json",
+			"assets/animated_java/models/blueprint/terrible_sonic_bomber/left_elevetor.json",
+			"assets/animated_java/models/blueprint/terrible_sonic_bomber/right_elevetor.json",
+			"assets/animated_java/models/blueprint/terrible_sonic_bomber/left_wing.json",
+			"assets/animated_java/models/blueprint/terrible_sonic_bomber/left_aileron.json",
+			"assets/animated_java/models/blueprint/terrible_sonic_bomber/left_hp2.json",
+			"assets/animated_java/models/blueprint/terrible_sonic_bomber/left_hp1.json"
 		]
 	},
 	"tultaria": {
