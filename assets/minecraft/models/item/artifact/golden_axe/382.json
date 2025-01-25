@@ -1,5 +1,5 @@
 {
-    "parent": "item/handheld/32",
+    "parent": "item/handheld",
     "textures": {
         "layer0": "item/artifact/golden_axe/382"
     }

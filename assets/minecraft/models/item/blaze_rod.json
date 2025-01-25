@@ -248,199 +248,199 @@
 			"predicate": {
 				"custom_model_data": 41
 			},
-			"model": "animated_java:item/heiloang/body_1"
+			"model": "animated_java:blueprint/heiloang_aj/body_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 42
 			},
-			"model": "animated_java:item/heiloang/body_0"
+			"model": "animated_java:blueprint/heiloang_aj/body_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 43
 			},
-			"model": "animated_java:item/heiloang/neck_3"
+			"model": "animated_java:blueprint/heiloang_aj/neck_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 44
 			},
-			"model": "animated_java:item/heiloang/neck_2"
+			"model": "animated_java:blueprint/heiloang_aj/neck_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 45
 			},
-			"model": "animated_java:item/heiloang/neck_1"
+			"model": "animated_java:blueprint/heiloang_aj/neck_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 46
 			},
-			"model": "animated_java:item/heiloang/neck_0"
+			"model": "animated_java:blueprint/heiloang_aj/neck_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 47
 			},
-			"model": "animated_java:item/heiloang/head_upper"
+			"model": "animated_java:blueprint/heiloang_aj/head_upper"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 48
 			},
-			"model": "animated_java:item/heiloang/flame_model"
+			"model": "animated_java:blueprint/heiloang_aj/flame_model"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 49
 			},
-			"model": "animated_java:item/heiloang/head_lower"
+			"model": "animated_java:blueprint/heiloang_aj/head_lower"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 50
 			},
-			"model": "animated_java:item/heiloang/horne_right"
+			"model": "animated_java:blueprint/heiloang_aj/horne_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 51
 			},
-			"model": "animated_java:item/heiloang/horne_left"
+			"model": "animated_java:blueprint/heiloang_aj/horne_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 52
 			},
-			"model": "animated_java:item/heiloang/wing_right_0"
+			"model": "animated_java:blueprint/heiloang_aj/wing_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 53
 			},
-			"model": "animated_java:item/heiloang/wing_right_1"
+			"model": "animated_java:blueprint/heiloang_aj/wing_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 54
 			},
-			"model": "animated_java:item/heiloang/wing_right_2"
+			"model": "animated_java:blueprint/heiloang_aj/wing_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 55
 			},
-			"model": "animated_java:item/heiloang/wing_left_0"
+			"model": "animated_java:blueprint/heiloang_aj/wing_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 56
 			},
-			"model": "animated_java:item/heiloang/wing_left_1"
+			"model": "animated_java:blueprint/heiloang_aj/wing_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 57
 			},
-			"model": "animated_java:item/heiloang/wing_left_2"
+			"model": "animated_java:blueprint/heiloang_aj/wing_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 58
 			},
-			"model": "animated_java:item/heiloang/ring"
+			"model": "animated_java:blueprint/heiloang_aj/ring"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 59
 			},
-			"model": "animated_java:item/heiloang/kazari_right"
+			"model": "animated_java:blueprint/heiloang_aj/kazari_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 60
 			},
-			"model": "animated_java:item/heiloang/kazari_left"
+			"model": "animated_java:blueprint/heiloang_aj/kazari_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 61
 			},
-			"model": "animated_java:item/heiloang/leg_right_0"
+			"model": "animated_java:blueprint/heiloang_aj/leg_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 62
 			},
-			"model": "animated_java:item/heiloang/leg_right_1"
+			"model": "animated_java:blueprint/heiloang_aj/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 63
 			},
-			"model": "animated_java:item/heiloang/leg_right_2"
+			"model": "animated_java:blueprint/heiloang_aj/leg_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 64
 			},
-			"model": "animated_java:item/heiloang/leg_right_3"
+			"model": "animated_java:blueprint/heiloang_aj/leg_right_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 65
 			},
-			"model": "animated_java:item/heiloang/leg_left_0"
+			"model": "animated_java:blueprint/heiloang_aj/leg_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 66
 			},
-			"model": "animated_java:item/heiloang/leg_left_1"
+			"model": "animated_java:blueprint/heiloang_aj/leg_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 67
 			},
-			"model": "animated_java:item/heiloang/leg_left_2"
+			"model": "animated_java:blueprint/heiloang_aj/leg_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 68
 			},
-			"model": "animated_java:item/heiloang/leg_left_3"
+			"model": "animated_java:blueprint/heiloang_aj/leg_left_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 69
 			},
-			"model": "animated_java:item/heiloang/tail_0"
+			"model": "animated_java:blueprint/heiloang_aj/tail_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 70
 			},
-			"model": "animated_java:item/heiloang/tail_1"
+			"model": "animated_java:blueprint/heiloang_aj/tail_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 71
 			},
-			"model": "animated_java:item/heiloang/tail_2"
+			"model": "animated_java:blueprint/heiloang_aj/tail_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 72
 			},
-			"model": "animated_java:item/heiloang/tail_3"
+			"model": "animated_java:blueprint/heiloang_aj/tail_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 73
 			},
-			"model": "animated_java:item/heiloang/tail_4"
+			"model": "animated_java:blueprint/heiloang_aj/tail_4"
 		},
 		{
 			"predicate": {
@@ -524,7 +524,7 @@
 			"predicate": {
 				"custom_model_data": 87
 			},
-			"model": "animated_java:item/heiloang/tail_ring"
+			"model": "animated_java:blueprint/heiloang_aj/tail_ring"
 		},
 		{
 			"predicate": {
@@ -2996,2173 +2996,2179 @@
 			"predicate": {
 				"custom_model_data": 499
 			},
-			"model": "animated_java:item/eclael/body_1"
+			"model": "animated_java:blueprint/eclael/body_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 500
 			},
-			"model": "animated_java:item/eclael/body_0"
+			"model": "animated_java:blueprint/eclael/body_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 501
 			},
-			"model": "animated_java:item/eclael/head"
+			"model": "animated_java:blueprint/eclael/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 502
 			},
-			"model": "animated_java:item/eclael/arm_right_0"
+			"model": "animated_java:blueprint/eclael/arm_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 503
 			},
-			"model": "animated_java:item/eclael/arm_right_1"
+			"model": "animated_java:blueprint/eclael/arm_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 504
 			},
-			"model": "animated_java:item/eclael/sword"
+			"model": "animated_java:blueprint/eclael/sword"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 505
 			},
-			"model": "animated_java:item/eclael/eclael_sword_blade"
+			"model": "animated_java:blueprint/eclael/eclael_sword_blade"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 506
 			},
-			"model": "animated_java:item/eclael/eclael_sword_blade_long"
+			"model": "animated_java:blueprint/eclael/eclael_sword_blade_long"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 507
 			},
-			"model": "animated_java:item/eclael/bow"
+			"model": "animated_java:blueprint/eclael/bow"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 508
 			},
-			"model": "animated_java:item/eclael/bow_pulling"
+			"model": "animated_java:blueprint/eclael/bow_pulling"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 509
 			},
-			"model": "animated_java:item/eclael/arm_left_0"
+			"model": "animated_java:blueprint/eclael/arm_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 510
 			},
-			"model": "animated_java:item/eclael/arm_left_1"
+			"model": "animated_java:blueprint/eclael/arm_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 511
 			},
-			"model": "animated_java:item/eclael/parker_himo"
+			"model": "animated_java:blueprint/eclael/parker_himo"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 512
 			},
-			"model": "animated_java:item/eclael/scarf_up_right"
+			"model": "animated_java:blueprint/eclael/scarf_up_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 513
 			},
-			"model": "animated_java:item/eclael/scarf_down_right"
+			"model": "animated_java:blueprint/eclael/scarf_down_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 514
 			},
-			"model": "animated_java:item/eclael/scarf_up_left"
+			"model": "animated_java:blueprint/eclael/scarf_up_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 515
 			},
-			"model": "animated_java:item/eclael/scarf_down_left"
+			"model": "animated_java:blueprint/eclael/scarf_down_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 516
 			},
-			"model": "animated_java:item/eclael/theathe_bow"
+			"model": "animated_java:blueprint/eclael/theathe_bow"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 517
 			},
-			"model": "animated_java:item/eclael/wing_right"
+			"model": "animated_java:blueprint/eclael/wing_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 518
 			},
-			"model": "animated_java:item/eclael/wing_left"
+			"model": "animated_java:blueprint/eclael/wing_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 519
 			},
-			"model": "animated_java:item/eclael/leg_right_0"
+			"model": "animated_java:blueprint/eclael/leg_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 520
 			},
-			"model": "animated_java:item/eclael/leg_right_1"
+			"model": "animated_java:blueprint/eclael/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 521
 			},
-			"model": "animated_java:item/eclael/leg_left_0"
+			"model": "animated_java:blueprint/eclael/leg_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 522
 			},
-			"model": "animated_java:item/eclael/leg_left_1"
+			"model": "animated_java:blueprint/eclael/leg_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 523
 			},
-			"model": "animated_java:item/eclael/skirt_forward"
+			"model": "animated_java:blueprint/eclael/skirt_forward"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 524
 			},
-			"model": "animated_java:item/eclael/skirt_forward_right"
+			"model": "animated_java:blueprint/eclael/skirt_forward_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 525
 			},
-			"model": "animated_java:item/eclael/skirt_forward_left"
+			"model": "animated_java:blueprint/eclael/skirt_forward_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 526
 			},
-			"model": "animated_java:item/eclael/skirt_back"
+			"model": "animated_java:blueprint/eclael/skirt_back"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 527
 			},
-			"model": "animated_java:item/eclael/skirt_back_right"
+			"model": "animated_java:blueprint/eclael/skirt_back_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 528
 			},
-			"model": "animated_java:item/eclael/skirt_back_left"
+			"model": "animated_java:blueprint/eclael/skirt_back_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 529
 			},
-			"model": "animated_java:item/eclael/skirt_right"
+			"model": "animated_java:blueprint/eclael/skirt_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 530
 			},
-			"model": "animated_java:item/eclael/skirt_left"
+			"model": "animated_java:blueprint/eclael/skirt_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 531
 			},
-			"model": "animated_java:item/eclael/sword_sheathe"
+			"model": "animated_java:blueprint/eclael/sword_sheathe"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 532
 			},
-			"model": "animated_java:item/eclael/akubi/head"
+			"model": "animated_java:blueprint/eclael/akubi/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 533
 			},
-			"model": "animated_java:item/eclael/blink/head"
+			"model": "animated_java:blueprint/eclael/blink/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 534
 			},
-			"model": "animated_java:item/eclael/wink/head"
+			"model": "animated_java:blueprint/eclael/wink/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 535
 			},
-			"model": "animated_java:item/twins_sapphiel/body_1"
+			"model": "animated_java:blueprint/twins_sapphiel/body_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 536
 			},
-			"model": "animated_java:item/twins_sapphiel/body_0"
+			"model": "animated_java:blueprint/twins_sapphiel/body_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 537
 			},
-			"model": "animated_java:item/twins_sapphiel/head"
+			"model": "animated_java:blueprint/twins_sapphiel/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 538
 			},
-			"model": "animated_java:item/twins_sapphiel/halo"
+			"model": "animated_java:blueprint/twins_sapphiel/halo"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 539
 			},
-			"model": "animated_java:item/twins_sapphiel/arm_right_0"
+			"model": "animated_java:blueprint/twins_sapphiel/arm_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 540
 			},
-			"model": "animated_java:item/twins_sapphiel/arm_right_1"
+			"model": "animated_java:blueprint/twins_sapphiel/arm_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 541
 			},
-			"model": "animated_java:item/twins_sapphiel/ruby_gun"
+			"model": "animated_java:blueprint/twins_sapphiel/ruby_gun"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 542
 			},
-			"model": "animated_java:item/twins_sapphiel/slide2"
+			"model": "animated_java:blueprint/twins_sapphiel/slide2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 543
 			},
-			"model": "animated_java:item/twins_sapphiel/arm_left_0"
+			"model": "animated_java:blueprint/twins_sapphiel/arm_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 544
 			},
-			"model": "animated_java:item/twins_sapphiel/arm_left_1"
+			"model": "animated_java:blueprint/twins_sapphiel/arm_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 545
 			},
-			"model": "animated_java:item/twins_sapphiel/sapphire_gun"
+			"model": "animated_java:blueprint/twins_sapphiel/sapphire_gun"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 546
 			},
-			"model": "animated_java:item/twins_sapphiel/slide"
+			"model": "animated_java:blueprint/twins_sapphiel/slide"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 547
 			},
-			"model": "animated_java:item/twins_sapphiel/shotgun"
+			"model": "animated_java:blueprint/twins_sapphiel/shotgun"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 548
 			},
-			"model": "animated_java:item/twins_sapphiel/body"
+			"model": "animated_java:blueprint/twins_sapphiel/body"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 549
 			},
-			"model": "animated_java:item/twins_sapphiel/launcher"
+			"model": "animated_java:blueprint/twins_sapphiel/launcher"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 550
 			},
-			"model": "animated_java:item/twins_sapphiel/rocket"
+			"model": "animated_java:blueprint/twins_sapphiel/rocket"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 551
 			},
-			"model": "animated_java:item/twins_sapphiel/wing_0"
+			"model": "animated_java:blueprint/twins_sapphiel/wing_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 552
 			},
-			"model": "animated_java:item/twins_sapphiel/wing_1"
+			"model": "animated_java:blueprint/twins_sapphiel/wing_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 553
 			},
-			"model": "animated_java:item/twins_sapphiel/wing_2"
+			"model": "animated_java:blueprint/twins_sapphiel/wing_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 554
 			},
-			"model": "animated_java:item/twins_sapphiel/wing_3"
+			"model": "animated_java:blueprint/twins_sapphiel/wing_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 555
 			},
-			"model": "animated_java:item/twins_sapphiel/leg_right_0"
+			"model": "animated_java:blueprint/twins_sapphiel/leg_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 556
 			},
-			"model": "animated_java:item/twins_sapphiel/leg_right_1"
+			"model": "animated_java:blueprint/twins_sapphiel/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 557
 			},
-			"model": "animated_java:item/twins_sapphiel/leg_left_0"
+			"model": "animated_java:blueprint/twins_sapphiel/leg_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 558
 			},
-			"model": "animated_java:item/twins_sapphiel/leg_left_1"
+			"model": "animated_java:blueprint/twins_sapphiel/leg_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 559
 			},
-			"model": "animated_java:item/twins_sapphiel/skirt_forward"
+			"model": "animated_java:blueprint/twins_sapphiel/skirt_forward"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 560
 			},
-			"model": "animated_java:item/twins_sapphiel/skirt_forward_right"
+			"model": "animated_java:blueprint/twins_sapphiel/skirt_forward_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 561
 			},
-			"model": "animated_java:item/twins_sapphiel/skirt_forward_left"
+			"model": "animated_java:blueprint/twins_sapphiel/skirt_forward_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 562
 			},
-			"model": "animated_java:item/twins_sapphiel/skirt_back"
+			"model": "animated_java:blueprint/twins_sapphiel/skirt_back"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 563
 			},
-			"model": "animated_java:item/twins_sapphiel/skirt_back_right"
+			"model": "animated_java:blueprint/twins_sapphiel/skirt_back_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 564
 			},
-			"model": "animated_java:item/twins_sapphiel/skirt_back_left"
+			"model": "animated_java:blueprint/twins_sapphiel/skirt_back_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 565
 			},
-			"model": "animated_java:item/twins_sapphiel/skirt_right"
+			"model": "animated_java:blueprint/twins_sapphiel/skirt_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 566
 			},
-			"model": "animated_java:item/twins_sapphiel/skirt_left"
+			"model": "animated_java:blueprint/twins_sapphiel/skirt_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 567
 			},
-			"model": "animated_java:item/twins_sapphiel/belt_right_0"
+			"model": "animated_java:blueprint/twins_sapphiel/belt_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 568
 			},
-			"model": "animated_java:item/twins_sapphiel/belt_right_1"
+			"model": "animated_java:blueprint/twins_sapphiel/belt_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 569
 			},
-			"model": "animated_java:item/twins_sapphiel/belt_left_0"
+			"model": "animated_java:blueprint/twins_sapphiel/belt_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 570
 			},
-			"model": "animated_java:item/twins_sapphiel/belt_left_1"
+			"model": "animated_java:blueprint/twins_sapphiel/belt_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 571
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/halo"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/halo"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 572
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/head"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 573
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/slide2"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/slide2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 574
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/ruby_gun"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/ruby_gun"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 575
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/arm_right_1"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/arm_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 576
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/arm_right_0"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/arm_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 577
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/slide"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/slide"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 578
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/sapphire_gun"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/sapphire_gun"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 579
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/body"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/body"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 580
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/shotgun"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/shotgun"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 581
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/rocket"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/rocket"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 582
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/launcher"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/launcher"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 583
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/arm_left_1"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/arm_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 584
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/arm_left_0"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/arm_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 585
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/wing_3"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/wing_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 586
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/wing_2"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/wing_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 587
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/wing_1"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/wing_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 588
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/wing_0"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/wing_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 589
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/body_0"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/body_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 590
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/leg_right_1"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 591
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/leg_right_0"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/leg_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 592
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/leg_left_1"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/leg_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 593
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/leg_left_0"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/leg_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 594
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/skirt_forward_right"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/skirt_forward_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 595
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/skirt_forward_left"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/skirt_forward_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 596
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/skirt_forward"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/skirt_forward"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 597
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/skirt_back_right"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/skirt_back_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 598
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/skirt_back_left"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/skirt_back_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 599
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/skirt_back"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/skirt_back"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 600
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/skirt_right"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/skirt_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 601
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/skirt_left"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/skirt_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 602
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/belt_right_1"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/belt_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 603
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/belt_right_0"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/belt_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 604
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/belt_left_1"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/belt_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 605
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/belt_left_0"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/belt_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 606
 			},
-			"model": "animated_java:item/twins_sapphiel/blink/body_1"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/body_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 607
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/halo"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/halo"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 608
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/head"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 609
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/slide2"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/slide2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 610
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/ruby_gun"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/ruby_gun"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 611
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/arm_right_1"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/arm_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 612
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/arm_right_0"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/arm_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 613
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/slide"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/slide"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 614
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/sapphire_gun"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/sapphire_gun"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 615
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/body"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/body"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 616
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/shotgun"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/shotgun"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 617
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/rocket"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/rocket"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 618
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/launcher"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/launcher"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 619
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/arm_left_1"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/arm_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 620
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/arm_left_0"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/arm_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 621
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/wing_3"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/wing_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 622
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/wing_2"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/wing_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 623
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/wing_1"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/wing_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 624
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/wing_0"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/wing_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 625
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/body_0"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/body_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 626
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/leg_right_1"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 627
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/leg_right_0"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/leg_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 628
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/leg_left_1"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/leg_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 629
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/leg_left_0"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/leg_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 630
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/skirt_forward_right"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/skirt_forward_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 631
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/skirt_forward_left"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/skirt_forward_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 632
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/skirt_forward"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/skirt_forward"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 633
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/skirt_back_right"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/skirt_back_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 634
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/skirt_back_left"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/skirt_back_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 635
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/skirt_back"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/skirt_back"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 636
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/skirt_right"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/skirt_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 637
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/skirt_left"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/skirt_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 638
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/belt_right_1"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/belt_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 639
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/belt_right_0"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/belt_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 640
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/belt_left_1"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/belt_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 641
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/belt_left_0"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/belt_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 642
 			},
-			"model": "animated_java:item/twins_sapphiel/stun/body_1"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/body_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 643
 			},
-			"model": "animated_java:item/twins_rubiel/body_1"
+			"model": "animated_java:blueprint/twins_rubiel/body_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 644
 			},
-			"model": "animated_java:item/twins_rubiel/body_0"
+			"model": "animated_java:blueprint/twins_rubiel/body_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 645
 			},
-			"model": "animated_java:item/twins_rubiel/head"
+			"model": "animated_java:blueprint/twins_rubiel/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 646
 			},
-			"model": "animated_java:item/twins_rubiel/halo"
+			"model": "animated_java:blueprint/twins_rubiel/halo"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 647
 			},
-			"model": "animated_java:item/twins_rubiel/arm_right_0"
+			"model": "animated_java:blueprint/twins_rubiel/arm_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 648
 			},
-			"model": "animated_java:item/twins_rubiel/arm_right_1"
+			"model": "animated_java:blueprint/twins_rubiel/arm_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 649
 			},
-			"model": "animated_java:item/twins_rubiel/ruby_katana"
+			"model": "animated_java:blueprint/twins_rubiel/ruby_katana"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 650
 			},
-			"model": "animated_java:item/twins_rubiel/root_taiken"
+			"model": "animated_java:blueprint/twins_rubiel/root_taiken"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 651
 			},
-			"model": "animated_java:item/twins_rubiel/root_scythe"
+			"model": "animated_java:blueprint/twins_rubiel/root_scythe"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 652
 			},
-			"model": "animated_java:item/twins_rubiel/arm_left_0"
+			"model": "animated_java:blueprint/twins_rubiel/arm_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 653
 			},
-			"model": "animated_java:item/twins_rubiel/arm_left_1"
+			"model": "animated_java:blueprint/twins_rubiel/arm_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 654
 			},
-			"model": "animated_java:item/twins_rubiel/sapphie_katana"
+			"model": "animated_java:blueprint/twins_rubiel/sapphie_katana"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 655
 			},
-			"model": "animated_java:item/twins_rubiel/ruby_saya"
+			"model": "animated_java:blueprint/twins_rubiel/ruby_saya"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 656
 			},
-			"model": "animated_java:item/twins_rubiel/ruby_sheathe"
+			"model": "animated_java:blueprint/twins_rubiel/ruby_sheathe"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 657
 			},
-			"model": "animated_java:item/twins_rubiel/wing_0"
+			"model": "animated_java:blueprint/twins_rubiel/wing_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 658
 			},
-			"model": "animated_java:item/twins_rubiel/wing_1"
+			"model": "animated_java:blueprint/twins_rubiel/wing_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 659
 			},
-			"model": "animated_java:item/twins_rubiel/wing_2"
+			"model": "animated_java:blueprint/twins_rubiel/wing_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 660
 			},
-			"model": "animated_java:item/twins_rubiel/wing_3"
+			"model": "animated_java:blueprint/twins_rubiel/wing_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 661
 			},
-			"model": "animated_java:item/twins_rubiel/uwagi"
+			"model": "animated_java:blueprint/twins_rubiel/uwagi"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 662
 			},
-			"model": "animated_java:item/twins_rubiel/uwagi_right"
+			"model": "animated_java:blueprint/twins_rubiel/uwagi_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 663
 			},
-			"model": "animated_java:item/twins_rubiel/tail_0"
+			"model": "animated_java:blueprint/twins_rubiel/tail_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 664
 			},
-			"model": "animated_java:item/twins_rubiel/tail_1"
+			"model": "animated_java:blueprint/twins_rubiel/tail_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 665
 			},
-			"model": "animated_java:item/twins_rubiel/tail_2"
+			"model": "animated_java:blueprint/twins_rubiel/tail_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 666
 			},
-			"model": "animated_java:item/twins_rubiel/uwagi_left"
+			"model": "animated_java:blueprint/twins_rubiel/uwagi_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 667
 			},
-			"model": "animated_java:item/twins_rubiel/leg_right_0"
+			"model": "animated_java:blueprint/twins_rubiel/leg_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 668
 			},
-			"model": "animated_java:item/twins_rubiel/leg_right_1"
+			"model": "animated_java:blueprint/twins_rubiel/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 669
 			},
-			"model": "animated_java:item/twins_rubiel/leg_left_0"
+			"model": "animated_java:blueprint/twins_rubiel/leg_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 670
 			},
-			"model": "animated_java:item/twins_rubiel/leg_left_1"
+			"model": "animated_java:blueprint/twins_rubiel/leg_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 671
 			},
-			"model": "animated_java:item/twins_rubiel/saya"
+			"model": "animated_java:blueprint/twins_rubiel/saya"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 672
 			},
-			"model": "animated_java:item/twins_rubiel/saya_belt"
+			"model": "animated_java:blueprint/twins_rubiel/saya_belt"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 673
 			},
-			"model": "animated_java:item/twins_rubiel/blink/head"
+			"model": "animated_java:blueprint/twins_rubiel/blink/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 674
 			},
-			"model": "animated_java:item/twins_rubiel/damage/halo"
+			"model": "animated_java:blueprint/twins_rubiel/damage/halo"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 675
 			},
-			"model": "animated_java:item/twins_rubiel/damage/head"
+			"model": "animated_java:blueprint/twins_rubiel/damage/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 676
 			},
-			"model": "animated_java:item/twins_rubiel/damage/ruby_katana"
+			"model": "animated_java:blueprint/twins_rubiel/damage/ruby_katana"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 677
 			},
-			"model": "animated_java:item/twins_rubiel/damage/root_taiken"
+			"model": "animated_java:blueprint/twins_rubiel/damage/root_taiken"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 678
 			},
-			"model": "animated_java:item/twins_rubiel/damage/root_scythe"
+			"model": "animated_java:blueprint/twins_rubiel/damage/root_scythe"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 679
 			},
-			"model": "animated_java:item/twins_rubiel/damage/arm_right_1"
+			"model": "animated_java:blueprint/twins_rubiel/damage/arm_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 680
 			},
-			"model": "animated_java:item/twins_rubiel/damage/arm_right_0"
+			"model": "animated_java:blueprint/twins_rubiel/damage/arm_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 681
 			},
-			"model": "animated_java:item/twins_rubiel/damage/sapphie_katana"
+			"model": "animated_java:blueprint/twins_rubiel/damage/sapphie_katana"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 682
 			},
-			"model": "animated_java:item/twins_rubiel/damage/ruby_saya"
+			"model": "animated_java:blueprint/twins_rubiel/damage/ruby_saya"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 683
 			},
-			"model": "animated_java:item/twins_rubiel/damage/ruby_sheathe"
+			"model": "animated_java:blueprint/twins_rubiel/damage/ruby_sheathe"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 684
 			},
-			"model": "animated_java:item/twins_rubiel/damage/arm_left_1"
+			"model": "animated_java:blueprint/twins_rubiel/damage/arm_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 685
 			},
-			"model": "animated_java:item/twins_rubiel/damage/arm_left_0"
+			"model": "animated_java:blueprint/twins_rubiel/damage/arm_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 686
 			},
-			"model": "animated_java:item/twins_rubiel/damage/wing_3"
+			"model": "animated_java:blueprint/twins_rubiel/damage/wing_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 687
 			},
-			"model": "animated_java:item/twins_rubiel/damage/wing_2"
+			"model": "animated_java:blueprint/twins_rubiel/damage/wing_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 688
 			},
-			"model": "animated_java:item/twins_rubiel/damage/wing_1"
+			"model": "animated_java:blueprint/twins_rubiel/damage/wing_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 689
 			},
-			"model": "animated_java:item/twins_rubiel/damage/wing_0"
+			"model": "animated_java:blueprint/twins_rubiel/damage/wing_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 690
 			},
-			"model": "animated_java:item/twins_rubiel/damage/tail_2"
+			"model": "animated_java:blueprint/twins_rubiel/damage/tail_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 691
 			},
-			"model": "animated_java:item/twins_rubiel/damage/tail_1"
+			"model": "animated_java:blueprint/twins_rubiel/damage/tail_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 692
 			},
-			"model": "animated_java:item/twins_rubiel/damage/tail_0"
+			"model": "animated_java:blueprint/twins_rubiel/damage/tail_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 693
 			},
-			"model": "animated_java:item/twins_rubiel/damage/uwagi_right"
+			"model": "animated_java:blueprint/twins_rubiel/damage/uwagi_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 694
 			},
-			"model": "animated_java:item/twins_rubiel/damage/uwagi_left"
+			"model": "animated_java:blueprint/twins_rubiel/damage/uwagi_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 695
 			},
-			"model": "animated_java:item/twins_rubiel/damage/uwagi"
+			"model": "animated_java:blueprint/twins_rubiel/damage/uwagi"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 696
 			},
-			"model": "animated_java:item/twins_rubiel/damage/body_0"
+			"model": "animated_java:blueprint/twins_rubiel/damage/body_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 697
 			},
-			"model": "animated_java:item/twins_rubiel/damage/leg_right_1"
+			"model": "animated_java:blueprint/twins_rubiel/damage/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 698
 			},
-			"model": "animated_java:item/twins_rubiel/damage/leg_right_0"
+			"model": "animated_java:blueprint/twins_rubiel/damage/leg_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 699
 			},
-			"model": "animated_java:item/twins_rubiel/damage/leg_left_1"
+			"model": "animated_java:blueprint/twins_rubiel/damage/leg_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 700
 			},
-			"model": "animated_java:item/twins_rubiel/damage/leg_left_0"
+			"model": "animated_java:blueprint/twins_rubiel/damage/leg_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 701
 			},
-			"model": "animated_java:item/twins_rubiel/damage/saya_belt"
+			"model": "animated_java:blueprint/twins_rubiel/damage/saya_belt"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 702
 			},
-			"model": "animated_java:item/twins_rubiel/damage/saya"
+			"model": "animated_java:blueprint/twins_rubiel/damage/saya"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 703
 			},
-			"model": "animated_java:item/twins_rubiel/damage/body_1"
+			"model": "animated_java:blueprint/twins_rubiel/damage/body_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 704
 			},
-			"model": "animated_java:item/twins_rubiel/jito/halo"
+			"model": "animated_java:blueprint/twins_rubiel/jito/halo"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 705
 			},
-			"model": "animated_java:item/twins_rubiel/jito/head"
+			"model": "animated_java:blueprint/twins_rubiel/jito/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 706
 			},
-			"model": "animated_java:item/twins_rubiel/jito/ruby_katana"
+			"model": "animated_java:blueprint/twins_rubiel/jito/ruby_katana"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 707
 			},
-			"model": "animated_java:item/twins_rubiel/jito/root_taiken"
+			"model": "animated_java:blueprint/twins_rubiel/jito/root_taiken"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 708
 			},
-			"model": "animated_java:item/twins_rubiel/jito/root_scythe"
+			"model": "animated_java:blueprint/twins_rubiel/jito/root_scythe"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 709
 			},
-			"model": "animated_java:item/twins_rubiel/jito/arm_right_1"
+			"model": "animated_java:blueprint/twins_rubiel/jito/arm_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 710
 			},
-			"model": "animated_java:item/twins_rubiel/jito/arm_right_0"
+			"model": "animated_java:blueprint/twins_rubiel/jito/arm_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 711
 			},
-			"model": "animated_java:item/twins_rubiel/jito/sapphie_katana"
+			"model": "animated_java:blueprint/twins_rubiel/jito/sapphie_katana"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 712
 			},
-			"model": "animated_java:item/twins_rubiel/jito/ruby_saya"
+			"model": "animated_java:blueprint/twins_rubiel/jito/ruby_saya"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 713
 			},
-			"model": "animated_java:item/twins_rubiel/jito/ruby_sheathe"
+			"model": "animated_java:blueprint/twins_rubiel/jito/ruby_sheathe"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 714
 			},
-			"model": "animated_java:item/twins_rubiel/jito/arm_left_1"
+			"model": "animated_java:blueprint/twins_rubiel/jito/arm_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 715
 			},
-			"model": "animated_java:item/twins_rubiel/jito/arm_left_0"
+			"model": "animated_java:blueprint/twins_rubiel/jito/arm_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 716
 			},
-			"model": "animated_java:item/twins_rubiel/jito/wing_3"
+			"model": "animated_java:blueprint/twins_rubiel/jito/wing_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 717
 			},
-			"model": "animated_java:item/twins_rubiel/jito/wing_2"
+			"model": "animated_java:blueprint/twins_rubiel/jito/wing_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 718
 			},
-			"model": "animated_java:item/twins_rubiel/jito/wing_1"
+			"model": "animated_java:blueprint/twins_rubiel/jito/wing_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 719
 			},
-			"model": "animated_java:item/twins_rubiel/jito/wing_0"
+			"model": "animated_java:blueprint/twins_rubiel/jito/wing_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 720
 			},
-			"model": "animated_java:item/twins_rubiel/jito/tail_2"
+			"model": "animated_java:blueprint/twins_rubiel/jito/tail_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 721
 			},
-			"model": "animated_java:item/twins_rubiel/jito/tail_1"
+			"model": "animated_java:blueprint/twins_rubiel/jito/tail_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 722
 			},
-			"model": "animated_java:item/twins_rubiel/jito/tail_0"
+			"model": "animated_java:blueprint/twins_rubiel/jito/tail_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 723
 			},
-			"model": "animated_java:item/twins_rubiel/jito/uwagi_right"
+			"model": "animated_java:blueprint/twins_rubiel/jito/uwagi_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 724
 			},
-			"model": "animated_java:item/twins_rubiel/jito/uwagi_left"
+			"model": "animated_java:blueprint/twins_rubiel/jito/uwagi_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 725
 			},
-			"model": "animated_java:item/twins_rubiel/jito/uwagi"
+			"model": "animated_java:blueprint/twins_rubiel/jito/uwagi"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 726
 			},
-			"model": "animated_java:item/twins_rubiel/jito/body_0"
+			"model": "animated_java:blueprint/twins_rubiel/jito/body_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 727
 			},
-			"model": "animated_java:item/twins_rubiel/jito/leg_right_1"
+			"model": "animated_java:blueprint/twins_rubiel/jito/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 728
 			},
-			"model": "animated_java:item/twins_rubiel/jito/leg_right_0"
+			"model": "animated_java:blueprint/twins_rubiel/jito/leg_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 729
 			},
-			"model": "animated_java:item/twins_rubiel/jito/leg_left_1"
+			"model": "animated_java:blueprint/twins_rubiel/jito/leg_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 730
 			},
-			"model": "animated_java:item/twins_rubiel/jito/leg_left_0"
+			"model": "animated_java:blueprint/twins_rubiel/jito/leg_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 731
 			},
-			"model": "animated_java:item/twins_rubiel/jito/saya_belt"
+			"model": "animated_java:blueprint/twins_rubiel/jito/saya_belt"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 732
 			},
-			"model": "animated_java:item/twins_rubiel/jito/saya"
+			"model": "animated_java:blueprint/twins_rubiel/jito/saya"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 733
 			},
-			"model": "animated_java:item/twins_rubiel/jito/body_1"
+			"model": "animated_java:blueprint/twins_rubiel/jito/body_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 734
 			},
-			"model": "animated_java:item/twins_rubiel/stun/halo"
+			"model": "animated_java:blueprint/twins_rubiel/stun/halo"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 735
 			},
-			"model": "animated_java:item/twins_rubiel/stun/head"
+			"model": "animated_java:blueprint/twins_rubiel/stun/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 736
 			},
-			"model": "animated_java:item/twins_rubiel/stun/ruby_katana"
+			"model": "animated_java:blueprint/twins_rubiel/stun/ruby_katana"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 737
 			},
-			"model": "animated_java:item/twins_rubiel/stun/root_taiken"
+			"model": "animated_java:blueprint/twins_rubiel/stun/root_taiken"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 738
 			},
-			"model": "animated_java:item/twins_rubiel/stun/root_scythe"
+			"model": "animated_java:blueprint/twins_rubiel/stun/root_scythe"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 739
 			},
-			"model": "animated_java:item/twins_rubiel/stun/arm_right_1"
+			"model": "animated_java:blueprint/twins_rubiel/stun/arm_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 740
 			},
-			"model": "animated_java:item/twins_rubiel/stun/arm_right_0"
+			"model": "animated_java:blueprint/twins_rubiel/stun/arm_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 741
 			},
-			"model": "animated_java:item/twins_rubiel/stun/sapphie_katana"
+			"model": "animated_java:blueprint/twins_rubiel/stun/sapphie_katana"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 742
 			},
-			"model": "animated_java:item/twins_rubiel/stun/ruby_saya"
+			"model": "animated_java:blueprint/twins_rubiel/stun/ruby_saya"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 743
 			},
-			"model": "animated_java:item/twins_rubiel/stun/ruby_sheathe"
+			"model": "animated_java:blueprint/twins_rubiel/stun/ruby_sheathe"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 744
 			},
-			"model": "animated_java:item/twins_rubiel/stun/arm_left_1"
+			"model": "animated_java:blueprint/twins_rubiel/stun/arm_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 745
 			},
-			"model": "animated_java:item/twins_rubiel/stun/arm_left_0"
+			"model": "animated_java:blueprint/twins_rubiel/stun/arm_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 746
 			},
-			"model": "animated_java:item/twins_rubiel/stun/wing_3"
+			"model": "animated_java:blueprint/twins_rubiel/stun/wing_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 747
 			},
-			"model": "animated_java:item/twins_rubiel/stun/wing_2"
+			"model": "animated_java:blueprint/twins_rubiel/stun/wing_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 748
 			},
-			"model": "animated_java:item/twins_rubiel/stun/wing_1"
+			"model": "animated_java:blueprint/twins_rubiel/stun/wing_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 749
 			},
-			"model": "animated_java:item/twins_rubiel/stun/wing_0"
+			"model": "animated_java:blueprint/twins_rubiel/stun/wing_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 750
 			},
-			"model": "animated_java:item/twins_rubiel/stun/tail_2"
+			"model": "animated_java:blueprint/twins_rubiel/stun/tail_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 751
 			},
-			"model": "animated_java:item/twins_rubiel/stun/tail_1"
+			"model": "animated_java:blueprint/twins_rubiel/stun/tail_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 752
 			},
-			"model": "animated_java:item/twins_rubiel/stun/tail_0"
+			"model": "animated_java:blueprint/twins_rubiel/stun/tail_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 753
 			},
-			"model": "animated_java:item/twins_rubiel/stun/uwagi_right"
+			"model": "animated_java:blueprint/twins_rubiel/stun/uwagi_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 754
 			},
-			"model": "animated_java:item/twins_rubiel/stun/uwagi_left"
+			"model": "animated_java:blueprint/twins_rubiel/stun/uwagi_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 755
 			},
-			"model": "animated_java:item/twins_rubiel/stun/uwagi"
+			"model": "animated_java:blueprint/twins_rubiel/stun/uwagi"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 756
 			},
-			"model": "animated_java:item/twins_rubiel/stun/body_0"
+			"model": "animated_java:blueprint/twins_rubiel/stun/body_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 757
 			},
-			"model": "animated_java:item/twins_rubiel/stun/leg_right_1"
+			"model": "animated_java:blueprint/twins_rubiel/stun/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 758
 			},
-			"model": "animated_java:item/twins_rubiel/stun/leg_right_0"
+			"model": "animated_java:blueprint/twins_rubiel/stun/leg_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 759
 			},
-			"model": "animated_java:item/twins_rubiel/stun/leg_left_1"
+			"model": "animated_java:blueprint/twins_rubiel/stun/leg_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 760
 			},
-			"model": "animated_java:item/twins_rubiel/stun/leg_left_0"
+			"model": "animated_java:blueprint/twins_rubiel/stun/leg_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 761
 			},
-			"model": "animated_java:item/twins_rubiel/stun/saya_belt"
+			"model": "animated_java:blueprint/twins_rubiel/stun/saya_belt"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 762
 			},
-			"model": "animated_java:item/twins_rubiel/stun/saya"
+			"model": "animated_java:blueprint/twins_rubiel/stun/saya"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 763
 			},
-			"model": "animated_java:item/twins_rubiel/stun/body_1"
+			"model": "animated_java:blueprint/twins_rubiel/stun/body_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 764
 			},
-			"model": "animated_java:item/twins_rubiel/surprise/halo"
+			"model": "animated_java:blueprint/twins_rubiel/surprise/halo"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 765
 			},
-			"model": "animated_java:item/twins_rubiel/surprise/head"
+			"model": "animated_java:blueprint/twins_rubiel/surprise/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 766
 			},
-			"model": "animated_java:item/twins_rubiel/surprise/ruby_katana"
+			"model": "animated_java:blueprint/twins_rubiel/surprise/ruby_katana"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 767
 			},
-			"model": "animated_java:item/twins_rubiel/surprise/root_taiken"
+			"model": "animated_java:blueprint/twins_rubiel/surprise/root_taiken"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 768
 			},
-			"model": "animated_java:item/twins_rubiel/surprise/root_scythe"
+			"model": "animated_java:blueprint/twins_rubiel/surprise/root_scythe"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 769
 			},
-			"model": "animated_java:item/twins_rubiel/surprise/arm_right_1"
+			"model": "animated_java:blueprint/twins_rubiel/surprise/arm_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 770
 			},
-			"model": "animated_java:item/twins_rubiel/surprise/arm_right_0"
+			"model": "animated_java:blueprint/twins_rubiel/surprise/arm_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 771
 			},
-			"model": "animated_java:item/twins_rubiel/surprise/sapphie_katana"
+			"model": "animated_java:blueprint/twins_rubiel/surprise/sapphie_katana"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 772
 			},
-			"model": "animated_java:item/twins_rubiel/surprise/ruby_saya"
+			"model": "animated_java:blueprint/twins_rubiel/surprise/ruby_saya"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 773
 			},
-			"model": "animated_java:item/twins_rubiel/surprise/ruby_sheathe"
+			"model": "animated_java:blueprint/twins_rubiel/surprise/ruby_sheathe"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 774
 			},
-			"model": "animated_java:item/twins_rubiel/surprise/arm_left_1"
+			"model": "animated_java:blueprint/twins_rubiel/surprise/arm_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 775
 			},
-			"model": "animated_java:item/twins_rubiel/surprise/arm_left_0"
+			"model": "animated_java:blueprint/twins_rubiel/surprise/arm_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 776
 			},
-			"model": "animated_java:item/twins_rubiel/surprise/wing_3"
+			"model": "animated_java:blueprint/twins_rubiel/surprise/wing_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 777
 			},
-			"model": "animated_java:item/twins_rubiel/surprise/wing_2"
+			"model": "animated_java:blueprint/twins_rubiel/surprise/wing_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 778
 			},
-			"model": "animated_java:item/twins_rubiel/surprise/wing_1"
+			"model": "animated_java:blueprint/twins_rubiel/surprise/wing_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 779
 			},
-			"model": "animated_java:item/twins_rubiel/surprise/wing_0"
+			"model": "animated_java:blueprint/twins_rubiel/surprise/wing_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 780
 			},
-			"model": "animated_java:item/twins_rubiel/surprise/tail_2"
+			"model": "animated_java:blueprint/twins_rubiel/surprise/tail_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 781
 			},
-			"model": "animated_java:item/twins_rubiel/surprise/tail_1"
+			"model": "animated_java:blueprint/twins_rubiel/surprise/tail_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 782
 			},
-			"model": "animated_java:item/twins_rubiel/surprise/tail_0"
+			"model": "animated_java:blueprint/twins_rubiel/surprise/tail_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 783
 			},
-			"model": "animated_java:item/twins_rubiel/surprise/uwagi_right"
+			"model": "animated_java:blueprint/twins_rubiel/surprise/uwagi_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 784
 			},
-			"model": "animated_java:item/twins_rubiel/surprise/uwagi_left"
+			"model": "animated_java:blueprint/twins_rubiel/surprise/uwagi_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 785
 			},
-			"model": "animated_java:item/twins_rubiel/surprise/uwagi"
+			"model": "animated_java:blueprint/twins_rubiel/surprise/uwagi"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 786
 			},
-			"model": "animated_java:item/twins_rubiel/surprise/body_0"
+			"model": "animated_java:blueprint/twins_rubiel/surprise/body_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 787
 			},
-			"model": "animated_java:item/twins_rubiel/surprise/leg_right_1"
+			"model": "animated_java:blueprint/twins_rubiel/surprise/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 788
 			},
-			"model": "animated_java:item/twins_rubiel/surprise/leg_right_0"
+			"model": "animated_java:blueprint/twins_rubiel/surprise/leg_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 789
 			},
-			"model": "animated_java:item/twins_rubiel/surprise/leg_left_1"
+			"model": "animated_java:blueprint/twins_rubiel/surprise/leg_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 790
 			},
-			"model": "animated_java:item/twins_rubiel/surprise/leg_left_0"
+			"model": "animated_java:blueprint/twins_rubiel/surprise/leg_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 791
 			},
-			"model": "animated_java:item/twins_rubiel/surprise/saya_belt"
+			"model": "animated_java:blueprint/twins_rubiel/surprise/saya_belt"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 792
 			},
-			"model": "animated_java:item/twins_rubiel/surprise/saya"
+			"model": "animated_java:blueprint/twins_rubiel/surprise/saya"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 793
 			},
-			"model": "animated_java:item/twins_rubiel/surprise/body_1"
+			"model": "animated_java:blueprint/twins_rubiel/surprise/body_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 794
 			},
-			"model": "animated_java:item/twins_rubiel/wink/halo"
+			"model": "animated_java:blueprint/twins_rubiel/wink/halo"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 795
 			},
-			"model": "animated_java:item/twins_rubiel/wink/head"
+			"model": "animated_java:blueprint/twins_rubiel/wink/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 796
 			},
-			"model": "animated_java:item/twins_rubiel/wink/ruby_katana"
+			"model": "animated_java:blueprint/twins_rubiel/wink/ruby_katana"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 797
 			},
-			"model": "animated_java:item/twins_rubiel/wink/root_taiken"
+			"model": "animated_java:blueprint/twins_rubiel/wink/root_taiken"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 798
 			},
-			"model": "animated_java:item/twins_rubiel/wink/root_scythe"
+			"model": "animated_java:blueprint/twins_rubiel/wink/root_scythe"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 799
 			},
-			"model": "animated_java:item/twins_rubiel/wink/arm_right_1"
+			"model": "animated_java:blueprint/twins_rubiel/wink/arm_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 800
 			},
-			"model": "animated_java:item/twins_rubiel/wink/arm_right_0"
+			"model": "animated_java:blueprint/twins_rubiel/wink/arm_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 801
 			},
-			"model": "animated_java:item/twins_rubiel/wink/sapphie_katana"
+			"model": "animated_java:blueprint/twins_rubiel/wink/sapphie_katana"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 802
 			},
-			"model": "animated_java:item/twins_rubiel/wink/ruby_saya"
+			"model": "animated_java:blueprint/twins_rubiel/wink/ruby_saya"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 803
 			},
-			"model": "animated_java:item/twins_rubiel/wink/ruby_sheathe"
+			"model": "animated_java:blueprint/twins_rubiel/wink/ruby_sheathe"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 804
 			},
-			"model": "animated_java:item/twins_rubiel/wink/arm_left_1"
+			"model": "animated_java:blueprint/twins_rubiel/wink/arm_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 805
 			},
-			"model": "animated_java:item/twins_rubiel/wink/arm_left_0"
+			"model": "animated_java:blueprint/twins_rubiel/wink/arm_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 806
 			},
-			"model": "animated_java:item/twins_rubiel/wink/wing_3"
+			"model": "animated_java:blueprint/twins_rubiel/wink/wing_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 807
 			},
-			"model": "animated_java:item/twins_rubiel/wink/wing_2"
+			"model": "animated_java:blueprint/twins_rubiel/wink/wing_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 808
 			},
-			"model": "animated_java:item/twins_rubiel/wink/wing_1"
+			"model": "animated_java:blueprint/twins_rubiel/wink/wing_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 809
 			},
-			"model": "animated_java:item/twins_rubiel/wink/wing_0"
+			"model": "animated_java:blueprint/twins_rubiel/wink/wing_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 810
 			},
-			"model": "animated_java:item/twins_rubiel/wink/tail_2"
+			"model": "animated_java:blueprint/twins_rubiel/wink/tail_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 811
 			},
-			"model": "animated_java:item/twins_rubiel/wink/tail_1"
+			"model": "animated_java:blueprint/twins_rubiel/wink/tail_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 812
 			},
-			"model": "animated_java:item/twins_rubiel/wink/tail_0"
+			"model": "animated_java:blueprint/twins_rubiel/wink/tail_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 813
 			},
-			"model": "animated_java:item/twins_rubiel/wink/uwagi_right"
+			"model": "animated_java:blueprint/twins_rubiel/wink/uwagi_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 814
 			},
-			"model": "animated_java:item/twins_rubiel/wink/uwagi_left"
+			"model": "animated_java:blueprint/twins_rubiel/wink/uwagi_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 815
 			},
-			"model": "animated_java:item/twins_rubiel/wink/uwagi"
+			"model": "animated_java:blueprint/twins_rubiel/wink/uwagi"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 816
 			},
-			"model": "animated_java:item/twins_rubiel/wink/body_0"
+			"model": "animated_java:blueprint/twins_rubiel/wink/body_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 817
 			},
-			"model": "animated_java:item/twins_rubiel/wink/leg_right_1"
+			"model": "animated_java:blueprint/twins_rubiel/wink/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 818
 			},
-			"model": "animated_java:item/twins_rubiel/wink/leg_right_0"
+			"model": "animated_java:blueprint/twins_rubiel/wink/leg_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 819
 			},
-			"model": "animated_java:item/twins_rubiel/wink/leg_left_1"
+			"model": "animated_java:blueprint/twins_rubiel/wink/leg_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 820
 			},
-			"model": "animated_java:item/twins_rubiel/wink/leg_left_0"
+			"model": "animated_java:blueprint/twins_rubiel/wink/leg_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 821
 			},
-			"model": "animated_java:item/twins_rubiel/wink/saya_belt"
+			"model": "animated_java:blueprint/twins_rubiel/wink/saya_belt"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 822
 			},
-			"model": "animated_java:item/twins_rubiel/wink/saya"
+			"model": "animated_java:blueprint/twins_rubiel/wink/saya"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 823
 			},
-			"model": "animated_java:item/twins_rubiel/wink/body_1"
+			"model": "animated_java:blueprint/twins_rubiel/wink/body_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 824
 			},
-			"model": "animated_java:item/twins_rubiel/normal/head"
+			"model": "animated_java:blueprint/twins_rubiel/normal/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 825
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/halo"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/halo"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 826
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/head"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 827
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/slide2"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/slide2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 828
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/ruby_gun"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/ruby_gun"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 829
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/arm_right_1"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/arm_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 830
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/arm_right_0"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/arm_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 831
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/slide"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/slide"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 832
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/sapphire_gun"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/sapphire_gun"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 833
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/body"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/body"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 834
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/shotgun"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/shotgun"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 835
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/rocket"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/rocket"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 836
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/launcher"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/launcher"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 837
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/arm_left_1"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/arm_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 838
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/arm_left_0"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/arm_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 839
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/wing_3"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/wing_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 840
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/wing_2"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/wing_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 841
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/wing_1"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/wing_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 842
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/wing_0"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/wing_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 843
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/body_0"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/body_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 844
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/leg_right_1"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 845
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/leg_right_0"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/leg_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 846
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/leg_left_1"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/leg_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 847
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/leg_left_0"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/leg_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 848
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/skirt_forward_right"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/skirt_forward_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 849
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/skirt_forward_left"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/skirt_forward_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 850
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/skirt_forward"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/skirt_forward"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 851
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/skirt_back_right"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/skirt_back_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 852
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/skirt_back_left"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/skirt_back_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 853
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/skirt_back"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/skirt_back"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 854
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/skirt_right"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/skirt_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 855
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/skirt_left"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/skirt_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 856
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/belt_right_1"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/belt_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 857
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/belt_right_0"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/belt_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 858
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/belt_left_1"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/belt_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 859
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/belt_left_0"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/belt_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 860
 			},
-			"model": "animated_java:item/twins_sapphiel/normal/body_1"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/body_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 861
+			},
+			"model": "animated_java:blueprint/haruclaire_aj/normal/head"
 		},
 		{
 			"predicate": {
@@ -6846,7 +6852,8 @@
 			394,
 			395,
 			396,
-			397
+			397,
+			861
 		],
 		"heiloang_aj": [41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 87],
 		"illusion_of_loyalty": [277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298],

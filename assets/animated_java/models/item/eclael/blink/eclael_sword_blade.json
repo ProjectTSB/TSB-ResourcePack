@@ -1,7 +1,0 @@
-{
-	"parent": "animated_java:item/eclael/eclael_sword_blade",
-	"textures": {
-		"3": "animated_java:item/eclael/eclael_face_blink",
-		"5": "animated_java:item/eclael/eclael_face_blink"
-	}
-}

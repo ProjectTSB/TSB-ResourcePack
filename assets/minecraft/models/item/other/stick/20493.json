@@ -1,0 +1,21 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "item/artifact/stick/672",
+		"particle": "item/artifact/stick/672"
+	},
+	"elements": [
+		{
+			"from": [7.5, 7.5, -7.75],
+			"to": [8.5, 8.5, 8],
+			"faces": {
+				"north": {"uv": [10, 6, 11, 7], "texture": "#1"},
+				"east": {"uv": [10, 6, 11, 7], "texture": "#1"},
+				"south": {"uv": [10, 6, 11, 7], "texture": "#1"},
+				"west": {"uv": [10, 6, 11, 7], "texture": "#1"},
+				"up": {"uv": [10, 6, 11, 7], "texture": "#1"},
+				"down": {"uv": [10, 6, 11, 7], "texture": "#1"}
+			}
+		}
+	]
+}

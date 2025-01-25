@@ -1,0 +1,7 @@
+{
+	"parent": "animated_java:blueprint/eclael/head",
+	"textures": {
+		"3": "animated_java:blueprint/eclael/eclael_face_wink",
+		"4": "animated_java:blueprint/eclael/eclael_face_wink"
+	}
+}

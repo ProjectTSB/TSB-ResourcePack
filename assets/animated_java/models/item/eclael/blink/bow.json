@@ -1,7 +1,0 @@
-{
-	"parent": "animated_java:item/eclael/bow",
-	"textures": {
-		"3": "animated_java:item/eclael/eclael_face_blink",
-		"5": "animated_java:item/eclael/eclael_face_blink"
-	}
-}

@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:blueprint/twins_rubiel/ruby_katana",
+	"textures": {
+		"4": "animated_java:blueprint/twins_rubiel/rubiel_face_wink"
+	}
+}

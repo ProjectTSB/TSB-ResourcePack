@@ -1,0 +1,51 @@
+{
+	"textures": {
+		"0": "animated_java:blueprint/eclael/eclael",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [8.5, 2, 5.4],
+			"to": [12.25, 7.75, 10.4],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 7.875, 8]
+			},
+			"faces": {
+				"east": {
+					"uv": [9.125, 1.875, 8.5, 2.5],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [9.625, 1.875, 9.125, 2.5],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [12.25, 2, 5.4],
+			"to": [8.5, 7.75, 10.4],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 7.875, 8]
+			},
+			"faces": {
+				"south": {
+					"uv": [9.125, 1.875, 9.625, 2.5],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [8.5, 1.875, 9.125, 2.5],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}
