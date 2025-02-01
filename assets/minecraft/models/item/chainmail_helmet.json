@@ -6,6 +6,18 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 534
+            },
+            "model": "item/artifact/chainmail_helmet/534"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 535
+            },
+            "model": "item/chainmail_helmet"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 554
             },
             "model": "item/artifact/chainmail_helmet/554"
