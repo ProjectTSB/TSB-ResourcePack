@@ -30,6 +30,18 @@
         },
         {
             "predicate": {
+                "custom_model_data": 567
+            },
+            "model": "item/artifact/chainmail_chestplate/567"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 568
+            },
+            "model": "item/chainmail_chestplate"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 643
             },
             "model": "item/artifact/chainmail_chestplate/643"

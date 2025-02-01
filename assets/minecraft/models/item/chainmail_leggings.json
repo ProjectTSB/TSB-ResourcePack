@@ -30,6 +30,18 @@
         },
         {
             "predicate": {
+                "custom_model_data": 568
+            },
+            "model": "item/artifact/chainmail_leggings/568"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 569
+            },
+            "model": "item/chainmail_leggings"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 644
             },
             "model": "item/artifact/chainmail_leggings/644"
