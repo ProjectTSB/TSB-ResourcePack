@@ -1,0 +1,20 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/chainmail_leggings"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 556
+            },
+            "model": "item/artifact/chainmail_leggings/556"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 557
+            },
+            "model": "item/chainmail_leggings"
+        }
+    ]
+}
