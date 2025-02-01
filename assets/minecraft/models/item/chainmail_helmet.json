@@ -27,6 +27,18 @@
                 "custom_model_data": 643
             },
             "model": "item/chainmail_helmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 664
+            },
+            "model": "item/artifact/chainmail_helmet/664"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 665
+            },
+            "model": "item/chainmail_helmet"
         }
     ]
 }

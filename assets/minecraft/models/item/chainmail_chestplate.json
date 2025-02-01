@@ -27,6 +27,18 @@
                 "custom_model_data": 644
             },
             "model": "item/chainmail_chestplate"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 665
+            },
+            "model": "item/artifact/chainmail_chestplate/665"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 666
+            },
+            "model": "item/chainmail_chestplate"
         }
     ]
 }
