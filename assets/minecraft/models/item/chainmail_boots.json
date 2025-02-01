@@ -15,6 +15,18 @@
                 "custom_model_data": 558
             },
             "model": "item/chainmail_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 645
+            },
+            "model": "item/artifact/chainmail_boots/645"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 646
+            },
+            "model": "item/chainmail_boots"
         }
     ]
 }
