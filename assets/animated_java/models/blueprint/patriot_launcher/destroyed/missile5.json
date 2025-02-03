@@ -1,5 +1,5 @@
 {
-	"parent": "animated_java:blueprint/patriot_launcher/missile1",
+	"parent": "animated_java:blueprint/patriot_launcher/missile5",
 	"textures": {
 		"0": "animated_java:blueprint/patriot_launcher/aa_missile_launcher_destroy"
 	}

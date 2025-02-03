@@ -4345,5 +4345,10 @@
                 54
             ]
         }
-    ]
+    ],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 7, 0]
+		}
+	}
 }

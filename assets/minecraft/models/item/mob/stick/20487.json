@@ -3243,5 +3243,10 @@
                 }
             }
         }
-    ]
+    ],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 7.75, 0]
+		}
+	}
 }
