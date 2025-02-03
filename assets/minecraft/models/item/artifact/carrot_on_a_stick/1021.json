@@ -104,12 +104,14 @@
 			"scale": [0.75, 0.75, 0.75]
 		},
 		"firstperson_righthand": {
-			"rotation": [50, -5, 0],
-			"translation": [3, 7, 0]
+			"rotation": [45, -5, 5],
+			"translation": [2, 7, 1.5],
+			"scale": [0.7, 0.7, 0.7]
 		},
 		"firstperson_lefthand": {
-			"rotation": [50, -5, 0],
-			"translation": [3, 7, 0]
+			"rotation": [45, -5, 5],
+			"translation": [2, 7, 1.5],
+			"scale": [0.7, 0.7, 0.7]
 		},
 		"ground": {
 			"rotation": [45, 0, 0],
