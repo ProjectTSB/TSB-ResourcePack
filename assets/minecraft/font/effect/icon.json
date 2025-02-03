@@ -70,6 +70,8 @@
         { "chars": [ "\u0276" ], "name": "鳴り止まぬ雷鳴",           "level": 3, "file": "minecraft:font/effect/276.png", "type": "bitmap", "ascent": -17, "height": 9 },
         { "chars": [ "\u0278" ], "name": "時間の束縛",               "level": 4, "file": "minecraft:font/effect/278.png", "type": "bitmap", "ascent": -31, "height": 9 },
         { "chars": [ "\u0279" ], "name": "毒 (異形の森の弓)",        "level": 4, "file": "minecraft:font/effect/29.png",  "type": "bitmap", "ascent": -31, "height": 9 },
+        { "chars": [ "\u0296" ], "name": "魂の断絶",                 "level": 4, "file": "minecraft:font/effect/296.png", "type": "bitmap", "ascent": -31, "height": 9 },
+        { "chars": [ "\u0301" ], "name": "命魂の光",                 "level": 3, "file": "minecraft:font/effect/301.png", "type": "bitmap", "ascent": -17, "height": 9 },
         { "chars": [ "\u0601" ], "name": "断罪",                     "level": 2, "file": "minecraft:font/effect/601.png", "type": "bitmap", "ascent": -31, "height": 9 },
         { "chars": [ "\u0603" ], "name": "支配",                     "level": 2, "file": "minecraft:font/effect/603.png", "type": "bitmap", "ascent": -31, "height": 9 },
         { "chars": [ "\u0604" ], "name": "魂の伐採",                 "level": 2, "file": "minecraft:font/effect/604.png", "type": "bitmap", "ascent": -31, "height": 9 },
@@ -82,6 +84,7 @@
         { "chars": [ "\u0615" ], "name": "荒波の呪い",               "level": 2, "file": "minecraft:font/effect/615.png", "type": "bitmap", "ascent": -31, "height": 9 },
         { "chars": [ "\u0616" ], "name": "天雷の呪い",               "level": 2, "file": "minecraft:font/effect/616.png", "type": "bitmap", "ascent": -31, "height": 9 },
         { "chars": [ "\u0617" ], "name": "双子の視線",               "level": 2, "file": "minecraft:font/effect/617.png", "type": "bitmap", "ascent": -31, "height": 9 },
-        { "chars": [ "\u0618" ], "name": "ずぶ濡れ",                 "level": 2, "file": "minecraft:font/effect/618.png", "type": "bitmap", "ascent": -31, "height": 9 }
+        { "chars": [ "\u0618" ], "name": "ずぶ濡れ",                 "level": 2, "file": "minecraft:font/effect/618.png", "type": "bitmap", "ascent": -31, "height": 9 },
+        { "chars": [ "\u0620" ], "name": "恩返し",                   "level": 3, "file": "minecraft:font/effect/620.png", "type": "bitmap", "ascent": -17, "height": 9 }
     ]
 }

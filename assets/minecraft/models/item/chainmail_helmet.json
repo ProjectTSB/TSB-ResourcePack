@@ -1,0 +1,104 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/chainmail_helmet"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 534
+            },
+            "model": "item/artifact/chainmail_helmet/534"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 535
+            },
+            "model": "item/chainmail_helmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 554
+            },
+            "model": "item/artifact/chainmail_helmet/554"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 555
+            },
+            "model": "item/chainmail_helmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 566
+            },
+            "model": "item/artifact/chainmail_helmet/566"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 567
+            },
+            "model": "item/chainmail_helmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 638
+            },
+            "model": "item/artifact/chainmail_helmet/638"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 639
+            },
+            "model": "item/chainmail_helmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 642
+            },
+            "model": "item/artifact/chainmail_helmet/642"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 643
+            },
+            "model": "item/chainmail_helmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 664
+            },
+            "model": "item/artifact/chainmail_helmet/664"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 665
+            },
+            "model": "item/chainmail_helmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 971
+            },
+            "model": "item/artifact/chainmail_helmet/971"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 972
+            },
+            "model": "item/chainmail_helmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1118
+            },
+            "model": "item/artifact/chainmail_helmet/1118"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1119
+            },
+            "model": "item/chainmail_helmet"
+        }
+    ]
+}

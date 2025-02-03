@@ -1,0 +1,80 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/chainmail_leggings"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 536
+            },
+            "model": "item/artifact/chainmail_leggings/536"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 537
+            },
+            "model": "item/chainmail_leggings"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 556
+            },
+            "model": "item/artifact/chainmail_leggings/556"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 557
+            },
+            "model": "item/chainmail_leggings"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 568
+            },
+            "model": "item/artifact/chainmail_leggings/568"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 569
+            },
+            "model": "item/chainmail_leggings"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 640
+            },
+            "model": "item/artifact/chainmail_leggings/640"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 641
+            },
+            "model": "item/chainmail_leggings"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 644
+            },
+            "model": "item/artifact/chainmail_leggings/644"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 645
+            },
+            "model": "item/chainmail_leggings"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 666
+            },
+            "model": "item/artifact/chainmail_leggings/666"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 667
+            },
+            "model": "item/chainmail_leggings"
+        }
+    ]
+}

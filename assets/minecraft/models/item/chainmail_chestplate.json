@@ -1,0 +1,80 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/chainmail_chestplate"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 535
+            },
+            "model": "item/artifact/chainmail_chestplate/535"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 536
+            },
+            "model": "item/chainmail_chestplate"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 555
+            },
+            "model": "item/artifact/chainmail_chestplate/555"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 556
+            },
+            "model": "item/chainmail_chestplate"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 567
+            },
+            "model": "item/artifact/chainmail_chestplate/567"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 568
+            },
+            "model": "item/chainmail_chestplate"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 639
+            },
+            "model": "item/artifact/chainmail_chestplate/639"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 640
+            },
+            "model": "item/chainmail_chestplate"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 643
+            },
+            "model": "item/artifact/chainmail_chestplate/643"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 644
+            },
+            "model": "item/chainmail_chestplate"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 665
+            },
+            "model": "item/artifact/chainmail_chestplate/665"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 666
+            },
+            "model": "item/chainmail_chestplate"
+        }
+    ]
+}
