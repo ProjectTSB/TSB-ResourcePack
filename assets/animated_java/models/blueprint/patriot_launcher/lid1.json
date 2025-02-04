@@ -1,0 +1,48 @@
+{
+	"textures": {
+		"0": "animated_java:blueprint/patriot_launcher/aa_missile_launcher",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [8, 7.99998, 5.67122],
+			"to": [9, 8.24998, 11.42122],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 8, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [13, 0.25, 13.25, 0.3125],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [9.25, 1.75, 10.6875, 1.8125],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [0.5, 13, 0.75, 13.0625],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [8.75, 9.25, 10.1875, 9.3125],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [6.75, 9.4375, 6.5, 8],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [8.25, 6.5, 8, 7.9375],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

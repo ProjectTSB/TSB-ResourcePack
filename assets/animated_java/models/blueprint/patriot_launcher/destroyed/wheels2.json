@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:blueprint/patriot_launcher/wheels2",
+	"textures": {
+		"0": "animated_java:blueprint/patriot_launcher/aa_missile_launcher_destroy"
+	}
+}
