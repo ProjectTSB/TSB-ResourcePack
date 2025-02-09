@@ -1,0 +1,48 @@
+{
+	"textures": {
+		"0": "animated_java:blueprint/terrible_sonic_bomber/terrible_sonic_bomber",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [2, 7.55, 8],
+			"to": [14, 8.05, 11],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [-14, -67.95, 5]
+			},
+			"faces": {
+				"north": {
+					"uv": [9, 8.75, 10.5, 8.8125],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [1.125, 9.875, 1.5, 9.9375],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [9, 8.875, 10.5, 8.9375],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [9.875, 1.375, 10.25, 1.4375],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [6.5, 6.125, 5, 5.75],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [2.625, 6, 1.125, 6.375],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}
