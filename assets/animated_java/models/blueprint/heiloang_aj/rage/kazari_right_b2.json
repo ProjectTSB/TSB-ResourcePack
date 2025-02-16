@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:blueprint/heiloang_aj/kazari_right_b2",
+	"textures": {
+		"0": "animated_java:blueprint/heiloang_aj/tsb_dragon_raging"
+	}
+}
