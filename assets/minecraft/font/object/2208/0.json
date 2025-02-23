@@ -53,6 +53,15 @@
             "chars": [
                 "5"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/object/2208/floor.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": [
+                "a"
+            ]
         }
     ]
 }
