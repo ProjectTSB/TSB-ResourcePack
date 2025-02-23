@@ -21,7 +21,7 @@ jobs:
       - name: Generate effect icon.json
         run: ts-node ./.github/workflows/generate_effect_icon_json.ts
         env:
-          CHECKOUT_PATH: /home/runner/work/TSB-Resourcepack/TSB-Resourcepack/
+          CHECKOUT_PATH: /home/runner/work/TSB-Resourcepack/
 
       - name: Commit changes
         run: |
