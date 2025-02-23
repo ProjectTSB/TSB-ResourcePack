@@ -12,8 +12,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      - name: Setup minimum typescript code runner
+        run: |
+            npm i -g ts-node
+            npm i -D @types/node
+            echo '{"compilerOptions": {"target": "ESNext"}}' > ./tsconfig.json
+
       - name: Generate effect icon.json
-        run: node .github/workflows/generate_effect_icon_json.js
+        run: ts-node ./.github/workflows/generate_effect_icon_json.ts
+        env:
+          CHECKOUT_PATH: /home/runner/work/TSB-Resourcepack/TSB-Resourcepack/
 
       - name: Commit changes
         run: |

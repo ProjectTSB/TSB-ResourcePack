@@ -2,25 +2,20 @@
 import fs from "fs"
 import path from "path"
 
-// from: assets / minecraft / textures / font / effect / (\d +).png
-// to: { "chars": ["\u0001"], "file": "minecraft:font/effect/$1.png", "type": "bitmap", "ascent": 8, "height": 9 },
-
-/** @type {{ getOrDefault: (key: string, defaultValue: string) => string, getOrThrow: (key: string) => string }} */
-const env = {
+const throwError: (message: string) => never = m => { throw new Error(m) }
+const env: { getOrDefault: (key: string, defaultValue: string) => string, getOrThrow: (key: string) => string } = {
   getOrDefault: (key, defaultValue) => process.env[key] ?? defaultValue,
   getOrThrow: key => process.env[key] ?? throwError(`Missing environment key: ${key}`)
 }
 
 const run = () => {
-  // const checkoutPath = env.getOrThrow("CHECKOUT_PATH")
-  const checkoutPath = "C:/Users/scnme/Chen_Data/Minecraft/Clients/1.20.X/resourcepacks/TSB-Resourcepack"
+  const checkoutPath = env.getOrThrow("CHECKOUT_PATH")
 
   const fontDir = path.join(checkoutPath, "assets", "minecraft", "textures", "font", "effect")
 
   const fontFiles = fs.readdirSync(fontDir)
 
-  /** @type {[id: number, mappingChar: string, resourcePath: string, isBuff: boolean][]} */
-  const effectMappings = fontFiles.flatMap(fileName => {
+  const effectMappings = fontFiles.flatMap<[id: number, mappingChar: string, resourcePath: string, isBuff: boolean]>(fileName => {
     const parsed = path.parse(fileName)
     const [id, suffix] = parsed.name.split("_")
     if (suffix !== "buff" && suffix !== "debuff") return []
