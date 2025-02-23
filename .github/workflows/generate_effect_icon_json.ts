@@ -1,5 +1,5 @@
 `use strict`;
-import fs from "fs"
+import * as fs from "fs"
 import path from "path"
 
 const throwError: (message: string) => never = m => { throw new Error(m) }
@@ -26,19 +26,19 @@ const run = () => {
 
     switch (parsed.ext) {
       case ".png":
-        return [[id, mappingChar, `minecraft:font/effect/${fileName}`, isBuff]]
+        return [[parseInt(id), mappingChar, `minecraft:font/effect/${fileName}`, isBuff]]
       case ".txt":
         const extendId = fs.readFileSync(path.join(fontDir, fileName), "utf-8").trim()
         const extendFileName = fontFiles.find(f => f.startsWith(`${extendId}_`))
         if (!extendFileName) throw new Error(`Cannot find extend texture for ${extendId} in ${fileName}`)
         console.log(`Extend ${fileName} to ${extendFileName}`)
-        return [[id, mappingChar, `minecraft:font/effect/${extendFileName}`, isBuff]]
+        return [[parseInt(id), mappingChar, `minecraft:font/effect/${extendFileName}`, isBuff]]
       default:
         return []
     }
   }).sort((a, b) => a[0] - b[0])
 
-  const jsonPostProcess = (jsonString) => jsonString.replace(/\\\\/g, "\\")
+  const jsonPostProcess = (jsonString: string) => jsonString.replace(/\\\\/g, "\\")
 
   const iconJson = effectMappings.map(([, c, file, isBuff]) => ({ chars: [c], file, type: "bitmap", ascent: isBuff ? -17 : -31, height: 9 }))
   const iconJsonPath = path.join(checkoutPath, "assets", "minecraft", "font", "effect", "icon.json")
