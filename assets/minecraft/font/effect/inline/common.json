@@ -1,0 +1,76 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/effect/common/buff.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": [
+                "+"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/effect/common/debuff.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": [
+                "-"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/effect/common/bg.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": [
+                "\uB0FF"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/effect/common/bg.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": [
+                "\uD0FF"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/effect/common/level.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": [
+                "\uB0C1\uB0C2\uB0C3\uB0C4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/effect/common/level.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": [
+                "\uD0C1\uD0C2\uD0C3\uD0C4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/effect/common/stack.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": [
+                "\uB000\uB001\uB002\uB003\uB004\uB005\uB006\uB007\uB008\uB009\uB00F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/effect/common/stack.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": [
+                "\uD000\uD001\uD002\uD003\uD004\uD005\uD006\uD007\uD008\uD009\uD00F"
+            ]
+        }
+    ]
+}

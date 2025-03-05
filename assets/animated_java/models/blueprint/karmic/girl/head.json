@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:blueprint/karmic/head",
+	"textures": {
+		"3": "animated_java:blueprint/karmic/angel_ez"
+	}
+}

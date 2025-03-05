@@ -1016,6 +1016,12 @@
             "predicate": {
                 "custom_model_data": 797
             },
+            "model": "item/artifact/carrot_on_a_stick/797"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 798
+            },
             "model": "item/carrot_on_a_stick"
         },
         {
@@ -1448,6 +1454,12 @@
             "predicate": {
                 "custom_model_data": 1124
             },
+            "model": "item/artifact/carrot_on_a_stick/1124"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1125
+            },
             "model": "item/carrot_on_a_stick"
         },
         {
@@ -1483,6 +1495,18 @@
         {
             "predicate": {
                 "custom_model_data": 1167
+            },
+            "model": "item/carrot_on_a_stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1176
+            },
+            "model": "item/artifact/carrot_on_a_stick/1176"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1177
             },
             "model": "item/carrot_on_a_stick"
         },
