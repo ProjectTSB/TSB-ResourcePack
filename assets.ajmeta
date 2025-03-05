@@ -445,8 +445,6 @@
 			"assets/animated_java/textures/blueprint/illusion_of_loyalty/texture_shadow_face.png",
 			"assets/animated_java/textures/blueprint/illusion_of_loyalty/texture_shadow.png",
 			"assets/animated_java/textures/blueprint/illusion_of_loyalty/texture_shadow_body.png",
-			"assets/minecraft/atlases/blocks.json",
-			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/models/blueprint/illusion_of_loyalty/head.json",
 			"assets/animated_java/models/blueprint/illusion_of_loyalty/backhair.json",
 			"assets/animated_java/models/blueprint/illusion_of_loyalty/body.json",
@@ -716,8 +714,6 @@
 			"assets/animated_java/textures/blueprint/tultaria/texture_body.png",
 			"assets/animated_java/textures/blueprint/tultaria/texture_sword.png",
 			"assets/animated_java/textures/blueprint/tultaria/none.png",
-			"assets/minecraft/atlases/blocks.json",
-			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/models/blueprint/tultaria/head.json",
 			"assets/animated_java/models/blueprint/tultaria/body.json",
 			"assets/animated_java/models/blueprint/tultaria/bust.json",
@@ -744,7 +740,8 @@
 			"assets/animated_java/models/blueprint/tultaria/winged/left_wing.json",
 			"assets/animated_java/models/blueprint/tultaria/winged/right_wing.json",
 			"assets/animated_java/models/blueprint/tultaria/face_eyeclose/head.json",
-			"assets/animated_java/models/blueprint/tultaria/face_eyehalf/head.json"
+			"assets/animated_java/models/blueprint/tultaria/face_eyehalf/head.json",
+			"assets/animated_java/models/blueprint/tultaria/face_eyeopen/head.json"
 		]
 	},
 	"tutankhamen": {
