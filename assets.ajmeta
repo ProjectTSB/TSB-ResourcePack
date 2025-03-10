@@ -445,8 +445,6 @@
 			"assets/animated_java/textures/blueprint/illusion_of_loyalty/texture_shadow_face.png",
 			"assets/animated_java/textures/blueprint/illusion_of_loyalty/texture_shadow.png",
 			"assets/animated_java/textures/blueprint/illusion_of_loyalty/texture_shadow_body.png",
-			"assets/minecraft/atlases/blocks.json",
-			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/models/blueprint/illusion_of_loyalty/head.json",
 			"assets/animated_java/models/blueprint/illusion_of_loyalty/backhair.json",
 			"assets/animated_java/models/blueprint/illusion_of_loyalty/body.json",
@@ -469,6 +467,29 @@
 			"assets/animated_java/models/blueprint/illusion_of_loyalty/rightfoot.json",
 			"assets/animated_java/models/blueprint/illusion_of_loyalty/leftleg.json",
 			"assets/animated_java/models/blueprint/illusion_of_loyalty/leftfoot.json"
+		]
+	},
+	"karmic": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/textures/blueprint/karmic/wing.png",
+			"assets/animated_java/textures/blueprint/karmic/angel_ez.png",
+			"assets/animated_java/textures/blueprint/karmic/1029.png",
+			"assets/animated_java/models/blueprint/karmic/body.json",
+			"assets/animated_java/models/blueprint/karmic/head.json",
+			"assets/animated_java/models/blueprint/karmic/rightarm.json",
+			"assets/animated_java/models/blueprint/karmic/righthand.json",
+			"assets/animated_java/models/blueprint/karmic/rightscythe_handle.json",
+			"assets/animated_java/models/blueprint/karmic/sword.json",
+			"assets/animated_java/models/blueprint/karmic/leftarm.json",
+			"assets/animated_java/models/blueprint/karmic/lefthand.json",
+			"assets/animated_java/models/blueprint/karmic/gun.json",
+			"assets/animated_java/models/blueprint/karmic/leftscythe_handle.json",
+			"assets/animated_java/models/blueprint/karmic/leftleg.json",
+			"assets/animated_java/models/blueprint/karmic/leftfeet.json",
+			"assets/animated_java/models/blueprint/karmic/rightleg.json",
+			"assets/animated_java/models/blueprint/karmic/rightfeet.json",
+			"assets/animated_java/models/blueprint/karmic/girl/head.json"
 		]
 	},
 	"labyria": {
@@ -716,8 +737,6 @@
 			"assets/animated_java/textures/blueprint/tultaria/texture_body.png",
 			"assets/animated_java/textures/blueprint/tultaria/texture_sword.png",
 			"assets/animated_java/textures/blueprint/tultaria/none.png",
-			"assets/minecraft/atlases/blocks.json",
-			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/models/blueprint/tultaria/head.json",
 			"assets/animated_java/models/blueprint/tultaria/body.json",
 			"assets/animated_java/models/blueprint/tultaria/bust.json",
@@ -744,7 +763,8 @@
 			"assets/animated_java/models/blueprint/tultaria/winged/left_wing.json",
 			"assets/animated_java/models/blueprint/tultaria/winged/right_wing.json",
 			"assets/animated_java/models/blueprint/tultaria/face_eyeclose/head.json",
-			"assets/animated_java/models/blueprint/tultaria/face_eyehalf/head.json"
+			"assets/animated_java/models/blueprint/tultaria/face_eyehalf/head.json",
+			"assets/animated_java/models/blueprint/tultaria/face_eyeopen/head.json"
 		]
 	},
 	"tutankhamen": {
