@@ -86,97 +86,97 @@
 			"predicate": {
 				"custom_model_data": 14
 			},
-			"model": "animated_java:blueprint/tutankhamen/head"
+			"model": "animated_java:blueprint/frestchika/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 15
 			},
-			"model": "animated_java:blueprint/tutankhamen/body"
+			"model": "animated_java:blueprint/frestchika/ahoge"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 16
 			},
-			"model": "animated_java:blueprint/tutankhamen/back_cape"
+			"model": "animated_java:blueprint/frestchika/side_tail"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 17
 			},
-			"model": "animated_java:blueprint/tutankhamen/left_arm"
+			"model": "animated_java:blueprint/frestchika/side_tail_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 18
 			},
-			"model": "animated_java:blueprint/tutankhamen/left_hand"
+			"model": "animated_java:blueprint/frestchika/backhair"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 19
 			},
-			"model": "animated_java:blueprint/tutankhamen/cape_left_side"
+			"model": "animated_java:blueprint/frestchika/right_wing"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 20
 			},
-			"model": "animated_java:blueprint/tutankhamen/cape_left_back"
+			"model": "animated_java:blueprint/frestchika/right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 21
 			},
-			"model": "animated_java:blueprint/tutankhamen/right_arm"
+			"model": "animated_java:blueprint/frestchika/right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 22
 			},
-			"model": "animated_java:blueprint/tutankhamen/cape_right"
+			"model": "animated_java:blueprint/frestchika/right_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 23
 			},
-			"model": "animated_java:blueprint/tutankhamen/cape_right_back"
+			"model": "animated_java:blueprint/frestchika/left_wing"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 24
 			},
-			"model": "animated_java:blueprint/tutankhamen/right_hand"
+			"model": "animated_java:blueprint/frestchika/left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 25
 			},
-			"model": "animated_java:blueprint/tutankhamen/weapon"
+			"model": "animated_java:blueprint/frestchika/left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 26
 			},
-			"model": "animated_java:blueprint/tutankhamen/left_leg"
+			"model": "animated_java:blueprint/frestchika/left_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 27
 			},
-			"model": "animated_java:blueprint/tutankhamen/left_foot"
+			"model": "animated_java:blueprint/frestchika/body"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 28
 			},
-			"model": "animated_java:blueprint/tutankhamen/right_leg"
+			"model": "animated_java:blueprint/frestchika/right_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 29
 			},
-			"model": "animated_java:blueprint/tutankhamen/right_foot"
+			"model": "animated_java:blueprint/frestchika/right_hand"
 		},
 		{
 			"predicate": {
@@ -5868,6 +5868,42 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 978
+			},
+			"model": "animated_java:blueprint/frestchika/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 979
+			},
+			"model": "animated_java:blueprint/frestchika/left_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 980
+			},
+			"model": "animated_java:blueprint/frestchika/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 981
+			},
+			"model": "animated_java:blueprint/frestchika/right_foot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 982
+			},
+			"model": "animated_java:blueprint/frestchika/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 983
+			},
+			"model": "animated_java:blueprint/frestchika/left_foot"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 341001
 			},
 			"model": "animated_java:blueprint/louvert/body_0"
@@ -6960,6 +6996,7 @@
 			392057,
 			392058
 		],
+		"frestchika": [14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 978, 979, 980, 981, 982, 983],
 		"frestchika_v2": [
 			88,
 			89,
@@ -7362,7 +7399,6 @@
 		"terrible_sonic_bomber": [862, 863, 864, 865, 866, 867, 868, 869, 870, 871, 872, 917],
 		"tiamat_aj": [459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496],
 		"tultaria": [252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 497, 498, 977],
-		"tutankhamen": [14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29],
 		"twins_rubiel": [
 			643,
 			644,
