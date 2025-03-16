@@ -618,6 +618,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 294
+            },
+            "model": "item/artifact/carrot_on_a_stick/294"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 295
             },
             "model": "item/artifact/carrot_on_a_stick/295"
