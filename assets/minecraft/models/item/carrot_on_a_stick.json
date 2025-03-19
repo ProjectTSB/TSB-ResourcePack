@@ -618,6 +618,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 294
+            },
+            "model": "item/artifact/carrot_on_a_stick/294"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 295
             },
             "model": "item/artifact/carrot_on_a_stick/295"
@@ -637,6 +643,18 @@
         {
             "predicate": {
                 "custom_model_data": 298
+            },
+            "model": "item/carrot_on_a_stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 301
+            },
+            "model": "item/artifact/carrot_on_a_stick/301"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 302
             },
             "model": "item/carrot_on_a_stick"
         },
@@ -861,6 +879,18 @@
                 "custom_model_data": 468
             },
             "model": "item/carrot_on_a_stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 469
+            },
+            "model": "item/artifact/carrot_on_a_stick/469"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 470
+            },
+            "model": "item/artifact/carrot_on_a_stick/470"
         },
         {
             "predicate": {
@@ -1531,6 +1561,24 @@
         {
             "predicate": {
                 "custom_model_data": 1208
+            },
+            "model": "item/carrot_on_a_stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1218
+            },
+            "model": "item/artifact/carrot_on_a_stick/1218"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1219
+            },
+            "model": "item/artifact/carrot_on_a_stick/1219"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1220
             },
             "model": "item/carrot_on_a_stick"
         },
