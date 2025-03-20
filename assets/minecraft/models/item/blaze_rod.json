@@ -5874,6 +5874,42 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 979
+			},
+			"model": "animated_java:blueprint/frestchika/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 980
+			},
+			"model": "animated_java:blueprint/frestchika/left_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 981
+			},
+			"model": "animated_java:blueprint/frestchika/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 982
+			},
+			"model": "animated_java:blueprint/frestchika/right_foot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 983
+			},
+			"model": "animated_java:blueprint/frestchika/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 984
+			},
+			"model": "animated_java:blueprint/frestchika/left_foot"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 341001
 			},
 			"model": "animated_java:blueprint/louvert/body_0"
@@ -6966,7 +7002,7 @@
 			392057,
 			392058
 		],
-		"frestchika": [14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 978, 979, 980, 981, 982, 983],
+		"frestchika": [14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 979, 980, 981, 982, 983, 984],
 		"frestchika_v2": [
 			88,
 			89,
