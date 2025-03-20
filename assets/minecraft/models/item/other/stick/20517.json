@@ -1,21 +1,6 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "minecraft:block/cube_all",
 	"textures": {
 		"all": "item/other/stick/20517"
-	},
-	"elements": [
-		{
-			"from": [-0.001, -0.001, -0.001],
-			"to": [16.001, 16.001, 16.001],
-			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "north"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "east"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "south"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "west"},
-				"up": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "up"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "down"}
-			}
-		}
-	]
+	}
 }
