@@ -5868,6 +5868,12 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 978
+			},
+			"model": "animated_java:blueprint/haruclaire_aj/jito/head"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 341001
 			},
 			"model": "animated_java:blueprint/louvert/body_0"
@@ -7213,7 +7219,8 @@
 			395,
 			396,
 			397,
-			861
+			861,
+			978
 		],
 		"heiloang_aj": [
 			41,
