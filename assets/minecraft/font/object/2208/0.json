@@ -62,15 +62,6 @@
             "chars": [
                 "a"
             ]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/object/2208/floor_yellow.png",
-            "ascent": 8,
-            "height": 16,
-            "chars": [
-                "b"
-            ]
         }
     ]
 }

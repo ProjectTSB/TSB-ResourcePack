@@ -5870,7 +5870,37 @@
 			"predicate": {
 				"custom_model_data": 978
 			},
-			"model": "animated_java:blueprint/haruclaire_aj/jito/head"
+			"model": "animated_java:blueprint/frestchika/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 979
+			},
+			"model": "animated_java:blueprint/frestchika/left_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 980
+			},
+			"model": "animated_java:blueprint/frestchika/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 981
+			},
+			"model": "animated_java:blueprint/frestchika/right_foot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 982
+			},
+			"model": "animated_java:blueprint/frestchika/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 983
+			},
+			"model": "animated_java:blueprint/frestchika/left_foot"
 		},
 		{
 			"predicate": {
@@ -7220,8 +7250,7 @@
 			395,
 			396,
 			397,
-			861,
-			978
+			861
 		],
 		"heiloang_aj": [
 			41,

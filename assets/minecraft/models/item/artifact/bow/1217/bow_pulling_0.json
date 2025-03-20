@@ -1,6 +1,0 @@
-{
-    "parent": "item/bow",
-    "textures": {
-        "layer0": "item/artifact/bow/1217/bow_pulling_0"
-    }
-}

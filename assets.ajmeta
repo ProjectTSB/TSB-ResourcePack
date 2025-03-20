@@ -275,7 +275,7 @@
 			"assets/animated_java/textures/blueprint/haruclaire_aj/haruclaire_v3_face_normal.png",
 			"assets/animated_java/textures/blueprint/haruclaire_aj/haruclaire_v3_face_blink.png",
 			"assets/animated_java/textures/blueprint/haruclaire_aj/haruclaire_v3_face_damage.png",
-			"assets/animated_java/textures/blueprint/haruclaire_aj/haruclaire_v3_face_jito.png",
+			"assets/animated_java/textures/blueprint/haruclaire_aj/383.png",
 			"assets/minecraft/atlases/blocks.json",
 			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/models/blueprint/haruclaire_aj/body_1.json",
@@ -377,8 +377,7 @@
 			"assets/animated_java/models/blueprint/haruclaire_aj/damage/hato_wing_right.json",
 			"assets/animated_java/models/blueprint/haruclaire_aj/damage/hato_wing_left.json",
 			"assets/animated_java/models/blueprint/haruclaire_aj/damage/hato_body.json",
-			"assets/animated_java/models/blueprint/haruclaire_aj/normal/head.json",
-			"assets/animated_java/models/blueprint/haruclaire_aj/jito/head.json"
+			"assets/animated_java/models/blueprint/haruclaire_aj/normal/head.json"
 		]
 	},
 	"heiloang_aj": {

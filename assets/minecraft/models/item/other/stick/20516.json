@@ -1,6 +1,0 @@
-{
-    "parent": "item/handheld_tsb",
-    "textures": {
-        "layer0": "item/other/stick/20516"
-    }
-}
