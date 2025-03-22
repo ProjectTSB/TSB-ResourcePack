@@ -1580,6 +1580,12 @@
             "predicate": {
                 "custom_model_data": 1208
             },
+            "model": "item/artifact/carrot_on_a_stick/1208"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1209
+            },
             "model": "item/carrot_on_a_stick"
         },
         {
