@@ -179,6 +179,15 @@
             "chars": [
                 "j"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/object/2187/0/bg.png",
+            "ascent": 128,
+            "height": 256,
+            "chars": [
+                "k"
+            ]
         }
     ]
 }
