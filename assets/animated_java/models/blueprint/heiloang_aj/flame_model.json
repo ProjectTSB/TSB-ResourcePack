@@ -1,8 +1,7 @@
 {
 	"textures": {
 		"1": "animated_java:blueprint/heiloang_aj/beam",
-		"2": "animated_java:blueprint/heiloang_aj/beam_end",
-		"particle": "minecraft:item/pufferfish"
+		"2": "animated_java:blueprint/heiloang_aj/beam_end"
 	},
 	"display": {
 		"head": {
