@@ -1,0 +1,33 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/artifact/carrot_on_a_stick/1150"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [50.93, 87.45, -94.79],
+			"translation": [-0.75, 0, -1],
+			"scale": [0.54, 0.54, 0.54]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [50.93, -87.45, 94.79],
+			"translation": [-0.75, 0, -1],
+			"scale": [0.54, 0.54, 0.54]
+		},
+		"firstperson_righthand": {
+			"rotation": [-10.97, 72.94, -27.79],
+			"translation": [-0.75, 6.75, 1.25],
+			"scale": [0.69, 0.69, 0.69]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-29.67, -88.54, 0.5],
+			"translation": [-0.75, 6.75, 1.25],
+			"scale": [0.69, 0.69, 0.69]
+		},
+		"ground": {
+			"scale": [0.29, 0.29, 0.29]
+		}
+	}
+}
