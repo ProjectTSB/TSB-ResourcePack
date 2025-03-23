@@ -1,0 +1,266 @@
+{
+    "credit": "Made with Blockbench",
+    "texture_size": [
+        64,
+        64
+    ],
+    "textures": {
+        "1": "item/artifact/carrot_on_a_stick/1183/cosmo"
+    },
+    "elements": [
+        {
+            "from": [
+                3.5,
+                -1.76329,
+                7
+            ],
+            "to": [
+                12.5,
+                15.23671,
+                9
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    8.5,
+                    10.23671,
+                    8
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        0,
+                        2.25,
+                        4.25
+                    ],
+                    "texture": "#1"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        4.25,
+                        0.5,
+                        8.5
+                    ],
+                    "texture": "#1"
+                },
+                "south": {
+                    "uv": [
+                        2.25,
+                        0,
+                        4.5,
+                        4.25
+                    ],
+                    "texture": "#1"
+                },
+                "west": {
+                    "uv": [
+                        0.5,
+                        4.25,
+                        1,
+                        8.5
+                    ],
+                    "texture": "#1"
+                },
+                "up": {
+                    "uv": [
+                        3.25,
+                        4.75,
+                        1,
+                        4.25
+                    ],
+                    "texture": "#1"
+                },
+                "down": {
+                    "uv": [
+                        5.5,
+                        4.25,
+                        3.25,
+                        4.75
+                    ],
+                    "texture": "#1"
+                }
+            }
+        },
+        {
+            "from": [
+                9.5,
+                15.23671,
+                7
+            ],
+            "to": [
+                12.5,
+                16.23671,
+                9
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    8.5,
+                    24.23671,
+                    8
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        4.5,
+                        1,
+                        5.25,
+                        1.25
+                    ],
+                    "texture": "#1"
+                },
+                "east": {
+                    "uv": [
+                        4.5,
+                        1.5,
+                        5,
+                        1.75
+                    ],
+                    "texture": "#1"
+                },
+                "south": {
+                    "uv": [
+                        4.5,
+                        1.25,
+                        5.25,
+                        1.5
+                    ],
+                    "texture": "#1"
+                },
+                "west": {
+                    "uv": [
+                        4.5,
+                        1.75,
+                        5,
+                        2
+                    ],
+                    "texture": "#1"
+                },
+                "up": {
+                    "uv": [
+                        5.25,
+                        0.5,
+                        4.5,
+                        0
+                    ],
+                    "texture": "#1"
+                },
+                "down": {
+                    "uv": [
+                        5.25,
+                        0.5,
+                        4.5,
+                        1
+                    ],
+                    "texture": "#1"
+                }
+            }
+        }
+    ],
+    "gui_light": "front",
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [
+                0,
+                124,
+                0
+            ],
+            "translation": [
+                -0.5,
+                1.75,
+                0.5
+            ],
+            "scale": [
+                0.27,
+                0.27,
+                0.27
+            ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [
+                0,
+                124,
+                0
+            ],
+            "translation": [
+                -0.5,
+                1.75,
+                0.5
+            ],
+            "scale": [
+                0.27,
+                0.27,
+                0.27
+            ]
+        },
+        "firstperson_righthand": {
+            "rotation": [
+                164,
+                36,
+                -180
+            ],
+            "translation": [
+                0.75,
+                5,
+                0
+            ],
+            "scale": [
+                0.68,
+                0.68,
+                0.68
+            ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [
+                164,
+                36,
+                -180
+            ],
+            "translation": [
+                0.75,
+                5,
+                0
+            ],
+            "scale": [
+                0.68,
+                0.68,
+                0.68
+            ]
+        },
+        "ground": {
+            "translation": [
+                0,
+                1.5,
+                0
+            ],
+            "scale": [
+                0.27,
+                0.27,
+                0.27
+            ]
+        },
+        "gui": {
+            "rotation": [
+                -180,
+                23.75,
+                -144
+            ],
+            "translation": [
+                0,
+                0.5,
+                0
+            ],
+            "scale": [
+                0.67,
+                0.67,
+                0.67
+            ]
+        }
+    }
+}
