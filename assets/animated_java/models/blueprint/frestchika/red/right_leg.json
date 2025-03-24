@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:blueprint/frestchika/right_leg",
+	"textures": {
+		"1": "animated_java:blueprint/frestchika/texture_body_red"
+	}
+}

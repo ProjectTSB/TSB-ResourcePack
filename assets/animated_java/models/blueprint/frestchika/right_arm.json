@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "animated_java:blueprint/frestchika/texture",
+		"1": "animated_java:blueprint/frestchika/texture_body_gray",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
@@ -20,27 +20,27 @@
 			"faces": {
 				"north": {
 					"uv": [6.375, 6.25, 6.75, 7.125],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"east": {
 					"uv": [6, 6.25, 6.375, 7.125],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"south": {
 					"uv": [7.125, 6.25, 7.5, 7.125],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"west": {
 					"uv": [6.75, 6.25, 7.125, 7.125],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"up": {
 					"uv": [6.75, 6.25, 6.375, 5.875],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"down": {
 					"uv": [7.125, 5.875, 6.75, 6.25],
-					"texture": "#0"
+					"texture": "#1"
 				}
 			}
 		},
@@ -55,27 +55,27 @@
 			"faces": {
 				"north": {
 					"uv": [2.375, 6.25, 2.75, 7.125],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"east": {
 					"uv": [2, 6.25, 2.375, 7.125],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"south": {
 					"uv": [3.125, 6.25, 3.5, 7.125],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"west": {
 					"uv": [2.75, 6.25, 3.125, 7.125],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"up": {
 					"uv": [2.75, 6.25, 2.375, 5.875],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"down": {
 					"uv": [3.125, 5.875, 2.75, 6.25],
-					"texture": "#0"
+					"texture": "#1"
 				}
 			}
 		}

@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "animated_java:blueprint/frestchika/texture",
+		"1": "animated_java:blueprint/frestchika/texture_body_gray",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
@@ -20,27 +20,27 @@
 			"faces": {
 				"north": {
 					"uv": [0.5, 5, 1, 5.875],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"east": {
 					"uv": [0, 5, 0.5, 5.875],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"south": {
 					"uv": [1.5, 5, 2, 5.875],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"west": {
 					"uv": [1, 5, 1.5, 5.875],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"up": {
 					"uv": [1, 5, 0.5, 4.5],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"down": {
 					"uv": [1.5, 4.5, 1, 5],
-					"texture": "#0"
+					"texture": "#1"
 				}
 			}
 		},
@@ -55,27 +55,27 @@
 			"faces": {
 				"north": {
 					"uv": [2.5, 5, 3, 5.875],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"east": {
 					"uv": [2, 5, 2.5, 5.875],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"south": {
 					"uv": [3.5, 5, 4, 5.875],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"west": {
 					"uv": [3, 5, 3.5, 5.875],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"up": {
 					"uv": [3, 5, 2.5, 4.5],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"down": {
 					"uv": [3.5, 4.5, 3, 5],
-					"texture": "#0"
+					"texture": "#1"
 				}
 			}
 		},
@@ -90,27 +90,27 @@
 			"faces": {
 				"north": {
 					"uv": [0.5, 5, 1, 5.875],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"east": {
 					"uv": [0, 5, 0.5, 5.875],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"south": {
 					"uv": [1.5, 5, 2, 5.875],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"west": {
 					"uv": [1, 5, 1.5, 5.875],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"up": {
 					"uv": [1, 5, 0.5, 4.5],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"down": {
 					"uv": [1.5, 4.5, 1, 5],
-					"texture": "#0"
+					"texture": "#1"
 				}
 			}
 		}

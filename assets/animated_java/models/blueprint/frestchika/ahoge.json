@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "animated_java:blueprint/frestchika/texture",
+		"1": "animated_java:blueprint/frestchika/texture_body_gray",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
@@ -20,27 +20,27 @@
 			"faces": {
 				"north": {
 					"uv": [3.5, 7, 4.375, 7.5],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"east": {
 					"uv": [3.5, 7, 3.5, 7.5],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"south": {
 					"uv": [4.375, 7, 5.25, 7.5],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"west": {
 					"uv": [4.375, 7, 4.375, 7.5],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"up": {
 					"uv": [4.375, 7, 3.5, 7],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"down": {
 					"uv": [5.25, 7, 4.375, 7],
-					"texture": "#0"
+					"texture": "#1"
 				}
 			}
 		}
