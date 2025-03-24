@@ -6366,6 +6366,138 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 1061
+			},
+			"model": "animated_java:blueprint/frestchika/disabled/ahoge"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1062
+			},
+			"model": "animated_java:blueprint/frestchika/disabled/side_tail_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1063
+			},
+			"model": "animated_java:blueprint/frestchika/disabled/side_tail"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1064
+			},
+			"model": "animated_java:blueprint/frestchika/disabled/backhair"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1065
+			},
+			"model": "animated_java:blueprint/frestchika/disabled/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1066
+			},
+			"model": "animated_java:blueprint/frestchika/disabled/right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1067
+			},
+			"model": "animated_java:blueprint/frestchika/disabled/right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1068
+			},
+			"model": "animated_java:blueprint/frestchika/disabled/right_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1069
+			},
+			"model": "animated_java:blueprint/frestchika/disabled/right_wing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1070
+			},
+			"model": "animated_java:blueprint/frestchika/disabled/left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1071
+			},
+			"model": "animated_java:blueprint/frestchika/disabled/left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1072
+			},
+			"model": "animated_java:blueprint/frestchika/disabled/left_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1073
+			},
+			"model": "animated_java:blueprint/frestchika/disabled/left_wing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1074
+			},
+			"model": "animated_java:blueprint/frestchika/disabled/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1075
+			},
+			"model": "animated_java:blueprint/frestchika/disabled/right_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1076
+			},
+			"model": "animated_java:blueprint/frestchika/disabled/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1077
+			},
+			"model": "animated_java:blueprint/frestchika/disabled/left_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1078
+			},
+			"model": "animated_java:blueprint/frestchika/disabled/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1079
+			},
+			"model": "animated_java:blueprint/frestchika/disabled/right_foot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1080
+			},
+			"model": "animated_java:blueprint/frestchika/disabled/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1081
+			},
+			"model": "animated_java:blueprint/frestchika/disabled/left_foot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1082
+			},
+			"model": "animated_java:blueprint/frestchika/disabled/left_leg"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 341001
 			},
 			"model": "animated_java:blueprint/louvert/body_0"
@@ -7524,7 +7656,29 @@
 			1057,
 			1058,
 			1059,
-			1060
+			1060,
+			1061,
+			1062,
+			1063,
+			1064,
+			1065,
+			1066,
+			1067,
+			1068,
+			1069,
+			1070,
+			1071,
+			1072,
+			1073,
+			1074,
+			1075,
+			1076,
+			1077,
+			1078,
+			1079,
+			1080,
+			1081,
+			1082
 		],
 		"frestchika_v2": [
 			88,
