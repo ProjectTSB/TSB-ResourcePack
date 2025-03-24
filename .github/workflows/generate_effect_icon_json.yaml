@@ -25,8 +25,10 @@ jobs:
 
       - name: Commit changes
         run: |
-          if [[ -z $(git status --porcelain) ]]; then
-            echo "No changes to commit"
+          git_changes=$(git status --porcelain assets/minecraft/font/effect/icon.json assets/minecraft/font/effect/inline/icon.json)
+          
+          if [[ -z "$git_changes" ]]; then
+            echo "No changes to commit in the font files"
             exit 0
           else
             git config --global user.email "github-actions[bot]@users.noreply.github.com"

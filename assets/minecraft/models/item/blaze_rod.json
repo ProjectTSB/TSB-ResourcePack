@@ -5912,265 +5912,193 @@
 			"predicate": {
 				"custom_model_data": 985
 			},
-			"model": "animated_java:blueprint/frestchika/blue/ahoge"
+			"model": "animated_java:blueprint/heiloang_flare_aj/background4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 986
 			},
-			"model": "animated_java:blueprint/frestchika/blue/side_tail_2"
+			"model": "animated_java:blueprint/heiloang_aj/black/flame_model"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 987
 			},
-			"model": "animated_java:blueprint/frestchika/blue/side_tail"
+			"model": "animated_java:blueprint/heiloang_aj/black/head_lower1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 988
 			},
-			"model": "animated_java:blueprint/frestchika/blue/backhair"
+			"model": "animated_java:blueprint/heiloang_aj/black/horne_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 989
 			},
-			"model": "animated_java:blueprint/frestchika/blue/head"
+			"model": "animated_java:blueprint/heiloang_aj/black/horne_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 990
 			},
-			"model": "animated_java:blueprint/frestchika/blue/right_1"
+			"model": "animated_java:blueprint/heiloang_aj/black/head_upper"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 991
 			},
-			"model": "animated_java:blueprint/frestchika/blue/right_2"
+			"model": "animated_java:blueprint/heiloang_aj/black/neck_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 992
 			},
-			"model": "animated_java:blueprint/frestchika/blue/right_3"
+			"model": "animated_java:blueprint/heiloang_aj/black/neck_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 993
 			},
-			"model": "animated_java:blueprint/frestchika/blue/right_wing"
+			"model": "animated_java:blueprint/heiloang_aj/black/neck_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 994
 			},
-			"model": "animated_java:blueprint/frestchika/blue/left_1"
+			"model": "animated_java:blueprint/heiloang_aj/black/neck_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 995
 			},
-			"model": "animated_java:blueprint/frestchika/blue/left_2"
+			"model": "animated_java:blueprint/heiloang_aj/black/wing_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 996
 			},
-			"model": "animated_java:blueprint/frestchika/blue/left_3"
+			"model": "animated_java:blueprint/heiloang_aj/black/wing_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 997
 			},
-			"model": "animated_java:blueprint/frestchika/blue/left_wing"
+			"model": "animated_java:blueprint/heiloang_aj/black/wing_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 998
 			},
-			"model": "animated_java:blueprint/frestchika/blue/body"
+			"model": "animated_java:blueprint/heiloang_aj/black/wing_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 999
 			},
-			"model": "animated_java:blueprint/frestchika/blue/right_hand"
+			"model": "animated_java:blueprint/heiloang_aj/black/wing_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1000
 			},
-			"model": "animated_java:blueprint/frestchika/blue/right_arm"
+			"model": "animated_java:blueprint/heiloang_aj/black/wing_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1001
 			},
-			"model": "animated_java:blueprint/frestchika/blue/left_hand"
+			"model": "animated_java:blueprint/heiloang_aj/black/body_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1002
 			},
-			"model": "animated_java:blueprint/frestchika/blue/left_arm"
+			"model": "animated_java:blueprint/heiloang_aj/black/leg_right_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1003
 			},
-			"model": "animated_java:blueprint/frestchika/blue/right_foot"
+			"model": "animated_java:blueprint/heiloang_aj/black/leg_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1004
 			},
-			"model": "animated_java:blueprint/frestchika/blue/right_leg"
+			"model": "animated_java:blueprint/heiloang_aj/black/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1005
 			},
-			"model": "animated_java:blueprint/frestchika/blue/left_foot"
+			"model": "animated_java:blueprint/heiloang_aj/black/leg_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1006
 			},
-			"model": "animated_java:blueprint/frestchika/blue/left_leg"
+			"model": "animated_java:blueprint/heiloang_aj/black/leg_left_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1007
 			},
-			"model": "animated_java:blueprint/frestchika/red/ahoge"
+			"model": "animated_java:blueprint/heiloang_aj/black/leg_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1008
 			},
-			"model": "animated_java:blueprint/frestchika/red/side_tail_2"
+			"model": "animated_java:blueprint/heiloang_aj/black/leg_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1009
 			},
-			"model": "animated_java:blueprint/frestchika/red/side_tail"
+			"model": "animated_java:blueprint/heiloang_aj/black/leg_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1010
 			},
-			"model": "animated_java:blueprint/frestchika/red/backhair"
+			"model": "animated_java:blueprint/heiloang_aj/black/tail_4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1011
 			},
-			"model": "animated_java:blueprint/frestchika/red/head"
+			"model": "animated_java:blueprint/heiloang_aj/black/tail_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1012
 			},
-			"model": "animated_java:blueprint/frestchika/red/right_1"
+			"model": "animated_java:blueprint/heiloang_aj/black/tail_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1013
 			},
-			"model": "animated_java:blueprint/frestchika/red/right_2"
+			"model": "animated_java:blueprint/heiloang_aj/black/tail_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1014
 			},
-			"model": "animated_java:blueprint/frestchika/red/right_3"
+			"model": "animated_java:blueprint/heiloang_aj/black/tail_ring"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1015
 			},
-			"model": "animated_java:blueprint/frestchika/red/right_wing"
+			"model": "animated_java:blueprint/heiloang_aj/black/tail_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1016
 			},
-			"model": "animated_java:blueprint/frestchika/red/left_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1017
-			},
-			"model": "animated_java:blueprint/frestchika/red/left_2"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1018
-			},
-			"model": "animated_java:blueprint/frestchika/red/left_3"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1019
-			},
-			"model": "animated_java:blueprint/frestchika/red/left_wing"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1020
-			},
-			"model": "animated_java:blueprint/frestchika/red/body"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1021
-			},
-			"model": "animated_java:blueprint/frestchika/red/right_hand"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1022
-			},
-			"model": "animated_java:blueprint/frestchika/red/right_arm"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1023
-			},
-			"model": "animated_java:blueprint/frestchika/red/left_hand"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1024
-			},
-			"model": "animated_java:blueprint/frestchika/red/left_arm"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1025
-			},
-			"model": "animated_java:blueprint/frestchika/red/right_foot"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1026
-			},
-			"model": "animated_java:blueprint/frestchika/red/right_leg"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1027
-			},
-			"model": "animated_java:blueprint/frestchika/red/left_foot"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1028
-			},
-			"model": "animated_java:blueprint/frestchika/red/left_leg"
+			"model": "animated_java:blueprint/heiloang_aj/black/body_1"
 		},
 		{
 			"predicate": {
@@ -7666,8 +7594,40 @@
 			956,
 			957,
 			958,
-			959
+			959,
+			986,
+			987,
+			988,
+			989,
+			990,
+			991,
+			992,
+			993,
+			994,
+			995,
+			996,
+			997,
+			998,
+			999,
+			1000,
+			1001,
+			1002,
+			1003,
+			1004,
+			1005,
+			1006,
+			1007,
+			1008,
+			1009,
+			1010,
+			1011,
+			1012,
+			1013,
+			1014,
+			1015,
+			1016
 		],
+		"heiloang_flare_aj": [985],
 		"illusion_of_loyalty": [277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298],
 		"karmic": [962, 963, 964, 965, 966, 967, 968, 969, 970, 971, 972, 973, 974, 975, 976],
 		"labyria": [
