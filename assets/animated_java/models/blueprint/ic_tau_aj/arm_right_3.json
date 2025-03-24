@@ -1,0 +1,48 @@
+{
+	"textures": {
+		"0": "animated_java:blueprint/ic_tau_aj/ic_taurus",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [6.825, 3, 6.5],
+			"to": [9.175, 8, 9.5],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [3.075, 8.5, 9.75]
+			},
+			"faces": {
+				"north": {
+					"uv": [9.75, 1.25, 10.25, 2.5],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [9, 4.75, 9.75, 6],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [5, 9.75, 5.5, 11],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [6, 9, 6.75, 10.25],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [10.75, 11.25, 10.25, 10.5],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [11.25, 3.75, 10.75, 4.5],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

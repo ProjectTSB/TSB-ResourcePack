@@ -578,6 +578,54 @@
 			"assets/animated_java/models/blueprint/heiloang_flare_aj/background4.json"
 		]
 	},
+	"ic_capri_aj": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/textures/blueprint/ic_capri_aj/ic_capricorn.png",
+			"assets/minecraft/atlases/blocks.json",
+			"assets/animated_java/textures/blueprint/transparent.png",
+			"assets/animated_java/models/blueprint/ic_capri_aj/root3.json",
+			"assets/animated_java/models/blueprint/ic_capri_aj/body5.json",
+			"assets/animated_java/models/blueprint/ic_capri_aj/head3.json",
+			"assets/animated_java/models/blueprint/ic_capri_aj/arm_right2.json",
+			"assets/animated_java/models/blueprint/ic_capri_aj/arm_left2.json",
+			"assets/animated_java/models/blueprint/ic_capri_aj/leg_left2.json",
+			"assets/animated_java/models/blueprint/ic_capri_aj/leg_right2.json"
+		]
+	},
+	"ic_pisce_aj": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/textures/blueprint/ic_pisce_aj/ic_pisces.png",
+			"assets/minecraft/atlases/blocks.json",
+			"assets/animated_java/textures/blueprint/transparent.png",
+			"assets/animated_java/models/blueprint/ic_pisce_aj/root3.json",
+			"assets/animated_java/models/blueprint/ic_pisce_aj/body3.json",
+			"assets/animated_java/models/blueprint/ic_pisce_aj/head3.json",
+			"assets/animated_java/models/blueprint/ic_pisce_aj/arm_right3.json",
+			"assets/animated_java/models/blueprint/ic_pisce_aj/arm_left3.json",
+			"assets/animated_java/models/blueprint/ic_pisce_aj/tail_5.json",
+			"assets/animated_java/models/blueprint/ic_pisce_aj/tail_6.json"
+		]
+	},
+	"ic_tau_aj": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/textures/blueprint/ic_tau_aj/ic_taurus.png",
+			"assets/minecraft/atlases/blocks.json",
+			"assets/animated_java/textures/blueprint/transparent.png",
+			"assets/animated_java/models/blueprint/ic_tau_aj/body_4.json",
+			"assets/animated_java/models/blueprint/ic_tau_aj/body_3.json",
+			"assets/animated_java/models/blueprint/ic_tau_aj/head3.json",
+			"assets/animated_java/models/blueprint/ic_tau_aj/arm_right_2.json",
+			"assets/animated_java/models/blueprint/ic_tau_aj/arm_right_3.json",
+			"assets/animated_java/models/blueprint/ic_tau_aj/arm_left_2.json",
+			"assets/animated_java/models/blueprint/ic_tau_aj/arm_left_3.json",
+			"assets/animated_java/models/blueprint/ic_tau_aj/leg_right2.json",
+			"assets/animated_java/models/blueprint/ic_tau_aj/leg_left2.json",
+			"assets/animated_java/models/blueprint/ic_tau_aj/tail2.json"
+		]
+	},
 	"illusion_of_loyalty": {
 		"files": [
 			"assets/animated_java/models/empty.json",
