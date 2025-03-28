@@ -224,6 +224,8 @@
 			"assets/animated_java/textures/blueprint/frestchika/texture_body_gray.png",
 			"assets/animated_java/textures/blueprint/frestchika/texture_body_red.png",
 			"assets/animated_java/textures/blueprint/frestchika/texture_body_disabled.png",
+			"assets/minecraft/atlases/blocks.json",
+			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/models/blueprint/frestchika/head.json",
 			"assets/animated_java/models/blueprint/frestchika/ahoge.json",
 			"assets/animated_java/models/blueprint/frestchika/side_tail.json",
