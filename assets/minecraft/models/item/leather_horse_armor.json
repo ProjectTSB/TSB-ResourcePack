@@ -6,6 +6,30 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 20068
+            },
+            "model": "item/other/leather_horse_armor/20068"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20069
+            },
+            "model": "item/other/leather_horse_armor/20069"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20070
+            },
+            "model": "item/other/leather_horse_armor/20070"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20071
+            },
+            "model": "item/leather_horse_armor"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 20083
             },
             "model": "item/other/leather_horse_armor/20083"
