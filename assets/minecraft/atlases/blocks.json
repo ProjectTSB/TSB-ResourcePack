@@ -4,11 +4,6 @@
 			"type": "directory",
 			"source": "blueprint",
 			"prefix": "blueprint/"
-		},
-		{
-			"type": "directory",
-			"source": "entity",
-			"prefix": "entity/"
 		}
 	]
 }
