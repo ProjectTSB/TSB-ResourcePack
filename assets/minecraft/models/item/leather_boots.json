@@ -29,6 +29,30 @@
                 "custom_model_data": 20338
             },
             "model": "item/leather_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20545
+            },
+            "model": "item/other/leather_boots/20545"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20546
+            },
+            "model": "item/other/leather_boots/20546"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20547
+            },
+            "model": "item/other/leather_boots/20547"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20548
+            },
+            "model": "item/leather_boots"
         }
     ]
 }

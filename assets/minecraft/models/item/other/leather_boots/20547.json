@@ -1,0 +1,6 @@
+{
+    "parent": "item/other/leather_boots/20545",
+    "textures": {
+        "layer0": "item/other/leather_boots/20547"
+    }
+}
