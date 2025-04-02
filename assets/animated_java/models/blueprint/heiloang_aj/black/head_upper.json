@@ -1,6 +1,0 @@
-{
-	"parent": "animated_java:blueprint/heiloang_aj/head_upper",
-	"textures": {
-		"0": "animated_java:blueprint/heiloang_aj/tsb_dragon_black"
-	}
-}
