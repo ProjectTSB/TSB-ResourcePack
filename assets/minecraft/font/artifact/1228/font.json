@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/artifact/1228/font.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "FATLERO"
+            ]
+        }
+    ]
+}
