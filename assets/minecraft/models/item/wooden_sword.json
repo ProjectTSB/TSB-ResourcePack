@@ -6,13 +6,13 @@
     "overrides": [
         {
             "predicate": {
-                "custom_model_data": 1255
+                "custom_model_data": 1258
             },
-            "model": "item/artifact/wooden_sword/1255"
+            "model": "item/artifact/wooden_sword/1258"
         },
         {
             "predicate": {
-                "custom_model_data": 1256
+                "custom_model_data": 1259
             },
             "model": "item/wooden_sword"
         }
