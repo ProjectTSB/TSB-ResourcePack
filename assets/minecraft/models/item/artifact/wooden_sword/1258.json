@@ -102,15 +102,18 @@
 			"scale": [0.58, 0.58, 0.58]
 		},
 		"ground": {
+			"rotation": [45, 0, 0],
 			"translation": [0, 4.75, 0],
 			"scale": [0.39, 0.39, 0.39]
 		},
 		"gui": {
-			"rotation": [-90, -44, -90],
-			"translation": [0, -0.75, 0]
+			"rotation": [90, 45, -90],
+			"translation": [-0.25, 0.25, 0],
+			"scale": [0.9, 0.9, 0.9]
 		},
 		"fixed": {
-			"rotation": [0, 90, 0]
+			"rotation": [90, -45, 90],
+			"translation": [0.5, 0, 0]
 		}
 	},
 	"groups": [
@@ -118,6 +121,7 @@
 			"name": "sword_0",
 			"origin": [8, 21.66357, 12.16667],
 			"color": 0,
+			"nbt": "{}",
 			"children": [0, 1, 2, 3, 4, 5]
 		}
 	]
