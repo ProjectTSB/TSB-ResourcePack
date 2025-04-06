@@ -3285,6 +3285,48 @@
                 "custom_model_data": 20545
             },
             "model": "item/stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20549
+            },
+            "model": "item/mob/stick/20549"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20550
+            },
+            "model": "item/stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20553
+            },
+            "model": "item/mob/stick/20553"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20554
+            },
+            "model": "item/mob/stick/20554"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20555
+            },
+            "model": "item/stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20559
+            },
+            "model": "item/mob/stick/20559"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20560
+            },
+            "model": "item/stick"
         }
     ]
 }
