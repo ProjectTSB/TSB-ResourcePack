@@ -1,0 +1,48 @@
+{
+	"textures": {
+		"0": "animated_java:blueprint/behemoth_aj/behemoth",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [5.72133, 5.93667, 4.11803],
+			"to": [10.02133, 8.33667, 8.46803],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [7.67133, 17.18667, 6.81803]
+			},
+			"faces": {
+				"north": {
+					"uv": [12.9375, 3.125, 13.1875, 3.25],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [12.9375, 3.5, 13.1875, 3.625],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [12.9375, 7.125, 13.1875, 7.25],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [12.9375, 8.75, 13.1875, 8.875],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [11.125, 12.625, 10.875, 12.375],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [11.375, 12.375, 11.125, 12.625],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}
