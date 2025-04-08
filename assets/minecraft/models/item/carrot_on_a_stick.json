@@ -74,13 +74,19 @@
             "predicate": {
                 "custom_model_data": 17
             },
-            "model": "item/carrot_on_a_stick"
+            "model": "item/artifact/carrot_on_a_stick/17"
         },
         {
             "predicate": {
-                "custom_model_data": 22
+                "custom_model_data": 18
             },
             "model": "item/artifact/carrot_on_a_stick/22"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 23
+            },
+            "model": "item/carrot_on_a_stick"
         },
         {
             "predicate": {
