@@ -1,0 +1,13 @@
+{
+    "parent": "item/handheld/32",
+    "textures": {
+        "layer0": "item/other/stick/20074"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, -90, 55 ],
+            "translation": [ 0, 11.5, -1.178 ],
+            "scale": [ 1.7, 1.7, 0.85 ]
+        }
+    }
+}
