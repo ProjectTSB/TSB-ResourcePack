@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"7": "animated_java:blueprint/tultaria/none",
+		"6": "animated_java:blueprint/tultaria/none",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
@@ -20,19 +20,19 @@
 			"faces": {
 				"north": {
 					"uv": [6, 0, 0, 3],
-					"texture": "#7"
+					"texture": "#6"
 				},
 				"east": {
 					"uv": [6, 0, 0, 3],
-					"texture": "#7"
+					"texture": "#6"
 				},
 				"south": {
 					"uv": [6, 0, 0, 3],
-					"texture": "#7"
+					"texture": "#6"
 				},
 				"west": {
 					"uv": [6, 0, 0, 3],
-					"texture": "#7"
+					"texture": "#6"
 				}
 			}
 		},
@@ -48,22 +48,22 @@
 				"north": {
 					"uv": [6, 0, 0, 3],
 					"rotation": 180,
-					"texture": "#7"
+					"texture": "#6"
 				},
 				"east": {
 					"uv": [6, 0, 0, 3],
 					"rotation": 180,
-					"texture": "#7"
+					"texture": "#6"
 				},
 				"south": {
 					"uv": [6, 0, 0, 3],
 					"rotation": 180,
-					"texture": "#7"
+					"texture": "#6"
 				},
 				"west": {
 					"uv": [6, 0, 0, 3],
 					"rotation": 180,
-					"texture": "#7"
+					"texture": "#6"
 				}
 			}
 		}
