@@ -3,7 +3,7 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/artifact/1228/e.png",
-            "ascent": 8,
+            "ascent": 7,
             "height": 8,
             "chars": [
                 "E3C?-=7"
