@@ -1,0 +1,59 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/red_dye"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "animated_java:empty"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "animated_java:blueprint/ic_pisce_aj/root3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "animated_java:blueprint/ic_pisce_aj/body3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "animated_java:blueprint/ic_pisce_aj/head3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "animated_java:blueprint/ic_pisce_aj/arm_right3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "animated_java:blueprint/ic_pisce_aj/arm_left3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "animated_java:blueprint/ic_pisce_aj/tail_5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "animated_java:blueprint/ic_pisce_aj/tail_6"
+		}
+	],
+	"animated_java": {
+		"ic_pisce_aj": [1, 2, 3, 4, 5, 6, 7, 8]
+	}
+}

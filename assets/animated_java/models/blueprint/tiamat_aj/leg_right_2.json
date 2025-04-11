@@ -1,0 +1,48 @@
+{
+	"textures": {
+		"0": "animated_java:blueprint/tiamat_aj/tiamat",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [6.625, -1.58333, 6],
+			"to": [10.375, 8.91667, 9],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 7.66667, 7.25]
+			},
+			"faces": {
+				"north": {
+					"uv": [5.625, 12.625, 5.875, 13.3125],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [3.75, 13.0625, 3.9375, 13.75],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [5.875, 12.625, 6.125, 13.3125],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [9.4375, 13.0625, 9.625, 13.75],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [7, 14.375, 6.75, 14.1875],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [14.4375, 6.875, 14.1875, 7.0625],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

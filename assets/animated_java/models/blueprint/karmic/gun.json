@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "minecraft:item/mob/stick/20252/texture",
+		"0": "animated_java:blueprint/karmic/texture",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {

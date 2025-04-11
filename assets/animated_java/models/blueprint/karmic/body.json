@@ -1,7 +1,7 @@
 {
 	"textures": {
 		"2": "animated_java:blueprint/karmic/wing",
-		"3": "minecraft:item/mob/stick/20252/angel",
+		"3": "animated_java:blueprint/karmic/angel",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {

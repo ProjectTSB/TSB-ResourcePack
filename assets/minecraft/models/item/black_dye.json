@@ -1,0 +1,59 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/black_dye"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "animated_java:empty"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "animated_java:blueprint/ic_capri_aj/root3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "animated_java:blueprint/ic_capri_aj/body5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "animated_java:blueprint/ic_capri_aj/head3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "animated_java:blueprint/ic_capri_aj/arm_right2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "animated_java:blueprint/ic_capri_aj/arm_left2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "animated_java:blueprint/ic_capri_aj/leg_left2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "animated_java:blueprint/ic_capri_aj/leg_right2"
+		}
+	],
+	"animated_java": {
+		"ic_capri_aj": [1, 2, 3, 4, 5, 6, 7, 8]
+	}
+}
