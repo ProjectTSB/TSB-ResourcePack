@@ -438,36 +438,6 @@
         },
         {
             "predicate": {
-                "custom_model_data": 224
-            },
-            "model": "item/artifact/carrot_on_a_stick/224"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 225
-            },
-            "model": "item/artifact/carrot_on_a_stick/225"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 226
-            },
-            "model": "item/artifact/carrot_on_a_stick/226"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 227
-            },
-            "model": "item/artifact/carrot_on_a_stick/227"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 228
-            },
-            "model": "item/carrot_on_a_stick"
-        },
-        {
-            "predicate": {
                 "custom_model_data": 233
             },
             "model": "item/artifact/carrot_on_a_stick/233"
@@ -1728,6 +1698,18 @@
         },
         {
             "predicate": {
+                "custom_model_data": 1260
+            },
+            "model": "item/artifact/carrot_on_a_stick/1260"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1261
+            },
+            "model": "item/carrot_on_a_stick"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 1264
             },
             "model": "item/artifact/carrot_on_a_stick/1264"
@@ -1735,6 +1717,18 @@
         {
             "predicate": {
                 "custom_model_data": 1265
+            },
+            "model": "item/carrot_on_a_stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1270
+            },
+            "model": "item/artifact/carrot_on_a_stick/1270"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1271
             },
             "model": "item/carrot_on_a_stick"
         },
