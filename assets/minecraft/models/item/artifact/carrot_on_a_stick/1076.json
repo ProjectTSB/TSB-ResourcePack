@@ -1,0 +1,247 @@
+{
+    "credit": "Made with Blockbench",
+    "texture_size": [
+        32,
+        32
+    ],
+    "textures": {
+        "0": "item/artifact/carrot_on_a_stick/1076/uturu",
+        "particle": "item/artifact/carrot_on_a_stick/1076/uturu"
+    },
+    "elements": [
+        {
+            "from": [
+                2.25,
+                0,
+                7.5
+            ],
+            "to": [
+                14.25,
+                8,
+                11.5
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    2.25,
+                    0,
+                    7.5
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        0,
+                        6,
+                        4
+                    ],
+                    "texture": "#0"
+                },
+                "east": {
+                    "uv": [
+                        6,
+                        4,
+                        8,
+                        8
+                    ],
+                    "texture": "#0"
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        4,
+                        6,
+                        8
+                    ],
+                    "texture": "#0"
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        8,
+                        2,
+                        12
+                    ],
+                    "texture": "#0"
+                },
+                "up": {
+                    "uv": [
+                        12,
+                        2,
+                        6,
+                        0
+                    ],
+                    "texture": "#0"
+                },
+                "down": {
+                    "uv": [
+                        12,
+                        2,
+                        6,
+                        4
+                    ],
+                    "texture": "#0"
+                }
+            }
+        },
+        {
+            "from": [
+                5.75,
+                2,
+                5.5
+            ],
+            "to": [
+                10.75,
+                6,
+                7.5
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    2.75,
+                    0,
+                    3.5
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        2,
+                        8,
+                        4.5,
+                        10
+                    ],
+                    "texture": "#0"
+                },
+                "east": {
+                    "uv": [
+                        7,
+                        8,
+                        8,
+                        10
+                    ],
+                    "texture": "#0"
+                },
+                "south": {
+                    "uv": [
+                        8,
+                        4,
+                        10.5,
+                        6
+                    ],
+                    "texture": "#0"
+                },
+                "west": {
+                    "uv": [
+                        8,
+                        7,
+                        9,
+                        9
+                    ],
+                    "texture": "#0"
+                },
+                "up": {
+                    "uv": [
+                        7,
+                        9,
+                        4.5,
+                        8
+                    ],
+                    "texture": "#0"
+                },
+                "down": {
+                    "uv": [
+                        10.5,
+                        6,
+                        8,
+                        7
+                    ],
+                    "texture": "#0"
+                }
+            }
+        }
+    ],
+    "gui_light": "front",
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [
+                11.27,
+                16.77,
+                -10.48
+            ],
+            "translation": [
+                -2,
+                1.75,
+                0
+            ],
+            "scale": [
+                0.42,
+                0.42,
+                0.42
+            ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [
+                11.27,
+                16.77,
+                -10.48
+            ],
+            "translation": [
+                -2,
+                1.75,
+                0
+            ],
+            "scale": [
+                0.42,
+                0.42,
+                0.42
+            ]
+        },
+        "firstperson_righthand": {
+            "translation": [
+                0.75,
+                5,
+                0.25
+            ],
+            "scale": [
+                0.62,
+                0.62,
+                0.62
+            ]
+        },
+        "firstperson_lefthand": {
+            "translation": [
+                0.75,
+                5,
+                0.25
+            ],
+            "scale": [
+                0.62,
+                0.62,
+                0.62
+            ]
+        },
+        "gui": {
+            "rotation": [
+                -166.5,
+                -36.25,
+                -180
+            ],
+            "translation": [
+                1.25,
+                3.25,
+                0
+            ]
+        },
+        "fixed": {
+            "translation": [
+                0,
+                4.25,
+                0
+            ]
+        }
+    }
+}
