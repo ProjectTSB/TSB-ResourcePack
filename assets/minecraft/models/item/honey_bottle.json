@@ -1,0 +1,20 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/honey_bottle"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 771
+            },
+            "model": "item/artifact/honey_bottle/771"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 772
+            },
+            "model": "item/honey_bottle"
+        }
+    ]
+}

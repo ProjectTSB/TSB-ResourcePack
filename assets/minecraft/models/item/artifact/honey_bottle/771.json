@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/artifact/potion/771"
+        "layer0": "item/artifact/honey_bottle/771"
     }
 }
