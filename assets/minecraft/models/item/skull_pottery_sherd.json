@@ -20,7 +20,7 @@
 			"predicate": {
 				"custom_model_data": 3
 			},
-			"model": "animated_java:blueprint/tutankhamen/body"
+			"model": "animated_java:blueprint/tutankhamen/body1"
 		},
 		{
 			"predicate": {
@@ -80,7 +80,7 @@
 			"predicate": {
 				"custom_model_data": 13
 			},
-			"model": "animated_java:blueprint/tutankhamen/weapon"
+			"model": "animated_java:blueprint/tutankhamen/weapon1"
 		},
 		{
 			"predicate": {
