@@ -1,8 +1,8 @@
 {
     "credit": "Made with Blockbench",
     "textures": {
-        "0": "maidfull",
-        "particle": "maidfull"
+        "0": "item/artifact/stick/1273/maid_doll",
+        "particle": "item/artifact/stick/1273/maid_doll"
     },
     "elements": [
         {

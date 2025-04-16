@@ -1,0 +1,18 @@
+{
+    "parent": "item/handheld/32",
+    "textures": {
+        "layer0": "item/artifact/carrot_on_a_stick/1257"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, -90, 55 ],
+            "translation": [ 0, 5, 1 ],
+            "scale": [ 1.7, 1.7, 0.85 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 0, 90, -55 ],
+            "translation": [ 0, 5, 1 ],
+            "scale": [ 1.7, 1.7, 0.85 ]
+        }
+    }
+}

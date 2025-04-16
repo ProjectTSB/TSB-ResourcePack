@@ -6,6 +6,18 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 224
+            },
+            "model": "item/artifact/ender_eye/224"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 225
+            },
+            "model": "item/ender_eye"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 758
             },
             "model": "item/artifact/ender_eye/758"
@@ -91,6 +103,18 @@
         {
             "predicate": {
                 "custom_model_data": 1229
+            },
+            "model": "item/ender_eye"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1256
+            },
+            "model": "item/artifact/ender_eye/1256"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1257
             },
             "model": "item/ender_eye"
         }
