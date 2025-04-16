@@ -2,6 +2,24 @@
     "providers": [
         {
             "type": "bitmap",
+            "file": "minecraft:font/artifact/1/plus.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "+"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/artifact/1/minus.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "-"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:font/artifact/1/health.png",
             "ascent": 8,
             "height": 9,
