@@ -1,6 +1,6 @@
 {
 	"parent": "animated_java:blueprint/twins_sapphiel/skirt_back_right",
 	"textures": {
-		"4": "animated_java:blueprint/twins_sapphiel/sapphiel_face_stun"
+		"7": "animated_java:blueprint/twins_sapphiel/sapphiel_face_stun"
 	}
 }

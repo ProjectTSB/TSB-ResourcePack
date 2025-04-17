@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "animated_java:blueprint/twins_sapphiel/sapphiel",
+		"6": "animated_java:blueprint/twins_sapphiel/sapphiel_v2",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
@@ -19,12 +19,12 @@
 			},
 			"faces": {
 				"east": {
-					"uv": [9.125, 2.875, 9.625, 3.5],
-					"texture": "#0"
+					"uv": [5.125, 7.875, 5.625, 8.5],
+					"texture": "#6"
 				},
 				"west": {
-					"uv": [9.125, 2.875, 9.625, 3.5],
-					"texture": "#0"
+					"uv": [5.125, 7.875, 5.625, 8.5],
+					"texture": "#6"
 				}
 			}
 		}
