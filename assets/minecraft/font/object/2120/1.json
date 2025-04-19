@@ -3,7 +3,7 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/object/2120/land/0.png",
-            "ascent": 128,
+            "ascent": 64,
             "height": 128,
             "chars": [
                 "0"
@@ -12,7 +12,7 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/object/2120/land/1.png",
-            "ascent": 128,
+            "ascent": 64,
             "height": 128,
             "chars": [
                 "1"
@@ -21,7 +21,7 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/object/2120/land/2.png",
-            "ascent": 128,
+            "ascent": 64,
             "height": 128,
             "chars": [
                 "2"
@@ -30,7 +30,7 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/object/2120/land/3.png",
-            "ascent": 128,
+            "ascent": 64,
             "height": 128,
             "chars": [
                 "3"
@@ -39,7 +39,7 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/object/2120/land/4.png",
-            "ascent": 128,
+            "ascent": 64,
             "height": 128,
             "chars": [
                 "4"
