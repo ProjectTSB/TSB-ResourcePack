@@ -206,671 +206,575 @@
 			"predicate": {
 				"custom_model_data": 34
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/belt_right_0"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/halo"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 35
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/belt_right_1"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 36
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/belt_left_0"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/slide2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 37
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/belt_left_1"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/ruby_gun"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 38
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/halo"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/arm_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 39
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/head"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/arm_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 40
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/slide2"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/slide"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 41
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/ruby_gun"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/sapphire_gun"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 42
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/arm_right_1"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/body"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 43
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/arm_right_0"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/shotgun"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 44
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/slide"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/rocket"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 45
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/sapphire_gun"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/launcher"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 46
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/body"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/arm_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 47
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/shotgun"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/arm_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 48
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/rocket"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/wing_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 49
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/launcher"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/wing_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 50
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/arm_left_1"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/wing_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 51
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/arm_left_0"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/wing_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 52
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/wing_3"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/body_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 53
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/wing_2"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 54
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/wing_1"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/leg_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 55
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/wing_0"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/leg_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 56
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/body_0"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/leg_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 57
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/leg_right_1"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/skirt_forward_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 58
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/leg_right_0"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/skirt_forward_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 59
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/leg_left_1"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/skirt_forward"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 60
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/leg_left_0"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/skirt_back_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 61
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/skirt_forward_right"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/skirt_back_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 62
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/skirt_forward_left"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/skirt_back"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 63
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/skirt_forward"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/skirt_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 64
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/skirt_back_right"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/skirt_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 65
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/skirt_back_left"
+			"model": "animated_java:blueprint/twins_sapphiel/blink/body_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 66
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/skirt_back"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/halo"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 67
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/skirt_right"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 68
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/skirt_left"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/slide2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 69
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/belt_right_1"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/ruby_gun"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 70
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/belt_right_0"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/arm_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 71
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/belt_left_1"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/arm_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 72
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/belt_left_0"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/slide"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 73
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/blink/body_1"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/sapphire_gun"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 74
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/halo"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/body"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 75
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/head"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/shotgun"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 76
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/slide2"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/rocket"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 77
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/ruby_gun"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/launcher"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 78
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/arm_right_1"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/arm_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 79
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/arm_right_0"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/arm_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 80
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/slide"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/wing_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 81
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/sapphire_gun"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/wing_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 82
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/body"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/wing_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 83
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/shotgun"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/wing_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 84
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/rocket"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/body_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 85
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/launcher"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 86
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/arm_left_1"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/leg_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 87
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/arm_left_0"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/leg_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 88
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/wing_3"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/leg_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 89
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/wing_2"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/skirt_forward_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 90
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/wing_1"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/skirt_forward_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 91
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/wing_0"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/skirt_forward"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 92
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/body_0"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/skirt_back_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 93
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/leg_right_1"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/skirt_back_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 94
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/leg_right_0"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/skirt_back"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 95
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/leg_left_1"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/skirt_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 96
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/leg_left_0"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/skirt_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 97
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/skirt_forward_right"
+			"model": "animated_java:blueprint/twins_sapphiel/stun/body_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 98
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/skirt_forward_left"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/halo"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 99
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/skirt_forward"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 100
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/skirt_back_right"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/slide2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 101
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/skirt_back_left"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/ruby_gun"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 102
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/skirt_back"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/arm_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 103
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/skirt_right"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/arm_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 104
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/skirt_left"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/slide"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 105
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/belt_right_1"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/sapphire_gun"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 106
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/belt_right_0"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/body"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 107
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/belt_left_1"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/shotgun"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 108
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/belt_left_0"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/rocket"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 109
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/stun/body_1"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/launcher"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 110
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/halo"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/arm_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 111
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/head"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/arm_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 112
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/slide2"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/wing_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 113
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/ruby_gun"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/wing_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 114
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/arm_right_1"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/wing_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 115
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/arm_right_0"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/wing_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 116
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/slide"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/body_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 117
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/sapphire_gun"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 118
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/body"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/leg_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 119
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/shotgun"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/leg_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 120
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/rocket"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/leg_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 121
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/launcher"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/skirt_forward_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 122
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/arm_left_1"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/skirt_forward_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 123
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/arm_left_0"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/skirt_forward"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 124
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/wing_3"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/skirt_back_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 125
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/wing_2"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/skirt_back_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 126
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/wing_1"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/skirt_back"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 127
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/wing_0"
+			"model": "animated_java:blueprint/twins_sapphiel/normal/skirt_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 128
 			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/body_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 129
-			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/leg_right_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 130
-			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/leg_right_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 131
-			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/leg_left_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 132
-			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/leg_left_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 133
-			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/skirt_forward_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 134
-			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/skirt_forward_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 135
-			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/skirt_forward"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 136
-			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/skirt_back_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 137
-			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/skirt_back_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 138
-			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/skirt_back"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 139
-			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/skirt_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 140
-			},
 			"model": "animated_java:blueprint/twins_sapphiel/normal/skirt_left"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 141
-			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/belt_right_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 142
-			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/belt_right_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 143
-			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/belt_left_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 144
-			},
-			"model": "animated_java:blueprint/twins_sapphiel/normal/belt_left_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 145
+				"custom_model_data": 129
 			},
 			"model": "animated_java:blueprint/twins_sapphiel/normal/body_1"
 		}
@@ -1005,23 +909,7 @@
 			126,
 			127,
 			128,
-			129,
-			130,
-			131,
-			132,
-			133,
-			134,
-			135,
-			136,
-			137,
-			138,
-			139,
-			140,
-			141,
-			142,
-			143,
-			144,
-			145
+			129
 		]
 	}
 }

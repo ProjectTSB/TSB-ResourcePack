@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "animated_java:blueprint/twins_rubiel/rubiel",
+		"8": "animated_java:blueprint/twins_rubiel/rubiel_v2",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
@@ -19,12 +19,12 @@
 			},
 			"faces": {
 				"east": {
-					"uv": [5.25, 9.375, 6.375, 11.875],
-					"texture": "#0"
+					"uv": [0, 1.25, 1.125, 3.75],
+					"texture": "#8"
 				},
 				"west": {
-					"uv": [6.375, 9.375, 5.25, 11.875],
-					"texture": "#0"
+					"uv": [1.125, 1.25, 0, 3.75],
+					"texture": "#8"
 				}
 			}
 		}
