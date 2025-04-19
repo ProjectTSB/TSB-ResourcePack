@@ -48,7 +48,7 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/object/2120/land/5.png",
-            "ascent": 128,
+            "ascent": 64,
             "height": 128,
             "chars": [
                 "5"
