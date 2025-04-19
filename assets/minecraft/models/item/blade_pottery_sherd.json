@@ -1,0 +1,191 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/blade_pottery_sherd"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "animated_java:empty"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "animated_java:blueprint/lawless_iron_doll/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "animated_java:blueprint/lawless_iron_doll/left_shoulder"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "animated_java:blueprint/lawless_iron_doll/right_shoulder"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "animated_java:blueprint/lawless_iron_doll/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "animated_java:blueprint/lawless_iron_doll/right_forearm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "animated_java:blueprint/lawless_iron_doll/right_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "animated_java:blueprint/lawless_iron_doll/right_thumb"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "animated_java:blueprint/lawless_iron_doll/right_thumb_bend"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "animated_java:blueprint/lawless_iron_doll/right_fingers"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "animated_java:blueprint/lawless_iron_doll/right_fingers_bend"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "animated_java:blueprint/lawless_iron_doll/sword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "animated_java:blueprint/lawless_iron_doll/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 14
+			},
+			"model": "animated_java:blueprint/lawless_iron_doll/left_forearm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 15
+			},
+			"model": "animated_java:blueprint/lawless_iron_doll/shield"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 16
+			},
+			"model": "animated_java:blueprint/lawless_iron_doll/left_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 17
+			},
+			"model": "animated_java:blueprint/lawless_iron_doll/left_thumb"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 18
+			},
+			"model": "animated_java:blueprint/lawless_iron_doll/left_thumb_bend"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 19
+			},
+			"model": "animated_java:blueprint/lawless_iron_doll/left_fingers"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 20
+			},
+			"model": "animated_java:blueprint/lawless_iron_doll/left_fingers_bend"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 21
+			},
+			"model": "animated_java:blueprint/lawless_iron_doll/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 22
+			},
+			"model": "animated_java:blueprint/lawless_iron_doll/bottom"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 23
+			},
+			"model": "animated_java:blueprint/lawless_iron_doll/front_armor"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 24
+			},
+			"model": "animated_java:blueprint/lawless_iron_doll/back_armor"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 25
+			},
+			"model": "animated_java:blueprint/lawless_iron_doll/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 26
+			},
+			"model": "animated_java:blueprint/lawless_iron_doll/right_leg_bend"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 27
+			},
+			"model": "animated_java:blueprint/lawless_iron_doll/right_foot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 28
+			},
+			"model": "animated_java:blueprint/lawless_iron_doll/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 29
+			},
+			"model": "animated_java:blueprint/lawless_iron_doll/left_leg_bend"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 30
+			},
+			"model": "animated_java:blueprint/lawless_iron_doll/left_foot"
+		}
+	],
+	"animated_java": {
+		"lawless_iron_doll": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]
+	}
+}

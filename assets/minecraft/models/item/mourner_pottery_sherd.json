@@ -1,0 +1,89 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/mourner_pottery_sherd"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "animated_java:empty"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "animated_java:blueprint/terrible_sonic_bomber/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "animated_java:blueprint/terrible_sonic_bomber/radder1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "animated_java:blueprint/terrible_sonic_bomber/right_wing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "animated_java:blueprint/terrible_sonic_bomber/right_aileron"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "animated_java:blueprint/terrible_sonic_bomber/right_hp1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "animated_java:blueprint/terrible_sonic_bomber/right_hp2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "animated_java:blueprint/terrible_sonic_bomber/left_elevetor"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "animated_java:blueprint/terrible_sonic_bomber/right_elevetor"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "animated_java:blueprint/terrible_sonic_bomber/left_wing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "animated_java:blueprint/terrible_sonic_bomber/left_aileron"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "animated_java:blueprint/terrible_sonic_bomber/left_hp2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "animated_java:blueprint/terrible_sonic_bomber/left_hp1"
+		}
+	],
+	"animated_java": {
+		"terrible_sonic_bomber": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+	}
+}

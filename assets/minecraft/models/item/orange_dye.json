@@ -1,0 +1,23 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/orange_dye"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "animated_java:empty"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "animated_java:blueprint/heiloang_flare_aj/background4"
+		}
+	],
+	"animated_java": {
+		"heiloang_flare_aj": [1, 2]
+	}
+}

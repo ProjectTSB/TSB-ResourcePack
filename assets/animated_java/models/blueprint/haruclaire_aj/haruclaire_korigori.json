@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"6": "minecraft:item/artifact/carrot_on_a_stick/383",
+		"6": "animated_java:blueprint/haruclaire_aj/383",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {

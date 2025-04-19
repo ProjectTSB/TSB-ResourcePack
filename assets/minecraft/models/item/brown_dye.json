@@ -1,0 +1,77 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/brown_dye"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "animated_java:empty"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "animated_java:blueprint/ic_tau_aj/body_4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "animated_java:blueprint/ic_tau_aj/body_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "animated_java:blueprint/ic_tau_aj/head3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "animated_java:blueprint/ic_tau_aj/arm_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "animated_java:blueprint/ic_tau_aj/arm_right_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "animated_java:blueprint/ic_tau_aj/arm_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "animated_java:blueprint/ic_tau_aj/arm_left_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "animated_java:blueprint/ic_tau_aj/leg_right2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "animated_java:blueprint/ic_tau_aj/leg_left2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "animated_java:blueprint/ic_tau_aj/tail2"
+		}
+	],
+	"animated_java": {
+		"ic_tau_aj": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+	}
+}

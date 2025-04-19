@@ -62,7 +62,7 @@
 			"predicate": {
 				"custom_model_data": 10
 			},
-			"model": "animated_java:blueprint/heiloang_aj/head_lower"
+			"model": "animated_java:blueprint/heiloang_aj/head_lower1"
 		},
 		{
 			"predicate": {
@@ -122,100 +122,647 @@
 			"predicate": {
 				"custom_model_data": 20
 			},
-			"model": "animated_java:blueprint/heiloang_aj/kazari_right"
+			"model": "animated_java:blueprint/heiloang_aj/kazari_right_a"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 21
 			},
-			"model": "animated_java:blueprint/heiloang_aj/kazari_left"
+			"model": "animated_java:blueprint/heiloang_aj/kazari_right_b"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 22
 			},
-			"model": "animated_java:blueprint/heiloang_aj/leg_right_0"
+			"model": "animated_java:blueprint/heiloang_aj/kazari_right_c"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 23
 			},
-			"model": "animated_java:blueprint/heiloang_aj/leg_right_1"
+			"model": "animated_java:blueprint/heiloang_aj/kazari_left_a"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 24
 			},
-			"model": "animated_java:blueprint/heiloang_aj/leg_right_2"
+			"model": "animated_java:blueprint/heiloang_aj/kazari_left_b"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 25
 			},
-			"model": "animated_java:blueprint/heiloang_aj/leg_right_3"
+			"model": "animated_java:blueprint/heiloang_aj/kazari_left_c"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 26
 			},
-			"model": "animated_java:blueprint/heiloang_aj/leg_left_0"
+			"model": "animated_java:blueprint/heiloang_aj/leg_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 27
 			},
-			"model": "animated_java:blueprint/heiloang_aj/leg_left_1"
+			"model": "animated_java:blueprint/heiloang_aj/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 28
 			},
-			"model": "animated_java:blueprint/heiloang_aj/leg_left_2"
+			"model": "animated_java:blueprint/heiloang_aj/leg_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 29
 			},
-			"model": "animated_java:blueprint/heiloang_aj/leg_left_3"
+			"model": "animated_java:blueprint/heiloang_aj/leg_right_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 30
 			},
-			"model": "animated_java:blueprint/heiloang_aj/tail_0"
+			"model": "animated_java:blueprint/heiloang_aj/leg_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 31
 			},
-			"model": "animated_java:blueprint/heiloang_aj/tail_1"
+			"model": "animated_java:blueprint/heiloang_aj/leg_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 32
 			},
-			"model": "animated_java:blueprint/heiloang_aj/tail_2"
+			"model": "animated_java:blueprint/heiloang_aj/leg_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 33
 			},
-			"model": "animated_java:blueprint/heiloang_aj/tail_3"
+			"model": "animated_java:blueprint/heiloang_aj/leg_left_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 34
 			},
-			"model": "animated_java:blueprint/heiloang_aj/tail_4"
+			"model": "animated_java:blueprint/heiloang_aj/tail_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 35
 			},
+			"model": "animated_java:blueprint/heiloang_aj/tail_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 36
+			},
+			"model": "animated_java:blueprint/heiloang_aj/tail_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 37
+			},
+			"model": "animated_java:blueprint/heiloang_aj/tail_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 38
+			},
+			"model": "animated_java:blueprint/heiloang_aj/tail_4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 39
+			},
 			"model": "animated_java:blueprint/heiloang_aj/tail_ring"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 40
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/flame_model"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 41
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/head_lower1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 42
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/horne_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 43
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/horne_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 44
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/head_upper"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 45
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/neck_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 46
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/neck_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 47
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/neck_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 48
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/neck_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 49
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/wing_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 50
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/wing_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 51
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/wing_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 52
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/wing_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 53
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/wing_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 54
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/wing_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 55
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/kazari_right_a"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 56
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/kazari_right_b"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 57
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/kazari_right_c"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 58
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/kazari_left_a"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 59
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/kazari_left_b"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 60
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/kazari_left_c"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 61
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/ring"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 62
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/body_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 63
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/leg_right_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 64
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/leg_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 65
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/leg_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 66
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/leg_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 67
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/leg_left_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 68
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/leg_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 69
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/leg_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 70
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/leg_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 71
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/tail_4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/tail_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 73
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/tail_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 74
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/tail_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 75
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/tail_ring"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 76
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/tail_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 77
+			},
+			"model": "animated_java:blueprint/heiloang_aj/rage/body_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 78
+			},
+			"model": "animated_java:blueprint/heiloang_aj/black/flame_model"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 79
+			},
+			"model": "animated_java:blueprint/heiloang_aj/black/head_lower1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 80
+			},
+			"model": "animated_java:blueprint/heiloang_aj/black/horne_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 81
+			},
+			"model": "animated_java:blueprint/heiloang_aj/black/horne_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 82
+			},
+			"model": "animated_java:blueprint/heiloang_aj/black/head_upper"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 83
+			},
+			"model": "animated_java:blueprint/heiloang_aj/black/neck_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 84
+			},
+			"model": "animated_java:blueprint/heiloang_aj/black/neck_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 85
+			},
+			"model": "animated_java:blueprint/heiloang_aj/black/neck_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 86
+			},
+			"model": "animated_java:blueprint/heiloang_aj/black/neck_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 87
+			},
+			"model": "animated_java:blueprint/heiloang_aj/black/wing_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 88
+			},
+			"model": "animated_java:blueprint/heiloang_aj/black/wing_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 89
+			},
+			"model": "animated_java:blueprint/heiloang_aj/black/wing_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 90
+			},
+			"model": "animated_java:blueprint/heiloang_aj/black/wing_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 91
+			},
+			"model": "animated_java:blueprint/heiloang_aj/black/wing_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 92
+			},
+			"model": "animated_java:blueprint/heiloang_aj/black/wing_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 93
+			},
+			"model": "animated_java:blueprint/heiloang_aj/black/body_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 94
+			},
+			"model": "animated_java:blueprint/heiloang_aj/black/leg_right_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 95
+			},
+			"model": "animated_java:blueprint/heiloang_aj/black/leg_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 96
+			},
+			"model": "animated_java:blueprint/heiloang_aj/black/leg_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 97
+			},
+			"model": "animated_java:blueprint/heiloang_aj/black/leg_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 98
+			},
+			"model": "animated_java:blueprint/heiloang_aj/black/leg_left_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 99
+			},
+			"model": "animated_java:blueprint/heiloang_aj/black/leg_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 100
+			},
+			"model": "animated_java:blueprint/heiloang_aj/black/leg_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 101
+			},
+			"model": "animated_java:blueprint/heiloang_aj/black/leg_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 102
+			},
+			"model": "animated_java:blueprint/heiloang_aj/black/tail_4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 103
+			},
+			"model": "animated_java:blueprint/heiloang_aj/black/tail_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 104
+			},
+			"model": "animated_java:blueprint/heiloang_aj/black/tail_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 105
+			},
+			"model": "animated_java:blueprint/heiloang_aj/black/tail_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 106
+			},
+			"model": "animated_java:blueprint/heiloang_aj/black/tail_ring"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 107
+			},
+			"model": "animated_java:blueprint/heiloang_aj/black/tail_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 108
+			},
+			"model": "animated_java:blueprint/heiloang_aj/black/body_1"
 		}
 	],
 	"animated_java": {
-		"heiloang_aj": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+		"heiloang_aj": [
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			11,
+			12,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26,
+			27,
+			28,
+			29,
+			30,
+			31,
+			32,
+			33,
+			34,
+			35,
+			36,
+			37,
+			38,
+			39,
+			40,
+			41,
+			42,
+			43,
+			44,
+			45,
+			46,
+			47,
+			48,
+			49,
+			50,
+			51,
+			52,
+			53,
+			54,
+			55,
+			56,
+			57,
+			58,
+			59,
+			60,
+			61,
+			62,
+			63,
+			64,
+			65,
+			66,
+			67,
+			68,
+			69,
+			70,
+			71,
+			72,
+			73,
+			74,
+			75,
+			76,
+			77,
+			78,
+			79,
+			80,
+			81,
+			82,
+			83,
+			84,
+			85,
+			86,
+			87,
+			88,
+			89,
+			90,
+			91,
+			92,
+			93,
+			94,
+			95,
+			96,
+			97,
+			98,
+			99,
+			100,
+			101,
+			102,
+			103,
+			104,
+			105,
+			106,
+			107,
+			108
+		]
 	}
 }

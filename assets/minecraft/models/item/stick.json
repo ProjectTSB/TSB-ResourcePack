@@ -1364,13 +1364,13 @@
             "predicate": {
                 "custom_model_data": 20074
             },
-            "model": "item/mob/stick/20074"
+            "model": "item/other/stick/20074"
         },
         {
             "predicate": {
                 "custom_model_data": 20075
             },
-            "model": "item/mob/stick/20075"
+            "model": "item/other/stick/20075"
         },
         {
             "predicate": {
