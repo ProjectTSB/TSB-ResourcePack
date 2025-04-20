@@ -1,0 +1,28 @@
+{
+    "parent": "item/handheld/32",
+    "textures": {
+        "layer0": "item/artifact/stick/1209"
+	},
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, -90, 55 ],
+            "translation": [ 0, 10.488, 0.178 ],
+            "scale": [ 1.7, 1.7, 0.85 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 0, 90, -55 ],
+            "translation": [ 0, 10.488, 0.178 ],
+            "scale": [ 1.7, 1.7, 0.85 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, -90, 25 ],
+            "translation": [ 1.13, 5.2, 1.13 ],
+            "scale": [ 1.36, 1.36, 0.68 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 90, -25 ],
+            "translation": [ 1.13, 5.2, 1.13 ],
+            "scale": [ 1.36, 1.36, 0.68 ]
+        }
+    }
+}
