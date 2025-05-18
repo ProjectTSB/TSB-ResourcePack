@@ -15,6 +15,18 @@
                 "custom_model_data": 4041
             },
             "model": "item/debug_stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20568
+            },
+            "model": "item/other/debug_stick/20568"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20569
+            },
+            "model": "item/debug_stick"
         }
     ]
 }
