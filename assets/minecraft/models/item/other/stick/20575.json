@@ -1,0 +1,6 @@
+{
+    "parent": "item/other/stick/20570",
+    "textures": {
+        "0": "item/other/stick/20575"
+    }
+}
