@@ -2,21 +2,21 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/mob/carved_pumpkin/20016",
 	"textures": {
-		"6": "block/carved_pumpkin",
-		"7": "block/pumpkin_side",
-		"8": "block/pumpkin_top"
+		"top": "block/pumpkin_top",
+		"front": "block/carved_pumpkin",
+		"side": "block/pumpkin_side"
 	},
 	"elements": [
 		{
 			"from": [0, 0, 0],
 			"to": [16, 16, 16],
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#6"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#7"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#7"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#7"},
-				"up": {"uv": [0, 0, 16, 16], "texture": "#8"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#8"}
+				"north": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "front"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "side"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "side"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "side"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "top"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "top"}
 			}
 		}
 	]
