@@ -2,8 +2,6 @@
     "credit": "Made with Blockbench",
     "parent": "item/mob/carved_pumpkin/20016",
     "textures": {
-        "top": "block/pumpkin_top",
-        "front": "item/mob/carved_pumpkin/20201",
-        "side": "block/pumpkin_side"
+        "front": "item/mob/carved_pumpkin/20201"
     }
 }
