@@ -1,6 +1,38 @@
 {
-    "entity.player.levelup": {
-        "replace": true,
-        "sounds": []
-    }
+  "entity.player.levelup": {
+    "replace": true,
+    "sounds": []
+  },
+  "item.armor.equip_chain": {
+    "replace": true,
+    "sounds": []
+  },
+  "item.armor.equip_diamond": {
+    "replace": true,
+    "sounds": []
+  },
+  "item.armor.equip_elytra": {
+    "replace": true,
+    "sounds": []
+  },
+  "item.armor.equip_gold": {
+    "replace": true,
+    "sounds": []
+  },
+  "item.armor.equip_iron": {
+    "replace": true,
+    "sounds": []
+  },
+  "item.armor.equip_leather": {
+    "replace": true,
+    "sounds": []
+  },
+  "item.armor.equip_netherite": {
+    "replace": true,
+    "sounds": []
+  },
+  "item.armor.equip_turtle": {
+    "replace": true,
+    "sounds": []
+  }
 }
