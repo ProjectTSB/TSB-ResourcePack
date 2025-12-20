@@ -1,5 +1,6 @@
 {
   "merchant.deprecated": "購入できません。",
   "key.mouse.left": "左クリック",
-  "key.mouse.right": "右クリック"
+  "key.mouse.right": "右クリック",
+  "deathScreen.score.value": ""
 }
