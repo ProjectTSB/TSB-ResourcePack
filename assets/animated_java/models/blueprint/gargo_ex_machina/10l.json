@@ -1,0 +1,87 @@
+{
+	"textures": {
+		"16": "animated_java:blueprint/gargo_ex_machina/prismarine_bricks",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [3.2, 12.8, 22.4],
+			"to": [8, 22.4, 32],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [-1.6, 12.8, 32]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 8, 16],
+					"texture": "#16"
+				},
+				"east": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#16"
+				},
+				"south": {
+					"uv": [8, 0, 16, 16],
+					"texture": "#16"
+				},
+				"west": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#16"
+				},
+				"up": {
+					"uv": [0, 8, 16, 16],
+					"rotation": 270,
+					"texture": "#16"
+				},
+				"down": {
+					"uv": [0, 0, 16, 8],
+					"rotation": 90,
+					"texture": "#16"
+				}
+			}
+		},
+		{
+			"from": [3.2, 3.2, 22.4],
+			"to": [8, 12.8, 32],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [-1.6, 3.2, 32]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 8, 16],
+					"texture": "#16"
+				},
+				"east": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#16"
+				},
+				"south": {
+					"uv": [8, 0, 16, 16],
+					"texture": "#16"
+				},
+				"west": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#16"
+				},
+				"up": {
+					"uv": [0, 8, 16, 16],
+					"rotation": 270,
+					"texture": "#16"
+				},
+				"down": {
+					"uv": [0, 0, 16, 8],
+					"rotation": 90,
+					"texture": "#16"
+				}
+			}
+		}
+	]
+}

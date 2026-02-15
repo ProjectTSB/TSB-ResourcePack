@@ -1,0 +1,47 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/cod_spawn_egg"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "animated_java:empty"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "animated_java:blueprint/gem_tnt_drone/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "animated_java:blueprint/gem_tnt_drone/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "animated_java:blueprint/gem_tnt_drone/tail"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "animated_java:blueprint/gem_tnt_drone/wing_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "animated_java:blueprint/gem_tnt_drone/wing_left"
+		}
+	],
+	"animated_java": {
+		"gem_tnt_drone": [1, 2, 3, 4, 5, 6]
+	}
+}

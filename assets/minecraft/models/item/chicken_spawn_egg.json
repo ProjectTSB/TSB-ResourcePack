@@ -1,0 +1,53 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/chicken_spawn_egg"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "animated_java:empty"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "animated_java:blueprint/gem_attack_drone/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "animated_java:blueprint/gem_attack_drone/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "animated_java:blueprint/gem_attack_drone/arm_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "animated_java:blueprint/gem_attack_drone/weapon"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "animated_java:blueprint/gem_attack_drone/arm_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "animated_java:blueprint/gem_attack_drone/leg"
+		}
+	],
+	"animated_java": {
+		"gem_attack_drone": [1, 2, 3, 4, 5, 6, 7]
+	}
+}

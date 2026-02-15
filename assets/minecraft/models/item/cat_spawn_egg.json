@@ -1,0 +1,446 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/cat_spawn_egg"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "animated_java:empty"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/body_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/body_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/body_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/sword_back"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/eyes"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/arm_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/arm_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/arm_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/arm_right_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/sword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 14
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 15
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 16
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/1_r"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 17
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/1_l"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 18
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/2_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 19
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/2_1_r"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 20
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/2_1_l"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 21
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/2_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 22
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/3_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 23
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/3_1_r"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 24
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/3_1_l"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 25
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/3_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 26
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/4_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 27
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/4_1_r"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 28
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/4_1_l"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 29
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/4_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 30
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/5_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 31
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/5_1_r"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 32
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/5_1_l"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 33
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/5_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 34
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/6_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 35
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/6_1_r"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 36
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/6_1_l"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 37
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/6_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 38
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/6_2_r"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 39
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/6_2_l"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 40
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/7_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 41
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/8_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 42
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/9l"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 43
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/9r"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 44
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/10r"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 45
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/10r_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 46
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/10r_1_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 47
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/10l"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 48
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/10l_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 49
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/10l_1_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 50
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/11r"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 51
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/11l"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 52
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/arm_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 53
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/arm_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 54
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/arm_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 55
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/arm_left_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 56
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/leg_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 57
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/leg_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 58
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/leg_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 59
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/leg_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 60
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/leg_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 61
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/leg_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 62
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/sign_head"
+		}
+	],
+	"animated_java": {
+		"gargo_ex_machina": [
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			11,
+			12,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26,
+			27,
+			28,
+			29,
+			30,
+			31,
+			32,
+			33,
+			34,
+			35,
+			36,
+			37,
+			38,
+			39,
+			40,
+			41,
+			42,
+			43,
+			44,
+			45,
+			46,
+			47,
+			48,
+			49,
+			50,
+			51,
+			52,
+			53,
+			54,
+			55,
+			56,
+			57,
+			58,
+			59,
+			60,
+			61,
+			62
+		]
+	}
+}

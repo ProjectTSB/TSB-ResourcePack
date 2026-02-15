@@ -1,0 +1,125 @@
+{
+	"textures": {
+		"0": "animated_java:blueprint/gem_attack_drone/iron_trapdoor",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [-0.18605, -16, 2.04651],
+			"to": [2.04651, -4.09302, 13.95349],
+			"shade": false,
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [-9.86047, -16, -9.86047]
+			},
+			"faces": {
+				"north": {
+					"uv": [13, 0, 16, 16],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [16, 0, 13, 16],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [0, 16, 16, 13],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [0, 13, 16, 16],
+					"rotation": 90,
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [2.04651, -6.32558, 2.04651],
+			"to": [13.95349, -4.09302, 13.95349],
+			"shade": false,
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [-9.86047, -16, -9.86047]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 16, 16, 13],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [0, 16, 16, 13],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [0, 16, 16, 13],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [0, 16, 16, 13],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [13.95349, -16, 2.04651],
+			"to": [16.18605, -4.09302, 13.95349],
+			"shade": false,
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [-9.86047, -16, -9.86047]
+			},
+			"faces": {
+				"north": {
+					"uv": [16, 0, 13, 16],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [13, 0, 16, 16],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [0, 16, 16, 13],
+					"rotation": 90,
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [0, 13, 16, 16],
+					"rotation": 270,
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

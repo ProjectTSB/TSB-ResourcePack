@@ -1,0 +1,120 @@
+{
+	"textures": {
+		"13": "animated_java:blueprint/gargo_ex_machina/quartz_block_side",
+		"14": "animated_java:blueprint/gargo_ex_machina/quartz_block_top",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [8, 17.6, -11.2],
+			"to": [12.8, 22.4, -6.4],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 17.6, -6.4]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#13"
+				},
+				"east": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#13"
+				},
+				"south": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#13"
+				},
+				"west": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#13"
+				},
+				"up": {
+					"uv": [0, 0, 16, 16],
+					"rotation": 270,
+					"texture": "#14"
+				},
+				"down": {
+					"uv": [0, 0, 16, 16],
+					"rotation": 90,
+					"texture": "#14"
+				}
+			}
+		},
+		{
+			"from": [8, 17.6, -13.6],
+			"to": [12.8, 20, -11.2],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 15.2, -8.8]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 8, 16, 16],
+					"texture": "#13"
+				},
+				"east": {
+					"uv": [0, 8, 8, 16],
+					"texture": "#13"
+				},
+				"south": {
+					"uv": [0, 8, 16, 16],
+					"texture": "#13"
+				},
+				"west": {
+					"uv": [8, 8, 16, 16],
+					"texture": "#13"
+				},
+				"down": {
+					"uv": [0, 0, 8, 16],
+					"rotation": 90,
+					"texture": "#14"
+				}
+			}
+		},
+		{
+			"from": [8, 20, -16],
+			"to": [12.8, 22.4, -11.2],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 20, -11.2]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 16, 8],
+					"texture": "#13"
+				},
+				"east": {
+					"uv": [0, 0, 16, 8],
+					"texture": "#13"
+				},
+				"south": {
+					"uv": [0, 0, 16, 8],
+					"texture": "#13"
+				},
+				"west": {
+					"uv": [0, 0, 16, 8],
+					"texture": "#13"
+				},
+				"up": {
+					"uv": [0, 0, 16, 16],
+					"rotation": 270,
+					"texture": "#14"
+				},
+				"down": {
+					"uv": [0, 0, 16, 16],
+					"rotation": 90,
+					"texture": "#14"
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,87 @@
+{
+	"textures": {
+		"19": "animated_java:blueprint/gem_attack_drone/mp_yavu_head",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [4, 8.5, 4],
+			"to": [12, 16.5, 12],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 12.5, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [12, 4, 16, 8],
+					"texture": "#19"
+				},
+				"east": {
+					"uv": [8, 4, 12, 8],
+					"texture": "#19"
+				},
+				"south": {
+					"uv": [4, 4, 8, 8],
+					"texture": "#19"
+				},
+				"west": {
+					"uv": [0, 4, 4, 8],
+					"texture": "#19"
+				},
+				"up": {
+					"uv": [8, 4, 4, 0],
+					"rotation": 180,
+					"texture": "#19"
+				},
+				"down": {
+					"uv": [12, 0, 8, 4],
+					"rotation": 180,
+					"texture": "#19"
+				}
+			}
+		},
+		{
+			"from": [3.5, 8, 3.5],
+			"to": [12.5, 17, 12.5],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 12.5, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [12, 12, 16, 16],
+					"texture": "#19"
+				},
+				"east": {
+					"uv": [8, 12, 12, 16],
+					"texture": "#19"
+				},
+				"south": {
+					"uv": [4, 12, 8, 16],
+					"texture": "#19"
+				},
+				"west": {
+					"uv": [0, 12, 4, 16],
+					"texture": "#19"
+				},
+				"up": {
+					"uv": [8, 12, 4, 8],
+					"rotation": 180,
+					"texture": "#19"
+				},
+				"down": {
+					"uv": [12, 8, 8, 12],
+					"rotation": 180,
+					"texture": "#19"
+				}
+			}
+		}
+	]
+}

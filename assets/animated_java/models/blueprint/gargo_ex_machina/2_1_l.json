@@ -1,0 +1,89 @@
+{
+	"textures": {
+		"13": "animated_java:blueprint/gargo_ex_machina/quartz_block_side",
+		"14": "animated_java:blueprint/gargo_ex_machina/quartz_block_top",
+		"15": "animated_java:blueprint/gargo_ex_machina/quartz_block_bottom",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [8, 26, -4],
+			"to": [11, 32, 2],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [5, 26, 2]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 8, 16],
+					"texture": "#13"
+				},
+				"east": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#13"
+				},
+				"south": {
+					"uv": [8, 0, 16, 16],
+					"texture": "#13"
+				},
+				"west": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#13"
+				},
+				"up": {
+					"uv": [0, 8, 16, 16],
+					"rotation": 270,
+					"texture": "#14"
+				},
+				"down": {
+					"uv": [0, 0, 16, 8],
+					"rotation": 90,
+					"texture": "#14"
+				}
+			}
+		},
+		{
+			"from": [8, 26, -10],
+			"to": [11, 32, -4],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [5, 26, -4]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 8, 16],
+					"texture": "#15"
+				},
+				"east": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#15"
+				},
+				"south": {
+					"uv": [8, 0, 16, 16],
+					"texture": "#15"
+				},
+				"west": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#15"
+				},
+				"up": {
+					"uv": [0, 8, 16, 16],
+					"rotation": 270,
+					"texture": "#15"
+				},
+				"down": {
+					"uv": [0, 0, 16, 8],
+					"rotation": 90,
+					"texture": "#15"
+				}
+			}
+		}
+	]
+}

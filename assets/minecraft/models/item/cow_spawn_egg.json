@@ -1,0 +1,59 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/cow_spawn_egg"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "animated_java:empty"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "animated_java:blueprint/gem_panjan_drone/machine"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "animated_java:blueprint/gem_panjan_drone/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "animated_java:blueprint/gem_panjan_drone/arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "animated_java:blueprint/gem_panjan_drone/hellblade_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "animated_java:blueprint/gem_panjan_drone/blade_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "animated_java:blueprint/gem_panjan_drone/hellblade_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "animated_java:blueprint/gem_panjan_drone/blade_left"
+		}
+	],
+	"animated_java": {
+		"gem_panjan_drone": [1, 2, 3, 4, 5, 6, 7, 8]
+	}
+}
