@@ -1,0 +1,95 @@
+{
+	"textures": {
+		"0": "animated_java:blueprint/gem_attack_drone/iron_trapdoor",
+		"16": "animated_java:blueprint/gem_attack_drone/blast_furnace_front_on",
+		"17": "animated_java:blueprint/gem_attack_drone/blast_furnace_side",
+		"18": "animated_java:blueprint/gem_attack_drone/blast_furnace_top",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [0, 15.75, 0],
+			"to": [16, 31.75, 16],
+			"shade": false,
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [-16, -16.25, -16]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#17"
+				},
+				"east": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#17"
+				},
+				"south": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#16"
+				},
+				"west": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#17"
+				},
+				"up": {
+					"uv": [0, 0, 16, 16],
+					"rotation": 180,
+					"texture": "#18"
+				},
+				"down": {
+					"uv": [0, 0, 16, 16],
+					"rotation": 180,
+					"texture": "#18"
+				}
+			}
+		},
+		{
+			"from": [0, 15.85, -3.1],
+			"to": [16, 31.85, -0.1],
+			"shade": false,
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 15.85, 0]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 16, 16],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [0, 16, 16, 13],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [0, 16, 16, 13],
+					"rotation": 90,
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [0, 16, 16, 13],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [0, 16, 16, 13],
+					"rotation": 180,
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

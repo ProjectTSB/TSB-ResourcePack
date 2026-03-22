@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"19": "animated_java:blueprint/gargo_ex_machina/soul_campfire_fire",
+		"23": "animated_java:blueprint/gargo_ex_machina/campfire_fire",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
@@ -20,7 +20,7 @@
 			"faces": {
 				"south": {
 					"uv": [10, 15, 6, 4],
-					"texture": "#19"
+					"texture": "#23"
 				}
 			}
 		},
@@ -35,7 +35,7 @@
 			"faces": {
 				"south": {
 					"uv": [6, 15, 10, 4],
-					"texture": "#19"
+					"texture": "#23"
 				}
 			}
 		},
@@ -50,7 +50,7 @@
 			"faces": {
 				"south": {
 					"uv": [10, 4, 6, 15],
-					"texture": "#19"
+					"texture": "#23"
 				}
 			}
 		},
@@ -65,7 +65,7 @@
 			"faces": {
 				"south": {
 					"uv": [6, 4, 10, 15],
-					"texture": "#19"
+					"texture": "#23"
 				}
 			}
 		},
@@ -80,7 +80,7 @@
 			"faces": {
 				"south": {
 					"uv": [6, 4, 10, 15],
-					"texture": "#19"
+					"texture": "#23"
 				}
 			}
 		},
@@ -95,7 +95,7 @@
 			"faces": {
 				"south": {
 					"uv": [10, 4, 6, 15],
-					"texture": "#19"
+					"texture": "#23"
 				}
 			}
 		},
@@ -110,7 +110,7 @@
 			"faces": {
 				"south": {
 					"uv": [10, 15, 6, 4],
-					"texture": "#19"
+					"texture": "#23"
 				}
 			}
 		},
@@ -125,7 +125,7 @@
 			"faces": {
 				"south": {
 					"uv": [6, 15, 10, 4],
-					"texture": "#19"
+					"texture": "#23"
 				}
 			}
 		}

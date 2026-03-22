@@ -374,6 +374,11 @@
 			"assets/animated_java/textures/blueprint/gargo_ex_machina/oak_planks.png",
 			"assets/animated_java/textures/blueprint/gargo_ex_machina/soul_campfire_fire.png",
 			"assets/animated_java/textures/blueprint/gargo_ex_machina/light_blue_concrete.png",
+			"assets/animated_java/textures/blueprint/gargo_ex_machina/shadow.png",
+			"assets/animated_java/textures/blueprint/gargo_ex_machina/gxm_bricks.png",
+			"assets/animated_java/textures/blueprint/gargo_ex_machina/campfire_fire.png",
+			"assets/animated_java/models/blueprint/gargo_ex_machina/sign_head.json",
+			"assets/animated_java/models/blueprint/gargo_ex_machina/shadow.json",
 			"assets/animated_java/models/blueprint/gargo_ex_machina/body_2.json",
 			"assets/animated_java/models/blueprint/gargo_ex_machina/body_1.json",
 			"assets/animated_java/models/blueprint/gargo_ex_machina/body_0.json",
@@ -434,7 +439,24 @@
 			"assets/animated_java/models/blueprint/gargo_ex_machina/leg_left_0.json",
 			"assets/animated_java/models/blueprint/gargo_ex_machina/leg_left_1.json",
 			"assets/animated_java/models/blueprint/gargo_ex_machina/leg_left_2.json",
-			"assets/animated_java/models/blueprint/gargo_ex_machina/sign_head.json"
+			"assets/animated_java/models/blueprint/gargo_ex_machina/blue/eyes.json",
+			"assets/animated_java/models/blueprint/gargo_ex_machina/blue/arm_right_3.json",
+			"assets/animated_java/models/blueprint/gargo_ex_machina/blue/arm_right_2.json",
+			"assets/animated_java/models/blueprint/gargo_ex_machina/blue/arm_right_1.json",
+			"assets/animated_java/models/blueprint/gargo_ex_machina/blue/arm_right_0.json",
+			"assets/animated_java/models/blueprint/gargo_ex_machina/blue/arm_left_3.json",
+			"assets/animated_java/models/blueprint/gargo_ex_machina/blue/arm_left_2.json",
+			"assets/animated_java/models/blueprint/gargo_ex_machina/blue/arm_left_1.json",
+			"assets/animated_java/models/blueprint/gargo_ex_machina/blue/arm_left_0.json",
+			"assets/animated_java/models/blueprint/gargo_ex_machina/blue/body_0.json",
+			"assets/animated_java/models/blueprint/gargo_ex_machina/blue/body_1.json",
+			"assets/animated_java/models/blueprint/gargo_ex_machina/blue/leg_right_2.json",
+			"assets/animated_java/models/blueprint/gargo_ex_machina/blue/leg_right_1.json",
+			"assets/animated_java/models/blueprint/gargo_ex_machina/blue/leg_right_0.json",
+			"assets/animated_java/models/blueprint/gargo_ex_machina/blue/leg_left_2.json",
+			"assets/animated_java/models/blueprint/gargo_ex_machina/blue/leg_left_1.json",
+			"assets/animated_java/models/blueprint/gargo_ex_machina/blue/leg_left_0.json",
+			"assets/animated_java/models/blueprint/gargo_ex_machina/blue/body_2.json"
 		]
 	},
 	"gem_attack_drone": {
@@ -459,10 +481,11 @@
 			"assets/animated_java/textures/blueprint/gem_attack_drone/blast_furnace_side.png",
 			"assets/animated_java/textures/blueprint/gem_attack_drone/blast_furnace_top.png",
 			"assets/animated_java/textures/blueprint/gem_attack_drone/mp_yavu_head.png",
-			"assets/animated_java/models/blueprint/gem_attack_drone/body.json",
+			"assets/animated_java/models/blueprint/gem_attack_drone/body_0.json",
+			"assets/animated_java/models/blueprint/gem_attack_drone/body_1.json",
 			"assets/animated_java/models/blueprint/gem_attack_drone/head.json",
 			"assets/animated_java/models/blueprint/gem_attack_drone/arm_right.json",
-			"assets/animated_java/models/blueprint/gem_attack_drone/weapon.json",
+			"assets/animated_java/models/blueprint/gem_attack_drone/weapon_model.json",
 			"assets/animated_java/models/blueprint/gem_attack_drone/arm_left.json",
 			"assets/animated_java/models/blueprint/gem_attack_drone/leg.json"
 		]
@@ -1105,6 +1128,27 @@
 			"assets/animated_java/models/blueprint/red_knight/right_leg.json",
 			"assets/animated_java/models/blueprint/red_knight/right_foot.json",
 			"assets/animated_java/models/blueprint/red_knight/weapon_ground.json"
+		]
+	},
+	"sheep_avenger": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/textures/blueprint/sheep_avenger/brown_mushroom_block.png",
+			"assets/animated_java/textures/blueprint/sheep_avenger/calcite.png",
+			"assets/animated_java/textures/blueprint/sheep_avenger/stripped_cherry_log_top.png",
+			"assets/animated_java/textures/blueprint/sheep_avenger/black_concrete.png",
+			"assets/animated_java/textures/blueprint/sheep_avenger/brown_terracotta.png",
+			"assets/animated_java/models/blueprint/sheep_avenger/body1.json",
+			"assets/animated_java/models/blueprint/sheep_avenger/body2.json",
+			"assets/animated_java/models/blueprint/sheep_avenger/leg_left_0.json",
+			"assets/animated_java/models/blueprint/sheep_avenger/leg_left_1.json",
+			"assets/animated_java/models/blueprint/sheep_avenger/leg_right_0.json",
+			"assets/animated_java/models/blueprint/sheep_avenger/leg_right_1.json",
+			"assets/animated_java/models/blueprint/sheep_avenger/arm_left_0.json",
+			"assets/animated_java/models/blueprint/sheep_avenger/arm_left_1.json",
+			"assets/animated_java/models/blueprint/sheep_avenger/arm_right_0.json",
+			"assets/animated_java/models/blueprint/sheep_avenger/arm_right_1.json",
+			"assets/animated_java/models/blueprint/sheep_avenger/head.json"
 		]
 	},
 	"terrible_sonic_bomber": {

@@ -1,0 +1,20 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                " ": 2
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/mob/456/modify.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "0123",
+                "abcd"
+            ]
+        }
+    ]
+}

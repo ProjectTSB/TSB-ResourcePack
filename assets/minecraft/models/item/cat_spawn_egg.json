@@ -14,367 +14,487 @@
 			"predicate": {
 				"custom_model_data": 2
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/body_2"
+			"model": "animated_java:blueprint/gargo_ex_machina/sign_head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 3
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/body_1"
+			"model": "animated_java:blueprint/gargo_ex_machina/shadow"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 4
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/body_0"
+			"model": "animated_java:blueprint/gargo_ex_machina/body_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 5
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/sword_back"
+			"model": "animated_java:blueprint/gargo_ex_machina/body_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 6
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/head"
+			"model": "animated_java:blueprint/gargo_ex_machina/body_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 7
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/eyes"
+			"model": "animated_java:blueprint/gargo_ex_machina/sword_back"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 8
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/arm_right_0"
+			"model": "animated_java:blueprint/gargo_ex_machina/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 9
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/arm_right_1"
+			"model": "animated_java:blueprint/gargo_ex_machina/eyes"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 10
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/arm_right_2"
+			"model": "animated_java:blueprint/gargo_ex_machina/arm_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 11
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/arm_right_3"
+			"model": "animated_java:blueprint/gargo_ex_machina/arm_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 12
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/sword"
+			"model": "animated_java:blueprint/gargo_ex_machina/arm_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 13
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/8"
+			"model": "animated_java:blueprint/gargo_ex_machina/arm_right_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 14
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/7"
+			"model": "animated_java:blueprint/gargo_ex_machina/sword"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 15
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/1"
+			"model": "animated_java:blueprint/gargo_ex_machina/8"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 16
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/1_r"
+			"model": "animated_java:blueprint/gargo_ex_machina/7"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 17
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/1_l"
+			"model": "animated_java:blueprint/gargo_ex_machina/1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 18
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/2_1"
+			"model": "animated_java:blueprint/gargo_ex_machina/1_r"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 19
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/2_1_r"
+			"model": "animated_java:blueprint/gargo_ex_machina/1_l"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 20
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/2_1_l"
+			"model": "animated_java:blueprint/gargo_ex_machina/2_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 21
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/2_2"
+			"model": "animated_java:blueprint/gargo_ex_machina/2_1_r"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 22
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/3_1"
+			"model": "animated_java:blueprint/gargo_ex_machina/2_1_l"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 23
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/3_1_r"
+			"model": "animated_java:blueprint/gargo_ex_machina/2_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 24
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/3_1_l"
+			"model": "animated_java:blueprint/gargo_ex_machina/3_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 25
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/3_2"
+			"model": "animated_java:blueprint/gargo_ex_machina/3_1_r"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 26
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/4_1"
+			"model": "animated_java:blueprint/gargo_ex_machina/3_1_l"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 27
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/4_1_r"
+			"model": "animated_java:blueprint/gargo_ex_machina/3_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 28
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/4_1_l"
+			"model": "animated_java:blueprint/gargo_ex_machina/4_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 29
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/4_2"
+			"model": "animated_java:blueprint/gargo_ex_machina/4_1_r"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 30
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/5_1"
+			"model": "animated_java:blueprint/gargo_ex_machina/4_1_l"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 31
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/5_1_r"
+			"model": "animated_java:blueprint/gargo_ex_machina/4_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 32
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/5_1_l"
+			"model": "animated_java:blueprint/gargo_ex_machina/5_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 33
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/5_2"
+			"model": "animated_java:blueprint/gargo_ex_machina/5_1_r"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 34
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/6_1"
+			"model": "animated_java:blueprint/gargo_ex_machina/5_1_l"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 35
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/6_1_r"
+			"model": "animated_java:blueprint/gargo_ex_machina/5_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 36
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/6_1_l"
+			"model": "animated_java:blueprint/gargo_ex_machina/6_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 37
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/6_2"
+			"model": "animated_java:blueprint/gargo_ex_machina/6_1_r"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 38
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/6_2_r"
+			"model": "animated_java:blueprint/gargo_ex_machina/6_1_l"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 39
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/6_2_l"
+			"model": "animated_java:blueprint/gargo_ex_machina/6_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 40
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/7_1"
+			"model": "animated_java:blueprint/gargo_ex_machina/6_2_r"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 41
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/8_1"
+			"model": "animated_java:blueprint/gargo_ex_machina/6_2_l"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 42
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/9l"
+			"model": "animated_java:blueprint/gargo_ex_machina/7_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 43
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/9r"
+			"model": "animated_java:blueprint/gargo_ex_machina/8_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 44
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/10r"
+			"model": "animated_java:blueprint/gargo_ex_machina/9l"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 45
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/10r_1"
+			"model": "animated_java:blueprint/gargo_ex_machina/9r"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 46
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/10r_1_1"
+			"model": "animated_java:blueprint/gargo_ex_machina/10r"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 47
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/10l"
+			"model": "animated_java:blueprint/gargo_ex_machina/10r_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 48
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/10l_1"
+			"model": "animated_java:blueprint/gargo_ex_machina/10r_1_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 49
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/10l_1_1"
+			"model": "animated_java:blueprint/gargo_ex_machina/10l"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 50
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/11r"
+			"model": "animated_java:blueprint/gargo_ex_machina/10l_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 51
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/11l"
+			"model": "animated_java:blueprint/gargo_ex_machina/10l_1_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 52
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/arm_left_0"
+			"model": "animated_java:blueprint/gargo_ex_machina/11r"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 53
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/arm_left_1"
+			"model": "animated_java:blueprint/gargo_ex_machina/11l"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 54
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/arm_left_2"
+			"model": "animated_java:blueprint/gargo_ex_machina/arm_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 55
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/arm_left_3"
+			"model": "animated_java:blueprint/gargo_ex_machina/arm_left_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 56
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/leg_right_0"
+			"model": "animated_java:blueprint/gargo_ex_machina/arm_left_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 57
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/leg_right_1"
+			"model": "animated_java:blueprint/gargo_ex_machina/arm_left_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 58
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/leg_right_2"
+			"model": "animated_java:blueprint/gargo_ex_machina/leg_right_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 59
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/leg_left_0"
+			"model": "animated_java:blueprint/gargo_ex_machina/leg_right_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 60
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/leg_left_1"
+			"model": "animated_java:blueprint/gargo_ex_machina/leg_right_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 61
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/leg_left_2"
+			"model": "animated_java:blueprint/gargo_ex_machina/leg_left_0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 62
 			},
-			"model": "animated_java:blueprint/gargo_ex_machina/sign_head"
+			"model": "animated_java:blueprint/gargo_ex_machina/leg_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 63
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/leg_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 64
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/blue/eyes"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 65
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/blue/arm_right_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 66
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/blue/arm_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 67
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/blue/arm_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 68
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/blue/arm_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 69
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/blue/arm_left_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 70
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/blue/arm_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 71
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/blue/arm_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/blue/arm_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 73
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/blue/body_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 74
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/blue/body_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 75
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/blue/leg_right_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 76
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/blue/leg_right_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 77
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/blue/leg_right_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 78
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/blue/leg_left_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 79
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/blue/leg_left_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 80
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/blue/leg_left_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 81
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina/blue/body_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 999
+			},
+			"model": "animated_java:blueprint/gargo_ex_machina_sub/head"
 		}
 	],
 	"animated_java": {
@@ -440,7 +560,26 @@
 			59,
 			60,
 			61,
-			62
+			62,
+			63,
+			64,
+			65,
+			66,
+			67,
+			68,
+			69,
+			70,
+			71,
+			72,
+			73,
+			74,
+			75,
+			76,
+			77,
+			78,
+			79,
+			80,
+			81
 		]
 	}
 }
