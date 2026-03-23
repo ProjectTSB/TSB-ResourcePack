@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"0": "animated_java:blueprint/gargo_ex_machina/stone_bricks",
-		"6": "animated_java:blueprint/gargo_ex_machina/polished_deepslate",
+		"0": "minecraft:block/stone_bricks",
+		"6": "minecraft:block/polished_deepslate",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
@@ -385,6 +385,10 @@
 			"faces": {
 				"east": {
 					"uv": [0, 0, 8, 16],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [5, 0, 11, 16],
 					"texture": "#0"
 				},
 				"west": {

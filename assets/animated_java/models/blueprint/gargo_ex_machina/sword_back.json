@@ -1,11 +1,11 @@
 {
 	"textures": {
-		"13": "animated_java:blueprint/gargo_ex_machina/quartz_block_side",
-		"14": "animated_java:blueprint/gargo_ex_machina/quartz_block_top",
-		"15": "animated_java:blueprint/gargo_ex_machina/quartz_block_bottom",
-		"16": "animated_java:blueprint/gargo_ex_machina/prismarine_bricks",
-		"17": "animated_java:blueprint/gargo_ex_machina/oxidized_copper",
-		"18": "animated_java:blueprint/gargo_ex_machina/oak_planks",
+		"13": "minecraft:block/quartz_block_side",
+		"14": "minecraft:block/quartz_block_top",
+		"15": "minecraft:block/quartz_block_bottom",
+		"16": "minecraft:block/prismarine_bricks",
+		"17": "minecraft:block/oxidized_copper",
+		"18": "minecraft:block/oak_planks",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {

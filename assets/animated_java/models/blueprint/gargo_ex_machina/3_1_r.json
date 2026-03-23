@@ -1,8 +1,8 @@
 {
 	"textures": {
-		"13": "animated_java:blueprint/gargo_ex_machina/quartz_block_side",
-		"14": "animated_java:blueprint/gargo_ex_machina/quartz_block_top",
-		"15": "animated_java:blueprint/gargo_ex_machina/quartz_block_bottom",
+		"13": "minecraft:block/quartz_block_side",
+		"14": "minecraft:block/quartz_block_top",
+		"15": "minecraft:block/quartz_block_bottom",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
@@ -12,8 +12,8 @@
 	},
 	"elements": [
 		{
-			"from": [8, 26, -4],
-			"to": [11, 32, 2],
+			"from": [7.625, 26, -4],
+			"to": [10.625, 32, 2],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
@@ -49,8 +49,8 @@
 			}
 		},
 		{
-			"from": [8, 26, -10],
-			"to": [11, 32, -4],
+			"from": [7.625, 26, -10],
+			"to": [10.625, 32, -4],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",

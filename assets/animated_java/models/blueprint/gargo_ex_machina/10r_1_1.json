@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"16": "animated_java:blueprint/gargo_ex_machina/prismarine_bricks",
-		"17": "animated_java:blueprint/gargo_ex_machina/oxidized_copper",
+		"16": "minecraft:block/prismarine_bricks",
+		"17": "minecraft:block/oxidized_copper",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
@@ -11,8 +11,8 @@
 	},
 	"elements": [
 		{
-			"from": [8, 16, -16],
-			"to": [12, 24, -8],
+			"from": [7.5, 16, -16],
+			"to": [11.5, 24, -8],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
@@ -48,8 +48,8 @@
 			}
 		},
 		{
-			"from": [8, 16, -8],
-			"to": [12, 24, 0],
+			"from": [7.5, 16, -8],
+			"to": [11.5, 24, 0],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
@@ -85,8 +85,8 @@
 			}
 		},
 		{
-			"from": [8, 16, 0],
-			"to": [12, 24, 8],
+			"from": [7.5, 16, 0],
+			"to": [11.5, 24, 8],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
@@ -122,8 +122,8 @@
 			}
 		},
 		{
-			"from": [8, 8, -8],
-			"to": [12, 16, 0],
+			"from": [7.5, 8, -8],
+			"to": [11.5, 16, 0],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
@@ -159,8 +159,8 @@
 			}
 		},
 		{
-			"from": [8, 8, 0],
-			"to": [12, 16, 8],
+			"from": [7.5, 8, 0],
+			"to": [11.5, 16, 8],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",

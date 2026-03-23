@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"16": "animated_java:blueprint/gargo_ex_machina/prismarine_bricks",
+		"16": "minecraft:block/prismarine_bricks",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
@@ -10,8 +10,8 @@
 	},
 	"elements": [
 		{
-			"from": [8, 12.8, 22.4],
-			"to": [12.8, 22.4, 32],
+			"from": [7.4, 12.8, 22.4],
+			"to": [12.2, 22.4, 32],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
@@ -47,8 +47,8 @@
 			}
 		},
 		{
-			"from": [8, 3.2, 22.4],
-			"to": [12.8, 12.8, 32],
+			"from": [7.4, 3.2, 22.4],
+			"to": [12.2, 12.8, 32],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",

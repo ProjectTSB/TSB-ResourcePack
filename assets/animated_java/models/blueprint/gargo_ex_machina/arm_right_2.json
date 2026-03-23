@@ -1,9 +1,9 @@
 {
 	"textures": {
-		"1": "animated_java:blueprint/gargo_ex_machina/smooth_stone",
-		"2": "animated_java:blueprint/gargo_ex_machina/chiseled_deepslate",
-		"3": "animated_java:blueprint/gargo_ex_machina/andesite",
-		"11": "animated_java:blueprint/gargo_ex_machina/iron_trapdoor",
+		"1": "minecraft:block/smooth_stone",
+		"2": "minecraft:block/chiseled_deepslate",
+		"3": "minecraft:block/andesite",
+		"11": "minecraft:block/iron_trapdoor",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
@@ -13,12 +13,12 @@
 	},
 	"elements": [
 		{
-			"from": [0, -8, 0],
-			"to": [8, 0, 8],
+			"from": [-0.5, -8, 0],
+			"to": [7.5, 0, 8],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
-				"origin": [-24, -72, -8]
+				"origin": [-24.5, -72, -8]
 			},
 			"faces": {
 				"north": {
@@ -44,12 +44,12 @@
 			}
 		},
 		{
-			"from": [0, -8, 8],
-			"to": [8, 0, 16],
+			"from": [-0.5, -8, 8],
+			"to": [7.5, 0, 16],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
-				"origin": [-24, -72, -8]
+				"origin": [-24.5, -72, -8]
 			},
 			"faces": {
 				"east": {
@@ -71,12 +71,12 @@
 			}
 		},
 		{
-			"from": [0, 0, 0],
-			"to": [8, 8, 8],
+			"from": [-0.5, 0, 0],
+			"to": [7.5, 8, 8],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
-				"origin": [-24, -72, -8]
+				"origin": [-24.5, -72, -8]
 			},
 			"faces": {
 				"north": {
@@ -98,12 +98,12 @@
 			}
 		},
 		{
-			"from": [0, 0, 8],
-			"to": [8, 8, 16],
+			"from": [-0.5, 0, 8],
+			"to": [7.5, 8, 16],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
-				"origin": [-24, -72, -8]
+				"origin": [-24.5, -72, -8]
 			},
 			"faces": {
 				"east": {
@@ -125,12 +125,12 @@
 			}
 		},
 		{
-			"from": [0, 8, 8],
-			"to": [8, 16, 16],
+			"from": [-0.5, 8, 8],
+			"to": [7.5, 16, 16],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
-				"origin": [-24, -72, -8]
+				"origin": [-24.5, -72, -8]
 			},
 			"faces": {
 				"north": {
@@ -148,16 +148,20 @@
 				"west": {
 					"uv": [0, 0, 16, 16],
 					"texture": "#3"
+				},
+				"up": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#3"
 				}
 			}
 		},
 		{
-			"from": [-1.5, 0, 0],
-			"to": [0, 8, 8],
+			"from": [-2, 0, 0],
+			"to": [-0.5, 8, 8],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
-				"origin": [-24, -72, -8]
+				"origin": [-24.5, -72, -8]
 			},
 			"faces": {
 				"north": {
@@ -185,12 +189,12 @@
 			}
 		},
 		{
-			"from": [-1.5, 0, 8],
-			"to": [0, 8, 16],
+			"from": [-2, 0, 8],
+			"to": [-0.5, 8, 16],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
-				"origin": [-24, -72, -8]
+				"origin": [-24.5, -72, -8]
 			},
 			"faces": {
 				"north": {

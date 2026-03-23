@@ -1,11 +1,11 @@
 {
 	"textures": {
-		"0": "animated_java:blueprint/gargo_ex_machina/stone_bricks",
-		"2": "animated_java:blueprint/gargo_ex_machina/chiseled_deepslate",
-		"4": "animated_java:blueprint/gargo_ex_machina/sea_lantern",
-		"5": "animated_java:blueprint/gargo_ex_machina/light_blue_stained_glass",
-		"6": "animated_java:blueprint/gargo_ex_machina/polished_deepslate",
-		"7": "animated_java:blueprint/gargo_ex_machina/deepslate_tiles",
+		"0": "minecraft:block/stone_bricks",
+		"2": "minecraft:block/chiseled_deepslate",
+		"4": "minecraft:block/sea_lantern",
+		"5": "minecraft:block/light_blue_stained_glass",
+		"6": "minecraft:block/polished_deepslate",
+		"7": "minecraft:block/deepslate_tiles",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
@@ -63,6 +63,10 @@
 					"texture": "#0"
 				},
 				"south": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0"
+				},
+				"west": {
 					"uv": [0, 0, 16, 16],
 					"texture": "#0"
 				},
@@ -147,6 +151,10 @@
 					"uv": [0, 0, 16, 16],
 					"texture": "#0"
 				},
+				"east": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0"
+				},
 				"south": {
 					"uv": [0, 0, 16, 16],
 					"texture": "#0"
@@ -183,6 +191,10 @@
 					"texture": "#0"
 				},
 				"west": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0"
+				},
+				"up": {
 					"uv": [0, 0, 16, 16],
 					"texture": "#0"
 				},
@@ -1081,6 +1093,10 @@
 					"uv": [0, 8, 16, 16],
 					"texture": "#6"
 				},
+				"west": {
+					"uv": [0, 8, 16, 16],
+					"texture": "#6"
+				},
 				"up": {
 					"uv": [0, 0, 16, 16],
 					"texture": "#6"
@@ -1106,6 +1122,10 @@
 				},
 				"south": {
 					"uv": [0, 0, 8, 8],
+					"texture": "#6"
+				},
+				"west": {
+					"uv": [0, 0, 16, 8],
 					"texture": "#6"
 				},
 				"up": {
@@ -1355,6 +1375,10 @@
 				"origin": [-28, -40, -1.6]
 			},
 			"faces": {
+				"east": {
+					"uv": [0, 8, 16, 16],
+					"texture": "#6"
+				},
 				"south": {
 					"uv": [0, 8, 16, 16],
 					"texture": "#6"
@@ -1382,6 +1406,10 @@
 				"origin": [-28, -40, -1.6]
 			},
 			"faces": {
+				"east": {
+					"uv": [0, 0, 16, 8],
+					"texture": "#6"
+				},
 				"south": {
 					"uv": [8, 0, 16, 8],
 					"texture": "#6"
@@ -1414,6 +1442,10 @@
 					"texture": "#0"
 				},
 				"south": {
+					"uv": [0, 8, 16, 16],
+					"texture": "#0"
+				},
+				"west": {
 					"uv": [0, 8, 16, 16],
 					"texture": "#0"
 				},
@@ -1539,6 +1571,10 @@
 				},
 				"west": {
 					"uv": [0, 0, 8, 8],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [8, 0, 16, 8],
 					"texture": "#0"
 				}
 			}
@@ -1714,6 +1750,10 @@
 				"south": {
 					"uv": [0, 0, 8, 8],
 					"texture": "#0"
+				},
+				"up": {
+					"uv": [0, 0, 8, 8],
+					"texture": "#0"
 				}
 			}
 		},
@@ -1727,6 +1767,10 @@
 			},
 			"faces": {
 				"north": {
+					"uv": [0, 8, 16, 16],
+					"texture": "#0"
+				},
+				"east": {
 					"uv": [0, 8, 16, 16],
 					"texture": "#0"
 				},

@@ -1,9 +1,9 @@
 {
 	"textures": {
-		"0": "animated_java:blueprint/gargo_ex_machina/stone_bricks",
-		"1": "animated_java:blueprint/gargo_ex_machina/smooth_stone",
-		"2": "animated_java:blueprint/gargo_ex_machina/chiseled_deepslate",
-		"12": "animated_java:blueprint/gargo_ex_machina/smooth_stone_slab_side",
+		"0": "minecraft:block/stone_bricks",
+		"1": "minecraft:block/smooth_stone",
+		"2": "minecraft:block/chiseled_deepslate",
+		"12": "minecraft:block/smooth_stone_slab_side",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {

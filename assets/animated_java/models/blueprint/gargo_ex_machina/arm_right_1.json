@@ -1,8 +1,8 @@
 {
 	"textures": {
-		"0": "animated_java:blueprint/gargo_ex_machina/stone_bricks",
-		"6": "animated_java:blueprint/gargo_ex_machina/polished_deepslate",
-		"7": "animated_java:blueprint/gargo_ex_machina/deepslate_tiles",
+		"0": "minecraft:block/stone_bricks",
+		"6": "minecraft:block/polished_deepslate",
+		"7": "minecraft:block/deepslate_tiles",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
@@ -39,6 +39,10 @@
 				"up": {
 					"uv": [0, 0, 16, 16],
 					"texture": "#0"
+				},
+				"down": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0"
 				}
 			}
 		},
@@ -70,6 +74,10 @@
 				"up": {
 					"uv": [4, 4, 12, 12],
 					"texture": "#6"
+				},
+				"down": {
+					"uv": [4, 4, 12, 12],
+					"texture": "#6"
 				}
 			}
 		},
@@ -97,6 +105,10 @@
 				"up": {
 					"uv": [8, 5, 16, 11],
 					"texture": "#6"
+				},
+				"down": {
+					"uv": [8, 5, 16, 11],
+					"texture": "#6"
 				}
 			}
 		},
@@ -113,12 +125,20 @@
 					"uv": [0, 0, 8, 16],
 					"texture": "#6"
 				},
+				"south": {
+					"uv": [5, 0, 11, 16],
+					"texture": "#6"
+				},
 				"west": {
 					"uv": [8, 0, 16, 16],
 					"texture": "#6"
 				},
 				"up": {
 					"uv": [5, 8, 11, 16],
+					"texture": "#6"
+				},
+				"down": {
+					"uv": [5, 0, 11, 8],
 					"texture": "#6"
 				}
 			}
@@ -291,6 +311,10 @@
 					"uv": [0, 0, 8, 16],
 					"texture": "#7"
 				},
+				"west": {
+					"uv": [5, 0, 11, 16],
+					"texture": "#7"
+				},
 				"up": {
 					"uv": [0, 5, 8, 11],
 					"texture": "#7"
@@ -418,6 +442,10 @@
 				"west": {
 					"uv": [4, 0, 12, 16],
 					"texture": "#0"
+				},
+				"up": {
+					"uv": [4, 4, 12, 12],
+					"texture": "#0"
 				}
 			}
 		},
@@ -441,6 +469,10 @@
 				"west": {
 					"uv": [8, 0, 16, 16],
 					"texture": "#0"
+				},
+				"up": {
+					"uv": [5, 8, 11, 16],
+					"texture": "#0"
 				}
 			}
 		},
@@ -463,6 +495,10 @@
 				},
 				"west": {
 					"uv": [5, 0, 11, 16],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [0, 5, 8, 11],
 					"texture": "#0"
 				}
 			}
@@ -492,6 +528,10 @@
 					"uv": [4, 0, 12, 16],
 					"texture": "#7"
 				},
+				"up": {
+					"uv": [4, 4, 12, 12],
+					"texture": "#7"
+				},
 				"down": {
 					"uv": [4, 4, 12, 12],
 					"texture": "#7"
@@ -519,6 +559,10 @@
 					"uv": [0, 0, 8, 16],
 					"texture": "#7"
 				},
+				"up": {
+					"uv": [5, 0, 11, 8],
+					"texture": "#7"
+				},
 				"down": {
 					"uv": [5, 8, 11, 16],
 					"texture": "#7"
@@ -540,6 +584,10 @@
 				},
 				"south": {
 					"uv": [0, 0, 8, 16],
+					"texture": "#7"
+				},
+				"up": {
+					"uv": [0, 5, 8, 11],
 					"texture": "#7"
 				},
 				"down": {
@@ -617,6 +665,10 @@
 			"faces": {
 				"north": {
 					"uv": [0, 0, 8, 16],
+					"texture": "#6"
+				},
+				"east": {
+					"uv": [5, 0, 11, 16],
 					"texture": "#6"
 				},
 				"south": {

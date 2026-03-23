@@ -1,9 +1,9 @@
 {
 	"textures": {
-		"1": "animated_java:blueprint/gem_tnt_drone/dark_oak_log",
-		"2": "animated_java:blueprint/gem_tnt_drone/grindstone_pivot",
-		"3": "animated_java:blueprint/gem_tnt_drone/grindstone_round",
-		"4": "animated_java:blueprint/gem_tnt_drone/grindstone_side",
+		"1": "minecraft:block/dark_oak_log",
+		"2": "minecraft:block/grindstone_pivot",
+		"3": "minecraft:block/grindstone_round",
+		"4": "minecraft:block/grindstone_side",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {

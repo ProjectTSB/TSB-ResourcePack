@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"0": "animated_java:blueprint/sheep_avenger/brown_mushroom_block",
-		"4": "animated_java:blueprint/sheep_avenger/brown_terracotta",
+		"0": "minecraft:block/brown_mushroom_block",
+		"4": "minecraft:block/brown_terracotta",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {

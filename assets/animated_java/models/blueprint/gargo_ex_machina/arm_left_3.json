@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "animated_java:blueprint/gargo_ex_machina/stone_bricks",
+		"0": "minecraft:block/stone_bricks",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
@@ -495,6 +495,10 @@
 				"west": {
 					"uv": [4, 0, 12, 16],
 					"texture": "#0"
+				},
+				"up": {
+					"uv": [4, 4, 12, 12],
+					"texture": "#0"
 				}
 			}
 		},
@@ -514,6 +518,10 @@
 				"west": {
 					"uv": [8, 0, 16, 16],
 					"texture": "#0"
+				},
+				"up": {
+					"uv": [5, 8, 11, 16],
+					"texture": "#0"
 				}
 			}
 		},
@@ -532,6 +540,14 @@
 				},
 				"south": {
 					"uv": [0, 0, 8, 16],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [5, 0, 11, 16],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [0, 5, 8, 11],
 					"texture": "#0"
 				}
 			}
@@ -605,6 +621,10 @@
 				},
 				"south": {
 					"uv": [0, 0, 8, 16],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [5, 0, 11, 16],
 					"texture": "#0"
 				},
 				"up": {

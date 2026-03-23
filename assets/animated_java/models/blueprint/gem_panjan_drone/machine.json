@@ -1,15 +1,15 @@
 {
 	"textures": {
-		"3": "animated_java:blueprint/gem_panjan_drone/tnt_side",
-		"4": "animated_java:blueprint/gem_panjan_drone/tnt_top",
-		"5": "animated_java:blueprint/gem_panjan_drone/tnt_bottom",
-		"6": "animated_java:blueprint/gem_panjan_drone/iron_trapdoor",
-		"7": "animated_java:blueprint/gem_panjan_drone/polished_andesite",
-		"8": "animated_java:blueprint/gem_panjan_drone/dark_oak_log",
-		"9": "animated_java:blueprint/gem_panjan_drone/grindstone_pivot",
-		"12": "animated_java:blueprint/gem_panjan_drone/dark_oak_planks",
-		"13": "animated_java:blueprint/gem_panjan_drone/hopper_outside",
-		"14": "animated_java:blueprint/gem_panjan_drone/hopper_inside",
+		"3": "minecraft:block/tnt_side",
+		"4": "minecraft:block/tnt_top",
+		"5": "minecraft:block/tnt_bottom",
+		"6": "minecraft:block/iron_trapdoor",
+		"7": "minecraft:block/polished_andesite",
+		"8": "minecraft:block/dark_oak_log",
+		"9": "minecraft:block/grindstone_pivot",
+		"12": "minecraft:block/dark_oak_planks",
+		"13": "minecraft:block/hopper_outside",
+		"14": "minecraft:block/hopper_inside",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {

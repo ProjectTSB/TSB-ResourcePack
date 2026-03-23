@@ -1,8 +1,8 @@
 {
 	"textures": {
-		"4": "animated_java:blueprint/gem_attack_drone/cauldron_side",
-		"6": "animated_java:blueprint/gem_attack_drone/cauldron_inner",
-		"7": "animated_java:blueprint/gem_attack_drone/cauldron_bottom",
+		"4": "minecraft:block/cauldron_side",
+		"6": "minecraft:block/cauldron_inner",
+		"7": "minecraft:block/cauldron_bottom",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {

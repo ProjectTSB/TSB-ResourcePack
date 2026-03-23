@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"23": "animated_java:blueprint/gargo_ex_machina/campfire_fire",
+		"23": "minecraft:block/campfire_fire",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {

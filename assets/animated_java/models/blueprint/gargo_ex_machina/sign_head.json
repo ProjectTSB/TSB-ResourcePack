@@ -1,9 +1,9 @@
 {
 	"textures": {
-		"6": "animated_java:blueprint/gargo_ex_machina/polished_deepslate",
-		"7": "animated_java:blueprint/gargo_ex_machina/deepslate_tiles",
-		"9": "animated_java:blueprint/gargo_ex_machina/black_concrete",
-		"20": "animated_java:blueprint/gargo_ex_machina/light_blue_concrete",
+		"6": "minecraft:block/polished_deepslate",
+		"7": "minecraft:block/deepslate_tiles",
+		"9": "minecraft:block/black_concrete",
+		"20": "minecraft:block/light_blue_concrete",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {

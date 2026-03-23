@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"17": "animated_java:blueprint/gargo_ex_machina/oxidized_copper",
+		"17": "minecraft:block/oxidized_copper",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
@@ -10,8 +10,8 @@
 	},
 	"elements": [
 		{
-			"from": [8, -16, -16],
-			"to": [14, -4, -4],
+			"from": [7.25, -16, -16],
+			"to": [13.25, -4, -4],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
@@ -47,8 +47,8 @@
 			}
 		},
 		{
-			"from": [8, -4, -16],
-			"to": [14, 8, -4],
+			"from": [7.25, -4, -16],
+			"to": [13.25, 8, -4],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
@@ -84,8 +84,8 @@
 			}
 		},
 		{
-			"from": [8, -4, -4],
-			"to": [14, 8, 8],
+			"from": [7.25, -4, -4],
+			"to": [13.25, 8, 8],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",

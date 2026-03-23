@@ -1,6 +1,10 @@
 {
-    "pack": {
-        "pack_format": 22,
-        "description": "TheSkyBlessing - Resource pack"
-    }
+	"pack": {
+		"pack_format": 22,
+		"description": "TheSkyBlessing - Resource pack",
+		"supported_formats": {
+			"min_inclusive": 22,
+			"max_inclusive": 31
+		}
+	}
 }

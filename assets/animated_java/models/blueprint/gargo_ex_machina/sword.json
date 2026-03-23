@@ -1,8 +1,8 @@
 {
 	"textures": {
-		"16": "animated_java:blueprint/gargo_ex_machina/prismarine_bricks",
-		"17": "animated_java:blueprint/gargo_ex_machina/oxidized_copper",
-		"18": "animated_java:blueprint/gargo_ex_machina/oak_planks",
+		"16": "minecraft:block/prismarine_bricks",
+		"17": "minecraft:block/oxidized_copper",
+		"18": "minecraft:block/oak_planks",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
@@ -12,8 +12,8 @@
 	},
 	"elements": [
 		{
-			"from": [6, 14, -2],
-			"to": [10, 18, 2],
+			"from": [5.75, 14, -2],
+			"to": [9.75, 18, 2],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
@@ -49,8 +49,8 @@
 			}
 		},
 		{
-			"from": [6, 12, -2],
-			"to": [10, 14, 2],
+			"from": [5.75, 12, -2],
+			"to": [9.75, 14, 2],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
@@ -86,8 +86,8 @@
 			}
 		},
 		{
-			"from": [6, 10, 0],
-			"to": [10, 12, 2],
+			"from": [5.75, 10, 0],
+			"to": [9.75, 12, 2],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
@@ -118,8 +118,8 @@
 			}
 		},
 		{
-			"from": [6, 16, 2],
-			"to": [10, 18, 4],
+			"from": [5.75, 16, 2],
+			"to": [9.75, 18, 4],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
@@ -150,8 +150,8 @@
 			}
 		},
 		{
-			"from": [6, 14, 2],
-			"to": [10, 16, 6],
+			"from": [5.75, 14, 2],
+			"to": [9.75, 16, 6],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
@@ -187,8 +187,8 @@
 			}
 		},
 		{
-			"from": [6, 10, 6],
-			"to": [10, 12, 10],
+			"from": [5.75, 10, 6],
+			"to": [9.75, 12, 10],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
@@ -224,8 +224,8 @@
 			}
 		},
 		{
-			"from": [6, 12, 6],
-			"to": [10, 14, 8],
+			"from": [5.75, 12, 6],
+			"to": [9.75, 14, 8],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
@@ -256,8 +256,8 @@
 			}
 		},
 		{
-			"from": [6, 10, 2],
-			"to": [10, 14, 6],
+			"from": [5.75, 10, 2],
+			"to": [9.75, 14, 6],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
@@ -293,8 +293,8 @@
 			}
 		},
 		{
-			"from": [6, 8, 2],
-			"to": [10, 10, 6],
+			"from": [5.75, 8, 2],
+			"to": [9.75, 10, 6],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
@@ -330,8 +330,8 @@
 			}
 		},
 		{
-			"from": [6, 6, 4],
-			"to": [10, 8, 6],
+			"from": [5.75, 6, 4],
+			"to": [9.75, 8, 6],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
@@ -362,8 +362,8 @@
 			}
 		},
 		{
-			"from": [6, 6, 10],
-			"to": [10, 8, 14],
+			"from": [5.75, 6, 10],
+			"to": [9.75, 8, 14],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
@@ -399,8 +399,8 @@
 			}
 		},
 		{
-			"from": [6, 8, 10],
-			"to": [10, 10, 12],
+			"from": [5.75, 8, 10],
+			"to": [9.75, 10, 12],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
@@ -431,8 +431,8 @@
 			}
 		},
 		{
-			"from": [6, 6, 6],
-			"to": [10, 10, 10],
+			"from": [5.75, 6, 6],
+			"to": [9.75, 10, 10],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
@@ -468,8 +468,8 @@
 			}
 		},
 		{
-			"from": [6, 2, 10],
-			"to": [10, 6, 14],
+			"from": [5.75, 2, 10],
+			"to": [9.75, 6, 14],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
@@ -505,8 +505,8 @@
 			}
 		},
 		{
-			"from": [6, 2, 14],
-			"to": [10, 6, 18],
+			"from": [5.75, 2, 14],
+			"to": [9.75, 6, 18],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
@@ -542,8 +542,8 @@
 			}
 		},
 		{
-			"from": [6, 6, 14],
-			"to": [10, 10, 18],
+			"from": [5.75, 6, 14],
+			"to": [9.75, 10, 18],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
@@ -579,8 +579,8 @@
 			}
 		},
 		{
-			"from": [6, 10, 14],
-			"to": [10, 14, 18],
+			"from": [5.75, 10, 14],
+			"to": [9.75, 14, 18],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
@@ -616,8 +616,8 @@
 			}
 		},
 		{
-			"from": [6, 2, 18],
-			"to": [10, 6, 22],
+			"from": [5.75, 2, 18],
+			"to": [9.75, 6, 22],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
@@ -653,8 +653,8 @@
 			}
 		},
 		{
-			"from": [6, 4, 6],
-			"to": [10, 6, 10],
+			"from": [5.75, 4, 6],
+			"to": [9.75, 6, 10],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
@@ -690,8 +690,8 @@
 			}
 		},
 		{
-			"from": [6, 2, 8],
-			"to": [10, 4, 10],
+			"from": [5.75, 2, 8],
+			"to": [9.75, 4, 10],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",

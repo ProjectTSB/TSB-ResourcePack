@@ -1,8 +1,8 @@
 {
 	"textures": {
 		"0": "animated_java:blueprint/gem_panjan_drone/mp_yavu_head",
-		"10": "animated_java:blueprint/gem_panjan_drone/grindstone_round",
-		"11": "animated_java:blueprint/gem_panjan_drone/grindstone_side",
+		"10": "minecraft:block/grindstone_round",
+		"11": "minecraft:block/grindstone_side",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {

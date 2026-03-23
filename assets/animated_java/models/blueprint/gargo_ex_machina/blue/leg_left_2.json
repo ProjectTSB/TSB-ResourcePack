@@ -2,6 +2,10 @@
 	"parent": "animated_java:blueprint/gargo_ex_machina/leg_left_2",
 	"textures": {
 		"0": "animated_java:blueprint/gargo_ex_machina/gxm_bricks",
-		"23": "animated_java:blueprint/gargo_ex_machina/soul_campfire_fire"
+		"1": "minecraft:block/observer_side",
+		"3": "minecraft:block/blast_furnace_top",
+		"4": "minecraft:block/command_block_back",
+		"11": "minecraft:block/crafter_bottom",
+		"23": "minecraft:block/soul_campfire_fire"
 	}
 }

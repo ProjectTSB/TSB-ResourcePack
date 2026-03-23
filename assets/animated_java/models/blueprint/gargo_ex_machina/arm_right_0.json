@@ -1,8 +1,8 @@
 {
 	"textures": {
-		"0": "animated_java:blueprint/gargo_ex_machina/stone_bricks",
-		"1": "animated_java:blueprint/gargo_ex_machina/smooth_stone",
-		"3": "animated_java:blueprint/gargo_ex_machina/andesite",
+		"0": "minecraft:block/stone_bricks",
+		"1": "minecraft:block/smooth_stone",
+		"3": "minecraft:block/andesite",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
@@ -21,6 +21,10 @@
 			},
 			"faces": {
 				"north": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#1"
+				},
+				"east": {
 					"uv": [0, 0, 16, 16],
 					"texture": "#1"
 				},

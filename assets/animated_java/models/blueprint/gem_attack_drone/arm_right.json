@@ -1,10 +1,10 @@
 {
 	"textures": {
-		"0": "animated_java:blueprint/gem_attack_drone/iron_trapdoor",
-		"3": "animated_java:blueprint/gem_attack_drone/stone_bricks",
-		"13": "animated_java:blueprint/gem_attack_drone/hopper_outside",
-		"14": "animated_java:blueprint/gem_attack_drone/hopper_inside",
-		"15": "animated_java:blueprint/gem_attack_drone/hopper_top",
+		"0": "minecraft:block/iron_trapdoor",
+		"3": "minecraft:block/stone_bricks",
+		"13": "minecraft:block/hopper_outside",
+		"14": "minecraft:block/hopper_inside",
+		"15": "minecraft:block/hopper_top",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {

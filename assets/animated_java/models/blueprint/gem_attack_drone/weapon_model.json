@@ -1,13 +1,13 @@
 {
 	"textures": {
-		"1": "animated_java:blueprint/gem_attack_drone/spruce_planks",
-		"9": "animated_java:blueprint/gem_attack_drone/stonecutter_side",
-		"10": "animated_java:blueprint/gem_attack_drone/stonecutter_top",
-		"11": "animated_java:blueprint/gem_attack_drone/stonecutter_bottom",
-		"12": "animated_java:blueprint/gem_attack_drone/stonecutter_saw",
-		"13": "animated_java:blueprint/gem_attack_drone/hopper_outside",
-		"14": "animated_java:blueprint/gem_attack_drone/hopper_inside",
-		"15": "animated_java:blueprint/gem_attack_drone/hopper_top",
+		"1": "minecraft:block/spruce_planks",
+		"9": "minecraft:block/stonecutter_side",
+		"10": "minecraft:block/stonecutter_top",
+		"11": "minecraft:block/stonecutter_bottom",
+		"12": "minecraft:block/stonecutter_saw",
+		"13": "minecraft:block/hopper_outside",
+		"14": "minecraft:block/hopper_inside",
+		"15": "minecraft:block/hopper_top",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {

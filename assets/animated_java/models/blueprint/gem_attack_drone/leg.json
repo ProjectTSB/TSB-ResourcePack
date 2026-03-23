@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "animated_java:blueprint/gem_attack_drone/iron_trapdoor",
+		"0": "minecraft:block/iron_trapdoor",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {

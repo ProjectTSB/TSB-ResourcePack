@@ -1,11 +1,11 @@
 {
 	"textures": {
-		"0": "animated_java:blueprint/gargo_ex_machina/stone_bricks",
-		"1": "animated_java:blueprint/gargo_ex_machina/smooth_stone",
-		"3": "animated_java:blueprint/gargo_ex_machina/andesite",
-		"6": "animated_java:blueprint/gargo_ex_machina/polished_deepslate",
-		"7": "animated_java:blueprint/gargo_ex_machina/deepslate_tiles",
-		"11": "animated_java:blueprint/gargo_ex_machina/iron_trapdoor",
+		"0": "minecraft:block/stone_bricks",
+		"1": "minecraft:block/smooth_stone",
+		"3": "minecraft:block/andesite",
+		"6": "minecraft:block/polished_deepslate",
+		"7": "minecraft:block/deepslate_tiles",
+		"11": "minecraft:block/iron_trapdoor",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
@@ -591,6 +591,10 @@
 					"uv": [4, 0, 12, 16],
 					"texture": "#0"
 				},
+				"up": {
+					"uv": [4, 4, 12, 12],
+					"texture": "#0"
+				},
 				"down": {
 					"uv": [4, 4, 12, 12],
 					"texture": "#0"
@@ -614,6 +618,10 @@
 					"uv": [0, 0, 8, 16],
 					"texture": "#0"
 				},
+				"up": {
+					"uv": [5, 0, 11, 8],
+					"texture": "#0"
+				},
 				"down": {
 					"uv": [5, 8, 11, 16],
 					"texture": "#0"
@@ -635,6 +643,10 @@
 				},
 				"south": {
 					"uv": [0, 0, 8, 16],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [0, 5, 8, 11],
 					"texture": "#0"
 				},
 				"down": {
@@ -760,6 +772,10 @@
 				"west": {
 					"uv": [4, 0, 12, 16],
 					"texture": "#0"
+				},
+				"up": {
+					"uv": [4, 4, 12, 12],
+					"texture": "#0"
 				}
 			}
 		},
@@ -799,8 +815,16 @@
 					"uv": [0, 0, 8, 16],
 					"texture": "#0"
 				},
+				"south": {
+					"uv": [5, 0, 11, 16],
+					"texture": "#0"
+				},
 				"west": {
 					"uv": [8, 0, 16, 16],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [5, 8, 11, 16],
 					"texture": "#0"
 				}
 			}
@@ -814,6 +838,10 @@
 				"origin": [-28, -16, -4]
 			},
 			"faces": {
+				"north": {
+					"uv": [5, 0, 11, 16],
+					"texture": "#3"
+				},
 				"east": {
 					"uv": [8, 0, 16, 16],
 					"texture": "#3"
