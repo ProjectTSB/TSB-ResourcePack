@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:font/object/1160/0.png",
+            "file": "minecraft:font/object/1156/0.png",
             "ascent": 8,
             "height": 16,
             "chars": [
@@ -11,7 +11,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/object/1160/1.png",
+            "file": "minecraft:font/object/1156/1.png",
             "ascent": 8,
             "height": 16,
             "chars": [
