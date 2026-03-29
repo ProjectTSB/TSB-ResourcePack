@@ -1,0 +1,22 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/object/1156/4.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": [
+                "4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/object/1156/5.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": [
+                "5"
+            ]
+        }
+    ]
+}
