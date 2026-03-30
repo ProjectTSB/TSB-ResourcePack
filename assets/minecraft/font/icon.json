@@ -53,6 +53,15 @@
                 "\uE208\uE209\uE210\uE211",
                 "\uE212\uE213\uE214\uE215"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/steve.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                "\uE300"
+            ]
         }
     ]
 }
