@@ -44,6 +44,15 @@
             "chars": [
                 "4"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/object/2257/5.png",
+            "ascent": 64,
+            "height": 64,
+            "chars": [
+                "5"
+            ]
         }
     ]
 }
