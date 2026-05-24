@@ -97,6 +97,18 @@
         },
         {
             "predicate": {
+                "custom_model_data": 515
+            },
+            "model": "item/artifact/potion/515"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 516
+            },
+            "model": "item/potion"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 617
             },
             "model": "item/artifact/potion/617"
