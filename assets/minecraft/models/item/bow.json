@@ -124,34 +124,63 @@
 			"model": "item/artifact/bow/248/bow_pulling_2"
 		 },
 		 {
-			 "predicate": {
-				 "custom_model_data": 249
-			 },
-			 "model": "item/bow"
-		 },
-		 {
-			 "predicate": {
-				 "custom_model_data": 249,
-				 "pulling": 1
-			 },
-			 "model": "item/bow_pulling_0"
-		 },
-		 {
-			 "predicate": {
-				 "custom_model_data": 249,
-				 "pulling": 1,
-				 "pull": 0.58
-			 },
-			 "model": "item/bow_pulling_1"
-		 },
-		 {
-			 "predicate": {
-				 "custom_model_data": 249,
-				 "pulling": 1,
-				 "pull": 1
-			 },
-			 "model": "item/bow_pulling_2"
-		 },
+            "predicate": {
+                "custom_model_data": 249
+            },
+            "model": "item/artifact/bow/249/bow"
+         },
+         {
+            "predicate": {
+                "custom_model_data": 249,
+                "pulling": 1
+            },
+            "model": "item/artifact/bow/249/bow_pulling_0"
+         },
+         {
+            "predicate": {
+                "custom_model_data": 249,
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "item/artifact/bow/249/bow_pulling_1"
+         },
+         {
+            "predicate": {
+                "custom_model_data": 249,
+                "pulling": 1,
+                "pull": 1
+            },
+            "model": "item/artifact/bow/249/bow_pulling_2"
+         },
+         {
+             "predicate": {
+                 "custom_model_data": 250
+             },
+             "model": "item/bow"
+         },
+         {
+             "predicate": {
+                 "custom_model_data": 250,
+                 "pulling": 1
+             },
+             "model": "item/bow_pulling_0"
+         },
+         {
+             "predicate": {
+                 "custom_model_data": 250,
+                 "pulling": 1,
+                 "pull": 0.58
+             },
+             "model": "item/bow_pulling_1"
+         },
+         {
+             "predicate": {
+                 "custom_model_data": 250,
+                 "pulling": 1,
+                 "pull": 1
+             },
+             "model": "item/bow_pulling_2"
+         },
 		{
 			"predicate": {
 				"custom_model_data": 1061
