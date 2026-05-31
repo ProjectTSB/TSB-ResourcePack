@@ -54,6 +54,18 @@
         },
         {
             "predicate": {
+                "custom_model_data": 207
+            },
+            "model": "item/artifact/stick/207"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 208
+            },
+            "model": "item/stick"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 219
             },
             "model": "item/artifact/stick/219"
