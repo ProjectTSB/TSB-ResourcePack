@@ -1,0 +1,30 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/artifact/stick/1327"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [49, 90, 0],
+			"translation": [0, 5.25, 1.25],
+			"scale": [0.85, 0.85, 0.85]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [49, -90, 0],
+			"translation": [0, 5.25, 1.25],
+			"scale": [0.85, 0.85, 0.85]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 90, 25],
+			"translation": [1.13, 3.7, 1.13],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -90, -25],
+			"translation": [1.13, 3.7, 1.13],
+			"scale": [0.68, 0.68, 0.68]
+		}
+	}
+}
