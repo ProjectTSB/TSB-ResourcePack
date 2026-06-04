@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/artifact/nether_star/801"
+        "layer0": "item/artifact/stick/801"
     }
 }
