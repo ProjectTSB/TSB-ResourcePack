@@ -1718,79 +1718,7 @@
             "predicate": {
                 "custom_model_data": 20124
             },
-            "model": "item/mob/stick/20124"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 20125
-            },
-            "model": "item/mob/stick/20125"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 20126
-            },
-            "model": "item/mob/stick/20126"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 20127
-            },
-            "model": "item/mob/stick/20127"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 20128
-            },
-            "model": "item/mob/stick/20128"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 20129
-            },
             "model": "item/stick"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 20130
-            },
-            "model": "item/mob/stick/20130"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 20131
-            },
-            "model": "item/mob/stick/20131"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 20132
-            },
-            "model": "item/mob/stick/20132"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 20133
-            },
-            "model": "item/mob/stick/20133"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 20134
-            },
-            "model": "item/mob/stick/20134"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 20135
-            },
-            "model": "item/stick"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 20136
-            },
-            "model": "item/mob/stick/20136"
         },
         {
             "predicate": {
