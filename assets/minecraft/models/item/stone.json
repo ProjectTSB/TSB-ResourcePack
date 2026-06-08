@@ -56,48 +56,6 @@
             "predicate": {
                 "custom_model_data": 20055
             },
-            "model": "item/mob/stone/20055"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 20056
-            },
-            "model": "item/mob/stone/20056"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 20057
-            },
-            "model": "item/mob/stone/20057"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 20058
-            },
-            "model": "item/mob/stone/20058"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 20059
-            },
-            "model": "item/mob/stone/20059"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 20060
-            },
-            "model": "item/mob/stone/20060"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 20061
-            },
-            "model": "item/mob/stone/20061"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 20062
-            },
             "model": "item/stone"
         }
     ]
