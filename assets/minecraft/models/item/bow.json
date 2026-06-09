@@ -1,129 +1,129 @@
 {
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "item/bow"
-	},
-	"display": {
-		"thirdperson_righthand": {
-			"rotation": [
-				-80,
-				260,
-				-40
-			],
-			"translation": [
-				-1,
-				-2,
-				2.5
-			],
-			"scale": [
-				0.9,
-				0.9,
-				0.9
-			]
-		},
-		"thirdperson_lefthand": {
-			"rotation": [
-				-80,
-				-280,
-				40
-			],
-			"translation": [
-				-1,
-				-2,
-				2.5
-			],
-			"scale": [
-				0.9,
-				0.9,
-				0.9
-			]
-		},
-		"firstperson_righthand": {
-			"rotation": [
-				0,
-				-90,
-				25
-			],
-			"translation": [
-				1.13,
-				3.2,
-				1.13
-			],
-			"scale": [
-				0.68,
-				0.68,
-				0.68
-			]
-		},
-		"firstperson_lefthand": {
-			"rotation": [
-				0,
-				90,
-				-25
-			],
-			"translation": [
-				1.13,
-				3.2,
-				1.13
-			],
-			"scale": [
-				0.68,
-				0.68,
-				0.68
-			]
-		}
-	},
-	"overrides": [
-		{
-			"predicate": {
-				"pulling": 1
-			},
-			"model": "item/bow_pulling_0"
-		},
-		{
-			"predicate": {
-				"pulling": 1,
-				"pull": 0.58
-			},
-			"model": "item/bow_pulling_1"
-		},
-		{
-			"predicate": {
-				"pulling": 1,
-				"pull": 1
-			},
-			"model": "item/bow_pulling_2"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 248
-			},
-			"model": "item/artifact/bow/248/bow"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 248,
-				"pulling": 1
-			},
-			"model": "item/artifact/bow/248/bow_pulling_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 248,
-				"pulling": 1,
-				"pull": 0.58
-			},
-			"model": "item/artifact/bow/248/bow_pulling_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 248,
-				"pulling": 1,
-				"pull": 1
-			},
-			"model": "item/artifact/bow/248/bow_pulling_2"
-		},
-		{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/bow"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [
+                -80,
+                260,
+                -40
+            ],
+            "translation": [
+                -1,
+                -2,
+                2.5
+            ],
+            "scale": [
+                0.9,
+                0.9,
+                0.9
+            ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [
+                -80,
+                -280,
+                40
+            ],
+            "translation": [
+                -1,
+                -2,
+                2.5
+            ],
+            "scale": [
+                0.9,
+                0.9,
+                0.9
+            ]
+        },
+        "firstperson_righthand": {
+            "rotation": [
+                0,
+                -90,
+                25
+            ],
+            "translation": [
+                1.13,
+                3.2,
+                1.13
+            ],
+            "scale": [
+                0.68,
+                0.68,
+                0.68
+            ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [
+                0,
+                90,
+                -25
+            ],
+            "translation": [
+                1.13,
+                3.2,
+                1.13
+            ],
+            "scale": [
+                0.68,
+                0.68,
+                0.68
+            ]
+        }
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "pulling": 1
+            },
+            "model": "item/bow_pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "item/bow_pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 1
+            },
+            "model": "item/bow_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 248
+            },
+            "model": "item/artifact/bow/248/bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 248,
+                "pulling": 1
+            },
+            "model": "item/artifact/bow/248/bow_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 248,
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "item/artifact/bow/248/bow_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 248,
+                "pulling": 1,
+                "pull": 1
+            },
+            "model": "item/artifact/bow/248/bow_pulling_2"
+        },
+        {
             "predicate": {
                 "custom_model_data": 249
             },
@@ -182,35 +182,35 @@
             "model": "item/artifact/bow/250/bow_pulling_2"
         },
         {
-             "predicate": {
-                 "custom_model_data": 251
-             },
-             "model": "item/bow"
+            "predicate": {
+                "custom_model_data": 251
+            },
+            "model": "item/bow"
         },
         {
-             "predicate": {
-                 "custom_model_data": 251,
-                 "pulling": 1
-             },
-             "model": "item/bow_pulling_0"
+            "predicate": {
+                "custom_model_data": 251,
+                "pulling": 1
+            },
+            "model": "item/bow_pulling_0"
         },
         {
-             "predicate": {
-                 "custom_model_data": 251,
-                 "pulling": 1,
-                 "pull": 0.58
-             },
-             "model": "item/bow_pulling_1"
+            "predicate": {
+                "custom_model_data": 251,
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "item/bow_pulling_1"
         },
         {
-             "predicate": {
-                 "custom_model_data": 251,
-                 "pulling": 1,
-                 "pull": 1
-             },
-             "model": "item/bow_pulling_2"
+            "predicate": {
+                "custom_model_data": 251,
+                "pulling": 1,
+                "pull": 1
+            },
+            "model": "item/bow_pulling_2"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 328
             },
@@ -239,7 +239,7 @@
             },
             "model": "item/artifact/bow/328/bow_pulling_2"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 329
             },
@@ -269,553 +269,611 @@
             "model": "item/artifact/bow/329/bow_pulling_2"
         },
         {
-             "predicate": {
-                 "custom_model_data": 330
-             },
-             "model": "item/bow"
+            "predicate": {
+                "custom_model_data": 330
+            },
+            "model": "item/bow"
         },
         {
-             "predicate": {
-                 "custom_model_data": 330,
-                 "pulling": 1
-             },
-             "model": "item/bow_pulling_0"
+            "predicate": {
+                "custom_model_data": 330,
+                "pulling": 1
+            },
+            "model": "item/bow_pulling_0"
         },
         {
-             "predicate": {
-                 "custom_model_data": 330,
-                 "pulling": 1,
-                 "pull": 0.58
-             },
-             "model": "item/bow_pulling_1"
+            "predicate": {
+                "custom_model_data": 330,
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "item/bow_pulling_1"
         },
         {
-             "predicate": {
-                 "custom_model_data": 330,
-                 "pulling": 1,
-                 "pull": 1
-             },
-             "model": "item/bow_pulling_2"
+            "predicate": {
+                "custom_model_data": 330,
+                "pulling": 1,
+                "pull": 1
+            },
+            "model": "item/bow_pulling_2"
         },
-		{
-			"predicate": {
-				"custom_model_data": 1061
-			},
-			"model": "item/artifact/bow/1061/bow"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1061,
-				"pulling": 1
-			},
-			"model": "item/artifact/bow/1061/bow_pulling_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1061,
-				"pulling": 1,
-				"pull": 0.58
-			},
-			"model": "item/artifact/bow/1061/bow_pulling_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1061,
-				"pulling": 1,
-				"pull": 1
-			},
-			"model": "item/artifact/bow/1061/bow_pulling_2"
-		},
-		{
-			 "predicate": {
-				 "custom_model_data": 1062
-			 },
-			 "model": "item/bow"
-		},
-		{
-			 "predicate": {
-				 "custom_model_data": 1062,
-				 "pulling": 1
-			 },
-			 "model": "item/bow_pulling_0"
-		},
-		{
-			 "predicate": {
-				 "custom_model_data": 1062,
-				 "pulling": 1,
-				 "pull": 0.58
-			 },
-			 "model": "item/bow_pulling_1"
-		},
-		{
-			 "predicate": {
-				 "custom_model_data": 1062,
-				 "pulling": 1,
-				 "pull": 1
-			 },
-			 "model": "item/bow_pulling_2"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1163
-			},
-			"model": "item/artifact/bow/1163/wait"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1163,
-				"pulling": 1
-			},
-			"model": "item/artifact/bow/1163/1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1163,
-				"pulling": 1,
-				"pull": 0.2
-			},
-			"model": "item/artifact/bow/1163/2"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1163,
-				"pulling": 1,
-				"pull": 0.3
-			},
-			"model": "item/artifact/bow/1163/3"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1163,
-				"pulling": 1,
-				"pull": 0.4
-			},
-			"model": "item/artifact/bow/1163/4"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1163,
-				"pulling": 1,
-				"pull": 0.5
-			},
-			"model": "item/artifact/bow/1163/5"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1163,
-				"pulling": 1,
-				"pull": 0.6
-			},
-			"model": "item/artifact/bow/1163/6"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1163,
-				"pulling": 1,
-				"pull": 0.7
-			},
-			"model": "item/artifact/bow/1163/7"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1163,
-				"pulling": 1,
-				"pull": 0.8
-			},
-			"model": "item/artifact/bow/1163/8"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1163,
-				"pulling": 1,
-				"pull": 0.9
-			},
-			"model": "item/artifact/bow/1163/9"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1163,
-				"pulling": 1,
-				"pull": 1
-			},
-			"model": "item/artifact/bow/1163/10"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1164
-			},
-			"model": "item/bow"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1164,
-				"pulling": 1
-			},
-			"model": "item/bow_pulling_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1164,
-				"pulling": 1,
-				"pull": 0.58
-			},
-			"model": "item/bow_pulling_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1164,
-				"pulling": 1,
-				"pull": 1
-			},
-			"model": "item/bow_pulling_2"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1177
-			},
-			"model": "item/artifact/bow/1177/bow"
-		 },
-		 {
-			"predicate": {
-				"custom_model_data": 1177,
-				"pulling": 1
-			},
-			"model": "item/artifact/bow/1177/bow_pulling_0"
-		 },
-		 {
-			"predicate": {
-				"custom_model_data": 1177,
-				"pulling": 1,
-				"pull": 0.58
-			},
-			"model": "item/artifact/bow/1177/bow_pulling_1"
-		 },
-		 {
-			"predicate": {
-				"custom_model_data": 1177,
-				"pulling": 1,
-				"pull": 1
-			},
-			"model": "item/artifact/bow/1177/bow_pulling_2"
-		 },
-		 {
-			 "predicate": {
-				 "custom_model_data": 1178
-			 },
-			 "model": "item/bow"
-		 },
-		 {
-			 "predicate": {
-				 "custom_model_data": 1178,
-				 "pulling": 1
-			 },
-			 "model": "item/bow_pulling_0"
-		 },
-		 {
-			 "predicate": {
-				 "custom_model_data": 1178,
-				 "pulling": 1,
-				 "pull": 0.58
-			 },
-			 "model": "item/bow_pulling_1"
-		 },
-		 {
-			 "predicate": {
-				 "custom_model_data": 1178,
-				 "pulling": 1,
-				 "pull": 1
-			 },
-			 "model": "item/bow_pulling_2"
-		 },
-		 {
-			"predicate": {
-				"custom_model_data": 1217
-			},
-			"model": "item/artifact/bow/1217/bow"
-		 },
-		 {
-			"predicate": {
-				"custom_model_data": 1217,
-				"pulling": 1
-			},
-			"model": "item/artifact/bow/1217/bow_pulling_0"
-		 },
-		 {
-			"predicate": {
-				"custom_model_data": 1217,
-				"pulling": 1,
-				"pull": 0.58
-			},
-			"model": "item/artifact/bow/1217/bow_pulling_1"
-		 },
-		 {
-			"predicate": {
-				"custom_model_data": 1217,
-				"pulling": 1,
-				"pull": 1
-			},
-			"model": "item/artifact/bow/1217/bow_pulling_2"
-		 },
-		 {
-			"predicate": {
-				"custom_model_data": 1218
-			},
-			"model": "item/bow"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1218,
-				"pulling": 1
-			},
-			"model": "item/bow_pulling_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1218,
-				"pulling": 1,
-				"pull": 0.58
-			},
-			"model": "item/bow_pulling_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1218,
-				"pulling": 1,
-				"pull": 1
-			},
-			"model": "item/bow_pulling_2"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1253
-			},
-			"model": "item/artifact/bow/1253/bow"
-		 },
-		 {
-			"predicate": {
-				"custom_model_data": 1253,
-				"pulling": 1
-			},
-			"model": "item/artifact/bow/1253/bow_pulling_0"
-		 },
-		 {
-			"predicate": {
-				"custom_model_data": 1253,
-				"pulling": 1,
-				"pull": 0.58
-			},
-			"model": "item/artifact/bow/1253/bow_pulling_1"
-		 },
-		 {
-			"predicate": {
-				"custom_model_data": 1253,
-				"pulling": 1,
-				"pull": 1
-			},
-			"model": "item/artifact/bow/1253/bow_pulling_2"
-		 },
-		 {
-			"predicate": {
-				"custom_model_data": 1254
-			},
-			"model": "item/bow"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1254,
-				"pulling": 1
-			},
-			"model": "item/bow_pulling_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1254,
-				"pulling": 1,
-				"pull": 0.58
-			},
-			"model": "item/bow_pulling_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1254,
-				"pulling": 1,
-				"pull": 1
-			},
-			"model": "item/bow_pulling_2"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1262
-			},
-			"model": "item/artifact/bow/1262/1"
-		 },
-		 {
-			"predicate": {
-				"custom_model_data": 1262,
-				"pulling": 1
-			},
-			"model": "item/artifact/bow/1262/2"
-		 },
-		 {
-			"predicate": {
-				"custom_model_data": 1262,
-				"pulling": 1,
-				"pull": 0.58
-			},
-			"model": "item/artifact/bow/1262/3"
-		 },
-		 {
-			"predicate": {
-				"custom_model_data": 1262,
-				"pulling": 1,
-				"pull": 1
-			},
-			"model": "item/artifact/bow/1262/4"
-		 },
-		 {
-			"predicate": {
-				"custom_model_data": 1263
-			},
-			"model": "item/bow"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1263,
-				"pulling": 1
-			},
-			"model": "item/bow_pulling_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1263,
-				"pulling": 1,
-				"pull": 0.58
-			},
-			"model": "item/bow_pulling_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1263,
-				"pulling": 1,
-				"pull": 1
-			},
-			"model": "item/bow_pulling_2"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 20186
-			},
-			"model": "item/mob/bow/20186/1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 20186,
-				"pulling": 1
-			},
-			"model": "item/mob/bow/20186/2"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 20186,
-				"pulling": 1,
-				"pull": 0.58
-			},
-			"model": "item/mob/bow/20186/3"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 20186,
-				"pulling": 1,
-				"pull": 1
-			},
-			"model": "item/mob/bow/20186/4"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 20187
-			},
-			"model": "item/bow"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 20187,
-				"pulling": 1
-			},
-			"model": "item/bow_pulling_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 20187,
-				"pulling": 1,
-				"pull": 0.58
-			},
-			"model": "item/bow_pulling_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 20187,
-				"pulling": 1,
-				"pull": 1
-			},
-			"model": "item/bow_pulling_2"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 20188
-			},
-			"model": "item/mob/bow/20188/1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 20188,
-				"pulling": 1
-			},
-			"model": "item/mob/bow/20188/2"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 20188,
-				"pulling": 1,
-				"pull": 0.58
-			},
-			"model": "item/mob/bow/20188/3"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 20188,
-				"pulling": 1,
-				"pull": 1
-			},
-			"model": "item/mob/bow/20188/4"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 20189
-			},
-			"model": "item/bow"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 20189,
-				"pulling": 1
-			},
-			"model": "item/bow_pulling_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 20189,
-				"pulling": 1,
-				"pull": 0.58
-			},
-			"model": "item/bow_pulling_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 20189,
-				"pulling": 1,
-				"pull": 1
-			},
-			"model": "item/bow_pulling_2"
-		}
-	]
+        {
+            "predicate": {
+                "custom_model_data": 1061
+            },
+            "model": "item/artifact/bow/1061/bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1061,
+                "pulling": 1
+            },
+            "model": "item/artifact/bow/1061/bow_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1061,
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "item/artifact/bow/1061/bow_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1061,
+                "pulling": 1,
+                "pull": 1
+            },
+            "model": "item/artifact/bow/1061/bow_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1062
+            },
+            "model": "item/bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1062,
+                "pulling": 1
+            },
+            "model": "item/bow_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1062,
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "item/bow_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1062,
+                "pulling": 1,
+                "pull": 1
+            },
+            "model": "item/bow_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1163
+            },
+            "model": "item/artifact/bow/1163/wait"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1163,
+                "pulling": 1
+            },
+            "model": "item/artifact/bow/1163/1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1163,
+                "pulling": 1,
+                "pull": 0.2
+            },
+            "model": "item/artifact/bow/1163/2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1163,
+                "pulling": 1,
+                "pull": 0.3
+            },
+            "model": "item/artifact/bow/1163/3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1163,
+                "pulling": 1,
+                "pull": 0.4
+            },
+            "model": "item/artifact/bow/1163/4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1163,
+                "pulling": 1,
+                "pull": 0.5
+            },
+            "model": "item/artifact/bow/1163/5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1163,
+                "pulling": 1,
+                "pull": 0.6
+            },
+            "model": "item/artifact/bow/1163/6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1163,
+                "pulling": 1,
+                "pull": 0.7
+            },
+            "model": "item/artifact/bow/1163/7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1163,
+                "pulling": 1,
+                "pull": 0.8
+            },
+            "model": "item/artifact/bow/1163/8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1163,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "item/artifact/bow/1163/9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1163,
+                "pulling": 1,
+                "pull": 1
+            },
+            "model": "item/artifact/bow/1163/10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1164
+            },
+            "model": "item/bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1164,
+                "pulling": 1
+            },
+            "model": "item/bow_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1164,
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "item/bow_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1164,
+                "pulling": 1,
+                "pull": 1
+            },
+            "model": "item/bow_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1177
+            },
+            "model": "item/artifact/bow/1177/bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1177,
+                "pulling": 1
+            },
+            "model": "item/artifact/bow/1177/bow_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1177,
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "item/artifact/bow/1177/bow_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1177,
+                "pulling": 1,
+                "pull": 1
+            },
+            "model": "item/artifact/bow/1177/bow_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1178
+            },
+            "model": "item/bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1178,
+                "pulling": 1
+            },
+            "model": "item/bow_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1178,
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "item/bow_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1178,
+                "pulling": 1,
+                "pull": 1
+            },
+            "model": "item/bow_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1217
+            },
+            "model": "item/artifact/bow/1217/bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1217,
+                "pulling": 1
+            },
+            "model": "item/artifact/bow/1217/bow_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1217,
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "item/artifact/bow/1217/bow_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1217,
+                "pulling": 1,
+                "pull": 1
+            },
+            "model": "item/artifact/bow/1217/bow_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1218
+            },
+            "model": "item/bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1218,
+                "pulling": 1
+            },
+            "model": "item/bow_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1218,
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "item/bow_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1218,
+                "pulling": 1,
+                "pull": 1
+            },
+            "model": "item/bow_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1253
+            },
+            "model": "item/artifact/bow/1253/bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1253,
+                "pulling": 1
+            },
+            "model": "item/artifact/bow/1253/bow_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1253,
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "item/artifact/bow/1253/bow_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1253,
+                "pulling": 1,
+                "pull": 1
+            },
+            "model": "item/artifact/bow/1253/bow_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1254
+            },
+            "model": "item/bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1254,
+                "pulling": 1
+            },
+            "model": "item/bow_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1254,
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "item/bow_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1254,
+                "pulling": 1,
+                "pull": 1
+            },
+            "model": "item/bow_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1262
+            },
+            "model": "item/artifact/bow/1262/1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1262,
+                "pulling": 1
+            },
+            "model": "item/artifact/bow/1262/2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1262,
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "item/artifact/bow/1262/3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1262,
+                "pulling": 1,
+                "pull": 1
+            },
+            "model": "item/artifact/bow/1262/4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1263
+            },
+            "model": "item/bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1453
+            },
+            "model": "item/artifact/bow/1453/1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1453,
+                "pulling": 1
+            },
+            "model": "item/artifact/bow/1453/2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1453,
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "item/artifact/bow/1453/3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1453,
+                "pulling": 1,
+                "pull": 1
+            },
+            "model": "item/artifact/bow/1453/4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1454
+            },
+            "model": "item/bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1454,
+                "pulling": 1
+            },
+            "model": "item/bow_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1454,
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "item/bow_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1454,
+                "pulling": 1,
+                "pull": 1
+            },
+            "model": "item/bow_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1263,
+                "pulling": 1
+            },
+            "model": "item/bow_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1263,
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "item/bow_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1263,
+                "pulling": 1,
+                "pull": 1
+            },
+            "model": "item/bow_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20186
+            },
+            "model": "item/mob/bow/20186/1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20186,
+                "pulling": 1
+            },
+            "model": "item/mob/bow/20186/2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20186,
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "item/mob/bow/20186/3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20186,
+                "pulling": 1,
+                "pull": 1
+            },
+            "model": "item/mob/bow/20186/4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20187
+            },
+            "model": "item/bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20187,
+                "pulling": 1
+            },
+            "model": "item/bow_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20187,
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "item/bow_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20187,
+                "pulling": 1,
+                "pull": 1
+            },
+            "model": "item/bow_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20188
+            },
+            "model": "item/mob/bow/20188/1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20188,
+                "pulling": 1
+            },
+            "model": "item/mob/bow/20188/2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20188,
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "item/mob/bow/20188/3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20188,
+                "pulling": 1,
+                "pull": 1
+            },
+            "model": "item/mob/bow/20188/4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20189
+            },
+            "model": "item/bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20189,
+                "pulling": 1
+            },
+            "model": "item/bow_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20189,
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "item/bow_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20189,
+                "pulling": 1,
+                "pull": 1
+            },
+            "model": "item/bow_pulling_2"
+        }
+    ]
 }
