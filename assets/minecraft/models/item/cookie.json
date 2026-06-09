@@ -26,6 +26,12 @@
             "predicate": {
                 "custom_model_data": 1365
             },
+            "model": "item/artifact/cookie/1365"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1366
+            },
             "model": "item/cookie"
         }
     ]
