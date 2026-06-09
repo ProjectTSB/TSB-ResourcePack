@@ -15,6 +15,18 @@
                 "custom_model_data": 1118
             },
             "model": "item/cookie"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1364
+            },
+            "model": "item/artifact/cookie/1364"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1365
+            },
+            "model": "item/cookie"
         }
     ]
 }
