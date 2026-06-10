@@ -4,8 +4,8 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"leaf": "item/other/stick/20621/leaf",
-		"flower": "item/other/stick/20621/flower",
-		"particle": "item/other/stick/20621/flower"
+		"particle": "item/other/stick/20621/flower",
+		"flower": "item/other/stick/20621/flower"
 	},
 	"elements": [
 		{
@@ -168,7 +168,7 @@
 	"display": {
 		"head": {
 			"translation": [0, -29, 0],
-			"scale": [2.5, 2.5, 2.5]
+			"scale": [2.07, 2.07, 2.07]
 		}
 	},
 	"groups": [
