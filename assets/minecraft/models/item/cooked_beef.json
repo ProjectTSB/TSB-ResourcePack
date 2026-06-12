@@ -6,6 +6,18 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 245
+            },
+            "model": "item/artifact/cooked_beef/245"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 246
+            },
+            "model": "item/cooked_beef"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 454
             },
             "model": "item/artifact/cooked_beef/454"

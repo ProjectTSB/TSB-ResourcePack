@@ -6,6 +6,18 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 108
+            },
+            "model": "item/artifact/ender_eye/108"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 109
+            },
+            "model": "item/ender_eye"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 224
             },
             "model": "item/artifact/ender_eye/224"
