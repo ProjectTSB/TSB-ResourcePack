@@ -1,0 +1,108 @@
+{
+	"textures": {
+		"0": "animated_java:blueprint/sharkboss/a",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [4, 2, 6],
+			"to": [12, 3, 10],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 8, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [5, 7.75, 7, 8],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [4, 7.75, 5, 8],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [8, 7.75, 10, 8],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [7, 7.75, 8, 8],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [9, 5, 7, 4],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [9, 4, 7, 5],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [4, 3, 6],
+			"to": [12, 9, 10],
+			"faces": {
+				"north": {
+					"uv": [5, 6.5, 7, 8],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [4, 6.5, 5, 8],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [8, 6.5, 10, 8],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [7, 6.5, 8, 8],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [15.5, 7, 13.5, 8],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [9, 4, 7, 5],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [3.75, 2.75, 5.75],
+			"to": [12.25, 9, 10.25],
+			"faces": {
+				"north": {
+					"uv": [5, 10.5, 7, 12],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [4, 10.5, 5, 12],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [8, 10.5, 10, 12],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [7, 10.5, 8, 12],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [7, 9, 5, 8],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [9, 8, 7, 9],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}
