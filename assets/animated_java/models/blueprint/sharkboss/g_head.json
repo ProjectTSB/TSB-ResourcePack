@@ -1,0 +1,119 @@
+{
+	"textures": {
+		"0": "animated_java:blueprint/sharkboss/a",
+		"6": "animated_java:blueprint/sharkboss/g",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [3.5, 7.5, 3.5],
+			"to": [12.5, 16.5, 12.5],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, -16, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [10, 2, 12, 4],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [8, 2, 10, 4],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [14, 2, 16, 4],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [12, 2, 14, 4],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [12, 2, 10, 0],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [14, 0, 12, 2],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [4, 8, 4],
+			"to": [12, 16, 12],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, -16, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [2, 2, 4, 4],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [0, 2, 2, 4],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [6, 2, 8, 4],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [4, 2, 6, 4],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [4, 2, 2, 0],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [6, 0, 4, 2],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [3.5, 6.4, 3.5],
+			"to": [12.5, 7.5, 3.5],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 8, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 8, 1],
+					"texture": "#6"
+				},
+				"east": {
+					"uv": [0, 0, 0, 1],
+					"texture": "#6"
+				},
+				"south": {
+					"uv": [0, 1, 8, 2],
+					"texture": "#6"
+				},
+				"west": {
+					"uv": [0, 0, 0, 1],
+					"texture": "#6"
+				},
+				"up": {
+					"uv": [8, 0, 0, 0],
+					"texture": "#6"
+				},
+				"down": {
+					"uv": [8, 0, 0, 0],
+					"texture": "#6"
+				}
+			}
+		}
+	]
+}

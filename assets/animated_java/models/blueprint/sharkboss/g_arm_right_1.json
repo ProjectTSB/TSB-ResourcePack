@@ -1,0 +1,137 @@
+{
+	"textures": {
+		"0": "animated_java:blueprint/sharkboss/a",
+		"3": "animated_java:blueprint/sharkboss/d",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [8, 8, 6],
+			"to": [14, 11, 10],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [-2, -13, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [11, 6.5, 11.75, 8],
+					"rotation": 90,
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [12.5, 4, 11.75, 5],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [12.75, 6.5, 13.5, 8],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [12.75, 6.5, 13.5, 6.75],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [10, 6.5, 11, 8],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [11.75, 6.5, 12.75, 8],
+					"rotation": 270,
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [8.25, 7.75, 5.75],
+			"to": [14.25, 11.25, 10.25],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [-2, -13, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [11, 10.5, 11.75, 12],
+					"rotation": 90,
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [12.5, 8, 11.75, 9],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [12.75, 10.5, 13.5, 12],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [11.75, 9, 11, 8],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [10, 10.5, 11, 12],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [11.75, 10.5, 12.75, 12],
+					"rotation": 270,
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [10, 11, 8],
+			"to": [12, 13, 8],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [7, 1, 9]
+			},
+			"faces": {
+				"north": {
+					"uv": [2, 0, 4, 2],
+					"rotation": 90,
+					"texture": "#3"
+				},
+				"east": {
+					"uv": [2, 0, 0, 0],
+					"rotation": 270,
+					"texture": "#3"
+				},
+				"south": {
+					"uv": [2, 0, 4, 2],
+					"rotation": 180,
+					"texture": "#3"
+				},
+				"west": {
+					"uv": [2, 0, 0, 0],
+					"rotation": 270,
+					"texture": "#3"
+				},
+				"up": {
+					"uv": [0, 0, 0, 2],
+					"rotation": 270,
+					"texture": "#3"
+				},
+				"down": {
+					"uv": [0, 0, 0, 2],
+					"rotation": 270,
+					"texture": "#3"
+				}
+			}
+		}
+	]
+}

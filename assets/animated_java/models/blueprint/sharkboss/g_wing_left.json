@@ -1,0 +1,48 @@
+{
+	"textures": {
+		"15": "animated_java:blueprint/sharkboss/p",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [8, 5, 8],
+			"to": [8, 9, 15],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [3, 8, 6]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 0, 4],
+					"texture": "#15"
+				},
+				"east": {
+					"uv": [7, 4, 0, 8],
+					"texture": "#15"
+				},
+				"south": {
+					"uv": [0, 0, 0, 4],
+					"texture": "#15"
+				},
+				"west": {
+					"uv": [0, 4, 7, 8],
+					"texture": "#15"
+				},
+				"up": {
+					"uv": [0, 7, 0, 0],
+					"texture": "#15"
+				},
+				"down": {
+					"uv": [0, 0, 0, 7],
+					"texture": "#15"
+				}
+			}
+		}
+	]
+}
