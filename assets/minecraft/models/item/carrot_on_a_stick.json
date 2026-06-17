@@ -1488,6 +1488,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 1128
+            },
+            "model": "item/artifact/carrot_on_a_stick/1128"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 1142
             },
             "model": "item/artifact/carrot_on_a_stick/1142"
