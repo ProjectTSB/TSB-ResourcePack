@@ -15,6 +15,12 @@
                 "custom_model_data": 1117
             },
             "model": "item/bread"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1562
+            },
+            "model": "item/artifact/bread/1562"
         }
     ]
 }
