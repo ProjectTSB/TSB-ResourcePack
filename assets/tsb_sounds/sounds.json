@@ -5,5 +5,6 @@
   "blaster2":        {"sounds": ["tsb_sounds:laser/blaster2"]},
   "launcher_shot":        {"sounds": ["tsb_sounds:gun/launcher"]},
   "rifle_shot":        {"sounds": ["tsb_sounds:gun/rifle_shot"]},
-  "censored":        {"sounds": ["tsb_sounds:other/censored"]}
+  "censored":        {"sounds": ["tsb_sounds:other/censored"]},
+  "ice1":        {"sounds": ["tsb_sounds:other/ice1"]}
 }
