@@ -6,5 +6,7 @@
   "launcher_shot":        {"sounds": ["tsb_sounds:gun/launcher"]},
   "rifle_shot":        {"sounds": ["tsb_sounds:gun/rifle_shot"]},
   "censored":        {"sounds": ["tsb_sounds:other/censored"]},
-  "ice1":        {"sounds": ["tsb_sounds:other/ice1"]}
+  "ice1":        {"sounds": ["tsb_sounds:other/leinel_ice1"]},
+  "fire1":        {"sounds": ["tsb_sounds:other/leinel_fire1"]},
+  "electric1":        {"sounds": ["tsb_sounds:other/leinel_electric1"]}
 }
