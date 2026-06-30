@@ -1,0 +1,29 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/artifact/ender_eye/1563"
+    },
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [60, 90, 0],
+			"translation": [-0.5, -1.5, 2.0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, -50],
+			"translation": [-0.5, -1.5, 2.0]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [6.25, -1.75, -2.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -90, 0],
+			"translation": [6.25, -1.75, -2.5]
+		},
+		"ground": {
+			"rotation": [-180, 0, 21],
+			"translation": [0, 2, 0],
+			"scale":[ 0.5, 0.5, 0.5 ]
+		}
+	}
+}
