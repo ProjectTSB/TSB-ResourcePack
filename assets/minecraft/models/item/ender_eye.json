@@ -180,6 +180,18 @@
         },
         {
             "predicate": {
+                "custom_model_data": 1465
+            },
+            "model": "item/artifact/ender_eye/1465"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1466
+            },
+            "model": "item/ender_eye"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 1563
             },
             "model": "item/artifact/ender_eye/1563"
