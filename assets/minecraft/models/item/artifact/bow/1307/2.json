@@ -1,7 +1,7 @@
 {
-	"parent":"item/artifact/bow/1307/1",
 	"format_version": "1.9.0",
 	"credit": "Made with Blockbench",
+	"parent": "item/artifact/bow/1307/1",
 	"elements": [
 		{
 			"from": [7.33133, 14.05433, 0.76769],
@@ -1048,6 +1048,12 @@
 			}
 		}
 	],
+	"display": {
+		"thirdperson_lefthand": {
+			"translation": [0, -2.25, 1],
+			"scale": [0.7, 0.7, 0.7]
+		}
+	},
 	"groups": [
 		{
 			"name": "bow_pulling_1",

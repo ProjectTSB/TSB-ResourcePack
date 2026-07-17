@@ -1,5 +1,5 @@
 {
-	"parent": "item/artifact/bow/1307/1",
+	"parent": "item/artifact/bow/1307/2",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"7": "item/artifact/bow/1307",
