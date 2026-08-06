@@ -45,6 +45,18 @@
                 "custom_model_data": 1361
             },
             "model": "item/honey_bottle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370
+            },
+            "model": "item/artifact/honey_bottle/1370"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1371
+            },
+            "model": "item/honey_bottle"
         }
     ]
 }
