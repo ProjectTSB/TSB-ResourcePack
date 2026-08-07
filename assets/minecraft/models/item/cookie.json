@@ -6,6 +6,18 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 185
+            },
+            "model": "item/artifact/cookie/185"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 186
+            },
+            "model": "item/cookie"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 1117
             },
             "model": "item/artifact/cookie/1117"
