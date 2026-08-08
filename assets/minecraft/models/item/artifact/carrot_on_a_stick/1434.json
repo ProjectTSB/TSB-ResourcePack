@@ -1,0 +1,28 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/artifact/carrot_on_a_stick/1434"
+    },
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [0, -90, 25],
+			"translation": [0, 3.2, 0],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, -25],
+			"translation": [0, 3.2, 0],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 35],
+			"translation": [0, 2, 0],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -35],
+			"translation": [0, 2, 0],
+			"scale": [0.55, 0.55, 0.55]
+		}
+	}
+}
