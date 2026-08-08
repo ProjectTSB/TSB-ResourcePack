@@ -15,6 +15,18 @@
                 "custom_model_data": 106
             },
             "model": "item/rotten_flesh"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 272
+            },
+            "model": "item/artifact/rotten_flesh/272"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 273
+            },
+            "model": "item/rotten_flesh"
         }
     ]
 }
