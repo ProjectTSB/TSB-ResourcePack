@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/artifact/carrot_on_a_stick/822.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": [
+                "0"
+            ]
+        }
+    ]
+}
