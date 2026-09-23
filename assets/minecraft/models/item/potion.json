@@ -7,6 +7,18 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "item/artifact/potion/15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/artifact/potion/16"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 135
             },
             "model": "item/artifact/potion/135"

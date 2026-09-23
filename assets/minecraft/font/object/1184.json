@@ -1,0 +1,48 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/object/1184/0.png",
+            "ascent": 64,
+            "height": 64,
+            "chars": [
+                "0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/object/1184/1.png",
+            "ascent": 64,
+            "height": 64,
+            "chars": [
+                "1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/object/1184/2.png",
+            "ascent": 64,
+            "height": 64,
+            "chars": [
+                "2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/object/1184/3.png",
+            "ascent": 64,
+            "height": 64,
+            "chars": [
+                "3"
+            ]
+        },{
+            "type": "bitmap",
+            "file": "minecraft:font/object/1184/4.png",
+            "ascent": 64,
+            "height": 64,
+            "chars": [
+                "4"
+            ]
+        }
+    ]
+}

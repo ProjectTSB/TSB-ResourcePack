@@ -6,6 +6,18 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 349
+            },
+            "model": "item/artifact/golden_pickaxe/349"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 350
+            },
+            "model": "item/golden_pickaxe"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 1084
             },
             "model": "item/artifact/golden_pickaxe/1084"
