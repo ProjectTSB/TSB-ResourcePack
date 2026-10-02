@@ -1,0 +1,28 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/artifact/stick/1626"
+    },
+    "display": {
+        "firstperson_righthand": {
+            "scale": [1.5, 1.5, 1.5],
+            "rotation": [0.0, -90.0, 0.0],
+            "translation": [0.0, 2.75, 0.0]
+        },
+        "firstperson_lefthand": {
+            "scale": [1.5, 1.5, 1.5],
+            "rotation": [0.0, -90.0, 0.0],
+            "translation": [0.0, 2.75, 0.0]
+        },
+        "thirdperson_righthand": {
+            "scale": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "translation": [0.0, 2.75, 0.0]
+        },
+        "thirdperson_lefthand": {
+            "scale": [1.0, 1.0, 1.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "translation": [0.0, 2.75, 0.0]
+        }
+    }
+}
