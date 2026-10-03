@@ -1,0 +1,112 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/object/1194/0.png",
+            "ascent": 64,
+            "height": 64,
+            "chars": [
+                "0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/object/1194/1.png",
+            "ascent": 64,
+            "height": 64,
+            "chars": [
+                "1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/object/1194/2.png",
+            "ascent": 64,
+            "height": 64,
+            "chars": [
+                "2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/object/1194/3.png",
+            "ascent": 64,
+            "height": 64,
+            "chars": [
+                "3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/object/1194/4.png",
+            "ascent": 64,
+            "height": 64,
+            "chars": [
+                "4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/object/1194/5.png",
+            "ascent": 64,
+            "height": 64,
+            "chars": [
+                "5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/object/1194/6.png",
+            "ascent": 64,
+            "height": 64,
+            "chars": [
+                "6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/object/1194/7.png",
+            "ascent": 64,
+            "height": 64,
+            "chars": [
+                "7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/object/1194/8.png",
+            "ascent": 64,
+            "height": 64,
+            "chars": [
+                "8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/object/1194/9.png",
+            "ascent": 64,
+            "height": 64,
+            "chars": [
+                "9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/object/1194/a.png",
+            "ascent": 64,
+            "height": 64,
+            "chars": [
+                "a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/object/1194/b.png",
+            "ascent": 64,
+            "height": 64,
+            "chars": [
+                "b"
+            ]
+        }
+    ]
+}
