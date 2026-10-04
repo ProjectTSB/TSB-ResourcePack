@@ -35,10 +35,10 @@ for(const y of data.offsets)for(const mode of ['default','uniform']){
    const width=gs.get(c).advance+Number(bold);
    assert.equal(width+backStyle.get(c).advance,0);
    assert.equal(lines.get(c).advance+lines.get('\ue302').advance,width);
-   assert.equal(lines.get(c).ascent,-1-y);
+   assert.equal(lines.get(c).ascent,-y);
   }
  }
- assert.equal(gs.get('耐').ascent,7-y);
+ for(const c of data.characters)if(c!==' ')assert.equal(gs.get(c).ascent,8-y);
 }
 for(const mode of ['default','uniform']){
  const g=glyphs(mode);

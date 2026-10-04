@@ -1,1 +1,1 @@
-{"providers":[{"type":"space","advances":{" ":4}},{"type":"bitmap","file":"minecraft:font/effect_flytext/default_8_8_8_7.png","height":8,"ascent":-216,"chars":["-.CD“”†"]},{"type":"reference","id":"minecraft:effect/flytext/name/common/223"}]}
+{"providers":[{"type":"space","advances":{" ":4}},{"type":"bitmap","file":"minecraft:font/effect_flytext/default_8_8_8_7.png","height":8,"ascent":-215,"chars":["-.CD“”†"]},{"type":"reference","id":"minecraft:effect/flytext/name/common/223"}]}

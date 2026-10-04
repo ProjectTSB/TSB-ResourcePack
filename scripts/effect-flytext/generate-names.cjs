@@ -114,9 +114,9 @@ const common=sheets('common',shared,glyphs);
 const variants={default:sheets('default',different,normal),uniform:sheets('uniform',different,glyphs)};
 const write=(name,data)=>fs.writeFileSync(path.join(out,name+'.json'),JSON.stringify(data)+'\n');
 for (const y of offsets) {
-  write(`common/${y}`,{providers:common.map(p=>({...p,ascent:p.ascent-y}))});
+  write(`common/${y}`,{providers:common.map(p=>({...p,ascent:p.ascent-y+1}))});
   for (const mode of ['default','uniform']) {
-    write(`${mode}/${y}`,{providers:[{type:'space',advances:{' ':4}},...variants[mode].map(p=>({...p,ascent:p.ascent-y})),{type:'reference',id:`minecraft:effect/flytext/name/common/${y}`}]});
+    write(`${mode}/${y}`,{providers:[{type:'space',advances:{' ':4}},...variants[mode].map(p=>({...p,ascent:p.ascent-y+1})),{type:'reference',id:`minecraft:effect/flytext/name/common/${y}`}]});
   }
 }
 for (const mode of ['default','uniform']) write(`${mode}/space`,{providers:[{type:'space',advances:Object.fromEntries(Object.entries(advances[mode]).map(([c,w])=>[c,-w]))}]});
@@ -141,7 +141,7 @@ for (const mode of ['default','uniform']) {
       fs.writeFileSync(path.join(textures,file),PNG.sync.write(png));bytesPerOffset+=png.data.length;
       providers.push({type:'bitmap',file:`minecraft:font/effect_flytext/${file}`,height:1,ascent:-1,chars});
     }
-    for(const y of offsets)write(`${kind}/${y}`,{providers:[{type:'space',advances:{'\ue302':-2}},...providers.map(p=>({...p,ascent:p.ascent-y}))]});
+    for(const y of offsets)write(`${kind}/${y}`,{providers:[{type:'space',advances:{'\ue302':-2}},...providers.map(p=>({...p,ascent:p.ascent-y+1}))]});
     for(const file of fs.readdirSync(path.join(out,kind)))if(/^\d+\.json$/.test(file)&&!offsets.includes(parseInt(file)))fs.unlinkSync(path.join(out,kind,file));
   }
 }
