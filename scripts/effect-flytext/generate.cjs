@@ -5,30 +5,40 @@ const corePack = process.argv[2];
 if (!corePack) throw Error('Usage: node generate.cjs <TheSkyBlessing datapack directory>');
 const assets = path.resolve(__dirname, '../../assets/minecraft');
 const providers = JSON.parse(fs.readFileSync(path.join(assets, 'font/effect/inline/icon.json'))).providers;
+const common = JSON.parse(fs.readFileSync(path.join(assets, 'font/effect/inline/common.json'))).providers;
 const output = path.join(assets, 'font/effect/flytext');
 fs.mkdirSync(output, {recursive:true});
 const advances = {};
 const icons = {};
 for (const provider of providers) {
   if (provider.type !== 'bitmap' || provider.chars.length !== 1 || [...provider.chars[0]].length !== 1) throw Error('Expected one bitmap per effect icon');
-  const glyph = provider.chars[0];
-  if (Object.hasOwn(advances, glyph)) continue;
-  const code = glyph.codePointAt(0).toString(16).padStart(4, '0');
+  const code = provider.chars[0].codePointAt(0).toString(16).padStart(4, '0');
   if (!/^\d{4}$/.test(code)) throw Error(`Expected decimal effect ID encoded in Unicode: ${code}`);
+  icons[Number(code)] = {Icon:code,Age:0};
+}
+// Return each glyph to its origin, including the multi-cell level and stack sheets.
+for (const provider of [...providers, ...common]) {
   const file = path.resolve(__dirname, '../../assets', provider.file.replace(':','/textures/'));
   const image = PNG.sync.read(fs.readFileSync(file));
-  let ink = 0;
-  for (let x = image.width-1; x >= 0 && !ink; x--) {
-    for (let y = 0; y < image.height; y++) if (image.data[(y*image.width+x)*4+3]) { ink=x+1; break; }
+  const rows = provider.chars.map(row => [...row]);
+  const cellWidth = image.width / rows[0].length;
+  const cellHeight = image.height / rows.length;
+  for (let row = 0; row < rows.length; row++) for (let column = 0; column < rows[row].length; column++) {
+    const glyph = rows[row][column];
+    if (Object.hasOwn(advances, glyph)) continue;
+    let ink = 0;
+    for (let x = cellWidth - 1; x >= 0 && !ink; x--) {
+      for (let y = 0; y < cellHeight; y++) {
+        if (image.data[((row * cellHeight + y) * image.width + column * cellWidth + x) * 4 + 3]) { ink = x + 1; break; }
+      }
+    }
+    // Match BitmapProvider rounding while preserving the source display height.
+    advances[glyph] = -(Math.floor(Math.fround(Math.fround(ink * Math.fround(provider.height / cellHeight)) + 0.5)) + 1);
   }
-  // Match BitmapProvider rounding at the 12-pixel display height.
-  const width = Math.floor(Math.fround(Math.fround(ink*Math.fround(12/image.height))+0.5))+1;
-  advances[glyph] = -width;
-  icons[Number(code)] = {Icon:code,Age:0};
 }
 // Forty ticks move 19 pixels; three older rows add at most 42 pixels.
 for (let frame = 0; frame < 62; frame++) {
-  const shifted = providers.map(p => ({...p, height:12, ascent:8-48-frame}));
+  const shifted = [...providers, ...common].map(p => ({...p, ascent:p.ascent-80-frame}));
   fs.writeFileSync(path.join(output, `${frame}.json`), JSON.stringify({providers:shifted})+'\n');
 }
 fs.writeFileSync(path.join(output, 'space.json'), JSON.stringify({providers:[{type:'space',advances}]})+'\n');
