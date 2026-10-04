@@ -38,7 +38,7 @@ for (const provider of [...providers, ...common]) {
 }
 // Forty ticks move 19 pixels; three older rows add at most 42 pixels.
 for (let frame = 0; frame < 62; frame++) {
-  const shifted = [...providers, ...common].map(p => ({...p, ascent:p.ascent-112-frame}));
+  const shifted = [...providers, ...common].map(p => ({...p, ascent:p.ascent-184-frame}));
   fs.writeFileSync(path.join(output, `${frame}.json`), JSON.stringify({providers:shifted})+'\n');
 }
 fs.writeFileSync(path.join(output, 'space.json'), JSON.stringify({providers:[{type:'space',advances}]})+'\n');
