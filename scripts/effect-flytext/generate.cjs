@@ -36,9 +36,9 @@ for (const provider of [...providers, ...common]) {
     advances[glyph] = -(Math.floor(Math.fround(Math.fround(ink * Math.fround(provider.height / cellHeight)) + 0.5)) + 1);
   }
 }
-// Start positions 48..160 plus 19 pixels of motion and three 14-pixel older rows.
-const minY = 48;
-const maxY = 160 + 19 + 3 * 14;
+// Start positions 88..269 plus 19 pixels of motion and three 14-pixel older rows.
+const minY = 88;
+const maxY = 269 + 19 + 3 * 14;
 for (const name of fs.readdirSync(output)) {
   if (/^\d+\.json$/.test(name) && (parseInt(name) < minY || parseInt(name) > maxY)) fs.unlinkSync(path.join(output, name));
 }
