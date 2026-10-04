@@ -6,7 +6,8 @@ if (!vanilla) throw new Error('Usage: node generate.cjs <extracted vanilla asset
 const output = path.resolve(__dirname, '../../assets/minecraft/font/bossbar');
 const source = JSON.parse(fs.readFileSync(path.join(output, 'vanilla.json')));
 const bitmaps = source.providers.filter(p => p.type === 'bitmap');
-for (const style of ['pink','blue','red','green','yellow','purple','white','notched_6','notched_10','notched_12','notched_20']) {
+const styles = ['pink','blue','red','green','yellow','purple','white','notched_6','notched_10','notched_12','notched_20'];
+for (const style of styles) {
   const advances = {'.':-1,'-':-91};
   const providers = bitmaps.map((p, i) => {
     const name = `${style}_${i === 0 ? 'background' : 'progress'}.png`;
@@ -30,3 +31,17 @@ for(let bit=0;bit<31;bit++) {
 advances[String.fromCodePoint(0xe040)] = 0.5;
 advances[String.fromCodePoint(0xe041)] = -0.5;
 fs.writeFileSync(path.join(output, 'space.json'),JSON.stringify({providers:[{type:'space',advances}]},null,2)+'\n');
+
+// Replace GUI sprites only; bitmap fonts still read the original vanilla textures.
+const assets = path.resolve(__dirname, '../../assets/minecraft');
+const transparent = new PNG({width:1, height:1});
+transparent.data.fill(0);
+fs.mkdirSync(path.join(assets, 'textures/gui'), {recursive:true});
+fs.writeFileSync(path.join(assets, 'textures/gui/bossbar_empty.png'), PNG.sync.write(transparent));
+const sources = styles.flatMap(style => ['background', 'progress'].map(part => ({
+  type:'single',
+  resource:'minecraft:gui/bossbar_empty',
+  sprite:`minecraft:boss_bar/${style}_${part}`,
+})));
+fs.mkdirSync(path.join(assets, 'atlases'), {recursive:true});
+fs.writeFileSync(path.join(assets, 'atlases/gui.json'), JSON.stringify({sources}, null, 2)+'\n');

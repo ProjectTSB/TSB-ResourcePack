@@ -1,0 +1,114 @@
+{
+  "sources": [
+    {
+      "type": "single",
+      "resource": "minecraft:gui/bossbar_empty",
+      "sprite": "minecraft:boss_bar/pink_background"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/bossbar_empty",
+      "sprite": "minecraft:boss_bar/pink_progress"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/bossbar_empty",
+      "sprite": "minecraft:boss_bar/blue_background"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/bossbar_empty",
+      "sprite": "minecraft:boss_bar/blue_progress"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/bossbar_empty",
+      "sprite": "minecraft:boss_bar/red_background"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/bossbar_empty",
+      "sprite": "minecraft:boss_bar/red_progress"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/bossbar_empty",
+      "sprite": "minecraft:boss_bar/green_background"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/bossbar_empty",
+      "sprite": "minecraft:boss_bar/green_progress"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/bossbar_empty",
+      "sprite": "minecraft:boss_bar/yellow_background"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/bossbar_empty",
+      "sprite": "minecraft:boss_bar/yellow_progress"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/bossbar_empty",
+      "sprite": "minecraft:boss_bar/purple_background"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/bossbar_empty",
+      "sprite": "minecraft:boss_bar/purple_progress"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/bossbar_empty",
+      "sprite": "minecraft:boss_bar/white_background"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/bossbar_empty",
+      "sprite": "minecraft:boss_bar/white_progress"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/bossbar_empty",
+      "sprite": "minecraft:boss_bar/notched_6_background"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/bossbar_empty",
+      "sprite": "minecraft:boss_bar/notched_6_progress"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/bossbar_empty",
+      "sprite": "minecraft:boss_bar/notched_10_background"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/bossbar_empty",
+      "sprite": "minecraft:boss_bar/notched_10_progress"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/bossbar_empty",
+      "sprite": "minecraft:boss_bar/notched_12_background"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/bossbar_empty",
+      "sprite": "minecraft:boss_bar/notched_12_progress"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/bossbar_empty",
+      "sprite": "minecraft:boss_bar/notched_20_background"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:gui/bossbar_empty",
+      "sprite": "minecraft:boss_bar/notched_20_progress"
+    }
+  ]
+}
