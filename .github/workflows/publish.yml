@@ -1,25 +1,41 @@
 name: publish
 
 on:
-  push:
-    branches:
-      - main
+  workflow_run:
+    workflows: [Generate effect icon.json]
+    types: [completed]
+  delete:
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: Branch to publish or remove if it no longer exists
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dev-resourcepacks
+  cancel-in-progress: false
+  queue: max
 
 jobs:
   publish:
-    name: publish
+    if: >-
+      (github.event_name == 'workflow_run' &&
+       github.event.workflow_run.event == 'push' &&
+       github.event.workflow_run.head_repository.full_name == github.repository) ||
+      (github.event_name == 'delete' && github.event.ref_type == 'branch') ||
+      github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v2
-
-      - run: |
-          zip -r resources.zip assets pack.mcmeta pack.png
-
-      - name: development-release
-        uses: "marvinpinto/action-automatic-releases@latest"
+      - uses: actions/checkout@v5
         with:
-          repo_token: "${{ secrets.GITHUB_TOKEN }}"
-          automatic_release_tag: "dev"
-          prerelease: true
-          files: "resources.zip"
+          ref: ${{ github.event.repository.default_branch }}
+
+      - uses: actions/github-script@v8
+        with:
+          script: |
+            const { publish } = require('./.github/scripts/publish.cjs');
+            await publish({ github, context, core });
