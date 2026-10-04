@@ -82,8 +82,8 @@ async function publish({ github, context, core }, archive = buildArchive) {
     return;
   }
 
-  const label = `${branch} (${sha})`;
-  if (existing?.label !== label || existing.state !== 'uploaded') {
+  const label = branch === defaultBranch ? '' : `${branch} (${sha})`;
+  if (branch === defaultBranch || existing?.label !== label || existing.state !== 'uploaded') {
     const data = await archive(sha);
     // ZIP 作成中の更新・削除を確認し、古い内容の公開を避ける
     const current = await head(branch);
@@ -101,7 +101,7 @@ async function publish({ github, context, core }, archive = buildArchive) {
       release = (await github.rest.repos.createRelease({
         ...repo, tag_name: RELEASE_TAG, target_commitish: mainSha,
         name: RELEASE_TAG, prerelease: true,
-        body: 'Development resource packs. Each asset label identifies its branch and commit.',
+        body: 'Development resource packs. resources.zip is the default branch; other asset labels identify their branch and commit.',
       })).data;
     }
     await remove();
@@ -116,7 +116,7 @@ async function publish({ github, context, core }, archive = buildArchive) {
     await github.rest.git.updateRef({ ...repo, ref: `tags/${RELEASE_TAG}`, sha, force: true });
     await github.rest.repos.updateRelease({
       ...repo, release_id: release.id,
-      body: 'Development resource packs. Each asset label identifies its branch and commit.',
+      body: 'Development resource packs. resources.zip is the default branch; other asset labels identify their branch and commit.',
     });
   }
 }
