@@ -58,6 +58,12 @@ CHECKOUT_PATH="$PWD" node .github/workflows/generate_effect_icon_json.cjs
 
 生成先は `assets/minecraft/font/effect/icon.json` と `assets/minecraft/font/effect/inline/icon.json` です。
 
+## 開発版のダウンロード
+
+[dev リリース](https://github.com/ProjectTSB/TSB-ResourcePack/releases/tag/dev) に、更新されたブランチのリソースパックを公開します。`resources.zip` はデフォルトブランチ用です。他のブランチは `resources-branch-` で始まる ZIP を使い、添付ファイルのラベルでブランチ名を確認できます。ブランチを削除すると、対応する ZIP も削除されます。
+
+公開の条件と再実行手順は [リソースパックの CI](docs/knowledge/README.md) を参照してください。
+
 <!-- Links -->
 
 [MC Resourcepack Generator]: https://github.com/ChenCMD/MC-Resourcepack-Generator
