@@ -1,9 +1,9 @@
-`use strict`;
-import * as fs from "fs"
-import path from "path"
+"use strict";
+const fs = require("node:fs")
+const path = require("node:path")
 
-const throwError: (message: string) => never = m => { throw new Error(m) }
-const env: { getOrDefault: (key: string, defaultValue: string) => string, getOrThrow: (key: string) => string } = {
+const throwError = m => { throw new Error(m) }
+const env = {
   getOrDefault: (key, defaultValue) => process.env[key] ?? defaultValue,
   getOrThrow: key => process.env[key] ?? throwError(`Missing environment key: ${key}`)
 }
@@ -15,7 +15,7 @@ const run = () => {
 
   const fontFiles = fs.readdirSync(fontDir)
 
-  const effectMappings = fontFiles.flatMap<[id: number, mappingChar: string, resourcePath: string, isBuff: boolean]>(fileName => {
+  const effectMappings = fontFiles.flatMap(fileName => {
     const parsed = path.parse(fileName)
     const [id, suffix] = parsed.name.split("_")
     if (suffix !== "buff" && suffix !== "debuff") return []
@@ -38,7 +38,7 @@ const run = () => {
     }
   }).sort((a, b) => a[0] - b[0])
 
-  const jsonPostProcess = (jsonString: string) => jsonString.replace(/\\\\/g, "\\")
+  const jsonPostProcess = jsonString => jsonString.replace(/\\\\/g, "\\")
 
   const iconJson = effectMappings.map(([, c, file, isBuff]) => ({ chars: [c], file, type: "bitmap", ascent: isBuff ? -17 : -31, height: 9 }))
   const iconJsonPath = path.join(checkoutPath, "assets", "minecraft", "font", "effect", "icon.json")

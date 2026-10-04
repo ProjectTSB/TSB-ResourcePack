@@ -46,6 +46,18 @@
 
 完成。
 
+## エフェクトアイコンの生成
+
+`Generate effect icon.json` ワークフローは、push 時に `assets/minecraft/textures/font/effect/` から通常表示用とインライン表示用のフォント JSON を生成します。生成処理は Node.js の標準モジュールだけで実行し、CI では Node.js 22 を使います。npm パッケージのインストールは不要です。
+
+ローカルでは、リポジトリのルートで次を実行します。
+
+```sh
+CHECKOUT_PATH="$PWD" node .github/workflows/generate_effect_icon_json.cjs
+```
+
+生成先は `assets/minecraft/font/effect/icon.json` と `assets/minecraft/font/effect/inline/icon.json` です。
+
 <!-- Links -->
 
 [MC Resourcepack Generator]: https://github.com/ChenCMD/MC-Resourcepack-Generator
