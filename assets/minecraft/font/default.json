@@ -3,6 +3,15 @@
         {
             "type": "space",
             "advances": {
+                "\uE300": 0,
+                "\uE301": 0,
+                "\uF300": 65536,
+                "\uF301": -65536
+            }
+        },
+        {
+            "type": "space",
+            "advances": {
                 "\uEEEE": 0,
                 "\uE000": 0,
                 "\uE001": 0,
