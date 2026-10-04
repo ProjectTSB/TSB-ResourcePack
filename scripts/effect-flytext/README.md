@@ -24,12 +24,20 @@ node TSB-ResourcePack/scripts/effect-flytext/generate-names.cjs .cache/bossbar-f
 
 生成先は `font/effect/flytext/name/` と `textures/font/effect_flytext/`。文字一覧・送り幅・画像メモリの計算値を `name-metrics.json` に保存する。入力したAssetの名前から `text`・`extra`・`with` 内の文字を収集する。名前以外の任意文字を自動で含める処理はない。
 
-共通字形359文字は各高さの `common` へまとめ、通常用とUnicode用からreferenceで共有する。異なる7文字だけを `default` と `uniform` に分ける。画像は元の白黒の画素を保ち、通常の太さで描く。bitmapの送り幅に合わせた負のspaceフォントも生成する。白・通常の太さの試作であり、unihex固有の影のずれ幅や文字送りまで完全に再現するものではない。
+共通字形359文字は各高さの `common` へまとめ、通常用とUnicode用からreferenceで共有する。異なる7文字だけを `default` と `uniform` に分ける。画像は元の白黒の画素を保ち、通常の太さで描く。bitmapの送り幅に合わせた負のspaceフォントも生成する。色・太字・下線に対応する。unihex固有の影のずれ幅や文字送りまで完全に再現するものではない。
 
 `minecraft:default` と `minecraft:uniform` には制御用space文字U+E300・E301・F300・F301を追加する。Unicode強制によるフォント切り替えを利用し、設定に合わない名前を右へ65536px退避してから戻す。名前全体の送り幅は両設定で0になる。65536pxへ届くGUI幅は対象外。シェーダーは変更しない。
 
-同じbitmap画像でも別のprovider定義では個別に読み込まれる。referenceで共有したproviderは重複して数えない。186段階の画像寸法から算出した追加の画像メモリは約67.6MiB。文字情報やGPUの描画用テクスチャ、既存アイコンはこの値に含まない。クライアントの総メモリと読み込み時間は別途確認する。
+同じbitmap画像でも別のprovider定義では個別に読み込まれる。referenceで共有したproviderは重複して数えない。186段階の画像寸法から算出した追加の画像メモリは約78.2MiB。文字情報やGPUの描画用テクスチャ、既存アイコンはこの値に含まない。クライアントの総メモリと読み込み時間は別途確認する。
 
 Unifontの字形はMojang配布の `unifont.zip` から抽出し、同梱のライセンスを画像と同じディレクトリの `UNIFONT-LICENSE.txt` に保存する。バニラ入力の取得元とSHA-1は本体の `scripts/fetch-font-assets.py` に固定している。
 
 生成後は `node TSB-ResourcePack/scripts/effect-flytext/check-names.cjs` で全収録文字と高さの送り幅、退避用space、共通字形の縦位置を検査できる。クライアントの描画結果を判定する検査ではない。
+
+### 名前の装飾
+
+太字はクライアントのbitmap太字を使い、1文字につき増える1pxを `space_bold` で戻す。文字画像は通常の太さと共有する。unihex本来の太字加算0.5pxとは異なる。
+
+下線は `default/underline/<位置>`・`uniform/underline/<位置>` を使う。太字では `underline_bold` を選ぶ。各文字に送り幅+1pxの線を割り当て、文字間と末尾のU+E302で2pxずつ戻す。全体を左へ1px寄せると、本文の左端-1pxから右端まで連続した線になる。通常のunderlinedはascentに追従しないため使わない。線の上端は名前の上端から8px下。
+
+下線用画像を含むメモリ見積もりと、全収録文字の通常・太字・下線の送り幅は生成・検査スクリプトで更新する。名前の色や装飾継承は本体側の責務とする。

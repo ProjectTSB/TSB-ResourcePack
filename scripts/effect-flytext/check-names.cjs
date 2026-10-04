@@ -28,6 +28,16 @@ assert(data.characters.length>0);assert.equal(data.offsets.length,186);
 for(const y of data.offsets)for(const mode of ['default','uniform']){
  const gs=glyphs(`effect/flytext/name/${mode}/${y}`),back=glyphs(`effect/flytext/name/${mode}/space`);
  for(const c of data.characters){assert(gs.has(c));assert.equal(gs.get(c).advance+back.get(c).advance,0);}
+ for(const bold of [false,true]){
+  const backStyle=glyphs(`effect/flytext/name/${mode}/space${bold?'_bold':''}`);
+  const lines=glyphs(`effect/flytext/name/${mode}/underline${bold?'_bold':''}/${y}`);
+  for(const c of data.characters){
+   const width=gs.get(c).advance+Number(bold);
+   assert.equal(width+backStyle.get(c).advance,0);
+   assert.equal(lines.get(c).advance+lines.get('\ue302').advance,width);
+   assert.equal(lines.get(c).ascent,-1-y);
+  }
+ }
  assert.equal(gs.get('耐').ascent,7-y);
 }
 for(const mode of ['default','uniform']){

@@ -120,6 +120,31 @@ for (const y of offsets) {
   }
 }
 for (const mode of ['default','uniform']) write(`${mode}/space`,{providers:[{type:'space',advances:Object.fromEntries(Object.entries(advances[mode]).map(([c,w])=>[c,-w]))}]});
+// Underlines use thin strips; the text bitmaps remain shared for every style.
+for (const mode of ['default','uniform']) {
+  write(`${mode}/space_bold`,{providers:[{type:'space',advances:Object.fromEntries(Object.entries(advances[mode]).map(([c,w])=>[c,-w-1]))}]});
+  for (const bold of [false,true]) {
+    const kind=`${mode}/underline${bold?'_bold':''}`;
+    fs.mkdirSync(path.join(out,kind),{recursive:true});
+    const groups=new Map();
+    for(const c of sorted){
+      const width=advances[mode][c]+Number(bold)+1;
+      if(!groups.has(width))groups.set(width,[]);
+      groups.get(width).push(c);
+    }
+    const providers=[];
+    for(const [width,cs]of groups){
+      const columns=Math.min(16,cs.length),rows=Math.ceil(cs.length/columns);
+      const png=new PNG({width:width*columns,height:rows});png.data.fill(255);
+      const chars=Array.from({length:rows},(_,r)=>Array.from({length:columns},(_,c)=>cs[r*columns+c]??'\0').join(''));
+      const file=`${mode}_underline${bold?'_bold':''}_${width}.png`;
+      fs.writeFileSync(path.join(textures,file),PNG.sync.write(png));bytesPerOffset+=png.data.length;
+      providers.push({type:'bitmap',file:`minecraft:font/effect_flytext/${file}`,height:1,ascent:-1,chars});
+    }
+    for(const y of offsets)write(`${kind}/${y}`,{providers:[{type:'space',advances:{'\ue302':-2}},...providers.map(p=>({...p,ascent:p.ascent-y}))]});
+    for(const file of fs.readdirSync(path.join(out,kind)))if(/^\d+\.json$/.test(file)&&!offsets.includes(parseInt(file)))fs.unlinkSync(path.join(out,kind,file));
+  }
+}
 // Setting-dependent spaces move the inactive variant outside the GUI and back.
 for (const mode of ['default','uniform']) {
   const p=path.join(assets,'font',mode+'.json'),data=json(p);
