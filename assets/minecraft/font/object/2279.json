@@ -8,6 +8,15 @@
             "chars": [
                 "0"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/object/2279/1.png",
+            "ascent": 29,
+            "height": 64,
+            "chars": [
+                "1"
+            ]
         }
     ]
 }
