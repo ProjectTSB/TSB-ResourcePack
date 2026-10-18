@@ -2,7 +2,7 @@
     "credit": "Made with Blockbench",
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/artifact/carrot_on_a_stick/192"
+        "layer0": "item/artifact/ender_eye/192"
     },
     "display": {
         "thirdperson_righthand": {
