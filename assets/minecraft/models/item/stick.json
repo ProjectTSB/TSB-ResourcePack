@@ -1596,6 +1596,18 @@
         },
         {
             "predicate": {
+                "custom_model_data": 1655
+            },
+            "model": "item/artifact/stick/1655"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1656
+            },
+            "model": "item/stick"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 20013
             },
             "model": "item/mob/stick/20013"
@@ -4098,6 +4110,30 @@
         },
         {
             "predicate": {
+                "custom_model_data": 20659
+            },
+            "model": "item/other/stick/20659"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20660
+            },
+            "model": "item/other/stick/20660"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20661
+            },
+            "model": "item/other/stick/20661"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20662
+            },
+            "model": "item/stick"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 20663
             },
             "model": "item/other/stick/20663"
@@ -4105,6 +4141,30 @@
         {
             "predicate": {
                 "custom_model_data": 20664
+            },
+            "model": "item/stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20666
+            },
+            "model": "item/other/stick/20666"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20667
+            },
+            "model": "item/other/stick/20667"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20668
+            },
+            "model": "item/other/stick/20668"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20669
             },
             "model": "item/stick"
         },
