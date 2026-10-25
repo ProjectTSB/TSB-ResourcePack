@@ -93,7 +93,18 @@ test('main keeps resources.zip and advances dev without recreating the release',
   assert.deepEqual(f.state.calls.map((call) => call.method), ['archive', 'deleteReleaseAsset', 'uploadReleaseAsset', 'updateRef', 'updateRelease']);
   assert.equal(f.state.calls[1].asset_id, 1);
   assert.equal(f.state.calls[2].name, 'resources.zip');
+  assert.equal(f.state.calls[2].label, '');
   assert.equal(f.state.calls[3].ref, 'tags/dev');
+});
+
+test('main republishes an existing unlabeled ZIP on a new push', async () => {
+  const f = fixture('main');
+  f.state.assets[0].label = '';
+  f.state.assets[0].state = 'uploaded';
+  await f.run();
+  assert.equal(f.state.calls[0].method, 'archive');
+  assert.equal(f.state.calls[2].name, 'resources.zip');
+  assert.equal(f.state.calls[2].label, '');
 });
 
 for (const eventName of ['delete', 'workflow_run', 'workflow_dispatch']) {

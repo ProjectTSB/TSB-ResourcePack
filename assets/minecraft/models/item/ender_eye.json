@@ -18,6 +18,24 @@
         },
         {
             "predicate": {
+                "custom_model_data": 190
+            },
+            "model": "item/artifact/ender_eye/190"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 191
+            },
+            "model": "item/artifact/ender_eye/191"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 192
+            },
+            "model": "item/artifact/ender_eye/192"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 224
             },
             "model": "item/artifact/ender_eye/224"
@@ -241,6 +259,54 @@
         {
             "predicate": {
                 "custom_model_data": 1621
+            },
+            "model": "item/ender_eye"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1637
+            },
+            "model": "item/artifact/ender_eye/1637"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1638
+            },
+            "model": "item/ender_eye"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1651
+            },
+            "model": "item/artifact/ender_eye/1651"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1652
+            },
+            "model": "item/ender_eye"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1675
+            },
+            "model": "item/artifact/ender_eye/1675"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1676
+            },
+            "model": "item/ender_eye"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1680
+            },
+            "model": "item/artifact/ender_eye/1680"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1681
             },
             "model": "item/ender_eye"
         }
