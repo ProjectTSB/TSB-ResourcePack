@@ -1,0 +1,64 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "item/other/stick/20628"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 3, 16],
+			"faces": {
+				"north": {"uv": [8, 0, 16, 1.5], "texture": "#1"},
+				"east": {"uv": [8, 1.5, 16, 3], "texture": "#1"},
+				"south": {"uv": [8, 3, 16, 4.5], "texture": "#1"},
+				"west": {"uv": [8, 4.5, 16, 6], "texture": "#1"},
+				"up": {"uv": [8, 8, 0, 0], "texture": "#1"},
+				"down": {"uv": [8, 8, 0, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "fin",
+			"from": [-5, 0.2, 2],
+			"to": [-3, 0.2, 9],
+			"rotation": {"angle": -45, "axis": "y", "origin": [-3, 0.2, 9]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 0], "texture": "#1"},
+				"east": {"uv": [0, 0, 3.5, 0], "texture": "#1"},
+				"south": {"uv": [0, 0, 1, 0], "texture": "#1"},
+				"west": {"uv": [0, 0, 3.5, 0], "texture": "#1"},
+				"up": {"uv": [9, 9.5, 8, 6], "texture": "#1"},
+				"down": {"uv": [10, 6, 9, 9.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "fin",
+			"from": [14, 0.2, 2],
+			"to": [21, 0.2, 4],
+			"rotation": {"angle": -45, "axis": "y", "origin": [14, 0.2, 4]},
+			"faces": {
+				"north": {"uv": [0, 0, 3.5, 0], "texture": "#1"},
+				"east": {"uv": [0, 0, 1, 0], "texture": "#1"},
+				"south": {"uv": [0, 0, 3.5, 0], "texture": "#1"},
+				"west": {"uv": [0, 0, 1, 0], "texture": "#1"},
+				"up": {"uv": [11.5, 10.5, 8, 9.5], "texture": "#1"},
+				"down": {"uv": [13.5, 6, 10, 7], "texture": "#1"}
+			}
+		},
+		{
+			"name": "beard",
+			"from": [0, 1, -4],
+			"to": [16, 1, 0],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 1, -2]},
+			"faces": {
+				"north": {"uv": [0, 1, 8, 1], "texture": "#missing"},
+				"east": {"uv": [0, 1, 4, 1], "texture": "#missing"},
+				"south": {"uv": [0, 1, 8, 1], "texture": "#missing"},
+				"west": {"uv": [0, 1, 4, 1], "texture": "#missing"},
+				"up": {"uv": [16, 16, 13.5, 6], "rotation": 270, "texture": "#1"},
+				"down": {"uv": [16, 6, 13.5, 16], "rotation": 90, "texture": "#1"}
+			}
+		}
+	]
+}
